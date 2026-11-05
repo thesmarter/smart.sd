@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+10:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+11:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T8d6,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025#webpage","url":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025","name":"الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025","description":"تقيّم الثقة الصفرية طلبات الوصول بدل افتراض أمان الشبكة. تعرّف على دور الهوية وفحص الأجهزة والصلاحيات المحدودة في خطة أمن المؤسسة.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025","item":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025"}]},{"@id":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025#entity","inLanguage":"ar","@type":"BlogPosting","headline":"الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025","description":"تقيّم الثقة الصفرية طلبات الوصول بدل افتراض أمان الشبكة. تعرّف على دور الهوية وفحص الأجهزة والصلاحيات المحدودة في خطة أمن المؤسسة.","datePublished":"2025-12-29","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025","image":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025-optimized.webp"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/cybersecurity-zero-trust-2025",{"children":["$","span",null,{"aria-current":"page","children":"الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"تقنية"}],["$","time",null,{"dateTime":"2025-12-29","children":"29 ديسمبر 2025"}]]}],["$","h1",null,{"children":"الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"تقيّم الثقة الصفرية طلبات الوصول بدل افتراض أمان الشبكة. تعرّف على دور الهوية وفحص الأجهزة والصلاحيات المحدودة في خطة أمن المؤسسة."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/cybersecurity-zero-trust-2025-optimized.webp","alt":"الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],"$L5",null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+d:T14c3,<h2>مشهد الأمان الجديد</h2>
+<p>في عام 2025، يواجه الأمن السيبراني تحدياً غير مسبوق: <strong>المهاجمون الآن يمتلكون نفس أدوات الذكاء الاصطناعي التي يمتلكها المدافعون</strong>. ارتفعت الهجمات المدفوعة بالذكاء الاصطناعي بنسبة <strong>427% مقارنة بالعام السابق</strong>.</p>
+<p>أصبح الأمان التقليدي القائم على المحيط—فكرة أن كل شيء داخل الشبكة موثوق—عفا عليه الزمن. الاستجابة؟ تحول جوهري إلى <strong>هندسة الثقة الصفرية</strong> المدعومة بـ<strong>الذكاء الاصطناعي</strong>.</p>
+<h3>فهم الثقة الصفرية</h3>
+<p>تعمل الثقة الصفرية على مبدأ بسيط لكنه قوي: <strong>"لا تثق أبداً، تحقق دائماً."</strong></p>
+<ul>
+<li><strong>تفترض الاختراق:</strong> تعامل كل طلب وصول على أنه ضار محتملاً</li>
+<li><strong>تتحقق صراحة:</strong> تصادق على كل مستخدم وجهاز واتصال</li>
+<li><strong>تفرض الحد الأدنى من الامتيازات:</strong> تمنح الحد الأدنى من الوصول المطلوب</li>
+<li><strong>تفتش باستمرار:</strong> تراقب جميع الأنشطة في الوقت الفعلي</li>
+</ul>
+<p>بحلول عام 2025، نفذت <strong>أكثر من 60% من المؤسسات</strong> شكلاً من أشكال إطار الثقة الصفرية.</p>
+<h3>الهجمات المدعومة بالذكاء الاصطناعي: الواقع الجديد</h3>
+<p><strong>ما الذي يجعل هجمات الذكاء الاصطناعي خطيرة جداً؟</strong></p>
+<ol>
+<li>
+<p><strong>التعقيد القابل للتوسع</strong></p>
+<ul>
+<li>رسائل بريد التصيد بقواعد نحوية مثالية</li>
+</ul>
+</li>
+<li>
+<p><strong>البرمجيات الخبيثة التكيفية</strong></p>
+<ul>
+<li>برمجيات خبيثة تتهرب من الكشف بتعلم أنماط الدفاع</li>
+</ul>
+</li>
+<li>
+<p><strong>انتحال الهوية بالتزييف العميق</strong></p>
+<ul>
+<li>استنساخ الصوت لتفويض المعاملات الاحتيالية</li>
+</ul>
+</li>
+<li>
+<p><strong>اكتشاف الثغرات الآلي</strong></p>
+<ul>
+<li>الذكاء الاصطناعي يفحص ثغرات اليوم الصفر</li>
+</ul>
+</li>
+</ol>
+<h3>كيف يُمكّن الذكاء الاصطناعي الدفاع</h3>
+<p><strong>الكشف عن التهديدات في الوقت الفعلي</strong></p>
+<ul>
+<li>تحليل مليارات الأحداث في الثانية</li>
+<li>تحديد الشذوذ في حركة مرور الشبكة</li>
+</ul>
+<p><strong>الاستجابة الآلية للحوادث</strong></p>
+<ul>
+<li>الاستجابة للتهديدات في ميلي ثانية</li>
+</ul>
+<p><strong>الأمان التنبؤي</strong></p>
+<ul>
+<li>توقع الهجمات قبل حدوثها</li>
+</ul>
+<p><strong>المصادقة المستمرة</strong></p>
+<ul>
+<li>تحليل أنماط السلوك في الوقت الفعلي</li>
+</ul>
+<h3>استراتيجيات الحماية الأساسية لعام 2025</h3>
+<ol>
+<li><strong>تنفيذ هندسة الثقة الصفرية</strong></li>
+<li><strong>نشر أدوات الأمان المدعومة بالذكاء الاصطناعي</strong></li>
+<li><strong>تعزيز أمان الهوية</strong></li>
+<li><strong>التدريب على الوعي الأمني</strong></li>
+<li><strong>إدارة وضع أمان السحابة</strong></li>
+<li><strong>تخطيط الاستجابة للحوادث</strong></li>
+</ol>
+<h3>سمارت تيم: شريكك الأمني</h3>
+<p>في <strong>سمارت تيم</strong>، نبني حلول أمنية شاملة تحمي المؤسسات الحديثة ضد التهديدات المتطورة.</p>
+<p><strong>خدماتنا الأمنية:</strong></p>
+<p><strong>تنفيذ الثقة الصفرية</strong>
+نصمم وننشر معماريات الثقة الصفرية المصممة خصيصاً لمنظمتك.</p>
+<p><strong>الكشف عن التهديدات المدعوم بالذكاء الاصطناعي</strong>
+نشر أنظمة أمان متقدمة تتعلم بيئتك وتكتشف الشذوذ في الوقت الفعلي.</p>
+<p><strong>تقييم الأمان والتدقيق</strong>
+تقييم شامل لوضعك الأمني، بما في ذلك اختبار الاختراق وتقييم الثغرات.</p>
+<p><strong>تخطيط الاستجابة للحوادث</strong>
+تطوير واختبار إجراءات الاستجابة للحوادث الخاصة بالتهديدات الحديثة.</p>
+<p><strong>برامج التوعية الأمنية</strong>
+برامج تدريب مخصصة تُعد فريقك للتهديدات الحديثة.</p>
+<blockquote>
+<p><strong>هل أنت مستعد لتحديث أمانك؟</strong>
+<a href="/services?s=fintech-payment">اكتشف خدماتنا الأمنية</a> | <a href="/contact">اطلب تقييماً أمنياً</a></p>
+</blockquote>5:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$d"}}]]}]
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","mobile-security-vs-freelancers-comparison",{"children":["$","$L3",null,{"href":"/blog/mobile-security-vs-freelancers-comparison","prefetch":false,"children":"أمن تطبيقات الجوال: متطلبات اختيار فريق التطوير"}]}],["$","li","quantum-safe-cryptography",{"children":["$","$L3",null,{"href":"/blog/quantum-safe-cryptography","prefetch":false,"children":"التشفير المقاوم للكم: الحصر وتخطيط الانتقال"}]}],["$","li","flutter-mvp-development-2026",{"children":["$","$L3",null,{"href":"/blog/flutter-mvp-development-2026","prefetch":false,"children":"تخطيط الإصدار الأول من تطبيق الجوال باستخدام Flutter"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+7:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$L10",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>سمارت تيم | Smart Team</title>
+    <link>https://www.smart.sd</link>
+    <atom:link href="https://www.smart.sd/feed.xml" rel="self" type="application/rss+xml" />
+    <description>مدونة سمارت تيم: الذكاء الاصطناعي، الأتمتة، ERP، التطبيقات والويب للشركات في السودان والسعودية والإمارات.</description>
+    <language>ar</language>
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>تخطيط الإصدار الأول من تطبيق الجوال باستخدام Flutter</title>
+      <link>https://www.smart.sd/blog/flutter-mvp-development-2026</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/flutter-mvp-development-2026</guid>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+      <description>يمكن لـFlutter مشاركة كود الواجهات بين iOS وAndroid. راجع وظائف الأجهزة والاختبار والصيانة قبل اختياره لإصدار أول من المنتج.</description>
+      <category>Development</category>
+    </item>
+    <item>
+      <title>لوحات البيانات المخصصة وأدوات تقارير Google</title>
+      <link>https://www.smart.sd/blog/smart-dashboards-vs-data-studio-comparison</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/smart-dashboards-vs-data-studio-comparison</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+      <description>قارن لوحات مخصصة وأدوات تقارير Google وفق مصادر البيانات وتحديثها والصلاحيات وإجراءات المستخدم. حدد القرار الذي يساعد عليه كل تقرير.</description>
+      <category>Data</category>
+    </item>
+    <item>
+      <title>أمن تطبيقات الجوال: متطلبات اختيار فريق التطوير</title>
+      <link>https://www.smart.sd/blog/mobile-security-vs-freelancers-comparison</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/mobile-security-vs-freelancers-comparison</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+      <description>يعتمد أمن التطبيق على المعمارية والصلاحيات والاختبار والصيانة، وليس شكل توظيف المطور. استخدم متطلبات أمن واضحة عند اختيار فريق التنفيذ.</description>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>وكلاء الذكاء الاصطناعي: القدرات والتقييم وحدود التشغيل</title>
+      <link>https://www.smart.sd/blog/future-of-ai-agents-2026</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/future-of-ai-agents-2026</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+      <description>تستخدم الوكلاء أدوات ضمن سير عمل محدد. راجع قدراتها واحتياجات التقييم وحدود الموافقة البشرية، دون افتراض موثوقية مستقلة بالكامل.</description>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>امتثال البرمجيات المالية في السعودية والإمارات</title>
+      <link>https://www.smart.sd/blog/fintech-compliance-gcc-vs-foreign</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/fintech-compliance-gcc-vs-foreign</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+      <description>تحتاج البرمجيات المالية إلى مراجعة الجهة المشغلة والنشاط ومتطلبات السوق. بلد تطوير المنصة لا يثبت الامتثال ولا يستبدل الموافقات المطلوبة.</description>
+      <category>Fintech</category>
+    </item>
+    <item>
+      <title>البرمجيات المخصصة والجاهزة: كيف تقيّم الملاءمة؟</title>
+      <link>https://www.smart.sd/blog/custom-vs-generic-software-strategy</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/custom-vs-generic-software-strategy</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+      <description>اختر البرمجيات المخصصة أو الجاهزة وفق ملاءمة الإجراءات والتكلفة الكلية والتكاملات ومسؤولية الصيانة. تساعد تجربة محدودة على اختبار القرار.</description>
+      <category>Strategy</category>
+    </item>
+    <item>
+      <title>وكلاء الذكاء الاصطناعي للأعمال: ما بعد الأتمتة الأساسية</title>
+      <link>https://www.smart.sd/blog/ai-agents-business-guide</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/ai-agents-business-guide</guid>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+      <description>يجمع وكيل الذكاء الاصطناعي نموذجًا وأدوات للبحث وتنفيذ مهام محددة. تعرّف على الاستخدامات المناسبة وضبط الصلاحيات وتقييم تجربة داخل الشركة.</description>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>التجارة الإلكترونية المخصصة وShopify: اختيار المنصة</title>
+      <link>https://www.smart.sd/blog/smart-ecommerce-vs-shopify-comparison</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/smart-ecommerce-vs-shopify-comparison</guid>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+      <description>تختلف التجارة المخصصة وShopify في الإعداد والتحكم والصيانة. قارن احتياجات الشراء والتكاملات والتكلفة التشغيلية الكلية قبل اختيار المنصة.</description>
+      <category>Development</category>
+    </item>
+    <item>
+      <title>نقاط البيع المخصصة وSquare: متطلبات البيع</title>
+      <link>https://www.smart.sd/blog/smart-pos-vs-square-comparison</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/smart-pos-vs-square-comparison</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
+      <description>قارن نقاط بيع مخصصة وSquare وفق توافر الخدمة والأجهزة وطرق الدفع والعمل عند انقطاع الاتصال. اختبر البيع والتسوية قبل اعتماد النظام.</description>
+      <category>Retail</category>
+    </item>
+    <item>
+      <title>برمجيات الدفع المخصصة والتكامل مع Stripe</title>
+      <link>https://www.smart.sd/blog/smart-payment-vs-stripe-comparison</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/smart-payment-vs-stripe-comparison</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
+      <description>يمكن لبرمجيات الدفع المخصصة الربط بمزود مثل Stripe حيث تتوافر الخدمة. راجع أهلية التاجر وطرق الدفع والرسوم والتسوية قبل اختيار التكامل.</description>
+      <category>Fintech</category>
+    </item>
+    <item>
+      <title>واجهات الدفع المخصصة والتكامل مع HyperPay</title>
+      <link>https://www.smart.sd/blog/smart-payment-vs-hyperpay-comparison</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/smart-payment-vs-hyperpay-comparison</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
+      <description>تحتاج واجهة الدفع المخصصة إلى مزود دفع. راجع تكامل HyperPay واعتماد التاجر والطرق المدعومة والتسوية وفق السوق الذي تعمل فيه.</description>
+      <category>Fintech</category>
+    </item>
+    <item>
+      <title>ERP مخصص وSAP Business One: خيارات التنفيذ</title>
+      <link>https://www.smart.sd/blog/smart-erp-vs-sap-comparison</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/smart-erp-vs-sap-comparison</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
+      <description>قارن ERP مخصصًا وSAP Business One وفق نطاق عمل محدد. راجع المحاسبة والمخزون والتقارير والتوطين وتكاليف التنفيذ قبل الاختيار.</description>
+      <category>Enterprise</category>
+    </item>
+    <item>
+      <title>ERP التصنيع وMicrosoft Dynamics: تقييم ملاءمة النظام</title>
+      <link>https://www.smart.sd/blog/smart-erp-manufacturing-vs-dynamics-comparison</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/smart-erp-manufacturing-vs-dynamics-comparison</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
+      <description>قارن ERP تصنيع مخصصًا وMicrosoft Dynamics وفق الإنتاج والمخزون والتتبع والتكاملات. اختبر الملاءمة باستخدام أوامر إنتاج وعينات فعلية.</description>
+      <category>Enterprise</category>
+    </item>
+    <item>
+      <title>Headless والمنصات الموحّدة: خيارات المعمارية وتكاليفها</title>
+      <link>https://www.smart.sd/blog/headless-vs-monolithic-comparison</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/headless-vs-monolithic-comparison</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
+      <description>تفصل بنية Headless خدمات المحتوى أو التجارة عن الواجهة. قارن إدارة المحتوى والتكاملات وتعقيد التشغيل مع المنصة التي تجمع هذه الأجزاء.</description>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>ERP مخصص وOdoo: الوحدات والتعديلات والدعم</title>
+      <link>https://www.smart.sd/blog/smart-erp-vs-odoo-comparison</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/smart-erp-vs-odoo-comparison</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+      <description>قارن ERP مخصصًا وOdoo وفق الوحدات والتعديلات والاستضافة والدعم. أدرج نقل البيانات والصيانة المستمرة عند تقدير تكلفة التنفيذ.</description>
+      <category>Enterprise</category>
+    </item>
+    <item>
+      <title>CRM مخصص وSalesforce: مقارنة الإجراءات والتكلفة</title>
+      <link>https://www.smart.sd/blog/smart-crm-vs-salesforce-comparison</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/smart-crm-vs-salesforce-comparison</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+      <description>قارن CRM مخصصًا وSalesforce وفق إجراءات المبيعات والتكاملات واستخدام الفريق والتكلفة الكلية. اختبر المهام المطلوبة بدل افتراض ملاءمة خيار للجميع.</description>
+      <category>Enterprise</category>
+    </item>
+    <item>
+      <title>Next.js وWordPress: احتياجات التطوير والنشر</title>
+      <link>https://www.smart.sd/blog/nextjs-vs-wordpress-comparison</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/nextjs-vs-wordpress-comparison</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+      <description>يلبي Next.js وWordPress احتياجات مختلفة للتطوير والنشر. قارن تحرير المحتوى والتخصيص والاستضافة والصيانة قبل اختيار التقنية.</description>
+      <category>Development</category>
+    </item>
+    <item>
+      <title>n8n وZapier: الاستضافة والتكاملات والتكلفة</title>
+      <link>https://www.smart.sd/blog/n8n-vs-zapier-comparison</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/n8n-vs-zapier-comparison</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+      <description>قارن n8n وZapier وفق الموصلات والاستضافة والترخيص وحجم المهام والصيانة. تبقى للاستضافة الذاتية تكاليف بنية تحتية ومسؤوليات تشغيل.</description>
+      <category>Automation</category>
+    </item>
+    <item>
+      <title>Flutter والتطوير الأصلي: اختيار طريقة بناء التطبيق</title>
+      <link>https://www.smart.sd/blog/flutter-vs-native-comparison</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/flutter-vs-native-comparison</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+      <description>يشارك Flutter قدرًا من كود التطبيق، وقد يناسب التطوير الأصلي احتياجات خاصة بالمنصة. قارن وظائف الأجهزة وقياسات الأداء ونطاق الصيانة.</description>
+      <category>Mobile</category>
+    </item>
+    <item>
+      <title>وكلاء الذكاء الاصطناعي والشات بوت: المهام والأدوات والتحكم</title>
+      <link>https://www.smart.sd/blog/ai-agents-vs-chatbots-comparison</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/ai-agents-vs-chatbots-comparison</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+      <description>يعالج الشات بوت المحادثة، ويمكن للوكيل استخدام أدوات لتنفيذ مهام. قارن تعقيد المهمة والصلاحيات والتقييم وتكلفة التشغيل قبل الاختيار.</description>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>صعود المدفوعات الرقمية في السودان والإمارات: قصة سوقين</title>
+      <link>https://www.smart.sd/blog/digital-payments-sudan-uae</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/digital-payments-sudan-uae</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+      <description>تختلف ظروف مزودي الدفع والتشغيل بين السودان والإمارات. راجع توافر الخدمة والتسوية والاتصال والمتطلبات التنظيمية عند تخطيط التكامل.</description>
+      <category>Fintech</category>
+    </item>
+    <item>
+      <title>فهم شروط الصفقات الاستثمارية: دليل للمؤسسين السودانيين</title>
+      <link>https://www.smart.sd/blog/startup-deal-terms-guide</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/startup-deal-terms-guide</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+      <description>تحدد اتفاقية تمويل الشركة الناشئة الملكية والتحويل وحقوق المستثمر. تعرّف على المصطلحات والأسئلة التي يحتاج المؤسسون إلى مراجعتها مع مستشار قانوني.</description>
+      <category>Enterprise</category>
+    </item>
+    <item>
+      <title>رأس المال الجريء في السودان 2026: المشهد، التحديات وفرص المستقبل</title>
+      <link>https://www.smart.sd/blog/venture-capital-sudan-2026</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/venture-capital-sudan-2026</guid>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+      <description>يتطلب تمويل شركة سودانية ناشئة مراجعة أدلة المنتج وظروف التشغيل وشروط المستثمر. يوضح المقال أسئلة الفحص وتجهيز المعلومات للمناقشة.</description>
+      <category>Enterprise</category>
+    </item>
+    <item>
+      <title>الذكاء الاصطناعي المادي: عندما يلتقي الذكاء بالعالم الحقيقي</title>
+      <link>https://www.smart.sd/blog/physical-ai-robotics-2026</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/physical-ai-robotics-2026</guid>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 GMT</pubDate>
+      <description>يربط الذكاء الاصطناعي المادي النماذج بالمستشعرات وأدوات الحركة. راجع حدود البيئة وفحوص الأمان والإشراف عند تقييم الروبوتات أو أتمتة الأجهزة.</description>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>التكنولوجيا الخضراء 2026: الاستدامة في العصر الرقمي</title>
+      <link>https://www.smart.sd/blog/green-tech-sustainability-2026</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/green-tech-sustainability-2026</guid>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+      <description>ترتبط استدامة البرمجيات باستخدام البنية التحتية ونقل البيانات وأحمال الأجهزة. قِس الحالة الحالية قبل اختيار تغييرات تهدف إلى تقليل استهلاك الطاقة.</description>
+      <category>Future</category>
+    </item>
+    <item>
+      <title>بناء وكلاء LangChain: الأدوات والتقييم والتشغيل</title>
+      <link>https://www.smart.sd/blog/building-ai-agents-langchain</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/building-ai-agents-langchain</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+      <description>يجمع LangChain النماذج والأدوات والبرمجيات الوسيطة لبناء الوكلاء. تعرّف على تحديد المهمة وضبط الوصول واختبار النتائج وتجهيز التشغيل.</description>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>6G وIMT-2030: الأبحاث والمعايير وحالات الاستخدام</title>
+      <link>https://www.smart.sd/blog/6g-connectivity-revolution-2026</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/6g-connectivity-revolution-2026</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+      <description>تندرج أبحاث 6G ضمن إطار IMT-2030. تعرّف على الاستخدامات المقترحة ومراحل وضع المعايير والفرق بين أهداف البحث والخدمات المتاحة فعليًا.</description>
+      <category>Mobile</category>
+    </item>
+    <item>
+      <title>Next.js 15 و React 19: ميزات ثورية لتطوير الويب الحديث</title>
+      <link>https://www.smart.sd/blog/nextjs-15-react-19-features</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/nextjs-15-react-19-features</guid>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+      <description>راجع تغييرات Next.js 15 وReact 19، ومنها واجهات الطلب غير المتزامنة والتخزين المؤقت. ارجع إلى توثيق الإصدار المستخدم عند التخطيط للترقية.</description>
+      <category>Development</category>
+    </item>
+    <item>
+      <title>أداء WebAssembly: اختيار الأحمال وقياسها</title>
+      <link>https://www.smart.sd/blog/webassembly-performance-2025</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/webassembly-performance-2025</guid>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+      <description>يمكن لـWebAssembly دعم أعمال حسابية مكثفة في المتصفح. قِس التحميل ونقل البيانات والتنفيذ على الأجهزة المستهدفة قبل اختياره بدل JavaScript.</description>
+      <category>Development</category>
+    </item>
+    <item>
+      <title>الذكاء الاصطناعي على الحافة: مستقبل إنترنت الأشياء الذكي في 2025</title>
+      <link>https://www.smart.sd/blog/edge-ai-iot-2025</link>
+      <guid isPermaLink="true">https://www.smart.sd/blog/edge-ai-iot-2025</guid>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+      <description>يعالج الذكاء الاصطناعي على الحافة البيانات قرب الجهاز. راجع زمن الاستجابة والاتصال وقيود العتاد وتحديث النماذج وإدارة البيانات قبل التنفيذ.</description>
+      <category>AI</category>
+    </item>
+  </channel>
+</rss>

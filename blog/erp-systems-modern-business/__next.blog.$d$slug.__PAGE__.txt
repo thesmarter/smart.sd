@@ -1,0 +1,88 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+d:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+f:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+10:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T80f,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/erp-systems-modern-business#webpage","url":"https://www.smart.sd/blog/erp-systems-modern-business","name":"أنظمة ERP: العمود الفقري لعمليات الأعمال الحديثة","description":"يربط ERP سجلات المحاسبة والمخزون والمبيعات وعمليات أخرى. تعرّف على اختيار الوحدات وتجهيز نقل البيانات واختبار الإجراءات قبل التشغيل.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/erp-systems-modern-business#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/erp-systems-modern-business#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/erp-systems-modern-business#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"أنظمة ERP: العمود الفقري لعمليات الأعمال الحديثة","item":"https://www.smart.sd/blog/erp-systems-modern-business"}]},{"@id":"https://www.smart.sd/blog/erp-systems-modern-business#entity","inLanguage":"ar","@type":"BlogPosting","headline":"أنظمة ERP: العمود الفقري لعمليات الأعمال الحديثة","description":"يربط ERP سجلات المحاسبة والمخزون والمبيعات وعمليات أخرى. تعرّف على اختيار الوحدات وتجهيز نقل البيانات واختبار الإجراءات قبل التشغيل.","datePublished":"2024-12-10","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/erp-systems-modern-business","image":"https://www.smart.sd/blog/erp-systems-optimized.webp"}]}5:Ta97,<h2>ما هو نظام ERP؟</h2>
+<p>تخطيط موارد المؤسسات (ERP) هو برنامج متكامل يدير جميع عمليات الأعمال الأساسية في الوقت الفعلي. من المالية والموارد البشرية إلى المخزون والمبيعات، يوفر ERP مصدرًا واحدًا للحقيقة لمؤسستك بأكملها.</p>
+<h3>وحدات ERP الأساسية</h3>
+<p><strong>1. الإدارة المالية</strong></p>
+<ul>
+<li>دفتر الأستاذ العام والمحاسبة</li>
+<li>الذمم الدائنة/المدينة</li>
+<li>الميزانية والتنبؤ</li>
+<li>التقارير المالية والامتثال</li>
+</ul>
+<p><strong>2. الموارد البشرية</strong></p>
+<ul>
+<li>سجلات الموظفين والرواتب</li>
+<li>التوظيف والتأهيل</li>
+<li>إدارة الأداء</li>
+<li>إدارة المزايا</li>
+</ul>
+<p><strong>3. إدارة سلسلة التوريد</strong></p>
+<ul>
+<li>تتبع المخزون</li>
+<li>المشتريات والشراء</li>
+<li>إدارة المستودعات</li>
+<li>إدارة علاقات الموردين</li>
+</ul>
+<p><strong>4. المبيعات وإدارة علاقات العملاء</strong></p>
+<ul>
+<li>قاعدة بيانات العملاء</li>
+<li>إدارة الطلبات</li>
+<li>خط أنابيب المبيعات</li>
+<li>أتمتة التسويق</li>
+</ul>
+<h3>فوائد ERP الحديث</h3>
+<table>
+<thead>
+<tr>
+<th>الفائدة</th>
+<th>التأثير</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>مصدر بيانات واحد</td>
+<td>إزالة صوامع البيانات</td>
+</tr>
+<tr>
+<td>رؤية في الوقت الفعلي</td>
+<td>اتخاذ قرارات أسرع</td>
+</tr>
+<tr>
+<td>أتمتة العمليات</td>
+<td>تقليل الأخطاء اليدوية</td>
+</tr>
+<tr>
+<td>قابلية التوسع</td>
+<td>النمو بدون حدود</td>
+</tr>
+<tr>
+<td>الامتثال</td>
+<td>تلبية المتطلبات التنظيمية</td>
+</tr>
+</tbody>
+</table>
+<h3>حلول ERP من سمارت تيم</h3>
+<p>نبني وننفذ أنظمة ERP مصممة خصيصًا لعملك:</p>
+<ul>
+<li><strong>تطوير ERP مخصص</strong> - بناء من الصفر لاحتياجات فريدة</li>
+<li><strong>تكامل ERP</strong> - الاتصال بالأنظمة الموجودة</li>
+<li><strong>ترحيل ERP</strong> - الانتقال من الأنظمة القديمة إلى المنصات الحديثة</li>
+<li><strong>تدريب ERP</strong> - تمكين فريقك من استخدام النظام</li>
+</ul>
+<p><a href="/services/erp-systems">اكتشف خدمات ERP لدينا</a></p>0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/erp-systems-modern-business",{"children":["$","span",null,{"aria-current":"page","children":"أنظمة ERP: العمود الفقري لعمليات الأعمال الحديثة"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"أنظمة المؤسسات"}],["$","time",null,{"dateTime":"2024-12-10","children":"10 ديسمبر 2024"}]]}],["$","h1",null,{"children":"أنظمة ERP: العمود الفقري لعمليات الأعمال الحديثة"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"يربط ERP سجلات المحاسبة والمخزون والمبيعات وعمليات أخرى. تعرّف على اختيار الوحدات وتجهيز نقل البيانات واختبار الإجراءات قبل التشغيل."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/erp-systems-optimized.webp","alt":"أنظمة ERP: العمود الفقري لعمليات الأعمال الحديثة","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$5"}}]]}],null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","smart-erp-vs-sap-comparison",{"children":["$","$L3",null,{"href":"/blog/smart-erp-vs-sap-comparison","prefetch":false,"children":"ERP مخصص وSAP Business One: خيارات التنفيذ"}]}],["$","li","smart-erp-manufacturing-vs-dynamics-comparison",{"children":["$","$L3",null,{"href":"/blog/smart-erp-manufacturing-vs-dynamics-comparison","prefetch":false,"children":"ERP التصنيع وMicrosoft Dynamics: تقييم ملاءمة النظام"}]}],["$","li","smart-erp-vs-odoo-comparison",{"children":["$","$L3",null,{"href":"/blog/smart-erp-vs-odoo-comparison","prefetch":false,"children":"ERP مخصص وOdoo: الوحدات والتعديلات والدعم"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+7:["$","$Ld",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$Lf",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

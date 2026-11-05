@@ -1,0 +1,94 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+10:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+11:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T706,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/en/blog/ai-agents-revolution-2026#webpage","url":"https://www.smart.sd/en/blog/ai-agents-revolution-2026","name":"2026 Vision: The Rise of AI Agents as Digital Employees","description":"Business AI agents need defined tools, reliable data and evaluation. This guide explains practical tasks, human review and the limits of autonomous operation.","inLanguage":"en","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/en/blog/ai-agents-revolution-2026#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/en/blog/ai-agents-revolution-2026#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/en/blog/ai-agents-revolution-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.smart.sd/en"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.smart.sd/en/blog"},{"@type":"ListItem","position":3,"name":"2026 Vision: The Rise of AI Agents as Digital Employees","item":"https://www.smart.sd/en/blog/ai-agents-revolution-2026"}]},{"@id":"https://www.smart.sd/en/blog/ai-agents-revolution-2026#entity","inLanguage":"en","@type":"BlogPosting","headline":"2026 Vision: The Rise of AI Agents as Digital Employees","description":"Business AI agents need defined tools, reliable data and evaluation. This guide explains practical tasks, human review and the limits of autonomous operation.","datePublished":"2025-12-16","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/en/blog/ai-agents-revolution-2026","image":"https://www.smart.sd/blog/ai-agents-2026-optimized.webp"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/en/blog","prefetch":false,"children":"Blog"}]}],["$","li","/blog/ai-agents-revolution-2026",{"children":["$","span",null,{"aria-current":"page","children":"2026 Vision: The Rise of AI Agents as Digital Employees"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Future technology"}],["$","time",null,{"dateTime":"2025-12-16","children":"December 16, 2025"}]]}],["$","h1",null,{"children":"2026 Vision: The Rise of AI Agents as Digital Employees"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/en/about","prefetch":false,"children":"Prepared by the Smart Team editorial team"}],[" · ","Editorial review",": ",["$","time",null,{"dateTime":"2026-11-02","children":"November 2, 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"What does this article explain?"}],["$","p",null,{"children":"Business AI agents need defined tools, reliable data and evaluation. This guide explains practical tasks, human review and the limits of autonomous operation."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/ai-agents-2026-optimized.webp","alt":"2026 Vision: The Rise of AI Agents as Digital Employees","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],"$L5",null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_pgeQ8kNhyQMNom7h4h5x"}
+d:Tce0,<h2>The Age of Agentic AI</h2>
+<p>By 2026, artificial intelligence will evolve from a tool you prompt to a colleague that thinks ahead. <strong>Agentic AI</strong> represents a fundamental shift: autonomous systems that don't just respond to commands but proactively execute multi-step tasks, make decisions, and even correct their own errors.</p>
+<h3>What Makes AI Agents Different?</h3>
+<p>Unlike traditional AI assistants that wait for instructions, AI agents in 2026 will:</p>
+<ul>
+<li><strong>Reason and Plan:</strong> Break complex goals into actionable steps</li>
+<li><strong>Execute Autonomously:</strong> Complete entire workflows without human intervention</li>
+<li><strong>Learn and Adapt:</strong> Improve performance based on outcomes</li>
+<li><strong>Collaborate:</strong> Work alongside humans and other AI agents seamlessly</li>
+</ul>
+<h3>Industries Transformed by AI Agents</h3>
+<p><strong>Finance &#x26; Banking</strong></p>
+<ul>
+<li>Automated loan processing from application to approval</li>
+<li>Real-time fraud investigation and resolution</li>
+<li>Personalized wealth management at scale</li>
+</ul>
+<p><strong>Healthcare</strong></p>
+<ul>
+<li>Patient scheduling and follow-up management</li>
+<li>Medical record analysis and diagnosis support</li>
+<li>Drug interaction checking and prescription optimization</li>
+</ul>
+<p><strong>Enterprise Operations</strong></p>
+<ul>
+<li>End-to-end procurement and vendor management</li>
+<li>Customer service resolution without escalation</li>
+<li>Predictive maintenance scheduling</li>
+</ul>
+<h3>The Numbers That Matter</h3>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>2025</th>
+<th>2026 (Projected)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Enterprise AI Adoption</td>
+<td>55%</td>
+<td>75%+</td>
+</tr>
+<tr>
+<td>Tasks Fully Automated</td>
+<td>15%</td>
+<td>35%</td>
+</tr>
+<tr>
+<td>AI Agent Market Size</td>
+<td>$5B</td>
+<td>$15B</td>
+</tr>
+</tbody>
+</table>
+<h3>Preparing for the AI Workforce</h3>
+<p>Organizations that thrive in 2026 will:</p>
+<ol>
+<li><strong>Invest in AI Infrastructure:</strong> Build platforms that support agent deployment</li>
+<li><strong>Redesign Workflows:</strong> Identify tasks suitable for AI automation</li>
+<li><strong>Upskill Teams:</strong> Train employees to manage and collaborate with AI</li>
+<li><strong>Establish Governance:</strong> Create policies for AI decision-making and oversight</li>
+</ol>
+<h3>Smart Team: Your AI Partner</h3>
+<p>At <strong>Smart Team</strong>, we're building the future of AI-powered business today. Our AI development services include:</p>
+<p><strong>AI Agent Development</strong>
+Custom autonomous agents designed for your specific business processes. From customer service bots to intelligent document processors, we build AI that works for you 24/7.</p>
+<p><strong>Workflow Automation</strong>
+We review a documented workflow and test AI-assisted automation against its current task time, errors and operating cost.</p>
+<p><strong>AI Integration</strong>
+Seamlessly integrate AI capabilities into your existing systems—CRM, ERP, and custom applications.</p>
+<blockquote>
+<p><strong>Ready to meet your first AI employee?</strong>
+<a href="/en/services/fintech-payment">Explore our AI Development Services</a> | <a href="/en/contact">Request a Consultation</a></p>
+</blockquote>5:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$d"}}]]}]
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"Related reading"}],["$","ul",null,{"children":[["$","li","green-tech-sustainability-2026",{"children":["$","$L3",null,{"href":"/en/blog/green-tech-sustainability-2026","prefetch":false,"children":"Green Tech 2026: Sustainability in the Digital Age"}]}],["$","li","embedded-finance-2026",{"children":["$","$L3",null,{"href":"/en/blog/embedded-finance-2026","prefetch":false,"children":"2026 Vision: Embedded Finance - Banking Without Banks"}]}],["$","li","composable-architecture-2026",{"children":["$","$L3",null,{"href":"/en/blog/composable-architecture-2026","prefetch":false,"children":"2026 Vision: The Composable Enterprise - Building Business Like LEGO"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/en/services","prefetch":false,"children":"Explore services"}]]}]
+7:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$L10",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

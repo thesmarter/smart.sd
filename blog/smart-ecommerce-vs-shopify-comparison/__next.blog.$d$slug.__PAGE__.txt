@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+10:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+11:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T87c,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/smart-ecommerce-vs-shopify-comparison#webpage","url":"https://www.smart.sd/blog/smart-ecommerce-vs-shopify-comparison","name":"التجارة الإلكترونية المخصصة وShopify: اختيار المنصة","description":"تختلف التجارة المخصصة وShopify في الإعداد والتحكم والصيانة. قارن احتياجات الشراء والتكاملات والتكلفة التشغيلية الكلية قبل اختيار المنصة.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/smart-ecommerce-vs-shopify-comparison#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/smart-ecommerce-vs-shopify-comparison#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/smart-ecommerce-vs-shopify-comparison#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"التجارة الإلكترونية المخصصة وShopify: اختيار المنصة","item":"https://www.smart.sd/blog/smart-ecommerce-vs-shopify-comparison"}]},{"@id":"https://www.smart.sd/blog/smart-ecommerce-vs-shopify-comparison#entity","inLanguage":"ar","@type":"BlogPosting","headline":"التجارة الإلكترونية المخصصة وShopify: اختيار المنصة","description":"تختلف التجارة المخصصة وShopify في الإعداد والتحكم والصيانة. قارن احتياجات الشراء والتكاملات والتكلفة التشغيلية الكلية قبل اختيار المنصة.","datePublished":"2026-02-16","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/smart-ecommerce-vs-shopify-comparison","image":"https://www.smart.sd/blog/smart_ecommerce_vs_shopify_cover.png"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/smart-ecommerce-vs-shopify-comparison",{"children":["$","span",null,{"aria-current":"page","children":"التجارة الإلكترونية المخصصة وShopify: اختيار المنصة"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"التطوير"}],["$","time",null,{"dateTime":"2026-02-16","children":"16 فبراير 2026"}]]}],["$","h1",null,{"children":"التجارة الإلكترونية المخصصة وShopify: اختيار المنصة"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"تختلف التجارة المخصصة وShopify في الإعداد والتحكم والصيانة. قارن احتياجات الشراء والتكاملات والتكلفة التشغيلية الكلية قبل اختيار المنصة."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/smart_ecommerce_vs_shopify_cover.png","alt":"التجارة الإلكترونية المخصصة وShopify: اختيار المنصة","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],"$L5",null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+d:T1031,<h2>مقدمة: الثمن المخفي للحلول "الجاهزة"</h2>
+<p>يعد Shopify المنصة الأكثر شهرة في العالم، ولكن بالنسبة للعلامات التجارية الطموحة، قد يتحول إلى "سجن" برمجياً. من القوالب المقيدة إلى ما يسمى بـ "ضريبة شوبيفاي" (عمولات المبيعات)، نموك دائماً ما يكون مرهوناً برسوم المنصة.</p>
+<p><strong>سمارت للتجارة الإلكترونية</strong> ليس مجرد متجر؛ إنه محرك مبيعات فائق الأداء يعتمد على بنية <strong>Headless Architecture</strong>. نحن نفصل واجهة المتجر عن خلفيته البرمجية، مما يمنحك سرعة غير مسبوقة وحرية إبداعية كاملة.</p>
+<h2>فجوة الأداء: لغة الأرقام لا تكذب</h2>
+<table>
+<thead>
+<tr>
+<th>الميزة</th>
+<th>سمارت للتجارة الإلكترونية (Next.js)</th>
+<th>Shopify (قوالب Liquid)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>نقاط سرعة الصفحة</strong></td>
+<td><strong>98-100/100</strong></td>
+<td>متوسط 40-60/100 (جوجل)</td>
+</tr>
+<tr>
+<td><strong>عمولات المبيعات</strong></td>
+<td><strong>0% (ملكية كاملة)</strong></td>
+<td>0.5% إلى 2.0% لكل عملية</td>
+</tr>
+<tr>
+<td><strong>مرونة الـ SEO</strong></td>
+<td>تخصيص تقني غير محدود</td>
+<td>مقيد بهيكلية شوبيفاي</td>
+</tr>
+<tr>
+<td><strong>حرية التصميم</strong></td>
+<td>تحكم كامل في تجربة المستخدم</td>
+<td>مقيد بحدود "الثيم"</td>
+</tr>
+<tr>
+<td><strong>التوسع</strong></td>
+<td>جاهز للعالمية (Edge Computing)</td>
+<td>قد يتباطأ مع كثرة التطبيقات</td>
+</tr>
+</tbody>
+</table>
+<h3>1. السرعة تساوي الأرباح</h3>
+<p>كل تأخير بمقدار 100 مللي ثانية في تحميل الصفحة يكلفك <strong>7% من مبيعاتك</strong>. متاجر شوبيفاي غالباً ما تتباطأ مع إضافة "التطبيقات" للميزات البسيطة. <strong>سمارت للتجارة الإلكترونية</strong> مبني بتقنيات الويب الحديثة التي تجعل المتجر يظهر فوراً بمجرد النقر، مما يرفع معدل التحويل إلى أقصى حد.</p>
+<h3>2. وداعاً لـ "ضوابط وعمولات شوبيفاي"</h3>
+<p>لماذا تأخذ المنصة نسبة من مبيعاتك التي كسبتها بجهدك؟ مع سمارت تيم، أنت تملك الكود والموقع بالكامل. نحن ندمج بوابات الدفع المفضلة لديك (مثل Smart Payment) مباشرة، مما يوفر عليك آلاف الدولارات سنوياً من رسوم المعاملات المخفية.</p>
+<h3>3. سلطة الـ SEO الحقيقية</h3>
+<p>تسمح بنية Headless التي نتبعها بـ <strong>SEO تقني مثالي</strong>. كود نظيف، تسليم ذكي للصور، واستجابة في أجزاء من الثانية؛ كل هذا يعني أن جوجل يضع متاجرنا في مرتبة أعلى تلقائياً مقارنة بالقوالب التقليدية المكررة.</p>
+<h2>الخلاصة</h2>
+<p>Shopify مكان جيد للبداية، ولكن <strong>سمارت للتجارة الإلكترونية</strong> هو المكان الذي تذهب إليه للريادة والتميز. إذا كنت تريد برانداً (Brand) يبدو فريداً، ويبيع بأعلى كفاءة، ولا يلتهم أرباحك بالرسوم، فقد حان وقت الترقية.</p>
+<blockquote>
+<p><strong>هل سئمت من قيود Shopify؟</strong></p>
+<p>دعنا نبني لك متجراً فائق الأداء تملكه بالكامل وتتحكم في كل تفصيله.</p>
+<p><a href="/contact">تواصل معنا لعرض حي</a> | <a href="/services/ecommerce">خدمات التجارة الإلكترونية</a></p>
+</blockquote>5:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$d"}}]]}]
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","flutter-mvp-development-2026",{"children":["$","$L3",null,{"href":"/blog/flutter-mvp-development-2026","prefetch":false,"children":"تخطيط الإصدار الأول من تطبيق الجوال باستخدام Flutter"}]}],["$","li","nextjs-vs-wordpress-comparison",{"children":["$","$L3",null,{"href":"/blog/nextjs-vs-wordpress-comparison","prefetch":false,"children":"Next.js وWordPress: احتياجات التطوير والنشر"}]}],["$","li","nextjs-15-react-19-features",{"children":["$","$L3",null,{"href":"/blog/nextjs-15-react-19-features","prefetch":false,"children":"Next.js 15 و React 19: ميزات ثورية لتطوير الويب الحديث"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+7:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$L10",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

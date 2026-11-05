@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+10:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+11:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T762,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/en/blog/smart-ecommerce-vs-shopify-comparison#webpage","url":"https://www.smart.sd/en/blog/smart-ecommerce-vs-shopify-comparison","name":"Custom e-commerce and Shopify: choosing a platform","description":"Custom commerce and Shopify differ in setup, control and maintenance. Compare checkout needs, integrations and total operating cost before selecting a platform.","inLanguage":"en","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/en/blog/smart-ecommerce-vs-shopify-comparison#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/en/blog/smart-ecommerce-vs-shopify-comparison#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/en/blog/smart-ecommerce-vs-shopify-comparison#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.smart.sd/en"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.smart.sd/en/blog"},{"@type":"ListItem","position":3,"name":"Custom e-commerce and Shopify: choosing a platform","item":"https://www.smart.sd/en/blog/smart-ecommerce-vs-shopify-comparison"}]},{"@id":"https://www.smart.sd/en/blog/smart-ecommerce-vs-shopify-comparison#entity","inLanguage":"en","@type":"BlogPosting","headline":"Custom e-commerce and Shopify: choosing a platform","description":"Custom commerce and Shopify differ in setup, control and maintenance. Compare checkout needs, integrations and total operating cost before selecting a platform.","datePublished":"2026-02-16","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/en/blog/smart-ecommerce-vs-shopify-comparison","image":"https://www.smart.sd/blog/smart_ecommerce_vs_shopify_cover.png"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/en/blog","prefetch":false,"children":"Blog"}]}],["$","li","/blog/smart-ecommerce-vs-shopify-comparison",{"children":["$","span",null,{"aria-current":"page","children":"Custom e-commerce and Shopify: choosing a platform"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Development"}],["$","time",null,{"dateTime":"2026-02-16","children":"February 16, 2026"}]]}],["$","h1",null,{"children":"Custom e-commerce and Shopify: choosing a platform"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/en/about","prefetch":false,"children":"Prepared by the Smart Team editorial team"}],[" · ","Editorial review",": ",["$","time",null,{"dateTime":"2026-11-02","children":"November 2, 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"What does this article explain?"}],["$","p",null,{"children":"Custom commerce and Shopify differ in setup, control and maintenance. Compare checkout needs, integrations and total operating cost before selecting a platform."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/smart_ecommerce_vs_shopify_cover.png","alt":"Custom e-commerce and Shopify: choosing a platform","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],"$L5",null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_pgeQ8kNhyQMNom7h4h5x"}
+d:Tb13,<h2>Introduction: The Hidden Price of "Easy"</h2>
+<p>Shopify is the world's most popular e-commerce platform, but for serious brands, it can become a prison. From restrictive templates to "Shopify Tax" (transaction fees), your growth is often taxed by the platform itself.</p>
+<p><strong>Smart E-commerce</strong> by Smart Team isn't just a store—it’s a high-performance sales engine built on <strong>Headless Architecture</strong>. We separate your "Head" (the beautiful interface) from the "Backend," giving you unmatched speed and total creative freedom.</p>
+<h2>The Performance Gap: Data Don't Lie</h2>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Smart E-commerce (Next.js)</th>
+<th>Shopify (Liquid Templates)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Page Speed Score</strong></td>
+<td><strong>98-100/100</strong></td>
+<td>Avg. 40-60/100 (Google Mobile)</td>
+</tr>
+<tr>
+<td><strong>Transaction Fees</strong></td>
+<td><strong>0% (Pure Ownership)</strong></td>
+<td>0.5% - 2.0% per sale</td>
+</tr>
+<tr>
+<td><strong>SEO Flexibility</strong></td>
+<td>Unlimited customization</td>
+<td>Limited by Shopify structure</td>
+</tr>
+<tr>
+<td><strong>Design Freedom</strong></td>
+<td>Total control over UX</td>
+<td>Restricted by "Theme" limits</td>
+</tr>
+<tr>
+<td><strong>Scalability</strong></td>
+<td>Global Edge-ready</td>
+<td>Can slow down with apps</td>
+</tr>
+</tbody>
+</table>
+<h3>1. Speed Equals Revenue</h3>
+<p>Every 100ms delay in page load costs you <strong>7% in conversions</strong>. Shopify stores often slow down as you add "Apps" for simple features. <strong>Smart E-commerce</strong> is built with modern web technologies that render instantly. Our stores don't just "load"—they appear.</p>
+<h3>2. Kill the "Shopify Tax"</h3>
+<p>Why should a platform take a percentage of your hard-earned sales? With Smart E-commerce, you own the code and the infrastructure. We integrate your preferred payment gateway (like Smart Payment) directly, saving you thousands of dollars in annual transaction fees.</p>
+<h3>3. SEO Authority by Design</h3>
+<p>Our Headless approach allows for <strong>perfect technical SEO</strong>. Clean code, optimal image delivery, and sub-second response times mean Google ranks Smart E-commerce stores higher by default compared to generic Shopify templates.</p>
+<h2>The Bottom Line</h2>
+<p>Shopify is a great place to start, but <strong>Smart E-commerce</strong> is where you go to lead. If you want a brand that looks unique, converts at the highest level, and doesn't eat your profits with hidden fees, it's time to upgrade.</p>
+<blockquote>
+<p><strong>Done with Shopify Limits?</strong></p>
+<p>Let us build you a high-converting storefront that you actually own.</p>
+<p><a href="/en/contact">Contact Us for a Demo</a> | <a href="/en/services/ecommerce">Global E-commerce Solutions</a></p>
+</blockquote>5:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$d"}}]]}]
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"Related reading"}],["$","ul",null,{"children":[["$","li","flutter-mvp-development-2026",{"children":["$","$L3",null,{"href":"/en/blog/flutter-mvp-development-2026","prefetch":false,"children":"Planning a mobile MVP with Flutter"}]}],["$","li","nextjs-vs-wordpress-comparison",{"children":["$","$L3",null,{"href":"/en/blog/nextjs-vs-wordpress-comparison","prefetch":false,"children":"Next.js and WordPress: development and publishing needs"}]}],["$","li","nextjs-15-react-19-features",{"children":["$","$L3",null,{"href":"/en/blog/nextjs-15-react-19-features","prefetch":false,"children":"Next.js 15 and React 19: Revolutionary Features for Modern Web Development"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/en/services","prefetch":false,"children":"Explore services"}]]}]
+7:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$L10",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+d:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+f:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+10:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T801,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/smart-payment-vs-hyperpay-comparison#webpage","url":"https://www.smart.sd/blog/smart-payment-vs-hyperpay-comparison","name":"واجهات الدفع المخصصة والتكامل مع HyperPay","description":"تحتاج واجهة الدفع المخصصة إلى مزود دفع. راجع تكامل HyperPay واعتماد التاجر والطرق المدعومة والتسوية وفق السوق الذي تعمل فيه.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/smart-payment-vs-hyperpay-comparison#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/smart-payment-vs-hyperpay-comparison#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/smart-payment-vs-hyperpay-comparison#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"واجهات الدفع المخصصة والتكامل مع HyperPay","item":"https://www.smart.sd/blog/smart-payment-vs-hyperpay-comparison"}]},{"@id":"https://www.smart.sd/blog/smart-payment-vs-hyperpay-comparison#entity","inLanguage":"ar","@type":"BlogPosting","headline":"واجهات الدفع المخصصة والتكامل مع HyperPay","description":"تحتاج واجهة الدفع المخصصة إلى مزود دفع. راجع تكامل HyperPay واعتماد التاجر والطرق المدعومة والتسوية وفق السوق الذي تعمل فيه.","datePublished":"2026-02-15","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/smart-payment-vs-hyperpay-comparison","image":"https://www.smart.sd/blog/smart_payment_vs_hyperpay_cover.png"}]}5:T1192,<h2>سباق التقنية المالية في السعودية</h2>
+<p>مع رؤية 2030، أصبحت المملكة العربية السعودية مركزاً عالمياً للتجارة الإلكترونية. ولكن بالنسبة للعديد من أصحاب الأعمال، تظل مرحلة "الدفع" هي الأكثر إرهاقاً. ربما سمعت عن HyperPay—فهم من أكبر الأسماء في المنطقة. ولكن هل يعني "الكبير" دائماً أنه "الأفضل" لعملك الخاص؟</p>
+<p>في <strong>سمارت تيم</strong>، نؤمن بأن عملية الدفع يجب أن تكون غير مرئية؛ يجب أن تتم بسلاسة وتختفي. إليك كيف يتفوق <strong>Smart Payment</strong> في مواجهة منافسين كبار مثل HyperPay في السوق السعودي.</p>
+<h2>التفوق المحلي</h2>
+<table>
+<thead>
+<tr>
+<th>الميزة</th>
+<th>Smart Payment</th>
+<th>HyperPay</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>سرعة الإعداد</strong></td>
+<td><strong>مسار سريع (مباشر)</strong></td>
+<td>إجراءات توثيق طويلة</td>
+</tr>
+<tr>
+<td><strong>مدى / سداد</strong></td>
+<td>تكامل أصلي وفوري</td>
+<td>تكامل قياسي</td>
+</tr>
+<tr>
+<td><strong>سهولة الربط</strong></td>
+<td>واجهة برمجية (API) بسيطة</td>
+<td>وثائق برمجية معقدة</td>
+</tr>
+<tr>
+<td><strong>لوحة التحكم</strong></td>
+<td>تحليلات ذكية فورية</td>
+<td>تقارير قياسية</td>
+</tr>
+<tr>
+<td><strong>الرسوم المخفية</strong></td>
+<td>لا يوجد (شفافية كاملة)</td>
+<td>رسوم تأسيس وصيانة</td>
+</tr>
+</tbody>
+</table>
+<h3>1. حاجز البداية</h3>
+<p>يعاني العديد من المؤسسين في الرياض أو جدة من كمية الأوراق المطلوبة للبدء مع بوابات الدفع التقليدية الكبرى. غالباً ما تتطلب HyperPay وثائق مؤسسية مكثفة ودورات توثيق طويلة. <strong>Smart Payment</strong> يبسط هذا الأمر؛ فنحن نقدم مساراً ميسراً للشركات الناشئة والمتوسطة في السعودية لبدء قبول بطاقات <strong>مدى</strong> و <strong>Apple Pay</strong> في وقت قياسي.</p>
+<h3>2. مصمم للتطبيقات الحديثة</h3>
+<p>تعتمد HyperPay على بنية تحتية قديمة نوعاً ما، مما قد يجعل ربطها بالتطبيقات الحديثة (مثل تلك المبنية بـ Next.js أو Flutter) أمراً مرهقاً للمبرمجين. أما <strong>Smart Payment</strong> فقد وُلد في عصر التقنيات المنفصلة (Headless). واجهاتنا البرمجية نظيفة وسريعة ومصممة لتعمل مع أحدث الأجهزة والمنصات دون الحاجة لمهندس متخصص لكل خطوة.</p>
+<h3>3. كفاءة التكلفة (وداعاً للرسوم الخفية)</h3>
+<p>تفرض البوابات الكبيرة غالباً رسوماً على "التأسيس"، و"الصيانة"، و"المساعدة في الربط". بالنسبة لشركة في مرحلة النمو، هذه التكاليف تستنزف الميزانية. في سمارت تيم، نعطي الأولوية للشفافية؛ نحن ننمو بنمو عملك، ولا نفرض رسوم "تفعيل" تأكل من أرباحك الأولية.</p>
+<h2>ما هو خيارك الأنسب؟</h2>
+<p>إذا كنت شركة تقليدية بمليارات الدولارات وتحتاج لشريك بنكي بعقلية التسعينات، فإن HyperPay خيار آمن.</p>
+<p>أما إذا كنت <strong>علامة تجارية سعودية حديثة</strong> تقدر السرعة، وتريد معدلات تحويل عالية، وتجربة دفع يشعر العميل معها بالسلاسة التامة، فإن <strong>Smart Payment</strong> هو الفائز الواضح للجيل القادم من التجارة السعودية.</p>
+<blockquote>
+<p><strong>هل تريد رفع معدل مبيعاتك في السعودية؟</strong></p>
+<p>ابدأ اليوم مع بوابة دفع تفهم طموحك وسرعة عملك.</p>
+<p><a href="/contact">احصل على استشارة فورية</a> | <a href="/services">شرح خدماتنا في السعودية</a></p>
+</blockquote>0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/smart-payment-vs-hyperpay-comparison",{"children":["$","span",null,{"aria-current":"page","children":"واجهات الدفع المخصصة والتكامل مع HyperPay"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"التقنية المالية"}],["$","time",null,{"dateTime":"2026-02-15","children":"15 فبراير 2026"}]]}],["$","h1",null,{"children":"واجهات الدفع المخصصة والتكامل مع HyperPay"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"تحتاج واجهة الدفع المخصصة إلى مزود دفع. راجع تكامل HyperPay واعتماد التاجر والطرق المدعومة والتسوية وفق السوق الذي تعمل فيه."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/smart_payment_vs_hyperpay_cover.png","alt":"واجهات الدفع المخصصة والتكامل مع HyperPay","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$5"}}]]}],null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","fintech-compliance-gcc-vs-foreign",{"children":["$","$L3",null,{"href":"/blog/fintech-compliance-gcc-vs-foreign","prefetch":false,"children":"امتثال البرمجيات المالية في السعودية والإمارات"}]}],["$","li","smart-payment-vs-stripe-comparison",{"children":["$","$L3",null,{"href":"/blog/smart-payment-vs-stripe-comparison","prefetch":false,"children":"برمجيات الدفع المخصصة والتكامل مع Stripe"}]}],["$","li","digital-payments-sudan-uae",{"children":["$","$L3",null,{"href":"/blog/digital-payments-sudan-uae","prefetch":false,"children":"صعود المدفوعات الرقمية في السودان والإمارات: قصة سوقين"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+7:["$","$Ld",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$Lf",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

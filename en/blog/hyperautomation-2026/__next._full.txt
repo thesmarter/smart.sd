@@ -1,0 +1,155 @@
+1:"$Sreact.fragment"
+3:I[39756,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+6:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+e:I[53348,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0n-2i.hj9v09b.js"],"default"]
+:HL["/_next/static/chunks/0odh04soik34o.css","style"]
+:HL["/_next/static/chunks/0qenrobftlhw-.css","style"]
+:HL["/_next/static/media/9ff27b8a0a8f3dc0-s.p.170gfl_1xpie6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d41831e24743a3c1-s.p.02r-fjhi~6g_a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+0:{"P":null,"c":["","blog","hyperautomation-2026",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","hyperautomation-2026","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0odh04soik34o.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0qenrobftlhw-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0~82jkybqn1h8.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0a08zi_6aqxfs.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/07i~.d4axjz_q.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0odh04soik34o.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0qenrobftlhw-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"_pgeQ8kNhyQMNom7h4h5x"}
+f:[]
+9:"$Wf"
+11:I[27443,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ThemeProvider"]
+12:I[17139,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"LanguageProvider"]
+13:I[80733,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+14:I[94539,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ThirdPartyScripts"]
+15:I[93983,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+16:I[8821,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0zquxebu1pj7o.js"],"default"]
+18:I[87392,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+10:T4a5,{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.smart.sd/#organization","name":"Smart Team IT","alternateName":["Smart Team","سمارت تيم"],"url":"https://www.smart.sd","logo":{"@type":"ImageObject","url":"https://www.smart.sd/logo-w.png","width":1143,"height":1206},"foundingDate":"2015","description":"Smart Team develops ERP systems, websites, mobile apps and payment solutions for businesses in Sudan, Saudi Arabia and the UAE. Working since 2015.","email":"info@smart.sd","address":{"@type":"PostalAddress","addressLocality":"Khartoum","addressCountry":"SD"},"areaServed":["SD","SA","AE"],"contactPoint":{"@type":"ContactPoint","contactType":"sales","email":"info@smart.sd","url":"https://www.smart.sd/contact","areaServed":["SD","SA","AE"],"availableLanguage":["Arabic","English"]},"sameAs":["https://www.facebook.com/SmartTeamSd","https://x.com/smart_team_sd","https://www.linkedin.com/company/thesmart-team/"]},{"@type":"WebSite","@id":"https://www.smart.sd/#website","url":"https://www.smart.sd","name":"Smart Team","alternateName":"سمارت تيم","inLanguage":["ar","en"],"publisher":{"@id":"https://www.smart.sd/#organization"}}]}2:["$","html",null,{"lang":"en","dir":"ltr","className":"cairo_883b24e3-module__pW5XIG__variable montserrat_b2573e6e-module__vkGO5a__variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('theme');var t=s==='light'||s==='dark'?s:matchMedia('(prefers-color-scheme:light)').matches?'light':'dark';document.documentElement.dataset.theme=t;document.documentElement.classList.toggle('dark',t==='dark');var m=document.querySelector('meta[name=\"theme-color\"]');if(m)m.content=t==='dark'?'#101b2b':'#f3f6fa';}catch(e){}})();window.dataLayer=window.dataLayer||[];window.gtag=function(){window.dataLayer.push(arguments)};window.gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$10"}}]]}],["$","body",null,{"className":"antialiased bg-background text-text-main","children":["$","$L11",null,{"children":["$","$L12",null,{"initialLang":"en","children":[["$","$L13",null,{}],["$","$L14",null,{}],null,["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L15",null,{}],["$","main",null,{"id":"main-content","className":"flex-grow","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$16","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/0zquxebu1pj7o.js","async":true}]],"template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L17",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L18",null,{}]]}]]}]}]}]]}]
+19:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+17:["$","div",null,{"className":"studio-container status-page","children":[["$","p",null,{"className":"status-code","aria-hidden":"true","children":"404"}],["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":"Check the address, or explore our services to find the page you need."}],["$","div",null,{"className":"status-actions","children":[["$","$L19",null,{"href":"/en","className":"button button-primary","prefetch":false,"children":"Home"}],["$","$L19",null,{"href":"/en/services","className":"button button-secondary","prefetch":false,"children":"Explore services"}]]}]]}]
+1b:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+1a:T6f8,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/en/blog/hyperautomation-2026#webpage","url":"https://www.smart.sd/en/blog/hyperautomation-2026","name":"2026 Vision: Hyperautomation - When Every Process Runs Itself","description":"Hyperautomation combines workflow tools, integrations and AI. Start with documented processes and measurable tasks, then plan permissions and failure recovery.","inLanguage":"en","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/en/blog/hyperautomation-2026#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/en/blog/hyperautomation-2026#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/en/blog/hyperautomation-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.smart.sd/en"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.smart.sd/en/blog"},{"@type":"ListItem","position":3,"name":"2026 Vision: Hyperautomation - When Every Process Runs Itself","item":"https://www.smart.sd/en/blog/hyperautomation-2026"}]},{"@id":"https://www.smart.sd/en/blog/hyperautomation-2026#entity","inLanguage":"en","@type":"BlogPosting","headline":"2026 Vision: Hyperautomation - When Every Process Runs Itself","description":"Hyperautomation combines workflow tools, integrations and AI. Start with documented processes and measurable tasks, then plan permissions and failure recovery.","datePublished":"2025-12-12","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/en/blog/hyperautomation-2026","image":"https://www.smart.sd/blog/hyperautomation-2026-optimized.webp"}]}5:[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1a"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L19",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/blog",{"children":["$","$L19",null,{"href":"/en/blog","prefetch":false,"children":"Blog"}]}],["$","li","/blog/hyperautomation-2026",{"children":["$","span",null,{"aria-current":"page","children":"2026 Vision: Hyperautomation - When Every Process Runs Itself"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Future technology"}],["$","time",null,{"dateTime":"2025-12-12","children":"December 12, 2025"}]]}],["$","h1",null,{"children":"2026 Vision: Hyperautomation - When Every Process Runs Itself"}],["$","p",null,{"className":"article-author","children":[["$","$L19",null,{"href":"/en/about","prefetch":false,"children":"Prepared by the Smart Team editorial team"}],[" · ","Editorial review",": ",["$","time",null,{"dateTime":"2026-11-02","children":"November 2, 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"What does this article explain?"}],["$","p",null,{"children":"Hyperautomation combines workflow tools, integrations and AI. Start with documented processes and measurable tasks, then plan permissions and failure recovery."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L1b",null,{"src":"/blog/hyperautomation-2026-optimized.webp","alt":"2026 Vision: Hyperautomation - When Every Process Runs Itself","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],"$L1c","$L1d","$L1e","$L1f","$L20","$L21"]}]}]]
+23:I[73855,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+24:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+25:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+26:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+22:T1572,<h2>Beyond Simple Automation</h2>
+<p>By 2026, automation will evolve from individual task automation to <strong>Hyperautomation</strong>: the intelligent orchestration of AI, robotic process automation (RPA), machine learning, and integration tools to automate every possible business process.</p>
+<h3>What is Hyperautomation?</h3>
+<p>Hyperautomation combines multiple technologies:</p>
+<ul>
+<li><strong>Robotic Process Automation (RPA):</strong> Bots that mimic human actions in software</li>
+<li><strong>Artificial Intelligence:</strong> Decision-making and pattern recognition</li>
+<li><strong>Machine Learning:</strong> Self-improving algorithms</li>
+<li><strong>Process Mining:</strong> Discovering automation opportunities</li>
+<li><strong>Low-Code/No-Code:</strong> Citizen developers building automations</li>
+</ul>
+<h3>The Hyperautomation Stack</h3>
+<pre><code class="hljs language-java">┌─────────────────────────────────────────┐
+│           Business Intelligence         │
+├─────────────────────────────────────────┤
+│     AI Agents &#x26; Decision Engines        │
+├─────────────────────────────────────────┤
+│        RPA &#x26; Workflow Automation        │
+├─────────────────────────────────────────┤
+│     Integration <span class="hljs-title function_">Layer</span> <span class="hljs-params">(APIs, ETL)</span>       │
+├─────────────────────────────────────────┤
+│     Enterprise <span class="hljs-title function_">Systems</span> <span class="hljs-params">(ERP, CRM)</span>       │
+└─────────────────────────────────────────┘
+</code></pre>
+<h3>Processes Transformed by 2026</h3>
+<table>
+<thead>
+<tr>
+<th>Process</th>
+<th>Current State</th>
+<th>2026 Hyperautomated</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Invoice Processing</td>
+<td>50% manual</td>
+<td>95% touchless</td>
+</tr>
+<tr>
+<td>Customer Onboarding</td>
+<td>Days</td>
+<td>Minutes</td>
+</tr>
+<tr>
+<td>Report Generation</td>
+<td>Weekly batch</td>
+<td>Real-time</td>
+</tr>
+<tr>
+<td>Expense Approvals</td>
+<td>Manual review</td>
+<td>AI routing</td>
+</tr>
+<tr>
+<td>Data Entry</td>
+<td>Human-dependent</td>
+<td>Eliminated</td>
+</tr>
+</tbody>
+</table>
+<h3>The Business Case for Hyperautomation</h3>
+<p><strong>Cost Savings:</strong></p>
+<ul>
+<li>40-60% reduction in process costs</li>
+<li>80% faster processing times</li>
+<li>90% reduction in errors</li>
+</ul>
+<p><strong>Employee Impact:</strong></p>
+<ul>
+<li>30% of time freed from routine tasks</li>
+<li>Higher job satisfaction</li>
+<li>Focus on strategic work</li>
+</ul>
+<p><strong>Competitive Advantage:</strong></p>
+<ul>
+<li>Faster customer response</li>
+<li>24/7 operational capability</li>
+<li>Scalability without proportional headcount</li>
+</ul>
+<h3>Industries Leading the Way</h3>
+<ol>
+<li><strong>Banking &#x26; Finance:</strong> Loan processing, compliance, fraud detection</li>
+<li><strong>Healthcare:</strong> Patient intake, claims processing, scheduling</li>
+<li><strong>Manufacturing:</strong> Supply chain, quality control, maintenance</li>
+<li><strong>Retail:</strong> Inventory, pricing, customer service</li>
+<li><strong>Government:</strong> Citizen services, benefits processing</li>
+</ol>
+<h3>The Role of AI in Hyperautomation</h3>
+<p>AI elevates automation from rule-based to intelligent:</p>
+<ul>
+<li><strong>Document Understanding:</strong> Extract data from any format</li>
+<li><strong>Natural Language Processing:</strong> Handle unstructured requests</li>
+<li><strong>Predictive Analytics:</strong> Anticipate and prevent issues</li>
+<li><strong>Continuous Learning:</strong> Improve processes automatically</li>
+</ul>
+<h3>Smart Team: Your Hyperautomation Partner</h3>
+<p><strong>سمارت تيم</strong> builds the automation infrastructure that powers efficient enterprises. We don't just automate tasks—we transform operations.</p>
+<p><strong>Our Hyperautomation Services:</strong></p>
+<p><strong>Process Discovery &#x26; Mining</strong>
+We analyze your operations to identify the highest-impact automation opportunities. Our process mining reveals inefficiencies you didn't know existed.</p>
+<p><strong>RPA Implementation</strong>
+Deploy software robots that work 24/7, handling repetitive tasks with zero errors. From data entry to report generation.</p>
+<p><strong>AI-Powered Automation</strong>
+Go beyond rule-based automation with AI that makes decisions, handles exceptions, and learns from outcomes.</p>
+<p><strong>Low-Code Automation Platforms</strong>
+Empower your team to build automations with visual tools. We implement and customize platforms like Power Automate and UiPath.
+<a href="/en/services?s=web-development">Explore our development services</a></p>
+<p><strong>Integration Services</strong>
+Connect all your systems—legacy and modern—into a unified automation ecosystem.</p>
+<blockquote>
+<p><strong>Ready to automate everything?</strong>
+<a href="/en/services?s=web-development">Explore Automation Services</a> | <a href="/en/contact">Get a Process Assessment</a></p>
+</blockquote>1c:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$22"}}]]}]
+1d:["$","$L23",null,{}]
+1e:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"Related reading"}],["$","ul",null,{"children":[["$","li","green-tech-sustainability-2026",{"children":["$","$L19",null,{"href":"/en/blog/green-tech-sustainability-2026","prefetch":false,"children":"Green Tech 2026: Sustainability in the Digital Age"}]}],["$","li","ai-agents-revolution-2026",{"children":["$","$L19",null,{"href":"/en/blog/ai-agents-revolution-2026","prefetch":false,"children":"2026 Vision: The Rise of AI Agents as Digital Employees"}]}],["$","li","embedded-finance-2026",{"children":["$","$L19",null,{"href":"/en/blog/embedded-finance-2026","prefetch":false,"children":"2026 Vision: Embedded Finance - Banking Without Banks"}]}]]}],["$","$L19",null,{"className":"text-link","href":"/en/services","prefetch":false,"children":"Explore services"}]]}]
+1f:["$","$L24",null,{"publisherId":"ca-pub-2312883254868411"}]
+20:["$","$L25",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+21:["$","$L26",null,{}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#101b2b"}]]
+27:I[27201,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"2026 Vision: Hyperautomation - When Every Process Runs Itself | Smart Team"}],["$","meta","1",{"name":"description","content":"Hyperautomation combines workflow tools, integrations and AI. Start with documented processes and measurable tasks, then plan permissions and failure recovery."}],["$","link","2",{"rel":"author","href":"https://www.smart.sd/about"}],["$","meta","3",{"name":"author","content":"Smart Team"}],["$","link","4",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","5",{"name":"creator","content":"Smart Team IT"}],["$","meta","6",{"name":"publisher","content":"Smart Team IT"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","9",{"name":"google-adsense-account","content":"ca-pub-2312883254868411"}],["$","link","10",{"rel":"canonical","href":"https://www.smart.sd/en/blog/hyperautomation-2026/"}],["$","link","11",{"rel":"alternate","hrefLang":"ar","href":"https://www.smart.sd/blog/hyperautomation-2026/"}],["$","link","12",{"rel":"alternate","hrefLang":"en","href":"https://www.smart.sd/en/blog/hyperautomation-2026/"}],["$","link","13",{"rel":"alternate","hrefLang":"x-default","href":"https://www.smart.sd/blog/hyperautomation-2026/"}],["$","link","14",{"rel":"alternate","type":"application/rss+xml","href":"https://www.smart.sd/feed.xml"}],["$","meta","15",{"property":"og:title","content":"2026 Vision: Hyperautomation - When Every Process Runs Itself | Smart Team"}],["$","meta","16",{"property":"og:description","content":"Hyperautomation combines workflow tools, integrations and AI. Start with documented processes and measurable tasks, then plan permissions and failure recovery."}],["$","meta","17",{"property":"og:url","content":"https://www.smart.sd/en/blog/hyperautomation-2026/"}],["$","meta","18",{"property":"og:site_name","content":"Smart Team"}],["$","meta","19",{"property":"og:locale","content":"en_US"}],["$","meta","20",{"property":"og:image","content":"https://www.smart.sd/blog/hyperautomation-2026-optimized.webp"}],["$","meta","21",{"property":"og:image:alt","content":"2026 Vision: Hyperautomation - When Every Process Runs Itself"}],["$","meta","22",{"property":"og:locale:alternate","content":"ar_SD"}],["$","meta","23",{"property":"og:type","content":"article"}],["$","meta","24",{"property":"article:published_time","content":"2025-12-12"}],["$","meta","25",{"property":"article:modified_time","content":"2026-11-02"}],["$","meta","26",{"property":"article:author","content":"Smart Team"}],["$","meta","27",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","28",{"name":"twitter:title","content":"2026 Vision: Hyperautomation - When Every Process Runs Itself | Smart Team"}],["$","meta","29",{"name":"twitter:description","content":"Hyperautomation combines workflow tools, integrations and AI. Start with documented processes and measurable tasks, then plan permissions and failure recovery."}],["$","meta","30",{"name":"twitter:image","content":"https://www.smart.sd/blog/hyperautomation-2026-optimized.webp"}],["$","link","31",{"rel":"icon","href":"/favicon-16x16.png","sizes":"16x16","type":"image/png"}],["$","link","32",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","33",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L27","34",{}]]

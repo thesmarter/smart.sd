@@ -1,0 +1,408 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+f:I[73855,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+10:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+11:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+12:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+13:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T708,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/en/blog/building-ai-agents-langchain#webpage","url":"https://www.smart.sd/en/blog/building-ai-agents-langchain","name":"Building AI agents with LangChain: tools and evaluation","description":"LangChain combines models, tools and middleware for AI agents. Learn how to define a task, constrain access, test results and prepare a deployment.","inLanguage":"en","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/en/blog/building-ai-agents-langchain#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/en/blog/building-ai-agents-langchain#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/en/blog/building-ai-agents-langchain#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.smart.sd/en"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.smart.sd/en/blog"},{"@type":"ListItem","position":3,"name":"Building AI agents with LangChain: tools and evaluation","item":"https://www.smart.sd/en/blog/building-ai-agents-langchain"}]},{"@id":"https://www.smart.sd/en/blog/building-ai-agents-langchain#entity","inLanguage":"en","@type":"BlogPosting","headline":"Building AI agents with LangChain: tools and evaluation","description":"LangChain combines models, tools and middleware for AI agents. Learn how to define a task, constrain access, test results and prepare a deployment.","datePublished":"2026-01-15","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/en/blog/building-ai-agents-langchain","image":"https://www.smart.sd/blog/ai_agents_langchain_cover.png"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/en/blog","prefetch":false,"children":"Blog"}]}],["$","li","/blog/building-ai-agents-langchain",{"children":["$","span",null,{"aria-current":"page","children":"Building AI agents with LangChain: tools and evaluation"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Artificial intelligence"}],["$","time",null,{"dateTime":"2026-01-15","children":"January 15, 2026"}]]}],["$","h1",null,{"children":"Building AI agents with LangChain: tools and evaluation"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/en/about","prefetch":false,"children":"Prepared by the Smart Team editorial team"}],[" · ","Editorial review",": ",["$","time",null,{"dateTime":"2026-11-02","children":"November 2, 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"What does this article explain?"}],["$","p",null,{"children":"LangChain combines models, tools and middleware for AI agents. Learn how to define a task, constrain access, test results and prepare a deployment."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/ai_agents_langchain_cover.png","alt":"Building AI agents with LangChain: tools and evaluation","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],"$L5","$L6","$L7","$L8","$L9","$La"]}]}]],["$Lb","$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_pgeQ8kNhyQMNom7h4h5x"}
+e:T5f79,<h2>Introduction to AI Agents</h2>
+<p>AI agents represent one of the most significant breakthroughs in artificial intelligence technology, transforming how businesses automate complex processes and deliver intelligent solutions. Unlike traditional software programs that follow predetermined rules, AI agents are autonomous systems capable of perceiving their environment, making decisions, and taking actions to achieve specific goals with minimal human intervention. These intelligent agents leverage large language models (LLMs) as their reasoning engine, enabling them to understand natural language, plan multi-step tasks, and adapt to changing circumstances in real-time.</p>
+<p>The rise of AI agents has been fueled by the rapid advancement of large language models like GPT-4, Claude, and Llama, which provide the cognitive foundation for these systems. LangChain, an open-source framework, has emerged as the de facto standard for building AI agents, offering developers a comprehensive toolkit for creating, deploying, and managing agent-based applications. The framework provides pre-built components, integrations with major LLM providers, and a modular architecture that simplifies the development process while maintaining flexibility for customization.</p>
+<h3>Why AI Agents Matter in 2026</h3>
+<p>The business landscape in 2026 demands automation solutions that go beyond simple rule-based systems. Organizations face increasingly complex challenges that require adaptive, intelligent automation capable of handling ambiguity, learning from interactions, and collaborating with human workers. AI agents address these needs by combining the reasoning capabilities of large language models with practical tools and integrations that enable real-world action. According to recent industry reports, the AI agent market is projected to grow at a compound annual growth rate of over 40% through 2030, driven by adoption across customer service, software development, research, and operations management.</p>
+<h2>Understanding LangChain Architecture</h2>
+<p>LangChain provides a comprehensive framework designed specifically for building applications powered by language models. The architecture follows a modular design philosophy, allowing developers to assemble components like building blocks to create sophisticated AI systems. At its core, LangChain abstracts away the complexity of working directly with LLM APIs while providing the flexibility needed for advanced use cases. Understanding the key components of LangChain is essential for building effective AI agents.</p>
+<h3>Core Components</h3>
+<p>The framework consists of several interconnected components that work together to create intelligent agent systems. Each component serves a specific purpose and can be customized or extended based on application requirements:</p>
+<table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Description</th>
+<th>Use Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Models</strong></td>
+<td>LLM and embedding model interfaces</td>
+<td>GPT-4, Claude, Llama integration</td>
+</tr>
+<tr>
+<td><strong>Prompts</strong></td>
+<td>Template management and optimization</td>
+<td>System prompts, few-shot examples</td>
+</tr>
+<tr>
+<td><strong>Memory</strong></td>
+<td>Conversation and context persistence</td>
+<td>Chat history, user preferences</td>
+</tr>
+<tr>
+<td><strong>Indexes</strong></td>
+<td>Document retrieval and vector stores</td>
+<td>RAG, knowledge base search</td>
+</tr>
+<tr>
+<td><strong>Chains</strong></td>
+<td>Sequence of operations</td>
+<td>Multi-step workflows</td>
+</tr>
+<tr>
+<td><strong>Agents</strong></td>
+<td>Dynamic decision-making</td>
+<td>Tool selection, task planning</td>
+</tr>
+</tbody>
+</table>
+<h3>The Agent Loop</h3>
+<p>AI agents in LangChain operate through a continuous loop of perception, reasoning, and action. This loop, often referred to as the "Reasoning and Acting" (ReAct) pattern, enables agents to break down complex tasks into manageable steps, execute actions using available tools, and incorporate feedback to refine their approach. The agent loop begins with the agent receiving a user query or task, followed by the agent analyzing the request and determining which tools or actions are needed. The agent then executes the selected actions, observes the results, and iterates until the task is complete or the agent determines it needs additional information.</p>
+<h2>Step 1: Setting Up Your Environment</h2>
+<p>Before building AI agents, you need to set up a proper development environment with all necessary dependencies. This section guides you through the installation process and configuration steps required to start building with LangChain.</p>
+<h3>Installation Requirements</h3>
+<p>First, ensure you have Python 3.10 or higher installed on your system. LangChain supports both Python and JavaScript, but Python remains the primary language for agent development due to its extensive ecosystem and ML tooling. Create a virtual environment to isolate your project dependencies:</p>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># Create virtual environment</span>
+python -m venv langchain-env
+
+<span class="hljs-comment"># Activate on macOS/Linux</span>
+<span class="hljs-built_in">source</span> langchain-env/bin/activate
+
+<span class="hljs-comment"># Activate on Windows</span>
+langchain-env\Scripts\activate
+
+<span class="hljs-comment"># Install LangChain and dependencies</span>
+pip install langchain langchain-openai langchain-community
+pip install python-dotenv tiktoken chromadb
+</code></pre>
+<h3>Environment Configuration</h3>
+<p>Store your API keys and configuration securely using environment variables. Create a <code>.env</code> file in your project root:</p>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># .env file</span>
+OPENAI_API_KEY=your_openai_api_key_here
+ANTHROPIC_API_KEY=your_anthropic_api_key_here
+LANGCHAIN_TRACING_V2=<span class="hljs-literal">true</span>
+LANGCHAIN_API_KEY=your_langsmith_key_here
+</code></pre>
+<pre><code class="hljs language-python"><span class="hljs-comment"># config.py</span>
+<span class="hljs-keyword">import</span> os
+<span class="hljs-keyword">from</span> dotenv <span class="hljs-keyword">import</span> load_dotenv
+
+load_dotenv()
+
+OPENAI_API_KEY = os.getenv(<span class="hljs-string">"OPENAI_API_KEY"</span>)
+ANTHROPIC_API_KEY = os.getenv(<span class="hljs-string">"ANTHROPIC_API_KEY"</span>)
+</code></pre>
+<h2>Step 2: Building Your First Agent</h2>
+<p>Now that your environment is configured, let's build a simple AI agent that can answer questions and perform basic tasks. We'll start with a conversational agent that uses OpenAI's GPT-4 model as its foundation.</p>
+<h3>Basic Agent Implementation</h3>
+<pre><code class="hljs language-python"><span class="hljs-keyword">from</span> langchain_openai <span class="hljs-keyword">import</span> ChatOpenAI
+<span class="hljs-keyword">from</span> langchain.agents <span class="hljs-keyword">import</span> AgentExecutor, create_tool_calling_agent
+<span class="hljs-keyword">from</span> langchain_core.prompts <span class="hljs-keyword">import</span> ChatPromptTemplate
+<span class="hljs-keyword">from</span> langchain_core.tools <span class="hljs-keyword">import</span> tool
+
+<span class="hljs-comment"># Initialize the language model</span>
+llm = ChatOpenAI(
+    model=<span class="hljs-string">"gpt-4-turbo-preview"</span>,
+    temperature=<span class="hljs-number">0.7</span>
+)
+
+<span class="hljs-comment"># Define custom tools</span>
+<span class="hljs-meta">@tool</span>
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">get_current_weather</span>(<span class="hljs-params">location: <span class="hljs-built_in">str</span></span>) -> <span class="hljs-built_in">str</span>:
+    <span class="hljs-string">"""Get the current weather for a location."""</span>
+    <span class="hljs-comment"># In production, integrate with a real weather API</span>
+    <span class="hljs-keyword">return</span> <span class="hljs-string">f"The weather in <span class="hljs-subst">{location}</span> is sunny with 22°C"</span>
+
+<span class="hljs-meta">@tool</span>
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">calculate</span>(<span class="hljs-params">expression: <span class="hljs-built_in">str</span></span>) -> <span class="hljs-built_in">str</span>:
+    <span class="hljs-string">"""Evaluate a mathematical expression."""</span>
+    <span class="hljs-keyword">try</span>:
+        result = <span class="hljs-built_in">eval</span>(expression)
+        <span class="hljs-keyword">return</span> <span class="hljs-string">f"Result: <span class="hljs-subst">{result}</span>"</span>
+    <span class="hljs-keyword">except</span> Exception <span class="hljs-keyword">as</span> e:
+        <span class="hljs-keyword">return</span> <span class="hljs-string">f"Error: <span class="hljs-subst">{<span class="hljs-built_in">str</span>(e)}</span>"</span>
+
+<span class="hljs-comment"># Create tools list</span>
+tools = [get_current_weather, calculate]
+
+<span class="hljs-comment"># Create prompt template</span>
+prompt = ChatPromptTemplate.from_messages([
+    (<span class="hljs-string">"system"</span>, <span class="hljs-string">"You are a helpful AI assistant with access to tools."</span>),
+    (<span class="hljs-string">"human"</span>, <span class="hljs-string">"{input}"</span>),
+    (<span class="hljs-string">"placeholder"</span>, <span class="hljs-string">"{agent_scratchpad}"</span>)
+])
+
+<span class="hljs-comment"># Create the agent</span>
+agent = create_tool_calling_agent(llm, tools, prompt)
+
+<span class="hljs-comment"># Create agent executor</span>
+agent_executor = AgentExecutor(
+    agent=agent,
+    tools=tools,
+    verbose=<span class="hljs-literal">True</span>,
+    max_iterations=<span class="hljs-number">10</span>
+)
+
+<span class="hljs-comment"># Run the agent</span>
+result = agent_executor.invoke({
+    <span class="hljs-string">"input"</span>: <span class="hljs-string">"What's the weather in Dubai and what's 15 * 7?"</span>
+})
+
+<span class="hljs-built_in">print</span>(result[<span class="hljs-string">"output"</span>])
+</code></pre>
+<h3>Understanding the Code</h3>
+<p>The example above demonstrates the fundamental components of a LangChain agent. The <code>@tool</code> decorator converts Python functions into tools that the agent can use. The prompt template defines how the agent interacts with users and tools. The <code>AgentExecutor</code> manages the execution loop, handling tool calls and maintaining conversation state. The <code>verbose=True</code> parameter enables detailed logging, which is invaluable during development and debugging.</p>
+<h2>Step 3: Adding Memory and Context</h2>
+<p>Real-world AI agents need to maintain context across multiple interactions. LangChain provides several memory components that enable agents to remember previous conversations, user preferences, and task history. Adding memory transforms a stateless agent into a conversational partner capable of coherent, context-aware interactions.</p>
+<h3>Conversation Memory</h3>
+<pre><code class="hljs language-python"><span class="hljs-keyword">from</span> langchain.memory <span class="hljs-keyword">import</span> ConversationBufferMemory
+<span class="hljs-keyword">from</span> langchain.agents <span class="hljs-keyword">import</span> AgentExecutor, create_tool_calling_agent
+
+<span class="hljs-comment"># Create memory component</span>
+memory = ConversationBufferMemory(
+    memory_key=<span class="hljs-string">"chat_history"</span>,
+    return_messages=<span class="hljs-literal">True</span>
+)
+
+<span class="hljs-comment"># Update prompt to include memory</span>
+prompt = ChatPromptTemplate.from_messages([
+    (<span class="hljs-string">"system"</span>, <span class="hljs-string">"You are a helpful AI assistant."</span>),
+    (<span class="hljs-string">"placeholder"</span>, <span class="hljs-string">"{chat_history}"</span>),
+    (<span class="hljs-string">"human"</span>, <span class="hljs-string">"{input}"</span>),
+    (<span class="hljs-string">"placeholder"</span>, <span class="hljs-string">"{agent_scratchpad}"</span>)
+])
+
+<span class="hljs-comment"># Create agent with memory</span>
+agent = create_tool_calling_agent(llm, tools, prompt)
+
+agent_executor = AgentExecutor(
+    agent=agent,
+    tools=tools,
+    memory=memory,
+    verbose=<span class="hljs-literal">True</span>
+)
+</code></pre>
+<h3>Persistent Memory with Vector Stores</h3>
+<p>For agents that need to recall information across sessions, vector stores provide a scalable solution for persistent memory. This approach is particularly useful for building agents that learn from user interactions over time:</p>
+<pre><code class="hljs language-python"><span class="hljs-keyword">from</span> langchain_community.vectorstores <span class="hljs-keyword">import</span> Chroma
+<span class="hljs-keyword">from</span> langchain_openai <span class="hljs-keyword">import</span> OpenAIEmbeddings
+<span class="hljs-keyword">from</span> langchain.memory <span class="hljs-keyword">import</span> VectorStoreRetrieverMemory
+
+<span class="hljs-comment"># Create vector store</span>
+embeddings = OpenAIEmbeddings()
+vectorstore = Chroma(
+    embedding_function=embeddings,
+    persist_directory=<span class="hljs-string">"./chroma_db"</span>
+)
+
+<span class="hljs-comment"># Create retriever memory</span>
+retriever = vectorstore.as_retriever(
+    search_kwargs={<span class="hljs-string">"k"</span>: <span class="hljs-number">5</span>}
+)
+
+memory = VectorStoreRetrieverMemory(
+    retriever=retriever
+)
+</code></pre>
+<h2>Step 4: Building a RAG-Powered Agent</h2>
+<p>Retrieval-Augmented Generation (RAG) is a powerful technique that combines the reasoning capabilities of LLMs with the knowledge retrieval capabilities of vector databases. RAG-powered agents can access and reason over large document collections, making them ideal for knowledge-intensive applications like customer support, research assistance, and documentation search.</p>
+<h3>Document Processing Pipeline</h3>
+<pre><code class="hljs language-python"><span class="hljs-keyword">from</span> langchain_community.document_loaders <span class="hljs-keyword">import</span> PyPDFLoader, WebBaseLoader
+<span class="hljs-keyword">from</span> langchain_text_splitters <span class="hljs-keyword">import</span> RecursiveCharacterTextSplitter
+<span class="hljs-keyword">from</span> langchain_openai <span class="hljs-keyword">import</span> OpenAIEmbeddings
+<span class="hljs-keyword">from</span> langchain_community.vectorstores <span class="hljs-keyword">import</span> Chroma
+
+<span class="hljs-comment"># Load documents</span>
+pdf_loader = PyPDFLoader(<span class="hljs-string">"documents/guide.pdf"</span>)
+web_loader = WebBaseLoader(<span class="hljs-string">"https://example.com/docs"</span>)
+
+documents = pdf_loader.load() + web_loader.load()
+
+<span class="hljs-comment"># Split documents into chunks</span>
+text_splitter = RecursiveCharacterTextSplitter(
+    chunk_size=<span class="hljs-number">1000</span>,
+    chunk_overlap=<span class="hljs-number">200</span>,
+    length_function=<span class="hljs-built_in">len</span>
+)
+
+chunks = text_splitter.split_documents(documents)
+
+<span class="hljs-comment"># Create vector store</span>
+embeddings = OpenAIEmbeddings()
+vectorstore = Chroma.from_documents(
+    documents=chunks,
+    embedding=embeddings,
+    persist_directory=<span class="hljs-string">"./chroma_db"</span>
+)
+
+<span class="hljs-comment"># Create retriever</span>
+retriever = vectorstore.as_retriever(
+    search_type=<span class="hljs-string">"mmr"</span>,
+    search_kwargs={<span class="hljs-string">"k"</span>: <span class="hljs-number">5</span>, <span class="hljs-string">"fetch_k"</span>: <span class="hljs-number">10</span>}
+)
+</code></pre>
+<h3>RAG Agent Implementation</h3>
+<pre><code class="hljs language-python"><span class="hljs-keyword">from</span> langchain.tools.retriever <span class="hljs-keyword">import</span> create_retriever_tool
+
+<span class="hljs-comment"># Create retriever tool</span>
+retriever_tool = create_retriever_tool(
+    retriever,
+    <span class="hljs-string">"knowledge_base"</span>,
+    <span class="hljs-string">"Search through the company knowledge base for relevant information"</span>
+)
+
+<span class="hljs-comment"># Add to tools list</span>
+tools = [retriever_tool, get_current_weather, calculate]
+
+<span class="hljs-comment"># Create agent with RAG capabilities</span>
+agent = create_tool_calling_agent(llm, tools, prompt)
+
+agent_executor = AgentExecutor(
+    agent=agent,
+    tools=tools,
+    verbose=<span class="hljs-literal">True</span>,
+    handle_parsing_errors=<span class="hljs-literal">True</span>
+)
+
+<span class="hljs-comment"># Query the knowledge base</span>
+result = agent_executor.invoke({
+    <span class="hljs-string">"input"</span>: <span class="hljs-string">"What does our documentation say about API rate limits?"</span>
+})
+</code></pre>
+<h2>Advanced Agent Patterns</h2>
+<h3>Multi-Agent Systems</h3>
+<p>As applications grow in complexity, single agents may become insufficient. Multi-agent systems enable specialization, where different agents handle different aspects of a task. LangGraph, an extension of LangChain, provides powerful primitives for building multi-agent workflows:</p>
+<pre><code class="hljs language-python"><span class="hljs-keyword">from</span> langgraph.graph <span class="hljs-keyword">import</span> StateGraph, END
+<span class="hljs-keyword">from</span> typing <span class="hljs-keyword">import</span> TypedDict, Annotated
+<span class="hljs-keyword">import</span> operator
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">AgentState</span>(<span class="hljs-title class_ inherited__">TypedDict</span>):
+    messages: Annotated[<span class="hljs-built_in">list</span>, operator.add]
+    next_agent: <span class="hljs-built_in">str</span>
+
+<span class="hljs-comment"># Define specialized agents</span>
+research_agent = create_research_agent()
+analysis_agent = create_analysis_agent()
+writing_agent = create_writing_agent()
+
+<span class="hljs-comment"># Build workflow graph</span>
+workflow = StateGraph(AgentState)
+
+workflow.add_node(<span class="hljs-string">"research"</span>, research_agent)
+workflow.add_node(<span class="hljs-string">"analysis"</span>, analysis_agent)
+workflow.add_node(<span class="hljs-string">"writing"</span>, writing_agent)
+
+workflow.add_edge(<span class="hljs-string">"research"</span>, <span class="hljs-string">"analysis"</span>)
+workflow.add_edge(<span class="hljs-string">"analysis"</span>, <span class="hljs-string">"writing"</span>)
+workflow.add_edge(<span class="hljs-string">"writing"</span>, END)
+
+workflow.set_entry_point(<span class="hljs-string">"research"</span>)
+
+app = workflow.<span class="hljs-built_in">compile</span>()
+</code></pre>
+<h3>Human-in-the-Loop Pattern</h3>
+<p>For critical decisions, agents can be configured to request human approval before proceeding. This pattern is essential for applications in regulated industries or where errors could have significant consequences:</p>
+<pre><code class="hljs language-python"><span class="hljs-keyword">from</span> langchain.agents <span class="hljs-keyword">import</span> AgentExecutor
+
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">human_approval</span>(<span class="hljs-params">tool_input: <span class="hljs-built_in">str</span></span>) -> <span class="hljs-built_in">bool</span>:
+    <span class="hljs-string">"""Request human approval for sensitive actions."""</span>
+    response = <span class="hljs-built_in">input</span>(<span class="hljs-string">f"Approve action: <span class="hljs-subst">{tool_input}</span>? (y/n): "</span>)
+    <span class="hljs-keyword">return</span> response.lower() == <span class="hljs-string">"y"</span>
+
+agent_executor = AgentExecutor(
+    agent=agent,
+    tools=tools,
+    verbose=<span class="hljs-literal">True</span>,
+    handle_parsing_errors=<span class="hljs-literal">True</span>,
+    max_iterations=<span class="hljs-number">10</span>,
+    early_stopping_method=<span class="hljs-string">"generate"</span>
+)
+</code></pre>
+<h2>Production Considerations</h2>
+<h3>Error Handling and Retry Logic</h3>
+<p>Production agents need robust error handling to manage API failures, tool errors, and unexpected inputs. Implementing retry logic and graceful degradation ensures your agents remain responsive even when components fail:</p>
+<pre><code class="hljs language-python"><span class="hljs-keyword">from</span> tenacity <span class="hljs-keyword">import</span> retry, stop_after_attempt, wait_exponential
+<span class="hljs-keyword">from</span> langchain_core.exceptions <span class="hljs-keyword">import</span> OutputParserException
+
+<span class="hljs-meta">@retry(<span class="hljs-params">
+    stop=stop_after_attempt(<span class="hljs-params"><span class="hljs-number">3</span></span>),
+    wait=wait_exponential(<span class="hljs-params">multiplier=<span class="hljs-number">1</span>, <span class="hljs-built_in">min</span>=<span class="hljs-number">4</span>, <span class="hljs-built_in">max</span>=<span class="hljs-number">10</span></span>)
+</span>)</span>
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">run_agent_with_retry</span>(<span class="hljs-params">agent_executor, input_text</span>):
+    <span class="hljs-keyword">try</span>:
+        <span class="hljs-keyword">return</span> agent_executor.invoke({<span class="hljs-string">"input"</span>: input_text})
+    <span class="hljs-keyword">except</span> OutputParserException <span class="hljs-keyword">as</span> e:
+        <span class="hljs-built_in">print</span>(<span class="hljs-string">f"Parsing error: <span class="hljs-subst">{e}</span>"</span>)
+        <span class="hljs-keyword">return</span> {<span class="hljs-string">"output"</span>: <span class="hljs-string">"I encountered an error. Please try again."</span>}
+    <span class="hljs-keyword">except</span> Exception <span class="hljs-keyword">as</span> e:
+        <span class="hljs-built_in">print</span>(<span class="hljs-string">f"Unexpected error: <span class="hljs-subst">{e}</span>"</span>)
+        <span class="hljs-keyword">raise</span>
+</code></pre>
+<h3>Monitoring and Observability</h3>
+<p>LangSmith provides comprehensive monitoring capabilities for LangChain applications. Enable tracing to track agent behavior, identify bottlenecks, and debug issues:</p>
+<pre><code class="hljs language-python"><span class="hljs-keyword">import</span> os
+
+os.environ[<span class="hljs-string">"LANGCHAIN_TRACING_V2"</span>] = <span class="hljs-string">"true"</span>
+os.environ[<span class="hljs-string">"LANGCHAIN_PROJECT"</span>] = <span class="hljs-string">"production-agents"</span>
+os.environ[<span class="hljs-string">"LANGCHAIN_API_KEY"</span>] = <span class="hljs-string">"your_langsmith_key"</span>
+</code></pre>
+<h2>Best Practices Summary</h2>
+<p>Building production-ready AI agents requires attention to several key areas beyond the core implementation. The following best practices will help ensure your agents are reliable, maintainable, and effective:</p>
+<table>
+<thead>
+<tr>
+<th>Practice</th>
+<th>Description</th>
+<th>Benefit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Prompt Engineering</strong></td>
+<td>Craft clear, specific prompts with examples</td>
+<td>Improves agent accuracy</td>
+</tr>
+<tr>
+<td><strong>Tool Design</strong></td>
+<td>Create focused, single-purpose tools</td>
+<td>Reduces errors, improves debugging</td>
+</tr>
+<tr>
+<td><strong>Memory Management</strong></td>
+<td>Limit context window, use summarization</td>
+<td>Controls costs, improves performance</td>
+</tr>
+<tr>
+<td><strong>Error Handling</strong></td>
+<td>Implement retries, fallbacks, and logging</td>
+<td>Ensures reliability</td>
+</tr>
+<tr>
+<td><strong>Testing</strong></td>
+<td>Create comprehensive test suites</td>
+<td>Catches issues before production</td>
+</tr>
+<tr>
+<td><strong>Security</strong></td>
+<td>Validate inputs, limit tool permissions</td>
+<td>Prevents misuse</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>Ready to Build Your AI Agent?</strong></p>
+<p>Our team specializes in developing custom AI agents tailored to your business needs. From simple chatbots to complex multi-agent systems, we deliver solutions that drive efficiency and innovation.</p>
+<p><a href="/en/contact">Contact Us</a> | <a href="/en/services?s=ai-agents">AI Services</a></p>
+</blockquote>5:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$e"}}]]}]
+6:["$","$Lf",null,{}]
+7:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"Related reading"}],["$","ul",null,{"children":[["$","li","ai-agents-business-guide",{"children":["$","$L3",null,{"href":"/en/blog/ai-agents-business-guide","prefetch":false,"children":"AI Agents for Business: Beyond Basic Automation"}]}],["$","li","ai-agents-vs-chatbots-comparison",{"children":["$","$L3",null,{"href":"/en/blog/ai-agents-vs-chatbots-comparison","prefetch":false,"children":"AI agents and chatbots: tasks, tools and control"}]}],["$","li","physical-ai-robotics-2026",{"children":["$","$L3",null,{"href":"/en/blog/physical-ai-robotics-2026","prefetch":false,"children":"Physical AI: When Intelligence Meets the Real World"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/en/services","prefetch":false,"children":"Explore services"}]]}]
+8:["$","$L10",null,{"publisherId":"ca-pub-2312883254868411"}]
+9:["$","$L11",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+a:["$","$L12",null,{}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+d:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

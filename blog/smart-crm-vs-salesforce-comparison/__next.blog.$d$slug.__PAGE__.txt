@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+10:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+11:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T84b,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/smart-crm-vs-salesforce-comparison#webpage","url":"https://www.smart.sd/blog/smart-crm-vs-salesforce-comparison","name":"CRM مخصص وSalesforce: مقارنة الإجراءات والتكلفة","description":"قارن CRM مخصصًا وSalesforce وفق إجراءات المبيعات والتكاملات واستخدام الفريق والتكلفة الكلية. اختبر المهام المطلوبة بدل افتراض ملاءمة خيار للجميع.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/smart-crm-vs-salesforce-comparison#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/smart-crm-vs-salesforce-comparison#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/smart-crm-vs-salesforce-comparison#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"CRM مخصص وSalesforce: مقارنة الإجراءات والتكلفة","item":"https://www.smart.sd/blog/smart-crm-vs-salesforce-comparison"}]},{"@id":"https://www.smart.sd/blog/smart-crm-vs-salesforce-comparison#entity","inLanguage":"ar","@type":"BlogPosting","headline":"CRM مخصص وSalesforce: مقارنة الإجراءات والتكلفة","description":"قارن CRM مخصصًا وSalesforce وفق إجراءات المبيعات والتكاملات واستخدام الفريق والتكلفة الكلية. اختبر المهام المطلوبة بدل افتراض ملاءمة خيار للجميع.","datePublished":"2026-02-14","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/smart-crm-vs-salesforce-comparison","image":"https://www.smart.sd/blog/smart_crm_vs_salesforce_cover.png"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/smart-crm-vs-salesforce-comparison",{"children":["$","span",null,{"aria-current":"page","children":"CRM مخصص وSalesforce: مقارنة الإجراءات والتكلفة"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"أنظمة المؤسسات"}],["$","time",null,{"dateTime":"2026-02-14","children":"14 فبراير 2026"}]]}],["$","h1",null,{"children":"CRM مخصص وSalesforce: مقارنة الإجراءات والتكلفة"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"قارن CRM مخصصًا وSalesforce وفق إجراءات المبيعات والتكاملات واستخدام الفريق والتكلفة الكلية. اختبر المهام المطلوبة بدل افتراض ملاءمة خيار للجميع."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/smart_crm_vs_salesforce_cover.png","alt":"CRM مخصص وSalesforce: مقارنة الإجراءات والتكلفة","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],["$","div",null,{"className":"reading-content","children":["$L5"]}],null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+d:T1125,<h2>مقدمة: "ضريبة التعقيد" في Salesforce</h2>
+<p>تعد Salesforce العملاق الذي لا ينافس في عالم الـ CRM. ولكن بالنسبة للعديد من الشركات المتوسطة والكبيرة، تحولت المنصة إلى "ثقب أسود" للميزانيات. أنت تدفع مقابل آلاف الميزات المتخصصة، بينما لا يستخدم فريق مبيعاتك سوى 10% منها. والأسوأ من ذلك، أنك تحتاج لموظف متخصص بدوام كامل فقط لتعديل حقل بسيط في النظام.</p>
+<p><strong>سمارت CRM</strong> من سمارت تيم ليس مجرد قاعدة بيانات؛ إنه <strong>مسرّع مبيعات</strong>. لقد قمنا بإزالة "الترهل" البرمجي واستبدلناه برؤى مدعومة بالذكاء الاصطناعي تساعدك فعلياً في إغلاق الصفقات.</p>
+<h2>مواجهة العائد على الاستثمار (ROI)</h2>
+<table>
+<thead>
+<tr>
+<th>العامل</th>
+<th>سمارت CRM (حلولنا)</th>
+<th>Salesforce (السحابة القياسية)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>التنفيذ</strong></td>
+<td><strong>أسابيع (جاهز للعمل)</strong></td>
+<td>شهور (استشارات مكثفة)</td>
+</tr>
+<tr>
+<td><strong>تبني المستخدمين</strong></td>
+<td>عالٍ (واجهة بديهية)</td>
+<td>منخفض (صعوبة في التعلم)</td>
+</tr>
+<tr>
+<td><strong>التسعير</strong></td>
+<td><strong>شفاف وثابت</strong></td>
+<td>رسوم مخفية وفخاخ "الإضافات"</td>
+</tr>
+<tr>
+<td><strong>الذكاء الاصطناعي</strong></td>
+<td>مدمج ونشط تلقائياً</td>
+<td>إضافات "Einstein" المكلفة</td>
+</tr>
+<tr>
+<td><strong>الوصول للموبايل</strong></td>
+<td>فائق السرعة، يعمل بـ Offline</td>
+<td>ثقيل وبطيء</td>
+</tr>
+</tbody>
+</table>
+<h3>1. مصمم للفعل، وليس فقط للتدوين</h3>
+<p>معظم أنظمة الـ CRM ليست سوى جداول بيانات منسقة؛ أما <strong>سمارت CRM</strong> فمبني لرجل المبيعات "العملي". يقوم ذكاؤنا الاصطناعي تلقائياً باقتراح الخطوة التالية لكل عميل محتمل، ويحلل مشاعر العملاء في رسائل البريد، ويتوقع الصفقات المرجح إغلاقها. أنت لا "تخزن" البيانات فحسب، بل "تستخدمها" لتوليد الأرباح.</p>
+<h3>2. فخ الصيانة المستمرة</h3>
+<p>مع Salesforce، غالباً ما تجد نفسك عالقاً في دورة من توظيف المستشارين المكلفين لكل تعديل بسيط. تم تصميم سمارت CRM ليكون مرناً؛ حيث يمكن لمديريك تعديل مسارات العمل (Pipelines) في دقائق وليس أيام. نؤمن بأن الـ CRM يجب أن يخدم فريق المبيعات، وليس العكس.</p>
+<h3>3. ذكاء متكامل (شامل للكل)</h3>
+<p>بينما تفرض Salesforce رسوماً إضافية لكل وحدة متقدمة (AI، تسويق، تحليلات)، يأتي سمارت CRM محملاً بمجموعة كاملة ومتكاملة. من تسجيل نقاط العملاء (Lead Scoring) إلى التوقعات المالية المتقدمة، كل شيء منسوج في تجربة واحدة متماسكة.</p>
+<h2>الخلاصة</h2>
+<p>إذا كان لديك ميزانية بملايين الدولارات لإهدارها على المستشارين و"تذاكر السحابة"، فتوجه لـ Salesforce. ولكن إذا كنت تريد <strong>ماكينة مبيعات ذكية ورشيقة</strong> يحب فريقك استخدامها فعلياً، فإن <strong>سمارت CRM</strong> هو الرابح بلا منازع.</p>
+<blockquote>
+<p><strong>هل سئمت من الأنظمة المعقدة والمكلفة؟</strong></p>
+<p>حان الوقت للانتقال إلى نظام يضع نمو أرباحك كأولوية، وليس قيمة فاتورتك الشهرية.</p>
+<p><a href="/contact">احجز عرضاً تجريبياً لـ Smart CRM</a> | <a href="/services/automation">عرض باقة الأعمال الذكية</a></p>
+</blockquote>5:["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$d"}}]
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","smart-erp-vs-sap-comparison",{"children":["$","$L3",null,{"href":"/blog/smart-erp-vs-sap-comparison","prefetch":false,"children":"ERP مخصص وSAP Business One: خيارات التنفيذ"}]}],["$","li","smart-erp-manufacturing-vs-dynamics-comparison",{"children":["$","$L3",null,{"href":"/blog/smart-erp-manufacturing-vs-dynamics-comparison","prefetch":false,"children":"ERP التصنيع وMicrosoft Dynamics: تقييم ملاءمة النظام"}]}],["$","li","smart-erp-vs-odoo-comparison",{"children":["$","$L3",null,{"href":"/blog/smart-erp-vs-odoo-comparison","prefetch":false,"children":"ERP مخصص وOdoo: الوحدات والتعديلات والدعم"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+7:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$L10",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

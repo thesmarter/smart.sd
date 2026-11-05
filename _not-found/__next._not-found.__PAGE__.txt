@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"studio-container status-page","children":[["$","p",null,{"className":"status-code","aria-hidden":"true","children":"404"}],["$","h1",null,{"children":"الصفحة غير موجودة"}],["$","p",null,{"children":"تحقّق من الرابط، أو انتقل إلى الخدمات للعثور على الصفحة التي تحتاجها."}],["$","div",null,{"className":"status-actions","children":[["$","$L2",null,{"href":"/","className":"button button-primary","prefetch":false,"children":"الرئيسية"}],["$","$L2",null,{"href":"/services","className":"button button-secondary","prefetch":false,"children":"استكشف الخدمات"}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+5:null

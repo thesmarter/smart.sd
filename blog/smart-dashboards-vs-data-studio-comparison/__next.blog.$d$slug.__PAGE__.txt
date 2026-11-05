@@ -1,0 +1,72 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+10:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+11:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T878,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/smart-dashboards-vs-data-studio-comparison#webpage","url":"https://www.smart.sd/blog/smart-dashboards-vs-data-studio-comparison","name":"لوحات البيانات المخصصة وأدوات تقارير Google","description":"قارن لوحات مخصصة وأدوات تقارير Google وفق مصادر البيانات وتحديثها والصلاحيات وإجراءات المستخدم. حدد القرار الذي يساعد عليه كل تقرير.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/smart-dashboards-vs-data-studio-comparison#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/smart-dashboards-vs-data-studio-comparison#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/smart-dashboards-vs-data-studio-comparison#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"لوحات البيانات المخصصة وأدوات تقارير Google","item":"https://www.smart.sd/blog/smart-dashboards-vs-data-studio-comparison"}]},{"@id":"https://www.smart.sd/blog/smart-dashboards-vs-data-studio-comparison#entity","inLanguage":"ar","@type":"BlogPosting","headline":"لوحات البيانات المخصصة وأدوات تقارير Google","description":"قارن لوحات مخصصة وأدوات تقارير Google وفق مصادر البيانات وتحديثها والصلاحيات وإجراءات المستخدم. حدد القرار الذي يساعد عليه كل تقرير.","datePublished":"2026-02-26","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/smart-dashboards-vs-data-studio-comparison","image":"https://www.smart.sd/blog/smart_dashboards_vs_data_studio_cover-optimized.webp"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/smart-dashboards-vs-data-studio-comparison",{"children":["$","span",null,{"aria-current":"page","children":"لوحات البيانات المخصصة وأدوات تقارير Google"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"تقنية"}],["$","time",null,{"dateTime":"2026-02-26","children":"26 فبراير 2026"}]]}],["$","h1",null,{"children":"لوحات البيانات المخصصة وأدوات تقارير Google"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"قارن لوحات مخصصة وأدوات تقارير Google وفق مصادر البيانات وتحديثها والصلاحيات وإجراءات المستخدم. حدد القرار الذي يساعد عليه كل تقرير."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/smart_dashboards_vs_data_studio_cover-optimized.webp","alt":"لوحات البيانات المخصصة وأدوات تقارير Google","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],"$L5",null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+d:T14a8,<h2>مشكلة "الغرق في البيانات"</h2>
+<p>كل شركة حديثة تجمع البيانات. المشكلة في عام 2026 لم تعد في الحصول على البيانات، بل في فهمها. تلجأ العديد من الشركات إلى أدوات مجانية أو سهلة الوصول مثل Google Data Studio (المعروف الآن باسم Looker Studio) لبناء تقاريرها. تبدأ الأمور بشكل جيد، ولكن سرعان ما يجد المديرون أنفسهم يحدقون في رسوم بيانية تقليدية لا تخبرهم فعلياً بالخطوة التالية التي يجب اتخاذها.</p>
+<p>في <strong>سمارت تيم</strong>، نقوم ببناء <strong>لوحات التحكم الذكية (Smart Dashboards)</strong> لأننا نؤمن بأن ذكاء الأعمال يجب أن يكون <em>ذكياً</em> حقاً، وليس مجرد عرض مرئي لصفوف الجداول. إليك كيف تقارن لوحات التحكم المتخصصة بأدوات ذكاء الأعمال العامة.</p>
+<h2>الذكاء المخصص مقابل العام</h2>
+<table>
+<thead>
+<tr>
+<th>الميزة</th>
+<th>Smart Dashboards</th>
+<th>Google Data Studio (Looker)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>مصادر البيانات</strong></td>
+<td>ربط عميق مع أنظمة ERP/POS المحلية</td>
+<td>ممتاز لإعلانات وإحصاءات جوجل</td>
+</tr>
+<tr>
+<td><strong>سرعة التحديث</strong></td>
+<td>لحظي / استعلام مباشر</td>
+<td>غالباً متأخر / مخزن مؤقتاً</td>
+</tr>
+<tr>
+<td><strong>إجراءات مخصصة</strong></td>
+<td>انقر على الرسم لتنفيذ أمر (مثل طلب شراء)</td>
+<td>واجهة للعرض فقط</td>
+</tr>
+<tr>
+<td><strong>الأمان والخصوصية</strong></td>
+<td>استضافة على خوادمك المحلية/الخاصة</td>
+<td>البيانات تدار بواسطة جوجل</td>
+</tr>
+<tr>
+<td><strong>تجربة المستخدم</strong></td>
+<td>تركز على القصة الموجهة للمديرين (C-Level)</td>
+<td>أداة موجهة لمحللي البيانات</td>
+</tr>
+</tbody>
+</table>
+<h3>1. الربط مع البيانات "المعقدة"</h3>
+<p>يعتبر Data Studio عبقرياً إذا كانت كل بياناتك موجودة في Google Analytics أو جداول سحابية بسيطة. ولكن ماذا لو كانت بياناتك الأكثر أهمية عالقة داخل برنامج محاسبة محلي عمره 15 عاماً، ونظام موارد بشرية مخصص، وثلاث بوابات دفع إقليمية مختلفة؟ صُممت <strong>لوحات تحكم سمارت</strong> للغوص في قواعد البيانات المحلية المعقدة هذه وسحبها إلى واجهة موحدة وجميلة دون أدنى مشكلة.</p>
+<h3>2. من "المشاهدة" إلى "اتخاذ القرار"</h3>
+<p>لوحة التحكم العادية تخبرك أن المخزون منخفض. أما <strong>لوحة التحكم الذكية</strong> فتخبرك أن المخزون منخفض <em>وتتضمن</em> زراً آمناً بجوار الرسم البياني لإنشاء أمر شراء تلقائياً في نظام الـ ERP الخاص بك. نحن نسد الفجوة بين التحليلات والعمليات؛ فبدلاً من مجرد المشاهدة، يمكنك اتخاذ الإجراء من نفس الشاشة.</p>
+<h3>3. السيادة على البيانات</h3>
+<p>بالنسبة للعديد من المؤسسات الإقليمية، تحدد اللوائح الحكومية بصرامة أماكن تخزين البيانات. إرسال بياناتك المالية أو بيانات عملائك الحساسة إلى أدوات سحابية عالمية قد ينتهك معايير الامتثال لكثير من المؤسسات. يمكن نشر <strong>لوحات تحكم سمارت</strong> بالكامل على خوادمك الداخلية (On-premise) أو على خوادم سحابية محلية، مما يضمن السيادة الكاملة والأمان التام لبياناتك.</p>
+<h2>خيار الإدارة العليا</h2>
+<p>إذا كنت وكالة تسويق تحتاج إلى إرسال تقارير زيارات شهرية للعملاء، فإن Google Data Studio هو الحل المثالي لك.</p>
+<p>ولكن إذا كنت <strong>رئيساً تنفيذياً، أو مدير عمليات، أو مديراً مالياً</strong>، وتحتاج إلى مركز قيادة آمن ولحظي يربط أدواتك الإقليمية المحددة ويساعدك على اتخاذ قرارات مالية فورية، فإن <strong>Smart Dashboards</strong> ستغير الطريقة التي تدير بها عملك.</p>
+<blockquote>
+<p><strong>هل بياناتك مجرد أرقام أم قرارات قادمة؟</strong></p>
+<p>دعنا نحوّل بياناتك المشتتة إلى مركز قيادة ذكي وموثوق.</p>
+<p><a href="/contact">اطلب استشارة في ذكاء الأعمال</a> | <a href="/services">استكشف حلول البيانات</a></p>
+</blockquote>5:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$d"}}]]}]
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","flutter-mvp-development-2026",{"children":["$","$L3",null,{"href":"/blog/flutter-mvp-development-2026","prefetch":false,"children":"تخطيط الإصدار الأول من تطبيق الجوال باستخدام Flutter"}]}],["$","li","mobile-security-vs-freelancers-comparison",{"children":["$","$L3",null,{"href":"/blog/mobile-security-vs-freelancers-comparison","prefetch":false,"children":"أمن تطبيقات الجوال: متطلبات اختيار فريق التطوير"}]}],["$","li","future-of-ai-agents-2026",{"children":["$","$L3",null,{"href":"/blog/future-of-ai-agents-2026","prefetch":false,"children":"وكلاء الذكاء الاصطناعي: القدرات والتقييم وحدود التشغيل"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+7:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$L10",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

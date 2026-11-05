@@ -1,0 +1,70 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+d:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+f:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+10:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T7b3,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/nextjs-vs-wordpress-comparison#webpage","url":"https://www.smart.sd/blog/nextjs-vs-wordpress-comparison","name":"Next.js وWordPress: احتياجات التطوير والنشر","description":"يلبي Next.js وWordPress احتياجات مختلفة للتطوير والنشر. قارن تحرير المحتوى والتخصيص والاستضافة والصيانة قبل اختيار التقنية.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/nextjs-vs-wordpress-comparison#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/nextjs-vs-wordpress-comparison#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/nextjs-vs-wordpress-comparison#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"Next.js وWordPress: احتياجات التطوير والنشر","item":"https://www.smart.sd/blog/nextjs-vs-wordpress-comparison"}]},{"@id":"https://www.smart.sd/blog/nextjs-vs-wordpress-comparison#entity","inLanguage":"ar","@type":"BlogPosting","headline":"Next.js وWordPress: احتياجات التطوير والنشر","description":"يلبي Next.js وWordPress احتياجات مختلفة للتطوير والنشر. قارن تحرير المحتوى والتخصيص والاستضافة والصيانة قبل اختيار التقنية.","datePublished":"2026-02-14","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/nextjs-vs-wordpress-comparison","image":"https://www.smart.sd/blog/nextjs_vs_wordpress_cover.png"}]}5:Tff1,<h2>مقدمة: نهاية عصر "الأنظمة التقليدية"</h2>
+<p>لأكثر من عقدين، سيطر WordPress على الويب. ولكن في عام 2026، تغيرت متطلبات الإنترنت؛ حيث يتوقع المستخدمون تحميلاً فورياً، وتقوم خوارزميات جوجل الآن بمعاقبة المواقع "الثقيلة" والمكتظة بالأكواد غير الضرورية.</p>
+<p>في <strong>سمارت تيم</strong>، نقوم ببناء المواقع باستخدام تقنية <strong>Next.js</strong>—وهي نفس التقنية التي تستخدمها شركات مثل Meta و Netflix و TikTok. إليك لماذا يعد الانتقال من WordPress إلى البنية الحديثة أهم قرار تجاري ستتخذه هذا العام.</p>
+<h2>المقارنة النهائية</h2>
+<table>
+<thead>
+<tr>
+<th>الميزة</th>
+<th>Next.js (سمارت تيم)</th>
+<th>WordPress (القياسي)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>السرعة الجوهرية</strong></td>
+<td>أقل من ثانية (فوري)</td>
+<td>غالباً بطيء (3 ثوانٍ+)</td>
+</tr>
+<tr>
+<td><strong>الأمان التقني</strong></td>
+<td><strong>ثابت وغير قابل للاختراق</strong></td>
+<td>ثغرات مستمرة (بسبب الإضافات)</td>
+</tr>
+<tr>
+<td><strong>تصنيف SEO</strong></td>
+<td>مثالي (Core Web Vitals)</td>
+<td>صعب التحسين دون إثقال الموقع</td>
+</tr>
+<tr>
+<td><strong>الصيانة</strong></td>
+<td>صيانة تقنية شبه صفرية</td>
+<td>تحديثات مستمرة وانهيارات مفاجئة</td>
+</tr>
+<tr>
+<td><strong>تجربة المستخدم</strong></td>
+<td>انسيابية مثل التطبيقات</td>
+<td>إعادة تحميل الصفحات وجمود</td>
+</tr>
+</tbody>
+</table>
+<h3>1. الأمان: نم بعمق وهدوء</h3>
+<p>WordPress هو الهدف رقم 1 للقراصنة (Hackers) في العالم بسبب اعتماده على الإضافات (Plugins). إضافة واحدة قديمة قد تعني تسريب بيانات شركتك بالكامل. أما <strong>Next.js</strong>، فهو يقدم واجهة "ثابتة"، مما يعني عدم وجود قواعد بيانات مكشوفة للإنترنت العام، مما يجعله آمناً تماماً وبشكل يفوق الطرق التقليدية.</p>
+<h3>2. الأداء: الفوز في سباق الـ SEO</h3>
+<p>تعد معايير <strong>Core Web Vitals</strong> من جوجل هي سر الوصول للمركز الأول. تعاني مواقع WordPress غالباً من بطء الاستجابة بسبب القوالب الثقيلة والاستعلامات المتعددة لقاعدة البيانات. يقوم Next.js بـ "الرندرة المسبقة" لكل صفحة، مما يجعل موقعك يفتح قبل أن يبدأ موقع منافسك حتى في الظهور.</p>
+<h3>3. حرية إبداعية مطلقة</h3>
+<p>WordPress يحبسك داخل "قوالب" جاهزة. إذا أردت ميزة فريدة، ستضطر غالباً للرضا بإضافة "جيدة بما يكفي". مع Next.js، نحن نبني ما يحتاجه براندك بالضبط—بدون تنازلات، وبدون حدود.</p>
+<h2>الخلاصة</h2>
+<p>WordPress هو أداة من الماضي، بينما <strong>Next.js</strong> هو تكنولوجيا المستقبل. إذا كنت جاداً بشأن حضورك الرقمي، فأنت لا تحتاج فقط إلى "نظام إدارة محتوى"، بل تحتاج إلى تطبيق ويب عالي الأداء.</p>
+<blockquote>
+<p><strong>هل أنت جاهز لتسريع علامتك التجارية؟</strong></p>
+<p>لا تدع الموقع البطيء يقتل مبيعاتك. دعنا ننقل موقعك القديم إلى مستقبل الويب.</p>
+<p><a href="/contact">تواصل معنا لاستشارة فنية</a> | <a href="/portfolio">اعرض أعمالنا</a></p>
+</blockquote>0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/nextjs-vs-wordpress-comparison",{"children":["$","span",null,{"aria-current":"page","children":"Next.js وWordPress: احتياجات التطوير والنشر"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"التطوير"}],["$","time",null,{"dateTime":"2026-02-14","children":"14 فبراير 2026"}]]}],["$","h1",null,{"children":"Next.js وWordPress: احتياجات التطوير والنشر"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"يلبي Next.js وWordPress احتياجات مختلفة للتطوير والنشر. قارن تحرير المحتوى والتخصيص والاستضافة والصيانة قبل اختيار التقنية."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/nextjs_vs_wordpress_cover.png","alt":"Next.js وWordPress: احتياجات التطوير والنشر","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$5"}}]]}],null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","flutter-mvp-development-2026",{"children":["$","$L3",null,{"href":"/blog/flutter-mvp-development-2026","prefetch":false,"children":"تخطيط الإصدار الأول من تطبيق الجوال باستخدام Flutter"}]}],["$","li","smart-ecommerce-vs-shopify-comparison",{"children":["$","$L3",null,{"href":"/blog/smart-ecommerce-vs-shopify-comparison","prefetch":false,"children":"التجارة الإلكترونية المخصصة وShopify: اختيار المنصة"}]}],["$","li","nextjs-15-react-19-features",{"children":["$","$L3",null,{"href":"/blog/nextjs-15-react-19-features","prefetch":false,"children":"Next.js 15 و React 19: ميزات ثورية لتطوير الويب الحديث"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+7:["$","$Ld",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$Lf",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

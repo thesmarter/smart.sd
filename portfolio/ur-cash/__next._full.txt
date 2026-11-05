@@ -1,0 +1,185 @@
+1:"$Sreact.fragment"
+3:I[39756,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+6:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+e:I[53348,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0n-2i.hj9v09b.js"],"default"]
+:HL["/_next/static/chunks/0odh04soik34o.css","style"]
+:HL["/_next/static/chunks/0qenrobftlhw-.css","style"]
+:HL["/_next/static/media/9ff27b8a0a8f3dc0-s.p.170gfl_1xpie6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d41831e24743a3c1-s.p.02r-fjhi~6g_a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","portfolio","ur-cash",""],"q":"","i":false,"f":[[["",{"children":["portfolio",{"children":[["slug","ur-cash","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0odh04soik34o.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0qenrobftlhw-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0~82jkybqn1h8.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0a08zi_6aqxfs.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/07i~.d4axjz_q.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/0x930e0hj6.tc.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0odh04soik34o.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0qenrobftlhw-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"W4pMMQcotTdhPwZrO_qkO"}
+f:[]
+9:"$Wf"
+11:I[27443,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ThemeProvider"]
+12:I[17139,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"LanguageProvider"]
+13:I[80733,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+14:I[94539,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ThirdPartyScripts"]
+15:I[93983,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+16:I[8821,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0zquxebu1pj7o.js"],"default"]
+18:I[87392,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+10:T4f8,{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.smart.sd/#organization","name":"Smart Team IT","alternateName":["Smart Team","سمارت تيم"],"url":"https://www.smart.sd","logo":{"@type":"ImageObject","url":"https://www.smart.sd/logo-w.png","width":1143,"height":1206},"foundingDate":"2015","description":"سمارت تيم شركة برمجيات تعمل منذ 2015. نطوّر أنظمة ERP والمواقع وتطبيقات الجوال وحلول الدفع لأعمال في السودان والسعودية والإمارات.","email":"info@smart.sd","address":{"@type":"PostalAddress","addressLocality":"Khartoum","addressCountry":"SD"},"areaServed":["SD","SA","AE"],"contactPoint":{"@type":"ContactPoint","contactType":"sales","email":"info@smart.sd","url":"https://www.smart.sd/contact","areaServed":["SD","SA","AE"],"availableLanguage":["Arabic","English"]},"sameAs":["https://www.facebook.com/SmartTeamSd","https://x.com/smart_team_sd","https://www.linkedin.com/company/thesmart-team/"]},{"@type":"WebSite","@id":"https://www.smart.sd/#website","url":"https://www.smart.sd","name":"Smart Team","alternateName":"سمارت تيم","inLanguage":["ar","en"],"publisher":{"@id":"https://www.smart.sd/#organization"}}]}2:["$","html",null,{"lang":"ar","dir":"rtl","className":"cairo_883b24e3-module__pW5XIG__variable montserrat_b2573e6e-module__vkGO5a__variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('theme');var t=s==='light'||s==='dark'?s:matchMedia('(prefers-color-scheme:light)').matches?'light':'dark';document.documentElement.dataset.theme=t;document.documentElement.classList.toggle('dark',t==='dark');var m=document.querySelector('meta[name=\"theme-color\"]');if(m)m.content=t==='dark'?'#101b2b':'#f3f6fa';}catch(e){}})();window.dataLayer=window.dataLayer||[];window.gtag=function(){window.dataLayer.push(arguments)};window.gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$10"}}]]}],["$","body",null,{"className":"antialiased bg-background text-text-main","children":["$","$L11",null,{"children":["$","$L12",null,{"initialLang":"ar","children":[["$","$L13",null,{}],["$","$L14",null,{}],null,["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L15",null,{}],["$","main",null,{"id":"main-content","className":"flex-grow","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$16","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/0zquxebu1pj7o.js","async":true}]],"template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L17",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L18",null,{}]]}]]}]}]}]]}]
+19:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0x930e0hj6.tc.js"],""]
+17:["$","div",null,{"className":"studio-container status-page","children":[["$","p",null,{"className":"status-code","aria-hidden":"true","children":"404"}],["$","h1",null,{"children":"الصفحة غير موجودة"}],["$","p",null,{"children":"تحقّق من الرابط، أو انتقل إلى الخدمات للعثور على الصفحة التي تحتاجها."}],["$","div",null,{"className":"status-actions","children":[["$","$L19",null,{"href":"/","className":"button button-primary","prefetch":false,"children":"الرئيسية"}],["$","$L19",null,{"href":"/services","className":"button button-secondary","prefetch":false,"children":"استكشف الخدمات"}]]}]]}]
+1b:I[32195,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0x930e0hj6.tc.js"],"ProjectDetail"]
+1a:T70c,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/portfolio/ur-cash#webpage","url":"https://www.smart.sd/portfolio/ur-cash","name":"urCASH - منصة الخدمات المصرفية المفتوحة","description":"urCASH نموذج أولي لبرمجيات مالية لتجميع الحسابات وتحليل المصروفات والميزانية. راجع التكاملات والأمن ومتطلبات الترخيص قبل التشغيل التجاري.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/portfolio/ur-cash#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/portfolio/ur-cash#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/portfolio/ur-cash#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"أعمالنا","item":"https://www.smart.sd/portfolio"},{"@type":"ListItem","position":3,"name":"urCASH - منصة الخدمات المصرفية المفتوحة","item":"https://www.smart.sd/portfolio/ur-cash"}]},{"@id":"https://www.smart.sd/portfolio/ur-cash#entity","inLanguage":"ar","@type":"CreativeWork","name":"urCASH - منصة الخدمات المصرفية المفتوحة","description":"urCASH نموذج أولي لبرمجيات مالية لتجميع الحسابات وتحليل المصروفات والميزانية. راجع التكاملات والأمن ومتطلبات الترخيص قبل التشغيل التجاري.","creator":{"@id":"https://www.smart.sd/#organization"},"dateCreated":"2024-04-25","dateModified":"2026-11-02","genre":"fintech","image":"https://www.smart.sd/portfolio/ur-cash-1-optimized.webp"}]}1c:T2a6f,<h2>Project brief</h2>
+<p>urCASH is a financial software MVP offered for acquisition or licensing. The proposed product scope covers account aggregation, transaction and expense categorization, income and spending views, budgeting alerts and investment-related interfaces. The gallery documents Arabic mobile screens for an aggregated account view, recent transactions, income analysis and budget alerts.</p>
+<h2>Intended users and operating roles</h2>
+<ul>
+<li>End users review connected-account information, transactions, spending and budget alerts through the mobile interface.</li>
+<li>The product operator configures the service, integrations and customer-support process.</li>
+<li>Authorized banking or financial providers may be required for regulated data or transaction functions.</li>
+</ul>
+<p>These roles depend on the commercial deployment model. A demonstration should identify which role is implemented in the MVP, which screens use sample data and which external connections are active.</p>
+<h2>Documented product scope</h2>
+<ul>
+<li>Aggregated account and balance interface.</li>
+<li>Recent-transaction view.</li>
+<li>Transaction and expense categorization.</li>
+<li>Income and spending analysis screens.</li>
+<li>Budget alerts.</li>
+<li>Investment-related interface concepts.</li>
+</ul>
+<p>The screenshots document interface scope. They do not prove that a bank API, payment rail, investment service or production data source is connected.</p>
+<h2>User workflow</h2>
+<p>The proposed flow begins with connected financial data and presents it in an account summary. The user can then review transactions, move into income or spending analysis and see configured budget alerts. Any production version needs consent, connection status and error states around this flow so users can distinguish current data from delayed or unavailable data.</p>
+<h2>Technical and commercial due diligence</h2>
+<p>Ask for a demonstration that distinguishes live integrations from sample data. Review supported bank APIs, consent handling, connection refresh, error recovery, audit logs and deployment documentation. The buyer should also inspect the source-code repository, dependency list, build instructions and environments. Source-code rights, third-party licences, remaining work, support and acceptance criteria belong in the contract rather than being inferred from screenshots.</p>
+<h2>Verification checklist</h2>
+<ul>
+<li>Confirm every delivered screen and its data source.</li>
+<li>Record which integrations are live, mocked or not started.</li>
+<li>Rebuild the application from the supplied source and deployment instructions.</li>
+<li>Test expired consent, unavailable providers, delayed data and duplicate transactions.</li>
+<li>Review access control, secrets management, logs, backup and incident procedures.</li>
+<li>Arrange an independent security assessment for the intended deployment.</li>
+</ul>
+<h2>Software and financial authorization</h2>
+<p>Buying software does not grant permission to access bank accounts, initiate payments, hold customer money or provide investment advice. Each activity needs review under the relevant jurisdiction and may require an authorized provider, regulatory approval or a separate licence. Security controls also need independent assessment. This page does not claim certification or approval from SAMA, CBUAE, ADGM or another authority.</p>
+<p>Saudi buyers should consult <a href="https://www.openbanking.sama.gov.sa/index-en.html">SAMA's open banking framework</a>. UAE buyers should review the <a href="https://rulebook.centralbank.ae/en/rulebook/article-2-licensing-and-licensing-procedures-0">CBUAE Open Finance licensing rules</a>. Investment services can have additional requirements.</p>
+<h2>Possible next phase</h2>
+<p>Only scope a production phase after the buyer has confirmed the code, integrations, data model and regulatory route. That phase can then list the required providers, production controls, migrations and release checks without treating the MVP screens as proof that those items already exist.</p>
+<h2>Next step</h2>
+<p>Request a technical demonstration and a written list of delivered features, integration status and remaining work. Review the <a href="/offer/ksa/fintech-open-banking">Saudi digital-payments and open-banking investment opportunity</a>, see our <a href="/services/fintech-payment">payment integration service</a>, or <a href="/contact">contact the team</a> to discuss due diligence.</p>
+<hr>
+<h2>ملخص المشروع</h2>
+<p>urCASH نموذج أولي لبرمجيات مالية معروض للاستحواذ أو الترخيص. يشمل نطاق المنتج المقترح تجميع الحسابات وتصنيف المعاملات والمصروفات وعرض الدخل والإنفاق وتنبيهات الميزانية وواجهات مرتبطة بالاستثمار. توثّق الصور شاشات عربية لملخص الحسابات والمعاملات الأخيرة وتحليل الدخل وتنبيهات الميزانية.</p>
+<h2>المستخدمون وأدوار التشغيل</h2>
+<ul>
+<li>يراجع المستخدم بيانات الحسابات المرتبطة والمعاملات والإنفاق وتنبيهات الميزانية من واجهة الجوال.</li>
+<li>يضبط مشغل المنتج الخدمة والتكاملات وإجراءات دعم العملاء.</li>
+<li>قد يتطلب الوصول إلى البيانات المنظمة أو تنفيذ المعاملات مزودًا مصرفيًا أو ماليًا مصرحًا.</li>
+</ul>
+<p>تعتمد هذه الأدوار على نموذج التشغيل التجاري. يجب أن يوضح العرض التجريبي الدور المنفذ في النموذج والشاشات التي تستخدم بيانات تجريبية والاتصالات الخارجية التي تعمل فعليًا.</p>
+<h2>نطاق المنتج الموثّق</h2>
+<ul>
+<li>واجهة لتجميع الحسابات والأرصدة.</li>
+<li>عرض للمعاملات الأخيرة.</li>
+<li>تصنيف المعاملات والمصروفات.</li>
+<li>شاشات لتحليل الدخل والإنفاق.</li>
+<li>تنبيهات للميزانية.</li>
+<li>تصورات لواجهات مرتبطة بالاستثمار.</li>
+</ul>
+<p>توثّق الصور نطاق الواجهة، لكنها لا تثبت اتصال واجهة بنك أو مسار دفع أو خدمة استثمارية أو مصدر بيانات إنتاجي.</p>
+<h2>مسار الاستخدام</h2>
+<p>يبدأ المسار المقترح ببيانات مالية مرتبطة ويعرضها في ملخص للحساب. ينتقل المستخدم بعد ذلك إلى المعاملات أو تحليل الدخل والإنفاق ويراجع تنبيهات الميزانية المضبوطة. يحتاج التشغيل الفعلي إلى حالات للموافقة وحالة الاتصال والأخطاء حتى يميز المستخدم بين البيانات الحالية والمتأخرة أو غير المتاحة.</p>
+<h2>الفحص التقني والتجاري</h2>
+<p>اطلب عرضًا يميز التكاملات الفعلية عن البيانات التجريبية. راجع واجهات البنوك المدعومة وإدارة الموافقة وتحديث الاتصال ومعالجة الأخطاء وسجلات التدقيق ووثائق النشر. ينبغي للمشتري كذلك فحص مستودع الكود وقائمة الاعتماديات وتعليمات البناء والبيئات. توضع حقوق الكود وتراخيص الأطراف الأخرى والعمل المتبقي والدعم ومعايير القبول في العقد بدل استنتاجها من الصور.</p>
+<h2>قائمة التحقق</h2>
+<ul>
+<li>تأكيد كل شاشة مسلّمة ومصدر بياناتها.</li>
+<li>تسجيل التكاملات الفعلية والتجريبية والتي لم يبدأ تنفيذها.</li>
+<li>إعادة بناء التطبيق من الكود وتعليمات النشر المسلّمة.</li>
+<li>اختبار انتهاء الموافقة وتعذر المزود وتأخر البيانات وتكرار المعاملات.</li>
+<li>مراجعة الصلاحيات وإدارة الأسرار والسجلات والنسخ الاحتياطي وإجراءات الحوادث.</li>
+<li>ترتيب تقييم أمني مستقل لبيئة التشغيل المقصودة.</li>
+</ul>
+<h2>البرمجيات والتصريح المالي</h2>
+<p>شراء البرمجيات لا يمنح إذنًا للوصول إلى الحسابات البنكية أو بدء المدفوعات أو الاحتفاظ بأموال العملاء أو تقديم استشارات استثمارية. يحتاج كل نشاط إلى مراجعة وفق الدولة المعنية، وقد يتطلب مزودًا مصرحًا أو موافقة تنظيمية أو ترخيصًا مستقلًا. تحتاج الضوابط الأمنية أيضًا إلى تقييم مستقل. لا تدّعي هذه الصفحة اعتمادًا أو موافقة من ساما أو مصرف الإمارات المركزي أو سوق أبوظبي العالمي أو جهة أخرى.</p>
+<p>على المشتري في السعودية مراجعة <a href="https://www.openbanking.sama.gov.sa/index-en.html">إطار ساما للمصرفية المفتوحة</a>، وفي الإمارات مراجعة <a href="https://rulebook.centralbank.ae/en/rulebook/article-2-licensing-and-licensing-procedures-0">قواعد ترخيص التمويل المفتوح لدى مصرف الإمارات المركزي</a>. وقد تخضع الخدمات الاستثمارية لمتطلبات إضافية.</p>
+<h2>مرحلة لاحقة محتملة</h2>
+<p>لا يبدأ نطاق الإنتاج قبل أن يؤكد المشتري الكود والتكاملات ونموذج البيانات والمسار التنظيمي. بعد ذلك يمكن للمرحلة تحديد المزودين المطلوبين وضوابط الإنتاج ونقل البيانات وفحوص الإصدار دون اعتبار شاشات النموذج دليلًا على وجود هذه العناصر.</p>
+<h2>الخطوة التالية</h2>
+<p>اطلب عرضًا تقنيًا وقائمة مكتوبة بالوظائف المسلّمة وحالة التكاملات والعمل المتبقي. راجع <a href="/offer/ksa/fintech-open-banking">فرصة الاستثمار في منصة الدفع الإلكتروني والمصرفية المفتوحة في السعودية</a> و<a href="/services/fintech-payment">خدمة تكامل الدفع</a>، أو <a href="/contact">تواصل مع الفريق</a> لمناقشة الفحص قبل الشراء.</p>1d:T117d,<h2>Project brief</h2>
+<p>urCASH is a financial software MVP offered for acquisition or licensing. The proposed product scope covers account aggregation, transaction and expense categorization, income and spending views, budgeting alerts and investment-related interfaces. The gallery documents Arabic mobile screens for an aggregated account view, recent transactions, income analysis and budget alerts.</p>
+<h2>Intended users and operating roles</h2>
+<ul>
+<li>End users review connected-account information, transactions, spending and budget alerts through the mobile interface.</li>
+<li>The product operator configures the service, integrations and customer-support process.</li>
+<li>Authorized banking or financial providers may be required for regulated data or transaction functions.</li>
+</ul>
+<p>These roles depend on the commercial deployment model. A demonstration should identify which role is implemented in the MVP, which screens use sample data and which external connections are active.</p>
+<h2>Documented product scope</h2>
+<ul>
+<li>Aggregated account and balance interface.</li>
+<li>Recent-transaction view.</li>
+<li>Transaction and expense categorization.</li>
+<li>Income and spending analysis screens.</li>
+<li>Budget alerts.</li>
+<li>Investment-related interface concepts.</li>
+</ul>
+<p>The screenshots document interface scope. They do not prove that a bank API, payment rail, investment service or production data source is connected.</p>
+<h2>User workflow</h2>
+<p>The proposed flow begins with connected financial data and presents it in an account summary. The user can then review transactions, move into income or spending analysis and see configured budget alerts. Any production version needs consent, connection status and error states around this flow so users can distinguish current data from delayed or unavailable data.</p>
+<h2>Technical and commercial due diligence</h2>
+<p>Ask for a demonstration that distinguishes live integrations from sample data. Review supported bank APIs, consent handling, connection refresh, error recovery, audit logs and deployment documentation. The buyer should also inspect the source-code repository, dependency list, build instructions and environments. Source-code rights, third-party licences, remaining work, support and acceptance criteria belong in the contract rather than being inferred from screenshots.</p>
+<h2>Verification checklist</h2>
+<ul>
+<li>Confirm every delivered screen and its data source.</li>
+<li>Record which integrations are live, mocked or not started.</li>
+<li>Rebuild the application from the supplied source and deployment instructions.</li>
+<li>Test expired consent, unavailable providers, delayed data and duplicate transactions.</li>
+<li>Review access control, secrets management, logs, backup and incident procedures.</li>
+<li>Arrange an independent security assessment for the intended deployment.</li>
+</ul>
+<h2>Software and financial authorization</h2>
+<p>Buying software does not grant permission to access bank accounts, initiate payments, hold customer money or provide investment advice. Each activity needs review under the relevant jurisdiction and may require an authorized provider, regulatory approval or a separate licence. Security controls also need independent assessment. This page does not claim certification or approval from SAMA, CBUAE, ADGM or another authority.</p>
+<p>Saudi buyers should consult <a href="https://www.openbanking.sama.gov.sa/index-en.html">SAMA's open banking framework</a>. UAE buyers should review the <a href="https://rulebook.centralbank.ae/en/rulebook/article-2-licensing-and-licensing-procedures-0">CBUAE Open Finance licensing rules</a>. Investment services can have additional requirements.</p>
+<h2>Possible next phase</h2>
+<p>Only scope a production phase after the buyer has confirmed the code, integrations, data model and regulatory route. That phase can then list the required providers, production controls, migrations and release checks without treating the MVP screens as proof that those items already exist.</p>
+<h2>Next step</h2>
+<p>Request a technical demonstration and a written list of delivered features, integration status and remaining work. Review the <a href="/offer/ksa/fintech-open-banking">Saudi digital-payments and open-banking investment opportunity</a>, see our <a href="/services/fintech-payment">payment integration service</a>, or <a href="/contact">contact the team</a> to discuss due diligence.</p>1e:T18ec,<h2>ملخص المشروع</h2>
+<p>urCASH نموذج أولي لبرمجيات مالية معروض للاستحواذ أو الترخيص. يشمل نطاق المنتج المقترح تجميع الحسابات وتصنيف المعاملات والمصروفات وعرض الدخل والإنفاق وتنبيهات الميزانية وواجهات مرتبطة بالاستثمار. توثّق الصور شاشات عربية لملخص الحسابات والمعاملات الأخيرة وتحليل الدخل وتنبيهات الميزانية.</p>
+<h2>المستخدمون وأدوار التشغيل</h2>
+<ul>
+<li>يراجع المستخدم بيانات الحسابات المرتبطة والمعاملات والإنفاق وتنبيهات الميزانية من واجهة الجوال.</li>
+<li>يضبط مشغل المنتج الخدمة والتكاملات وإجراءات دعم العملاء.</li>
+<li>قد يتطلب الوصول إلى البيانات المنظمة أو تنفيذ المعاملات مزودًا مصرفيًا أو ماليًا مصرحًا.</li>
+</ul>
+<p>تعتمد هذه الأدوار على نموذج التشغيل التجاري. يجب أن يوضح العرض التجريبي الدور المنفذ في النموذج والشاشات التي تستخدم بيانات تجريبية والاتصالات الخارجية التي تعمل فعليًا.</p>
+<h2>نطاق المنتج الموثّق</h2>
+<ul>
+<li>واجهة لتجميع الحسابات والأرصدة.</li>
+<li>عرض للمعاملات الأخيرة.</li>
+<li>تصنيف المعاملات والمصروفات.</li>
+<li>شاشات لتحليل الدخل والإنفاق.</li>
+<li>تنبيهات للميزانية.</li>
+<li>تصورات لواجهات مرتبطة بالاستثمار.</li>
+</ul>
+<p>توثّق الصور نطاق الواجهة، لكنها لا تثبت اتصال واجهة بنك أو مسار دفع أو خدمة استثمارية أو مصدر بيانات إنتاجي.</p>
+<h2>مسار الاستخدام</h2>
+<p>يبدأ المسار المقترح ببيانات مالية مرتبطة ويعرضها في ملخص للحساب. ينتقل المستخدم بعد ذلك إلى المعاملات أو تحليل الدخل والإنفاق ويراجع تنبيهات الميزانية المضبوطة. يحتاج التشغيل الفعلي إلى حالات للموافقة وحالة الاتصال والأخطاء حتى يميز المستخدم بين البيانات الحالية والمتأخرة أو غير المتاحة.</p>
+<h2>الفحص التقني والتجاري</h2>
+<p>اطلب عرضًا يميز التكاملات الفعلية عن البيانات التجريبية. راجع واجهات البنوك المدعومة وإدارة الموافقة وتحديث الاتصال ومعالجة الأخطاء وسجلات التدقيق ووثائق النشر. ينبغي للمشتري كذلك فحص مستودع الكود وقائمة الاعتماديات وتعليمات البناء والبيئات. توضع حقوق الكود وتراخيص الأطراف الأخرى والعمل المتبقي والدعم ومعايير القبول في العقد بدل استنتاجها من الصور.</p>
+<h2>قائمة التحقق</h2>
+<ul>
+<li>تأكيد كل شاشة مسلّمة ومصدر بياناتها.</li>
+<li>تسجيل التكاملات الفعلية والتجريبية والتي لم يبدأ تنفيذها.</li>
+<li>إعادة بناء التطبيق من الكود وتعليمات النشر المسلّمة.</li>
+<li>اختبار انتهاء الموافقة وتعذر المزود وتأخر البيانات وتكرار المعاملات.</li>
+<li>مراجعة الصلاحيات وإدارة الأسرار والسجلات والنسخ الاحتياطي وإجراءات الحوادث.</li>
+<li>ترتيب تقييم أمني مستقل لبيئة التشغيل المقصودة.</li>
+</ul>
+<h2>البرمجيات والتصريح المالي</h2>
+<p>شراء البرمجيات لا يمنح إذنًا للوصول إلى الحسابات البنكية أو بدء المدفوعات أو الاحتفاظ بأموال العملاء أو تقديم استشارات استثمارية. يحتاج كل نشاط إلى مراجعة وفق الدولة المعنية، وقد يتطلب مزودًا مصرحًا أو موافقة تنظيمية أو ترخيصًا مستقلًا. تحتاج الضوابط الأمنية أيضًا إلى تقييم مستقل. لا تدّعي هذه الصفحة اعتمادًا أو موافقة من ساما أو مصرف الإمارات المركزي أو سوق أبوظبي العالمي أو جهة أخرى.</p>
+<p>على المشتري في السعودية مراجعة <a href="https://www.openbanking.sama.gov.sa/index-en.html">إطار ساما للمصرفية المفتوحة</a>، وفي الإمارات مراجعة <a href="https://rulebook.centralbank.ae/en/rulebook/article-2-licensing-and-licensing-procedures-0">قواعد ترخيص التمويل المفتوح لدى مصرف الإمارات المركزي</a>. وقد تخضع الخدمات الاستثمارية لمتطلبات إضافية.</p>
+<h2>مرحلة لاحقة محتملة</h2>
+<p>لا يبدأ نطاق الإنتاج قبل أن يؤكد المشتري الكود والتكاملات ونموذج البيانات والمسار التنظيمي. بعد ذلك يمكن للمرحلة تحديد المزودين المطلوبين وضوابط الإنتاج ونقل البيانات وفحوص الإصدار دون اعتبار شاشات النموذج دليلًا على وجود هذه العناصر.</p>
+<h2>الخطوة التالية</h2>
+<p>اطلب عرضًا تقنيًا وقائمة مكتوبة بالوظائف المسلّمة وحالة التكاملات والعمل المتبقي. راجع <a href="/offer/ksa/fintech-open-banking">فرصة الاستثمار في منصة الدفع الإلكتروني والمصرفية المفتوحة في السعودية</a> و<a href="/services/fintech-payment">خدمة تكامل الدفع</a>، أو <a href="/contact">تواصل مع الفريق</a> لمناقشة الفحص قبل الشراء.</p>5:[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1a"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L19",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/portfolio",{"children":["$","$L19",null,{"href":"/portfolio","prefetch":false,"children":"أعمالنا"}]}],["$","li","/portfolio/ur-cash",{"children":["$","span",null,{"aria-current":"page","children":"urCASH - منصة الخدمات المصرفية المفتوحة"}]}]]}]}]],["$","$L1b",null,{"project":{"slug":"ur-cash","contentHtml":"$1c","contentHtmlEn":"$1d","contentHtmlAr":"$1e","title":"urCASH - Open Banking Platform","titleAr":"urCASH - منصة الخدمات المصرفية المفتوحة","category":"fintech","categoryAr":"فينتك","client":"Available for Purchase (MVP)","clientAr":"متاح للشراء (MVP جاهز)","date":"2024-04-25","url":"https://drive.google.com/file/d/1j_GJfFh9QJX_XZG1vNxxiLs58wyhuUqH/view?usp=drive_link","image":"/portfolio/ur-cash-1-optimized.webp","images":["/portfolio/ur-cash-1-optimized.webp","/portfolio/ur-cash-2-optimized.webp","/portfolio/ur-cash-3-optimized.webp","/portfolio/ur-cash-4-optimized.webp","/portfolio/ur-cash-5-optimized.webp"],"description":"urCASH is a financial software MVP for account aggregation, expense analysis and budgeting. Review integrations, security and licensing before commercial operation.","descriptionAr":"urCASH نموذج أولي لبرمجيات مالية لتجميع الحسابات وتحليل المصروفات والميزانية. راجع التكاملات والأمن ومتطلبات الترخيص قبل التشغيل التجاري.","lastModified":"2026-11-02"}}]]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#101b2b"}]]
+1f:I[27201,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"urCASH - منصة الخدمات المصرفية المفتوحة | سمارت تيم"}],["$","meta","1",{"name":"description","content":"urCASH نموذج أولي لبرمجيات مالية لتجميع الحسابات وتحليل المصروفات والميزانية. راجع التكاملات والأمن ومتطلبات الترخيص قبل التشغيل التجاري."}],["$","link","2",{"rel":"author","href":"https://www.smart.sd/about"}],["$","meta","3",{"name":"author","content":"Smart Team IT"}],["$","link","4",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","5",{"name":"keywords","content":"fintech"}],["$","meta","6",{"name":"creator","content":"Smart Team IT"}],["$","meta","7",{"name":"publisher","content":"Smart Team IT"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","10",{"name":"google-adsense-account","content":"ca-pub-2312883254868411"}],["$","link","11",{"rel":"canonical","href":"https://www.smart.sd/portfolio/ur-cash/"}],["$","link","12",{"rel":"alternate","hrefLang":"ar","href":"https://www.smart.sd/portfolio/ur-cash/"}],["$","link","13",{"rel":"alternate","hrefLang":"en","href":"https://www.smart.sd/en/portfolio/ur-cash/"}],["$","link","14",{"rel":"alternate","hrefLang":"x-default","href":"https://www.smart.sd/portfolio/ur-cash/"}],["$","link","15",{"rel":"alternate","type":"application/rss+xml","href":"https://www.smart.sd/feed.xml"}],["$","meta","16",{"property":"og:title","content":"urCASH - منصة الخدمات المصرفية المفتوحة | سمارت تيم"}],["$","meta","17",{"property":"og:description","content":"urCASH نموذج أولي لبرمجيات مالية لتجميع الحسابات وتحليل المصروفات والميزانية. راجع التكاملات والأمن ومتطلبات الترخيص قبل التشغيل التجاري."}],["$","meta","18",{"property":"og:url","content":"https://www.smart.sd/portfolio/ur-cash/"}],["$","meta","19",{"property":"og:site_name","content":"Smart Team"}],["$","meta","20",{"property":"og:locale","content":"ar_SD"}],["$","meta","21",{"property":"og:image","content":"https://www.smart.sd/portfolio/ur-cash-1-optimized.webp"}],["$","meta","22",{"property":"og:image:alt","content":"urCASH - منصة الخدمات المصرفية المفتوحة"}],["$","meta","23",{"property":"og:locale:alternate","content":"en_US"}],["$","meta","24",{"property":"og:type","content":"website"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"urCASH - منصة الخدمات المصرفية المفتوحة | سمارت تيم"}],["$","meta","27",{"name":"twitter:description","content":"urCASH نموذج أولي لبرمجيات مالية لتجميع الحسابات وتحليل المصروفات والميزانية. راجع التكاملات والأمن ومتطلبات الترخيص قبل التشغيل التجاري."}],["$","meta","28",{"name":"twitter:image","content":"https://www.smart.sd/portfolio/ur-cash-1-optimized.webp"}],["$","link","29",{"rel":"icon","href":"/favicon-16x16.png","sizes":"16x16","type":"image/png"}],["$","link","30",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","31",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L1f","32",{}]]

@@ -1,0 +1,78 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+d:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+f:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+10:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T830,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/edge-ai-iot-2025#webpage","url":"https://www.smart.sd/blog/edge-ai-iot-2025","name":"الذكاء الاصطناعي على الحافة: مستقبل إنترنت الأشياء الذكي في 2025","description":"يعالج الذكاء الاصطناعي على الحافة البيانات قرب الجهاز. راجع زمن الاستجابة والاتصال وقيود العتاد وتحديث النماذج وإدارة البيانات قبل التنفيذ.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/edge-ai-iot-2025#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/edge-ai-iot-2025#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/edge-ai-iot-2025#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"الذكاء الاصطناعي على الحافة: مستقبل إنترنت الأشياء الذكي في 2025","item":"https://www.smart.sd/blog/edge-ai-iot-2025"}]},{"@id":"https://www.smart.sd/blog/edge-ai-iot-2025#entity","inLanguage":"ar","@type":"BlogPosting","headline":"الذكاء الاصطناعي على الحافة: مستقبل إنترنت الأشياء الذكي في 2025","description":"يعالج الذكاء الاصطناعي على الحافة البيانات قرب الجهاز. راجع زمن الاستجابة والاتصال وقيود العتاد وتحديث النماذج وإدارة البيانات قبل التنفيذ.","datePublished":"2025-12-29","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/edge-ai-iot-2025","image":"https://www.smart.sd/blog/edge-ai-iot-2025-optimized.webp"}]}5:T11b5,<h2>ثورة الحوسبة على الحافة</h2>
+<p>بحلول عام 2025، برز <strong>الذكاء الاصطناعي على الحافة (Edge AI)</strong> كواحدة من أكثر التقنيات تحولاً، مُغيراً بشكل جوهري كيفية معالجة البيانات عبر الصناعات. على عكس الذكاء الاصطناعي السحابي التقليدي الذي يتطلب سفر البيانات إلى خوادم مركزية، يجلب Edge AI الذكاء مباشرة إلى المصدر—المستشعرات والكاميرات والهواتف الذكية والمعدات الصناعية.</p>
+<p>من المتوقع أن يصل سوق Edge AI إلى <strong>25.65 مليار دولار في 2025</strong> و<strong>143 مليار دولار بحلول 2034</strong>.</p>
+<h3>ما هو الذكاء الاصطناعي على الحافة؟</h3>
+<p>يجمع Edge AI بين خوارزميات الذكاء الاصطناعي والبنية التحتية للحوسبة الطرفية، مما يتيح:</p>
+<ul>
+<li><strong>معالجة البيانات محلياً:</strong> نماذج الذكاء الاصطناعي تعمل مباشرة على الأجهزة</li>
+<li><strong>اتخاذ القرارات الفورية:</strong> تحليل فوري بدون تأخير الشبكة</li>
+<li><strong>الخصوصية المحسنة:</strong> البيانات الحساسة لا تغادر الجهاز</li>
+<li><strong>تقليل استهلاك النطاق الترددي:</strong> إرسال المعلومات الأساسية فقط</li>
+<li><strong>العمل بدون اتصال:</strong> الأجهزة تعمل بشكل مستقل عن الإنترنت</li>
+</ul>
+<h3>التطبيقات الصناعية</h3>
+<p><strong>التصنيع الذكي والصناعة 4.0</strong></p>
+<ul>
+<li>مراقبة الجودة في الوقت الفعلي واكتشاف العيوب</li>
+<li>الصيانة التنبؤية</li>
+<li>التنقل الذاتي للروبوتات</li>
+</ul>
+<p><strong>الرعاية الصحية والأجهزة الطبية</strong></p>
+<ul>
+<li>مراقبة العلامات الحيوية القابلة للارتداء</li>
+<li>اكتشاف الشذوذ في الوقت الفعلي</li>
+<li>أنظمة رعاية المرضى عن بُعد</li>
+</ul>
+<p><strong>المركبات ذات القيادة الذاتية</strong></p>
+<ul>
+<li>اكتشاف العوائق في أجزاء من الثانية</li>
+<li>قرارات الملاحة والتوجيه</li>
+<li>استجابات أنظمة السلامة</li>
+</ul>
+<p><strong>المدن الذكية</strong></p>
+<ul>
+<li>تحسين تدفق حركة المرور</li>
+<li>مراقبة السلامة العامة</li>
+<li>إدارة الطاقة</li>
+</ul>
+<h3>التقنيات المحركة</h3>
+<p><strong>العتاد المتخصص</strong></p>
+<ul>
+<li>وحدات المعالجة العصبية (NPUs)</li>
+<li>شرائح محسنة للذكاء الاصطناعي</li>
+<li>متحكمات دقيقة منخفضة الطاقة</li>
+</ul>
+<p><strong>TinyML (التعلم الآلي المصغر)</strong>
+يتيح TinyML الذكاء الاصطناعي على الأجهزة المحدودة الموارد للغاية، بذاكرة كيلوبايت بدلاً من جيجابايت.</p>
+<h3>سمارت تيم: شريكك في Edge AI</h3>
+<p>في <strong>سمارت تيم</strong>، نساعد الشركات على تسخير قوة الذكاء الاصطناعي على الحافة.</p>
+<p><strong>خدماتنا في Edge AI:</strong></p>
+<p><strong>تطوير نماذج الذكاء الاصطناعي المخصصة</strong>
+نصمم ونُدرب نماذج الذكاء الاصطناعي المُحسّنة للنشر على الحافة.</p>
+<p><strong>تكامل أنظمة إنترنت الأشياء</strong>
+ربط بنيتك التحتية الحالية بأجهزة الحافة الذكية.</p>
+<p><strong>تنفيذ منصات الحافة</strong>
+نشر منصات الحوسبة الطرفية على مستوى المؤسسات.</p>
+<p><strong>حلول TinyML</strong>
+إضافة الذكاء الاصطناعي إلى أصغر الأجهزة.</p>
+<blockquote>
+<p><strong>هل أنت مستعد لنقل الذكاء الاصطناعي إلى الحافة؟</strong>
+<a href="/services?s=fintech-payment">اكتشف خدمات تطوير الذكاء الاصطناعي</a> | <a href="/contact">اطلب استشارة</a></p>
+</blockquote>0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/edge-ai-iot-2025",{"children":["$","span",null,{"aria-current":"page","children":"الذكاء الاصطناعي على الحافة: مستقبل إنترنت الأشياء الذكي في 2025"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"الذكاء الاصطناعي"}],["$","time",null,{"dateTime":"2025-12-29","children":"29 ديسمبر 2025"}]]}],["$","h1",null,{"children":"الذكاء الاصطناعي على الحافة: مستقبل إنترنت الأشياء الذكي في 2025"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"يعالج الذكاء الاصطناعي على الحافة البيانات قرب الجهاز. راجع زمن الاستجابة والاتصال وقيود العتاد وتحديث النماذج وإدارة البيانات قبل التنفيذ."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/edge-ai-iot-2025-optimized.webp","alt":"الذكاء الاصطناعي على الحافة: مستقبل إنترنت الأشياء الذكي في 2025","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$5"}}]]}],null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","ai-agents-business-guide",{"children":["$","$L3",null,{"href":"/blog/ai-agents-business-guide","prefetch":false,"children":"وكلاء الذكاء الاصطناعي للأعمال: ما بعد الأتمتة الأساسية"}]}],["$","li","ai-agents-vs-chatbots-comparison",{"children":["$","$L3",null,{"href":"/blog/ai-agents-vs-chatbots-comparison","prefetch":false,"children":"وكلاء الذكاء الاصطناعي والشات بوت: المهام والأدوات والتحكم"}]}],["$","li","physical-ai-robotics-2026",{"children":["$","$L3",null,{"href":"/blog/physical-ai-robotics-2026","prefetch":false,"children":"الذكاء الاصطناعي المادي: عندما يلتقي الذكاء بالعالم الحقيقي"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+7:["$","$Ld",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$Lf",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

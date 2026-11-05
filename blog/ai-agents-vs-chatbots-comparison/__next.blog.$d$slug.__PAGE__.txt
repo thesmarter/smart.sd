@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+10:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+11:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T884,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/ai-agents-vs-chatbots-comparison#webpage","url":"https://www.smart.sd/blog/ai-agents-vs-chatbots-comparison","name":"وكلاء الذكاء الاصطناعي والشات بوت: المهام والأدوات والتحكم","description":"يعالج الشات بوت المحادثة، ويمكن للوكيل استخدام أدوات لتنفيذ مهام. قارن تعقيد المهمة والصلاحيات والتقييم وتكلفة التشغيل قبل الاختيار.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/ai-agents-vs-chatbots-comparison#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/ai-agents-vs-chatbots-comparison#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/ai-agents-vs-chatbots-comparison#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"وكلاء الذكاء الاصطناعي والشات بوت: المهام والأدوات والتحكم","item":"https://www.smart.sd/blog/ai-agents-vs-chatbots-comparison"}]},{"@id":"https://www.smart.sd/blog/ai-agents-vs-chatbots-comparison#entity","inLanguage":"ar","@type":"BlogPosting","headline":"وكلاء الذكاء الاصطناعي والشات بوت: المهام والأدوات والتحكم","description":"يعالج الشات بوت المحادثة، ويمكن للوكيل استخدام أدوات لتنفيذ مهام. قارن تعقيد المهمة والصلاحيات والتقييم وتكلفة التشغيل قبل الاختيار.","datePublished":"2026-02-14","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/ai-agents-vs-chatbots-comparison","image":"https://www.smart.sd/blog/ai_agents_vs_chatbots_cover.png"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/ai-agents-vs-chatbots-comparison",{"children":["$","span",null,{"aria-current":"page","children":"وكلاء الذكاء الاصطناعي والشات بوت: المهام والأدوات والتحكم"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"الذكاء الاصطناعي"}],["$","time",null,{"dateTime":"2026-02-14","children":"14 فبراير 2026"}]]}],["$","h1",null,{"children":"وكلاء الذكاء الاصطناعي والشات بوت: المهام والأدوات والتحكم"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"يعالج الشات بوت المحادثة، ويمكن للوكيل استخدام أدوات لتنفيذ مهام. قارن تعقيد المهمة والصلاحيات والتقييم وتكلفة التشغيل قبل الاختيار."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/ai_agents_vs_chatbots_cover.png","alt":"وكلاء الذكاء الاصطناعي والشات بوت: المهام والأدوات والتحكم","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],"$L5",null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+d:T1007,<h2>مقدمة: ما وراء فقاعة الدردشة</h2>
+<p>لا تزال معظم الشركات تستخدم <strong>Chatbots</strong> (بوتات الدردشة)—وهي أنظمة بدائية تعتمد على سيناريوهات مكتوبة مسبقاً وتحبط العملاء برسائل "عذراً، لم أفهمك". العالم تجاوز هذه المرحلة؛ نحن الآن في عصر <strong>الوكلاء الأذكياء (AI Agents)</strong>.</p>
+<p>في <strong>سمارت تيم</strong>، نقوم ببناء وكلاء ذكاء اصطناعي مستقلي التفكير؛ وكلاء لا يكتفون "بالكلام" بل يقومون "بالمهمات". إليك التحول الجوهري الذي تحتاج لفهمه لتبقى في الصدارة.</p>
+<h2>تطور الذكاء</h2>
+<table>
+<thead>
+<tr>
+<th>الميزة</th>
+<th>وكلاء سمارت الأذكياء</th>
+<th>الشات بوت التقليدي</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>المنطق الجوهري</strong></td>
+<td>التفكير والتخطيط المنطقي</td>
+<td>سيناريوهات وخرائط معدة مسبقاً</td>
+</tr>
+<tr>
+<td><strong>القدرة على التنفيذ</strong></td>
+<td>تنفيذ المهام (الربط مع البرامج)</td>
+<td>الرد بنصوص فقط</td>
+</tr>
+<tr>
+<td><strong>السياق</strong></td>
+<td>ذاكرة طويلة المدى وربط بالمستندات</td>
+<td>ذاكرة جلسة واحدة محدودة</td>
+</tr>
+<tr>
+<td><strong>التعقيد</strong></td>
+<td>معالجة مهام مركبة من عدة خطوات</td>
+<td>الإجابة على أسئلة شائعة بسيطة</td>
+</tr>
+<tr>
+<td><strong>التكامل</strong></td>
+<td>وصول عميق للـ CRM و ERP</td>
+<td>روابط خارجية سطحية</td>
+</tr>
+</tbody>
+</table>
+<h3>1. من "الكلام" إلى "التنفيذ"</h3>
+<p>الشات بوت يخبرك بسعر المنتج؛ أما <strong>وكيل سمارت الذكي</strong> فيقوم بفحص المخزون، ومقارنة سجل مشتريات العميل في نظام الـ ERP، وتقديم خصم مخصص، ثم توليد رابط دفع—كل ذلك دون أي تدخل بشري. إنه موظف يعمل على مدار الساعة.</p>
+<h3>2. حل المشكلات بشكل مستقل</h3>
+<p>تتعطل البوتات التقليدية عندما يخرج العميل عن "النص"؛ أما الوكلاء الأذكياء فيستخدمون "مسارات التفكير". إذا واجه العميل مشكلة فريدة، يمكن للوكيل البحث في مستندات شركتك، والتحقق من حالة الشحن، واتخاذ القرار الأفضل بناءً على سياسات الشركة.</p>
+<h3>3. ذكاء متكامل مع مؤسستك</h3>
+<p>وكلاء الذكاء الاصطناعي لدينا يعيشون داخل نظامك التقني؛ فهم يتحدثون مع <strong>سمارت ERP</strong>، ويحدثون بيانات الـ <strong>CRM</strong>، وينسقون مع فريقك عبر Slack أو WhatsApp. ليسوا مجرد "إضافة" على موقعك، بل هم الجهاز العصبي لعملياتك الرقمية.</p>
+<h2>الخلاصة</h2>
+<p>إذا كانت شركتك لا تزال تستخدم بوتاً يعتمد على الأزرار والقوائم الثابتة، فأنت تعيش في الماضي. يمثل <strong>الوكلاء الأذكياء</strong> أعلى عائد على الاستثمار في التكنولوجيا اليوم، حيث يستبدلون آلاف الساعات من العمل اليدوي بأتمتة ذكية ودقيقة.</p>
+<blockquote>
+<p><strong>وظف أول موظف ذكاء اصطناعي لشركتك اليوم.</strong></p>
+<p>لا تكتفِ بأتمتة الدردشة، أتمت كفاءة عملك بالكامل.</p>
+<p><a href="/services/automation">اكتشف حلول وكلاء الذكاء الاصطناعي</a> | <a href="/contact">تحدث مع خبراء الـ AI</a></p>
+</blockquote>5:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$d"}}]]}]
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","ai-agents-business-guide",{"children":["$","$L3",null,{"href":"/blog/ai-agents-business-guide","prefetch":false,"children":"وكلاء الذكاء الاصطناعي للأعمال: ما بعد الأتمتة الأساسية"}]}],["$","li","physical-ai-robotics-2026",{"children":["$","$L3",null,{"href":"/blog/physical-ai-robotics-2026","prefetch":false,"children":"الذكاء الاصطناعي المادي: عندما يلتقي الذكاء بالعالم الحقيقي"}]}],["$","li","building-ai-agents-langchain",{"children":["$","$L3",null,{"href":"/blog/building-ai-agents-langchain","prefetch":false,"children":"بناء وكلاء LangChain: الأدوات والتقييم والتشغيل"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+7:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$L10",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

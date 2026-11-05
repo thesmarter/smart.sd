@@ -1,0 +1,35 @@
+# Smart Team — سمارت تيم
+
+> Smart Team (سمارت تيم) is an IT software company founded in 2015, headquartered in Khartoum, Sudan, delivering ERP systems, AI agents, mobile/web development, fintech and e-commerce solutions for clients in Sudan, Saudi Arabia and the UAE. الموقع ثنائي اللغة: العربية هي اللغة الافتراضية، والنسخة الإنجليزية تحت المسار `/en`.
+
+- Website (Arabic, default): https://www.smart.sd
+- Website (English): https://www.smart.sd/en
+- Contact: info@smart.sd
+- Feed: https://www.smart.sd/feed.xml
+- Full index for AI assistants: https://www.smart.sd/llms-full.txt
+
+## الرئيسية / Main sections
+
+- [الرئيسية | Home](https://www.smart.sd/): نظرة عامة على الشركة والخدمات والأعمال المختارة.
+- [من نحن | About](https://www.smart.sd/about): الشركة، الفريق، الرؤية والخبرة منذ 2015.
+- [الخدمات | Services](https://www.smart.sd/services): ERP، وكلاء الذكاء الاصطناعي، n8n، التكنولوجيا المالية، تطبيقات الجوال، الويب.
+- [الأعمال | Portfolio](https://www.smart.sd/portfolio): مشاريع منفذة في فودك، جوبز هب، سيكتور، urCASH وغيرها.
+- [المدونة | Blog](https://www.smart.sd/blog): مقالات تقنية معمّقة (ذكاء اصطناعي، ERP، فينتك، تطوير ويب وجوال).
+- [تواصل معنا | Contact](https://www.smart.sd/contact): نموذج التواصل ومعلومات الاتصال.
+- [سمارت | ERP عام | Adaa ERP (adaa_help)](https://www.smart.sd/adaa_help): صفحة منتج/مساعدة نظام الأداء (Adaa ERP).
+- [سياسة الخصوصية | Privacy](https://www.smart.sd/privacy-policy): سياسة الخصوصية.
+- [الشروط | Terms](https://www.smart.sd/terms): الشروط والأحكام.
+
+## العروض والحلول حسب الدولة / Offers & country solutions
+
+- [عرض المصرفية المفتوحة — السعودية](https://www.smart.sd/offer/ksa/fintech-open-banking): فرصة منصة فينتك/مصرفية مفتوحة للسوق السعودي.
+- [عرض المصرفية المفتوحة — الإمارات](https://www.smart.sd/offer/uae/fintech-open-banking): نفس الفرصة للسوق الإماراتي.
+- [حلول حسب الدولة](https://www.smart.sd/solutions/saudi-arabia): حلول لكل من السعودية، الإمارات، السودان، قطر، الأردن، الكويت عبر `/solutions/<country>`.
+- [لوجستيات البريد | Postal & logistics](https://www.smart.sd/solutions/postal-logistics): حلول الشحن والخدمات البريدية.
+
+## ملاحظات للزواحف / Notes for crawlers
+
+- المحتوى العربي على المسارات غير المسبوقة، والإنجليزي تحت `/en/...`؛ استخدم hreflang ar/en/x-default المعلن في الصفحات.
+- المناطق `/api/` غير مخصصة للزحف (انظر robots.txt).
+- خريطة الموقع: https://www.smart.sd/sitemap.xml — تُحدَّث تلقائيًا من محتوى الموقع.
+- الصور والمشاريع والمقالات متاحة مع `lastmod` في الـ sitemap.

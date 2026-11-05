@@ -1,0 +1,80 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+d:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+f:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+10:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T7d5,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/embedded-finance-2026#webpage","url":"https://www.smart.sd/blog/embedded-finance-2026","name":"رؤية 2026: التمويل المضمن - الخدمات المصرفية بدون بنوك","description":"يضيف التمويل المضمن خدمات مالية إلى منتج آخر عبر مزودين وتكاملات. تعرّف على نموذج التشغيل والصلاحيات واحتياجات التسوية.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/embedded-finance-2026#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/embedded-finance-2026#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/embedded-finance-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"رؤية 2026: التمويل المضمن - الخدمات المصرفية بدون بنوك","item":"https://www.smart.sd/blog/embedded-finance-2026"}]},{"@id":"https://www.smart.sd/blog/embedded-finance-2026#entity","inLanguage":"ar","@type":"BlogPosting","headline":"رؤية 2026: التمويل المضمن - الخدمات المصرفية بدون بنوك","description":"يضيف التمويل المضمن خدمات مالية إلى منتج آخر عبر مزودين وتكاملات. تعرّف على نموذج التشغيل والصلاحيات واحتياجات التسوية.","datePublished":"2025-12-15","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/embedded-finance-2026","image":"https://www.smart.sd/blog/embedded-finance-2026-optimized.webp"}]}5:Tf77,<h2>التمويل يصبح غير مرئي</h2>
+<p>بحلول عام 2026، ستصبح الخدمات المصرفية غير مرئية. لن تحتاج إلى فتح تطبيق مصرفي للوصول إلى الخدمات المالية—ستكون منسوجة بسلاسة في التطبيقات التي تستخدمها بالفعل. هذا هو <strong>التمويل المضمن</strong>: دمج الخدمات المالية في المنصات غير المالية.</p>
+<h3>ثورة التمويل المضمن</h3>
+<p><strong>ما الذي يتغير:</strong></p>
+<ul>
+<li><strong>التجارة الإلكترونية:</strong> اشترِ الآن وادفع لاحقًا عند الخروج على أي منصة</li>
+<li><strong>مشاركة الركوب:</strong> تمويل السائقين والدفعات الفورية داخل التطبيق</li>
+<li><strong>الرعاية الصحية:</strong> خطط دفع المرضى مضمنة في البوابات الطبية</li>
+<li><strong>برامج الموارد البشرية:</strong> السلف على الرواتب والمزايا داخل أنظمة الرواتب</li>
+</ul>
+<h3>الخدمات المصرفية كخدمة (BaaS): المحرك الأساسي</h3>
+<p>توفر منصات BaaS البنية التحتية التي تمكن أي شركة من تقديم الخدمات المالية من خلال واجهات برمجة التطبيقات:</p>
+<table>
+<thead>
+<tr>
+<th>القدرة</th>
+<th>النهج التقليدي</th>
+<th>BaaS في 2026</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>فتح الحساب</td>
+<td>زيارة الفرع مطلوبة</td>
+<td>استدعاء API في ثوانٍ</td>
+</tr>
+<tr>
+<td>الإقراض</td>
+<td>أسابيع من الأوراق</td>
+<td>اتخاذ القرار الفوري</td>
+</tr>
+<tr>
+<td>المدفوعات</td>
+<td>تكامل البنك</td>
+<td>مضمن في أي تطبيق</td>
+</tr>
+<tr>
+<td>الامتثال</td>
+<td>فرق داخلية</td>
+<td>يتولاها مزود BaaS</td>
+</tr>
+</tbody>
+</table>
+<h3>توقعات السوق لعام 2026</h3>
+<ul>
+<li><strong>سوق التمويل المضمن:</strong> أكثر من 230 مليار دولار عالميًا</li>
+<li><strong>استدعاءات BaaS API:</strong> أكثر من 2 تريليون سنويًا</li>
+<li><strong>الوافدون الجدد في الفينتك:</strong> 50% يستخدمون BaaS مقابل بناء بنيتهم الخاصة</li>
+<li><strong>تفضيل المستهلك:</strong> 75% يفضلون الخدمات المالية المضمنة</li>
+</ul>
+<h3>سمارت تيم: شريكك في التمويل المضمن</h3>
+<p><strong>سمارت تيم</strong> في طليعة تطوير التمويل المضمن. نبني الجسور التي تربط الشركات بالبنية التحتية المالية الحديثة.</p>
+<p><strong>حلول التمويل المضمن لدينا:</strong></p>
+<p><strong>تكامل الدفع المخصص</strong>
+ندمج قدرات الدفع في أي منصة—ويب، هاتف، أو مؤسسة. اقبل المدفوعات المحلية والدولية، والعملات الرقمية، والمحافظ الرقمية.</p>
+<p><strong>تطوير منصات الإقراض</strong>
+ابنِ منتجات الإقراض الخاصة بك مع منصات الائتمان المخصصة لدينا. من حلول BNPL إلى تطبيقات التمويل الأصغر.</p>
+<p><strong>اتصالات المصرفية المفتوحة</strong>
+اتصل بالبنوك والمؤسسات المالية من خلال Lean Tech و SingleView ومزودي المصرفية المفتوحة الآخرين.</p>
+<blockquote>
+<p><strong>حوّل منصتك إلى قوة مالية</strong>
+<a href="/services?s=fintech-payment">اكتشف تطوير الفينتك</a> | <a href="/contact">حدد موعدًا لمكالمة استكشافية</a></p>
+</blockquote>0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/embedded-finance-2026",{"children":["$","span",null,{"aria-current":"page","children":"رؤية 2026: التمويل المضمن - الخدمات المصرفية بدون بنوك"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"مستقبل التقنية"}],["$","time",null,{"dateTime":"2025-12-15","children":"15 ديسمبر 2025"}]]}],["$","h1",null,{"children":"رؤية 2026: التمويل المضمن - الخدمات المصرفية بدون بنوك"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"يضيف التمويل المضمن خدمات مالية إلى منتج آخر عبر مزودين وتكاملات. تعرّف على نموذج التشغيل والصلاحيات واحتياجات التسوية."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/embedded-finance-2026-optimized.webp","alt":"رؤية 2026: التمويل المضمن - الخدمات المصرفية بدون بنوك","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$5"}}]]}],null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","green-tech-sustainability-2026",{"children":["$","$L3",null,{"href":"/blog/green-tech-sustainability-2026","prefetch":false,"children":"التكنولوجيا الخضراء 2026: الاستدامة في العصر الرقمي"}]}],["$","li","ai-agents-revolution-2026",{"children":["$","$L3",null,{"href":"/blog/ai-agents-revolution-2026","prefetch":false,"children":"رؤية 2026: صعود وكلاء الذكاء الاصطناعي كموظفين رقميين"}]}],["$","li","composable-architecture-2026",{"children":["$","$L3",null,{"href":"/blog/composable-architecture-2026","prefetch":false,"children":"رؤية 2026: المؤسسة المكونة - بناء الأعمال مثل الليجو"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+7:["$","$Ld",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$Lf",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

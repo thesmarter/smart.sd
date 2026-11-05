@@ -1,0 +1,59 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+10:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+11:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T6f2,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/en/blog/startup-deal-terms-guide#webpage","url":"https://www.smart.sd/en/blog/startup-deal-terms-guide","name":"Understanding Deal Terms: A Guide for Sudanese Founders","description":"A startup funding agreement defines ownership, conversion and investor rights. Learn common terms and the questions founders should review with legal advisers.","inLanguage":"en","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/en/blog/startup-deal-terms-guide#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/en/blog/startup-deal-terms-guide#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/en/blog/startup-deal-terms-guide#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.smart.sd/en"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.smart.sd/en/blog"},{"@type":"ListItem","position":3,"name":"Understanding Deal Terms: A Guide for Sudanese Founders","item":"https://www.smart.sd/en/blog/startup-deal-terms-guide"}]},{"@id":"https://www.smart.sd/en/blog/startup-deal-terms-guide#entity","inLanguage":"en","@type":"BlogPosting","headline":"Understanding Deal Terms: A Guide for Sudanese Founders","description":"A startup funding agreement defines ownership, conversion and investor rights. Learn common terms and the questions founders should review with legal advisers.","datePublished":"2026-02-05","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/en/blog/startup-deal-terms-guide","image":"https://www.smart.sd/blog/deal-terms.webp"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/en/blog","prefetch":false,"children":"Blog"}]}],["$","li","/blog/startup-deal-terms-guide",{"children":["$","span",null,{"aria-current":"page","children":"Understanding Deal Terms: A Guide for Sudanese Founders"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Enterprise systems"}],["$","time",null,{"dateTime":"2026-02-05","children":"February 5, 2026"}]]}],["$","h1",null,{"children":"Understanding Deal Terms: A Guide for Sudanese Founders"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/en/about","prefetch":false,"children":"Prepared by the Smart Team editorial team"}],[" · ","Editorial review",": ",["$","time",null,{"dateTime":"2026-11-02","children":"November 2, 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"What does this article explain?"}],["$","p",null,{"children":"A startup funding agreement defines ownership, conversion and investor rights. Learn common terms and the questions founders should review with legal advisers."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/deal-terms.webp","alt":"Understanding Deal Terms: A Guide for Sudanese Founders","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],"$L5",null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_pgeQ8kNhyQMNom7h4h5x"}
+d:Te76,<h2>Introduction</h2>
+<p>For many Sudanese founders, building a product is the easy part. The real challenge often arrives when an investor says, <em>"I'm interested. Send me your terms."</em></p>
+<p>Navigating the legal and financial intricacies of fundraising can be daunting. With the rise of venture capital in the MENA region, instruments like <strong>SAFE (Simple Agreement for Future Equity)</strong> have become the standard. But what do they actually mean for your ownership?</p>
+<p>This guide breaks down the essential deal terms every Sudanese founder needs to know before signing that paper.</p>
+<h2>1. The SAFE Agreement</h2>
+<p>Introduced by Y Combinator, the SAFE has replaced convertible notes as the go-to instrument for early-stage fundraising in Africa and the Middle East.</p>
+<h3>How it Works</h3>
+<p>You don't sell shares today. Instead, you promise the investor shares in a <em>future</em> priced round (usually Series A).</p>
+<h3>Key Components</h3>
+<ul>
+<li><strong>Valuation Cap (سقف التقييم):</strong> The maximum valuation at which the investor's money converts to equity. <em>Example:</em> If you raise at a $5M Cap, and your next round values you at $10M, early investors convert as if the value is $5M—getting more shares for their risk.</li>
+<li><strong>Discount Rate (معدل الخصم):</strong> A percentage discount (usually 20%) given to early investors on the next round's price.</li>
+</ul>
+<blockquote>
+<p><strong>Founder Tip:</strong> Always negotiate the Cap carefully. A low Cap can dilute you significantly if your startup explodes in value.</p>
+</blockquote>
+<h2>2. Equity &#x26; Dilution (الأسهم والتقليل)</h2>
+<p>Founders often worry about "giving away" their company. It's crucial to understand <strong>Dilution</strong>.</p>
+<ul>
+<li><strong>Authorized Shares:</strong> The total potential shares your company can issue.</li>
+<li><strong>Issued Shares:</strong> The shares actually owned by you and investors.</li>
+<li><strong>Option Pool (مخزون الخيارات):</strong> A block of shares (typically 10-15%) reserved for future employees. Investors will usually ask you to create this <em>before</em> their investment, meaning the dilution comes from <em>your</em> stake, not theirs.</li>
+</ul>
+<h2>3. Valuation Methods in Early Stage</h2>
+<p>In markets like Sudan where data is scarce, how do you value a company with little revenue?</p>
+<ol>
+<li><strong>Berkus Method:</strong> Assigns value to risk reduction (Idea, Prototype, Team, Strategic Relationships).</li>
+<li><strong>Scorecard Method:</strong> Compares your startup to similar funded startups in the region (e.g., in Egypt or Kenya) and adjusts based on team strength and market size.</li>
+</ol>
+<h2>4. Key Clauses to Watch</h2>
+<ul>
+<li><strong>Liquidation Preference:</strong> Determines who gets paid first if the company is sold. Standard is "1x Non-Participating" (investor gets their money back OR their share of the exit). Avoid "Participating Preferred" which lets them double-dip.</li>
+<li><strong>Pro-Rata Rights:</strong> Gives investors the right to maintain their percentage ownership in future rounds.</li>
+</ul>
+<h2>Conclusion</h2>
+<p>Fundraising is a marriage, not just a transaction. Understanding these terms ensures you protect your vision and your upside. As the Sudanese ecosystem matures, sophisticated legal structures will become the norm.</p>
+<blockquote>
+<p><strong>Need Legal or Strategic Advice?</strong></p>
+<p>Smart Team partners with legal experts to help startups structure their entities and prepare for investment.</p>
+<p><a href="/en/contact">Contact Us</a> | <a href="/en/services">Startup Services</a></p>
+</blockquote>5:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$d"}}]]}]
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"Related reading"}],["$","ul",null,{"children":[["$","li","smart-erp-vs-sap-comparison",{"children":["$","$L3",null,{"href":"/en/blog/smart-erp-vs-sap-comparison","prefetch":false,"children":"Custom ERP and SAP Business One: implementation choices"}]}],["$","li","smart-erp-manufacturing-vs-dynamics-comparison",{"children":["$","$L3",null,{"href":"/en/blog/smart-erp-manufacturing-vs-dynamics-comparison","prefetch":false,"children":"Manufacturing ERP and Microsoft Dynamics: evaluating fit"}]}],["$","li","smart-erp-vs-odoo-comparison",{"children":["$","$L3",null,{"href":"/en/blog/smart-erp-vs-odoo-comparison","prefetch":false,"children":"Custom ERP and Odoo: modules, adaptations and support"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/en/services","prefetch":false,"children":"Explore services"}]]}]
+7:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$L10",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

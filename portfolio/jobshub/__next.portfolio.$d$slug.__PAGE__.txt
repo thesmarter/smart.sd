@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0x930e0hj6.tc.js"],""]
+4:I[32195,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0x930e0hj6.tc.js"],"ProjectDetail"]
+a:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+2:T711,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/portfolio/jobshub#webpage","url":"https://www.smart.sd/portfolio/jobshub","name":"جوبز هب - بوابة الوظائف وبناء السيرة الذاتية","description":"جوبز هب موقع للتوظيف يضم البحث عن الوظائف وبناء السيرة الذاتية ومتابعة الطلبات، وأدوات لأصحاب العمل لنشر الوظائف وإدارة المرشحين.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/portfolio/jobshub#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/portfolio/jobshub#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/portfolio/jobshub#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"أعمالنا","item":"https://www.smart.sd/portfolio"},{"@type":"ListItem","position":3,"name":"جوبز هب - بوابة الوظائف وبناء السيرة الذاتية","item":"https://www.smart.sd/portfolio/jobshub"}]},{"@id":"https://www.smart.sd/portfolio/jobshub#entity","inLanguage":"ar","@type":"CreativeWork","name":"جوبز هب - بوابة الوظائف وبناء السيرة الذاتية","description":"جوبز هب موقع للتوظيف يضم البحث عن الوظائف وبناء السيرة الذاتية ومتابعة الطلبات، وأدوات لأصحاب العمل لنشر الوظائف وإدارة المرشحين.","creator":{"@id":"https://www.smart.sd/#organization"},"dateCreated":"2022-06-07","dateModified":"2026-11-02","genre":"web","image":"https://www.smart.sd/portfolio/jobshub-1.png"}]}5:T1c97,<h2>Project brief</h2>
+<p>JobsHub is a recruitment website for job seekers and employers. It brings job discovery, online CV creation and application tracking into the candidate account. Employers use company accounts to publish openings, search candidates and manage applications. The gallery shows the Arabic job-search landing page and the CV builder with downloadable templates.</p>
+<h2>Users and responsibilities</h2>
+<ul>
+<li>Candidates maintain profiles and experience records, build a CV, search vacancies and follow their applications.</li>
+<li>Employers maintain company profiles, publish job posts and review incoming candidates.</li>
+</ul>
+<p>These account types need separate permissions. Candidate contact and employment data should only appear where the agreed recruitment workflow requires it, while employers need control over their own company details and vacancies.</p>
+<h2>Candidate scope</h2>
+<ul>
+<li>Profile and work-history management.</li>
+<li>CV builder with selectable templates and PDF export.</li>
+<li>Job search and filters.</li>
+<li>Application submission and status tracking.</li>
+<li>Notifications related to account and application activity.</li>
+</ul>
+<h2>Employer scope</h2>
+<ul>
+<li>Company profile management.</li>
+<li>Job creation and publishing.</li>
+<li>Candidate search.</li>
+<li>Application review and management.</li>
+<li>Application analytics within the employer workflow.</li>
+</ul>
+<h2>Recruitment workflow</h2>
+<p>A candidate completes a profile and CV before searching for a suitable vacancy. An application then links the candidate record to the employer's job post so both sides can follow the agreed stages. The employer account collects applicants under the relevant vacancy and supports review without mixing records between companies.</p>
+<h2>Implementation decisions</h2>
+<p>The product needs a defined application-stage model, employer-verification process and privacy policy for candidate data. CV fields and export layouts should be agreed before templates are expanded because each new field affects data entry and the generated PDF. Search filters should use controlled values where possible so candidates and employers classify roles in the same way.</p>
+<h2>Verification and handoff</h2>
+<p>Test the complete path with separate candidate and employer accounts. Confirm profile editing, CV output, job filters, application submission, status changes, notifications and company-level access rules. Mobile checks should cover the search form, CV builder and employer tables. The available project material does not provide placement rates or hiring outcomes, so this case study makes no such claim.</p>
+<h2>Possible next phase</h2>
+<p>A later phase can extend the application stages, CV templates, search taxonomy or employer review tools. Before adding them, define the data fields, access rules and reports that the change requires.</p>
+<p>See our <a href="/services/web-development">web development service</a> for requirements, interface design and integration planning.</p>
+<hr>
+<h2>ملخص المشروع</h2>
+<p>جوبز هب موقع توظيف للباحثين عن عمل وأصحاب العمل. يجمع حساب المرشح بين اكتشاف الوظائف وإنشاء السيرة الذاتية عبر الإنترنت ومتابعة الطلبات. تستخدم الشركات حساباتها لنشر الشواغر والبحث عن المرشحين وإدارة الطلبات. تعرض الصور الصفحة العربية للبحث عن الوظائف وأداة بناء السيرة مع قوالب قابلة للتنزيل.</p>
+<h2>المستخدمون والمسؤوليات</h2>
+<ul>
+<li>يحدّث المرشح ملفه وخبراته ويبني سيرته ويبحث عن الوظائف ويتابع طلباته.</li>
+<li>يدير صاحب العمل ملف الشركة وينشر الوظائف ويراجع المرشحين المتقدمين.</li>
+</ul>
+<p>يحتاج كل نوع من الحسابات إلى صلاحيات مستقلة. لا تظهر بيانات الاتصال والخبرة الخاصة بالمرشح إلا في المواضع التي يتطلبها مسار التوظيف المتفق عليه، وتتحكم كل شركة في بياناتها ووظائفها فقط.</p>
+<h2>نطاق المرشح</h2>
+<ul>
+<li>إدارة الملف الشخصي وسجل الخبرات.</li>
+<li>بناء السيرة الذاتية باستخدام قوالب مختلفة وتصديرها بصيغة PDF.</li>
+<li>البحث عن الوظائف وتصفيتها.</li>
+<li>إرسال الطلب ومتابعة حالته.</li>
+<li>إشعارات مرتبطة بنشاط الحساب والطلبات.</li>
+</ul>
+<h2>نطاق صاحب العمل</h2>
+<ul>
+<li>إدارة ملف الشركة.</li>
+<li>إنشاء الوظائف ونشرها.</li>
+<li>البحث عن المرشحين.</li>
+<li>مراجعة الطلبات وإدارتها.</li>
+<li>تحليلات للطلبات ضمن مسار صاحب العمل.</li>
+</ul>
+<h2>مسار التوظيف</h2>
+<p>يكمل المرشح ملفه وسيرته قبل البحث عن وظيفة مناسبة. يربط التقديم سجل المرشح بإعلان الشركة حتى يتمكن الطرفان من متابعة المراحل المتفق عليها. يجمع حساب الشركة المتقدمين تحت الوظيفة المعنية ويفصل سجلاتهم عن حسابات الشركات الأخرى.</p>
+<h2>قرارات التنفيذ</h2>
+<p>يحتاج المنتج إلى نموذج محدد لمراحل التقديم وآلية للتحقق من أصحاب العمل وسياسة خصوصية لبيانات المرشحين. يجب الاتفاق على حقول السيرة وتخطيط التصدير قبل زيادة عدد القوالب، لأن كل حقل جديد يؤثر في الإدخال وملف PDF الناتج. يفضّل أن تعتمد مرشحات البحث على قيم محددة حتى يستخدم المرشح والشركة التصنيفات نفسها.</p>
+<h2>التحقق والتسليم</h2>
+<p>يُختبر المسار كاملًا بحساب مستقل للمرشح وآخر لصاحب العمل. يشمل الاختبار تعديل الملف وتصدير السيرة ومرشحات الوظائف وإرسال الطلب وتغيير حالته والإشعارات وصلاحيات كل شركة. كما يجب فحص نموذج البحث وأداة السيرة وجداول صاحب العمل على شاشات الجوال. لا تتضمن المواد المتاحة نسب توظيف أو نتائج تعيين، لذلك لا تدّعي دراسة الحالة أرقامًا من هذا النوع.</p>
+<h2>مرحلة لاحقة محتملة</h2>
+<p>يمكن لمرحلة لاحقة توسيع مراحل التقديم أو قوالب السيرة أو تصنيفات البحث أو أدوات مراجعة المرشحين. قبل التنفيذ يجب تحديد حقول البيانات والصلاحيات والتقارير التي تتطلبها الإضافة.</p>
+<p>راجع <a href="/services/web-development">خدمة تطوير المواقع</a> لتحديد المتطلبات وتصميم الواجهات والتخطيط للتكاملات.</p>6:Tbde,<h2>Project brief</h2>
+<p>JobsHub is a recruitment website for job seekers and employers. It brings job discovery, online CV creation and application tracking into the candidate account. Employers use company accounts to publish openings, search candidates and manage applications. The gallery shows the Arabic job-search landing page and the CV builder with downloadable templates.</p>
+<h2>Users and responsibilities</h2>
+<ul>
+<li>Candidates maintain profiles and experience records, build a CV, search vacancies and follow their applications.</li>
+<li>Employers maintain company profiles, publish job posts and review incoming candidates.</li>
+</ul>
+<p>These account types need separate permissions. Candidate contact and employment data should only appear where the agreed recruitment workflow requires it, while employers need control over their own company details and vacancies.</p>
+<h2>Candidate scope</h2>
+<ul>
+<li>Profile and work-history management.</li>
+<li>CV builder with selectable templates and PDF export.</li>
+<li>Job search and filters.</li>
+<li>Application submission and status tracking.</li>
+<li>Notifications related to account and application activity.</li>
+</ul>
+<h2>Employer scope</h2>
+<ul>
+<li>Company profile management.</li>
+<li>Job creation and publishing.</li>
+<li>Candidate search.</li>
+<li>Application review and management.</li>
+<li>Application analytics within the employer workflow.</li>
+</ul>
+<h2>Recruitment workflow</h2>
+<p>A candidate completes a profile and CV before searching for a suitable vacancy. An application then links the candidate record to the employer's job post so both sides can follow the agreed stages. The employer account collects applicants under the relevant vacancy and supports review without mixing records between companies.</p>
+<h2>Implementation decisions</h2>
+<p>The product needs a defined application-stage model, employer-verification process and privacy policy for candidate data. CV fields and export layouts should be agreed before templates are expanded because each new field affects data entry and the generated PDF. Search filters should use controlled values where possible so candidates and employers classify roles in the same way.</p>
+<h2>Verification and handoff</h2>
+<p>Test the complete path with separate candidate and employer accounts. Confirm profile editing, CV output, job filters, application submission, status changes, notifications and company-level access rules. Mobile checks should cover the search form, CV builder and employer tables. The available project material does not provide placement rates or hiring outcomes, so this case study makes no such claim.</p>
+<h2>Possible next phase</h2>
+<p>A later phase can extend the application stages, CV templates, search taxonomy or employer review tools. Before adding them, define the data fields, access rules and reports that the change requires.</p>
+<p>See our <a href="/services/web-development">web development service</a> for requirements, interface design and integration planning.</p>7:T10b3,<h2>ملخص المشروع</h2>
+<p>جوبز هب موقع توظيف للباحثين عن عمل وأصحاب العمل. يجمع حساب المرشح بين اكتشاف الوظائف وإنشاء السيرة الذاتية عبر الإنترنت ومتابعة الطلبات. تستخدم الشركات حساباتها لنشر الشواغر والبحث عن المرشحين وإدارة الطلبات. تعرض الصور الصفحة العربية للبحث عن الوظائف وأداة بناء السيرة مع قوالب قابلة للتنزيل.</p>
+<h2>المستخدمون والمسؤوليات</h2>
+<ul>
+<li>يحدّث المرشح ملفه وخبراته ويبني سيرته ويبحث عن الوظائف ويتابع طلباته.</li>
+<li>يدير صاحب العمل ملف الشركة وينشر الوظائف ويراجع المرشحين المتقدمين.</li>
+</ul>
+<p>يحتاج كل نوع من الحسابات إلى صلاحيات مستقلة. لا تظهر بيانات الاتصال والخبرة الخاصة بالمرشح إلا في المواضع التي يتطلبها مسار التوظيف المتفق عليه، وتتحكم كل شركة في بياناتها ووظائفها فقط.</p>
+<h2>نطاق المرشح</h2>
+<ul>
+<li>إدارة الملف الشخصي وسجل الخبرات.</li>
+<li>بناء السيرة الذاتية باستخدام قوالب مختلفة وتصديرها بصيغة PDF.</li>
+<li>البحث عن الوظائف وتصفيتها.</li>
+<li>إرسال الطلب ومتابعة حالته.</li>
+<li>إشعارات مرتبطة بنشاط الحساب والطلبات.</li>
+</ul>
+<h2>نطاق صاحب العمل</h2>
+<ul>
+<li>إدارة ملف الشركة.</li>
+<li>إنشاء الوظائف ونشرها.</li>
+<li>البحث عن المرشحين.</li>
+<li>مراجعة الطلبات وإدارتها.</li>
+<li>تحليلات للطلبات ضمن مسار صاحب العمل.</li>
+</ul>
+<h2>مسار التوظيف</h2>
+<p>يكمل المرشح ملفه وسيرته قبل البحث عن وظيفة مناسبة. يربط التقديم سجل المرشح بإعلان الشركة حتى يتمكن الطرفان من متابعة المراحل المتفق عليها. يجمع حساب الشركة المتقدمين تحت الوظيفة المعنية ويفصل سجلاتهم عن حسابات الشركات الأخرى.</p>
+<h2>قرارات التنفيذ</h2>
+<p>يحتاج المنتج إلى نموذج محدد لمراحل التقديم وآلية للتحقق من أصحاب العمل وسياسة خصوصية لبيانات المرشحين. يجب الاتفاق على حقول السيرة وتخطيط التصدير قبل زيادة عدد القوالب، لأن كل حقل جديد يؤثر في الإدخال وملف PDF الناتج. يفضّل أن تعتمد مرشحات البحث على قيم محددة حتى يستخدم المرشح والشركة التصنيفات نفسها.</p>
+<h2>التحقق والتسليم</h2>
+<p>يُختبر المسار كاملًا بحساب مستقل للمرشح وآخر لصاحب العمل. يشمل الاختبار تعديل الملف وتصدير السيرة ومرشحات الوظائف وإرسال الطلب وتغيير حالته والإشعارات وصلاحيات كل شركة. كما يجب فحص نموذج البحث وأداة السيرة وجداول صاحب العمل على شاشات الجوال. لا تتضمن المواد المتاحة نسب توظيف أو نتائج تعيين، لذلك لا تدّعي دراسة الحالة أرقامًا من هذا النوع.</p>
+<h2>مرحلة لاحقة محتملة</h2>
+<p>يمكن لمرحلة لاحقة توسيع مراحل التقديم أو قوالب السيرة أو تصنيفات البحث أو أدوات مراجعة المرشحين. قبل التنفيذ يجب تحديد حقول البيانات والصلاحيات والتقارير التي تتطلبها الإضافة.</p>
+<p>راجع <a href="/services/web-development">خدمة تطوير المواقع</a> لتحديد المتطلبات وتصميم الواجهات والتخطيط للتكاملات.</p>0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/portfolio",{"children":["$","$L3",null,{"href":"/portfolio","prefetch":false,"children":"أعمالنا"}]}],["$","li","/portfolio/jobshub",{"children":["$","span",null,{"aria-current":"page","children":"جوبز هب - بوابة الوظائف وبناء السيرة الذاتية"}]}]]}]}]],["$","$L4",null,{"project":{"slug":"jobshub","contentHtml":"$5","contentHtmlEn":"$6","contentHtmlAr":"$7","title":"JobsHub - Jobs Portal & Resume Builder","titleAr":"جوبز هب - بوابة الوظائف وبناء السيرة الذاتية","category":"web","categoryAr":"مواقع ويب","client":"Smart Team","date":"2022-06-07","url":"https://jobshub.sd","image":"/portfolio/jobshub-1.png","images":["/portfolio/jobshub-1.png","/portfolio/jobshub-2.png","/portfolio/jobshub-3.png"],"description":"JobsHub is a recruitment website with job search, CV building, application tracking and employer tools for publishing jobs and managing candidates.","descriptionAr":"جوبز هب موقع للتوظيف يضم البحث عن الوظائف وبناء السيرة الذاتية ومتابعة الطلبات، وأدوات لأصحاب العمل لنشر الوظائف وإدارة المرشحين.","lastModified":"2026-11-02"}}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+8:["$","script","script-0",{"src":"/_next/static/chunks/0x930e0hj6.tc.js","async":true}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

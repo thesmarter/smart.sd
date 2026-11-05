@@ -1,0 +1,75 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+d:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+f:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+10:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T7d1,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/solana-blockchain-payments#webpage","url":"https://www.smart.sd/blog/solana-blockchain-payments","name":"سولانا: ثورة السرعة في مدفوعات البلوكتشين","description":"تحتاج مدفوعات Solana إلى تأكيد المعاملات وأمن المحافظ والتسوية. راجع سلوك الشبكة وتقلب الأصول ومتطلبات التشغيل المناسبة للسوق.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/solana-blockchain-payments#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/solana-blockchain-payments#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/solana-blockchain-payments#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"سولانا: ثورة السرعة في مدفوعات البلوكتشين","item":"https://www.smart.sd/blog/solana-blockchain-payments"}]},{"@id":"https://www.smart.sd/blog/solana-blockchain-payments#entity","inLanguage":"ar","@type":"BlogPosting","headline":"سولانا: ثورة السرعة في مدفوعات البلوكتشين","description":"تحتاج مدفوعات Solana إلى تأكيد المعاملات وأمن المحافظ والتسوية. راجع سلوك الشبكة وتقلب الأصول ومتطلبات التشغيل المناسبة للسوق.","datePublished":"2024-12-14","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/solana-blockchain-payments","image":"https://www.smart.sd/blog/solana-payments-optimized.webp"}]}5:T9c5,<h2>لماذا سولانا للمدفوعات؟</h2>
+<p>برزت سولانا كبلوكتشين رائد للبنية التحتية للمدفوعات في عام 2024. مع القدرة على معالجة 65,000 معاملة في الثانية ونهائية في أقل من 400 ميلي ثانية، توفر قدرات تنافس شبكات الدفع التقليدية.</p>
+<h3>المزايا التقنية لسولانا</h3>
+<table>
+<thead>
+<tr>
+<th>الميزة</th>
+<th>سولانا</th>
+<th>إيثيريوم</th>
+<th>البنوك التقليدية</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>سرعة المعاملة</td>
+<td>&#x3C;1 ثانية</td>
+<td>15-30 ثانية</td>
+<td>1-3 أيام</td>
+</tr>
+<tr>
+<td>تكلفة المعاملة</td>
+<td>$0.00025</td>
+<td>$1-50</td>
+<td>$25-50</td>
+</tr>
+<tr>
+<td>سعة TPS</td>
+<td>65,000</td>
+<td>15-30</td>
+<td>~5,000</td>
+</tr>
+</tbody>
+</table>
+<h3>اللاعبون الرئيسيون على سولانا</h3>
+<p><strong>التبني المؤسسي في 2024:</strong></p>
+<ul>
+<li><strong>Visa:</strong> تستخدم سولانا لتسوية العملات المستقرة</li>
+<li><strong>PayPal:</strong> عملة PYUSD متاحة على سولانا</li>
+<li><strong>Shopify:</strong> تكامل Solana Pay للتجار</li>
+<li><strong>Franklin Templeton:</strong> صناديق مرمزة على سولانا</li>
+</ul>
+<h3>Solana Pay في العمل</h3>
+<p>يمكّن Solana Pay التجار من قبول مدفوعات العملات الرقمية مع:</p>
+<ul>
+<li>مسح بسيط لرمز QR في نقطة البيع</li>
+<li>تسوية فورية بـ USDC أو رموز SPL أخرى</li>
+<li>عدم وجود عمليات استرداد أو احتيال</li>
+<li>وصول مباشر لعوائد DeFi على الأموال المستلمة</li>
+</ul>
+<h3>البناء على سولانا مع سمارت تيم</h3>
+<p>نطور حلول الدفع القائمة على سولانا:</p>
+<ul>
+<li><strong>بوابات دفع للتجار</strong> - قبول SOL، USDC، USDT</li>
+<li><strong>تطبيقات محافظ الهاتف</strong> - محافظ عملات رقمية متعددة المنصات</li>
+<li><strong>تكاملات DeFi</strong> - عوائد على ممتلكات الخزينة</li>
+<li><strong>أنظمة دفع NFT</strong> - برامج ولاء ومكافآت مرمزة</li>
+</ul>
+<p><a href="/services?s=fintech-payment">اكتشف خدمات تطوير البلوكتشين لدينا</a></p>0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/solana-blockchain-payments",{"children":["$","span",null,{"aria-current":"page","children":"سولانا: ثورة السرعة في مدفوعات البلوكتشين"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"العملات الرقمية"}],["$","time",null,{"dateTime":"2024-12-14","children":"14 ديسمبر 2024"}]]}],["$","h1",null,{"children":"سولانا: ثورة السرعة في مدفوعات البلوكتشين"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"تحتاج مدفوعات Solana إلى تأكيد المعاملات وأمن المحافظ والتسوية. راجع سلوك الشبكة وتقلب الأصول ومتطلبات التشغيل المناسبة للسوق."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/solana-payments-optimized.webp","alt":"سولانا: ثورة السرعة في مدفوعات البلوكتشين","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$5"}}]]}],null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","stablecoins-payment-systems",{"children":["$","$L3",null,{"href":"/blog/stablecoins-payment-systems","prefetch":false,"children":"العملات المستقرة في أنظمة الدفع: USDT و USDC ومستقبل المال"}]}],["$","li","bitcoin-etfs-institutional-investment",{"children":["$","$L3",null,{"href":"/blog/bitcoin-etfs-institutional-investment","prefetch":false,"children":"صناديق البيتكوين المتداولة: الاستثمار المؤسسي في العملات الرقمية يصبح رئيسيًا"}]}],["$","li","flutter-mvp-development-2026",{"children":["$","$L3",null,{"href":"/blog/flutter-mvp-development-2026","prefetch":false,"children":"تخطيط الإصدار الأول من تطبيق الجوال باستخدام Flutter"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+7:["$","$Ld",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$Lf",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

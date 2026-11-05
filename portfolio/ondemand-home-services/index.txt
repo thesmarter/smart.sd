@@ -1,0 +1,137 @@
+1:"$Sreact.fragment"
+3:I[39756,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+6:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+e:I[53348,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0n-2i.hj9v09b.js"],"default"]
+:HL["/_next/static/chunks/0odh04soik34o.css","style"]
+:HL["/_next/static/chunks/0qenrobftlhw-.css","style"]
+:HL["/_next/static/media/9ff27b8a0a8f3dc0-s.p.170gfl_1xpie6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d41831e24743a3c1-s.p.02r-fjhi~6g_a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","portfolio","ondemand-home-services",""],"q":"","i":false,"f":[[["",{"children":["portfolio",{"children":[["slug","ondemand-home-services","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0odh04soik34o.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0qenrobftlhw-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0~82jkybqn1h8.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0a08zi_6aqxfs.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/07i~.d4axjz_q.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/0x930e0hj6.tc.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0odh04soik34o.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0qenrobftlhw-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"W4pMMQcotTdhPwZrO_qkO"}
+f:[]
+9:"$Wf"
+11:I[27443,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ThemeProvider"]
+12:I[17139,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"LanguageProvider"]
+13:I[80733,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+14:I[94539,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ThirdPartyScripts"]
+15:I[93983,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+16:I[8821,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0zquxebu1pj7o.js"],"default"]
+18:I[87392,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+10:T4f8,{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.smart.sd/#organization","name":"Smart Team IT","alternateName":["Smart Team","سمارت تيم"],"url":"https://www.smart.sd","logo":{"@type":"ImageObject","url":"https://www.smart.sd/logo-w.png","width":1143,"height":1206},"foundingDate":"2015","description":"سمارت تيم شركة برمجيات تعمل منذ 2015. نطوّر أنظمة ERP والمواقع وتطبيقات الجوال وحلول الدفع لأعمال في السودان والسعودية والإمارات.","email":"info@smart.sd","address":{"@type":"PostalAddress","addressLocality":"Khartoum","addressCountry":"SD"},"areaServed":["SD","SA","AE"],"contactPoint":{"@type":"ContactPoint","contactType":"sales","email":"info@smart.sd","url":"https://www.smart.sd/contact","areaServed":["SD","SA","AE"],"availableLanguage":["Arabic","English"]},"sameAs":["https://www.facebook.com/SmartTeamSd","https://x.com/smart_team_sd","https://www.linkedin.com/company/thesmart-team/"]},{"@type":"WebSite","@id":"https://www.smart.sd/#website","url":"https://www.smart.sd","name":"Smart Team","alternateName":"سمارت تيم","inLanguage":["ar","en"],"publisher":{"@id":"https://www.smart.sd/#organization"}}]}2:["$","html",null,{"lang":"ar","dir":"rtl","className":"cairo_883b24e3-module__pW5XIG__variable montserrat_b2573e6e-module__vkGO5a__variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('theme');var t=s==='light'||s==='dark'?s:matchMedia('(prefers-color-scheme:light)').matches?'light':'dark';document.documentElement.dataset.theme=t;document.documentElement.classList.toggle('dark',t==='dark');var m=document.querySelector('meta[name=\"theme-color\"]');if(m)m.content=t==='dark'?'#101b2b':'#f3f6fa';}catch(e){}})();window.dataLayer=window.dataLayer||[];window.gtag=function(){window.dataLayer.push(arguments)};window.gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$10"}}]]}],["$","body",null,{"className":"antialiased bg-background text-text-main","children":["$","$L11",null,{"children":["$","$L12",null,{"initialLang":"ar","children":[["$","$L13",null,{}],["$","$L14",null,{}],null,["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L15",null,{}],["$","main",null,{"id":"main-content","className":"flex-grow","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$16","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/0zquxebu1pj7o.js","async":true}]],"template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L17",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L18",null,{}]]}]]}]}]}]]}]
+19:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0x930e0hj6.tc.js"],""]
+17:["$","div",null,{"className":"studio-container status-page","children":[["$","p",null,{"className":"status-code","aria-hidden":"true","children":"404"}],["$","h1",null,{"children":"الصفحة غير موجودة"}],["$","p",null,{"children":"تحقّق من الرابط، أو انتقل إلى الخدمات للعثور على الصفحة التي تحتاجها."}],["$","div",null,{"className":"status-actions","children":[["$","$L19",null,{"href":"/","className":"button button-primary","prefetch":false,"children":"الرئيسية"}],["$","$L19",null,{"href":"/services","className":"button button-secondary","prefetch":false,"children":"استكشف الخدمات"}]]}]]}]
+1b:I[32195,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0x930e0hj6.tc.js"],"ProjectDetail"]
+1a:T69a,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/portfolio/ondemand-home-services#webpage","url":"https://www.smart.sd/portfolio/ondemand-home-services","name":"تطبيق خدمات المنزل","description":"تطبيق لحجز الخدمات المنزلية يضم قوائم مقدمي الخدمة ومواعيد الحرفيين والإشعارات وتكامل الدفع ولوحة إدارة.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/portfolio/ondemand-home-services#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/portfolio/ondemand-home-services#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/portfolio/ondemand-home-services#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"أعمالنا","item":"https://www.smart.sd/portfolio"},{"@type":"ListItem","position":3,"name":"تطبيق خدمات المنزل","item":"https://www.smart.sd/portfolio/ondemand-home-services"}]},{"@id":"https://www.smart.sd/portfolio/ondemand-home-services#entity","inLanguage":"ar","@type":"CreativeWork","name":"تطبيق خدمات المنزل","description":"تطبيق لحجز الخدمات المنزلية يضم قوائم مقدمي الخدمة ومواعيد الحرفيين والإشعارات وتكامل الدفع ولوحة إدارة.","creator":{"@id":"https://www.smart.sd/#organization"},"dateCreated":"2022-06-07","dateModified":"2026-11-02","genre":"mobile","image":"https://www.smart.sd/portfolio/ondemand-1.jpg"}]}1c:T1c1b,<h2>Project brief</h2>
+<p>This mobile marketplace connects customers with home service providers. Customers browse service categories and provider listings, review service details and request an appointment. The project also includes notifications, payment integration and an administration panel for platform settings and records. The gallery documents both the customer app and administration screens.</p>
+<h2>Users and responsibilities</h2>
+<ul>
+<li>Customers select a service and provider, submit booking details and follow the request.</li>
+<li>Service providers are represented through business and service listings presented to customers.</li>
+<li>Platform administrators maintain the marketplace through the administration panel.</li>
+</ul>
+<p>The operating business still needs a process for approving providers and supporting customers. The application records the booking workflow, but it does not by itself verify a provider's qualifications.</p>
+<h2>Delivered scope</h2>
+<ul>
+<li>Mobile discovery interface for home-service categories.</li>
+<li>Provider and service listings.</li>
+<li>Service detail and booking screens.</li>
+<li>Location and appointment inputs used in the request flow.</li>
+<li>Notifications and payment integration.</li>
+<li>Administration panel for platform management.</li>
+</ul>
+<h2>Booking workflow</h2>
+<p>The customer begins with a category, reviews the available services or businesses and opens the relevant detail page. The booking flow then collects the information needed for a visit, including the service, location and appointment details represented in the interface. Notifications keep the customer informed about the request, while the administration panel gives the operator a view of the system configuration and activity.</p>
+<h2>Implementation decisions</h2>
+<p>Service areas, appointment availability, cancellation rules and provider approval need to be defined before launch. The catalogue also needs a consistent structure for categories, services, prices and provider availability. Payment scope depends on the selected provider and merchant account. Refunds, cancelled visits and unsuccessful payments require written operational rules as well as interface states.</p>
+<h2>Verification and handoff</h2>
+<p>Test a booking from category selection through the final recorded request. Confirm provider and service data, location input, appointment availability, notifications, payment responses and administration access. Also test what the customer sees when a time slot is no longer available or a payment cannot be completed. Provider onboarding and customer support should have owners outside the app before the marketplace opens to users.</p>
+<h2>Possible next phase</h2>
+<p>A later phase can extend service areas, booking rules or provider-management tools after the current booking flow has been tested with the operating team. New functions should not go live until the matching support and provider-review process is ready.</p>
+<p>Discuss a similar scope through our <a href="/services/mobile-development">mobile app development service</a>.</p>
+<hr>
+<h2>ملخص المشروع</h2>
+<p>يربط هذا السوق عبر الجوال العملاء بمقدمي الخدمات المنزلية. يتصفح العميل التصنيفات وقوائم مقدمي الخدمة، ويراجع تفاصيل الخدمة ثم يطلب موعدًا. يشمل المشروع كذلك الإشعارات وتكامل الدفع ولوحة لإدارة إعدادات المنصة وسجلاتها. توثّق الصور واجهة العميل وشاشات من لوحة الإدارة.</p>
+<h2>المستخدمون والمسؤوليات</h2>
+<ul>
+<li>يختار العميل الخدمة ومقدمها ويرسل بيانات الحجز ويتابع الطلب.</li>
+<li>يظهر مقدمو الخدمة من خلال قوائم الأعمال والخدمات المعروضة للعملاء.</li>
+<li>يدير مسؤول المنصة السوق من خلال لوحة الإدارة.</li>
+</ul>
+<p>يحتاج النشاط المشغل إلى إجراء مستقل لاعتماد مقدمي الخدمة ودعم العملاء. يسجل التطبيق مسار الحجز، لكنه لا يتحقق وحده من مؤهلات مقدم الخدمة.</p>
+<h2>النطاق المنفذ</h2>
+<ul>
+<li>واجهة على الجوال لاكتشاف تصنيفات الخدمات المنزلية.</li>
+<li>قوائم لمقدمي الخدمة والخدمات.</li>
+<li>شاشات لتفاصيل الخدمة والحجز.</li>
+<li>إدخال الموقع والموعد ضمن مسار الطلب.</li>
+<li>إشعارات وتكامل للدفع.</li>
+<li>لوحة لإدارة المنصة.</li>
+</ul>
+<h2>مسار الحجز</h2>
+<p>يبدأ العميل من التصنيف ويراجع الخدمات أو الأعمال المتاحة ثم يفتح صفحة التفاصيل. يجمع مسار الحجز بعد ذلك المعلومات اللازمة للزيارة، ومنها الخدمة والموقع وبيانات الموعد التي تمثلها الواجهة. تبقي الإشعارات العميل على اطلاع بحالة الطلب، وتمنح لوحة الإدارة مشغل المنصة رؤية لإعدادات النظام ونشاطه.</p>
+<h2>قرارات التنفيذ</h2>
+<p>يجب تحديد مناطق الخدمة والمواعيد المتاحة وقواعد الإلغاء واعتماد مقدمي الخدمة قبل الإطلاق. تحتاج القائمة كذلك إلى بنية ثابتة للتصنيفات والخدمات والأسعار وتوفر مقدم الخدمة. يعتمد نطاق الدفع على المزود وحساب التاجر المختارين. كما تحتاج حالات الاسترداد وإلغاء الزيارة وفشل الدفع إلى قواعد تشغيلية مكتوبة وحالات واضحة في الواجهة.</p>
+<h2>التحقق والتسليم</h2>
+<p>يُختبر الحجز من اختيار التصنيف حتى تسجيل الطلب النهائي. يشمل التحقق بيانات مقدم الخدمة والخدمة والموقع وتوفر الموعد والإشعارات واستجابة الدفع وصلاحيات لوحة الإدارة. يجب كذلك اختبار ما يراه العميل إذا لم يعد الموعد متاحًا أو تعذر الدفع. يحتاج اعتماد مقدمي الخدمة ودعم العملاء إلى مسؤولين محددين خارج التطبيق قبل فتح السوق للمستخدمين.</p>
+<h2>مرحلة لاحقة محتملة</h2>
+<p>يمكن لمرحلة لاحقة توسيع مناطق الخدمة أو قواعد الحجز أو أدوات إدارة مقدمي الخدمة بعد اختبار المسار الحالي مع فريق التشغيل. لا تطلق الوظائف الجديدة قبل تجهيز إجراءات الدعم ومراجعة مقدمي الخدمة المرتبطة بها.</p>
+<p>ناقش نطاقًا مشابهًا عبر <a href="/services/mobile-development">خدمة تطوير تطبيقات الجوال</a>.</p>1d:Tc24,<h2>Project brief</h2>
+<p>This mobile marketplace connects customers with home service providers. Customers browse service categories and provider listings, review service details and request an appointment. The project also includes notifications, payment integration and an administration panel for platform settings and records. The gallery documents both the customer app and administration screens.</p>
+<h2>Users and responsibilities</h2>
+<ul>
+<li>Customers select a service and provider, submit booking details and follow the request.</li>
+<li>Service providers are represented through business and service listings presented to customers.</li>
+<li>Platform administrators maintain the marketplace through the administration panel.</li>
+</ul>
+<p>The operating business still needs a process for approving providers and supporting customers. The application records the booking workflow, but it does not by itself verify a provider's qualifications.</p>
+<h2>Delivered scope</h2>
+<ul>
+<li>Mobile discovery interface for home-service categories.</li>
+<li>Provider and service listings.</li>
+<li>Service detail and booking screens.</li>
+<li>Location and appointment inputs used in the request flow.</li>
+<li>Notifications and payment integration.</li>
+<li>Administration panel for platform management.</li>
+</ul>
+<h2>Booking workflow</h2>
+<p>The customer begins with a category, reviews the available services or businesses and opens the relevant detail page. The booking flow then collects the information needed for a visit, including the service, location and appointment details represented in the interface. Notifications keep the customer informed about the request, while the administration panel gives the operator a view of the system configuration and activity.</p>
+<h2>Implementation decisions</h2>
+<p>Service areas, appointment availability, cancellation rules and provider approval need to be defined before launch. The catalogue also needs a consistent structure for categories, services, prices and provider availability. Payment scope depends on the selected provider and merchant account. Refunds, cancelled visits and unsuccessful payments require written operational rules as well as interface states.</p>
+<h2>Verification and handoff</h2>
+<p>Test a booking from category selection through the final recorded request. Confirm provider and service data, location input, appointment availability, notifications, payment responses and administration access. Also test what the customer sees when a time slot is no longer available or a payment cannot be completed. Provider onboarding and customer support should have owners outside the app before the marketplace opens to users.</p>
+<h2>Possible next phase</h2>
+<p>A later phase can extend service areas, booking rules or provider-management tools after the current booking flow has been tested with the operating team. New functions should not go live until the matching support and provider-review process is ready.</p>
+<p>Discuss a similar scope through our <a href="/services/mobile-development">mobile app development service</a>.</p>1e:Tff1,<h2>ملخص المشروع</h2>
+<p>يربط هذا السوق عبر الجوال العملاء بمقدمي الخدمات المنزلية. يتصفح العميل التصنيفات وقوائم مقدمي الخدمة، ويراجع تفاصيل الخدمة ثم يطلب موعدًا. يشمل المشروع كذلك الإشعارات وتكامل الدفع ولوحة لإدارة إعدادات المنصة وسجلاتها. توثّق الصور واجهة العميل وشاشات من لوحة الإدارة.</p>
+<h2>المستخدمون والمسؤوليات</h2>
+<ul>
+<li>يختار العميل الخدمة ومقدمها ويرسل بيانات الحجز ويتابع الطلب.</li>
+<li>يظهر مقدمو الخدمة من خلال قوائم الأعمال والخدمات المعروضة للعملاء.</li>
+<li>يدير مسؤول المنصة السوق من خلال لوحة الإدارة.</li>
+</ul>
+<p>يحتاج النشاط المشغل إلى إجراء مستقل لاعتماد مقدمي الخدمة ودعم العملاء. يسجل التطبيق مسار الحجز، لكنه لا يتحقق وحده من مؤهلات مقدم الخدمة.</p>
+<h2>النطاق المنفذ</h2>
+<ul>
+<li>واجهة على الجوال لاكتشاف تصنيفات الخدمات المنزلية.</li>
+<li>قوائم لمقدمي الخدمة والخدمات.</li>
+<li>شاشات لتفاصيل الخدمة والحجز.</li>
+<li>إدخال الموقع والموعد ضمن مسار الطلب.</li>
+<li>إشعارات وتكامل للدفع.</li>
+<li>لوحة لإدارة المنصة.</li>
+</ul>
+<h2>مسار الحجز</h2>
+<p>يبدأ العميل من التصنيف ويراجع الخدمات أو الأعمال المتاحة ثم يفتح صفحة التفاصيل. يجمع مسار الحجز بعد ذلك المعلومات اللازمة للزيارة، ومنها الخدمة والموقع وبيانات الموعد التي تمثلها الواجهة. تبقي الإشعارات العميل على اطلاع بحالة الطلب، وتمنح لوحة الإدارة مشغل المنصة رؤية لإعدادات النظام ونشاطه.</p>
+<h2>قرارات التنفيذ</h2>
+<p>يجب تحديد مناطق الخدمة والمواعيد المتاحة وقواعد الإلغاء واعتماد مقدمي الخدمة قبل الإطلاق. تحتاج القائمة كذلك إلى بنية ثابتة للتصنيفات والخدمات والأسعار وتوفر مقدم الخدمة. يعتمد نطاق الدفع على المزود وحساب التاجر المختارين. كما تحتاج حالات الاسترداد وإلغاء الزيارة وفشل الدفع إلى قواعد تشغيلية مكتوبة وحالات واضحة في الواجهة.</p>
+<h2>التحقق والتسليم</h2>
+<p>يُختبر الحجز من اختيار التصنيف حتى تسجيل الطلب النهائي. يشمل التحقق بيانات مقدم الخدمة والخدمة والموقع وتوفر الموعد والإشعارات واستجابة الدفع وصلاحيات لوحة الإدارة. يجب كذلك اختبار ما يراه العميل إذا لم يعد الموعد متاحًا أو تعذر الدفع. يحتاج اعتماد مقدمي الخدمة ودعم العملاء إلى مسؤولين محددين خارج التطبيق قبل فتح السوق للمستخدمين.</p>
+<h2>مرحلة لاحقة محتملة</h2>
+<p>يمكن لمرحلة لاحقة توسيع مناطق الخدمة أو قواعد الحجز أو أدوات إدارة مقدمي الخدمة بعد اختبار المسار الحالي مع فريق التشغيل. لا تطلق الوظائف الجديدة قبل تجهيز إجراءات الدعم ومراجعة مقدمي الخدمة المرتبطة بها.</p>
+<p>ناقش نطاقًا مشابهًا عبر <a href="/services/mobile-development">خدمة تطوير تطبيقات الجوال</a>.</p>5:[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1a"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L19",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/portfolio",{"children":["$","$L19",null,{"href":"/portfolio","prefetch":false,"children":"أعمالنا"}]}],["$","li","/portfolio/ondemand-home-services",{"children":["$","span",null,{"aria-current":"page","children":"تطبيق خدمات المنزل"}]}]]}]}]],["$","$L1b",null,{"project":{"slug":"ondemand-home-services","contentHtml":"$1c","contentHtmlEn":"$1d","contentHtmlAr":"$1e","title":"Ondemand Home Services","titleAr":"تطبيق خدمات المنزل","category":"mobile","categoryAr":"تطبيقات جوال","client":"Abo Ali","date":"2022-06-07","url":"https://play.google.com/store/apps/details?id=com.smartersvision.home_services","image":"/portfolio/ondemand-1.jpg","images":["/portfolio/ondemand-1.jpg","/portfolio/ondemand-2-optimized.webp","/portfolio/ondemand-3.jpg","/portfolio/ondemand-4.jpg"],"description":"A home services booking app with provider listings, handyman appointments, notifications, payment integration and an administration panel.","descriptionAr":"تطبيق لحجز الخدمات المنزلية يضم قوائم مقدمي الخدمة ومواعيد الحرفيين والإشعارات وتكامل الدفع ولوحة إدارة.","lastModified":"2026-11-02"}}]]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#101b2b"}]]
+1f:I[27201,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"تطبيق خدمات المنزل | سمارت تيم"}],["$","meta","1",{"name":"description","content":"تطبيق لحجز الخدمات المنزلية يضم قوائم مقدمي الخدمة ومواعيد الحرفيين والإشعارات وتكامل الدفع ولوحة إدارة."}],["$","link","2",{"rel":"author","href":"https://www.smart.sd/about"}],["$","meta","3",{"name":"author","content":"Smart Team IT"}],["$","link","4",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","5",{"name":"keywords","content":"mobile"}],["$","meta","6",{"name":"creator","content":"Smart Team IT"}],["$","meta","7",{"name":"publisher","content":"Smart Team IT"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","10",{"name":"google-adsense-account","content":"ca-pub-2312883254868411"}],["$","link","11",{"rel":"canonical","href":"https://www.smart.sd/portfolio/ondemand-home-services/"}],["$","link","12",{"rel":"alternate","hrefLang":"ar","href":"https://www.smart.sd/portfolio/ondemand-home-services/"}],["$","link","13",{"rel":"alternate","hrefLang":"en","href":"https://www.smart.sd/en/portfolio/ondemand-home-services/"}],["$","link","14",{"rel":"alternate","hrefLang":"x-default","href":"https://www.smart.sd/portfolio/ondemand-home-services/"}],["$","link","15",{"rel":"alternate","type":"application/rss+xml","href":"https://www.smart.sd/feed.xml"}],["$","meta","16",{"property":"og:title","content":"تطبيق خدمات المنزل | سمارت تيم"}],["$","meta","17",{"property":"og:description","content":"تطبيق لحجز الخدمات المنزلية يضم قوائم مقدمي الخدمة ومواعيد الحرفيين والإشعارات وتكامل الدفع ولوحة إدارة."}],["$","meta","18",{"property":"og:url","content":"https://www.smart.sd/portfolio/ondemand-home-services/"}],["$","meta","19",{"property":"og:site_name","content":"Smart Team"}],["$","meta","20",{"property":"og:locale","content":"ar_SD"}],["$","meta","21",{"property":"og:image","content":"https://www.smart.sd/portfolio/ondemand-1.jpg"}],["$","meta","22",{"property":"og:image:alt","content":"تطبيق خدمات المنزل"}],["$","meta","23",{"property":"og:locale:alternate","content":"en_US"}],["$","meta","24",{"property":"og:type","content":"website"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"تطبيق خدمات المنزل | سمارت تيم"}],["$","meta","27",{"name":"twitter:description","content":"تطبيق لحجز الخدمات المنزلية يضم قوائم مقدمي الخدمة ومواعيد الحرفيين والإشعارات وتكامل الدفع ولوحة إدارة."}],["$","meta","28",{"name":"twitter:image","content":"https://www.smart.sd/portfolio/ondemand-1.jpg"}],["$","link","29",{"rel":"icon","href":"/favicon-16x16.png","sizes":"16x16","type":"image/png"}],["$","link","30",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","31",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L1f","32",{}]]

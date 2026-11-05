@@ -1,0 +1,184 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0s_4ca7c03nzc.js"],""]
+3:"$Sreact.suspense"
+4:I[96860,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0s_4ca7c03nzc.js"],"default"]
+5:I[16288,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0s_4ca7c03nzc.js"],"default"]
+e:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+6:Tb02,## What is a business AI agent?
+An AI agent combines a language model with defined tools and instructions. It can retrieve information or prepare an action in a business system. Its access should be limited to the tasks you approve.
+
+## Suitable starting tasks
+Examples include finding answers in company documents, preparing CRM updates, classifying incoming requests and drafting follow-ups. We start with a bounded task whose output can be checked against examples and known records.
+
+## Data and control
+The design covers source documents, tool permissions, logging and failure handling. Retrieval can ground answers in approved information, but it does not eliminate errors. Financial decisions, external messages and sensitive changes can require a person to review the proposed action.
+
+## Measuring usefulness
+We define representative tasks and expected results before a pilot. The review measures answer quality, unsupported answers, task completion and operating cost. Model and workflow changes should be evaluated against the same cases.
+
+[Discuss an AI workflow](/contact), or explore [n8n automation](/services/n8n-agents).
+
+---
+
+## ما وكيل الذكاء الاصطناعي للأعمال؟
+يجمع الوكيل نموذجًا لغويًا مع أدوات وتعليمات محددة. يمكنه البحث عن معلومات أو إعداد إجراء في نظام الشركة. ويجب أن تقتصر صلاحياته على المهام التي تعتمدها.
+
+## مهام مناسبة للبدء
+من الأمثلة البحث في مستندات الشركة، وإعداد تحديثات CRM، وتصنيف الطلبات الواردة، وصياغة المتابعات. نبدأ بمهمة محددة يمكن مراجعة نتائجها باستخدام أمثلة وسجلات معروفة.
+
+## البيانات والتحكم
+يشمل التصميم مصادر المعلومات وصلاحيات الأدوات والسجلات ومعالجة الأخطاء. تساعد استعادة المعلومات المعتمدة على دعم الإجابات، لكنها لا تمنع الخطأ تمامًا. ويمكن أن تتطلب القرارات المالية والرسائل الخارجية والتغييرات الحساسة مراجعة بشرية قبل التنفيذ.
+
+## كيف نقيس الفائدة؟
+نحدد مهام تمثّل الاستخدام الفعلي ونتائج متوقعة قبل التجربة. نراجع جودة الإجابات والإجابات غير المدعومة وإنجاز المهام وتكلفة التشغيل. وتخضع تغييرات النموذج والإجراءات للحالات نفسها.
+
+[ناقش إجراءً بالذكاء الاصطناعي](/contact)، أو استكشف [أتمتة n8n](/services/n8n-agents).
+7:Tb86,## What does an ERP system do?
+An ERP system gives departments a shared record of transactions, stock and business activity. A sale can update inventory and accounting without asking staff to enter the same information in separate systems.
+
+## What we develop
+We define the modules your business needs: accounting, purchasing, sales, inventory, customer management or HR. Roles, approval rules and reports follow your actual operating process. We also review whether [Adaa ERP](/adaa_help) fits the scope before recommending custom development.
+
+## How implementation works
+We start with current processes and sample data, agree on the first release, then configure or develop the required modules. Migration includes field mapping, data cleaning and reconciliation. A limited pilot helps staff test the workflow before a wider rollout.
+
+## What to prepare
+Share your branches, users, current tools, reporting needs and any accounting or tax requirements. Existing data and integrations affect the delivery plan. Training, support and ownership of custom work belong in the agreed scope.
+
+[Discuss your ERP requirements](/contact) or read our [guide to ERP systems](/blog/erp-systems-modern-business).
+
+---
+
+## ما وظيفة نظام ERP؟
+يجمع نظام تخطيط موارد المؤسسات معاملات الأقسام والمخزون والعمليات في سجل مشترك. يمكن لعملية بيع أن تحدّث المخزون والمحاسبة، بدلًا من إدخال البيانات نفسها في عدة أنظمة.
+
+## ما الذي نطوّره؟
+نحدد الوحدات التي تحتاجها مؤسستك، مثل المحاسبة والمشتريات والمبيعات والمخزون والعملاء والموارد البشرية. نضبط الصلاحيات والموافقات والتقارير حسب إجراءات العمل الفعلية. ونراجع مدى ملاءمة [أداء ERP](/adaa_help) قبل اقتراح تطوير مخصص.
+
+## كيف يجري التنفيذ؟
+نبدأ بمراجعة الإجراءات وعينة من البيانات، ونتفق على نطاق الإصدار الأول، ثم نهيئ الوحدات أو نطوّرها. تشمل خطة النقل مطابقة الحقول وتنظيف البيانات ومراجعة الأرصدة. تساعد تجربة محدودة المستخدمين على اختبار العمل قبل التوسع.
+
+## ما الذي تحتاج إلى تجهيزه؟
+حدّد الفروع والمستخدمين والأدوات الحالية والتقارير والمتطلبات المحاسبية والضريبية. تؤثر البيانات والتكاملات في خطة التنفيذ. ونوضح التدريب والدعم وملكية التطوير المخصص في نطاق العمل.
+
+[ناقش متطلبات نظامك](/contact)، أو اقرأ [دليل أنظمة ERP](/blog/erp-systems-modern-business).
+8:Tca9,## What the financial software service covers
+We develop interfaces and integrations for payments, transaction records and financial workflows. The agreed scope identifies the payment provider, supported operations, currencies and reporting needs before implementation.
+
+## Payment integration
+An integration must handle successful, pending and failed transactions. We review webhook verification, duplicate requests, refunds and reconciliation against provider records. Sensitive payment data should use the provider's supported handling method.
+
+## Open banking and permissions
+Open banking uses approved access to account data or payment initiation. Consent, permissions and the provider's available APIs shape the implementation. A software integration does not itself grant permission to offer a regulated financial service.
+
+## Market review before launch
+Saudi and UAE projects need a review of the operator's role, provider contracts and applicable approvals. See the [SAMA open banking framework](https://www.openbanking.sama.gov.sa/index-en.html) and the [CBUAE licensing requirements](https://rulebook.centralbank.ae/en/rulebook/article-2-licensing-and-licensing-procedures-0). Technical acceptance and regulatory authorization are separate checks.
+
+[Discuss your payment integration](/contact), or explore the [urCASH project](/portfolio/ur-cash).
+
+---
+
+## ما الذي تشمل عليه خدمة البرمجيات المالية؟
+نطوّر واجهات وتكاملات للدفع وسجلات المعاملات والإجراءات المالية. يحدد نطاق العمل مزود الدفع والعمليات والعملات المطلوبة واحتياجات التقارير قبل التنفيذ.
+
+## تكامل الدفع
+يجب أن يعالج التكامل حالات نجاح المعاملة وانتظارها وفشلها. نراجع التحقق من Webhooks والطلبات المكررة والاسترداد والتسوية مع سجلات المزود. وتتبع معالجة بيانات الدفع الحساسة الطريقة التي يدعمها المزود.
+
+## المصرفية المفتوحة والصلاحيات
+تستخدم المصرفية المفتوحة وصولًا معتمدًا إلى بيانات الحسابات أو بدء الدفع. تحدد موافقة العميل والصلاحيات وواجهات المزود شكل التنفيذ. ولا يمنح تطوير التكامل البرمجي وحده إذنًا لتقديم خدمة مالية منظمة.
+
+## مراجعة السوق قبل الإطلاق
+تتطلب مشاريع السعودية والإمارات مراجعة دور الجهة المشغلة وعقود المزود والموافقات المناسبة. راجع [إطار المصرفية المفتوحة لدى SAMA](https://www.openbanking.sama.gov.sa/index-en.html) و[متطلبات الترخيص لدى مصرف الإمارات المركزي](https://rulebook.centralbank.ae/en/rulebook/article-2-licensing-and-licensing-procedures-0). القبول التقني والترخيص التنظيمي فحصان منفصلان.
+
+[ناقش تكامل الدفع](/contact)، أو استكشف [مشروع urCASH](/portfolio/ur-cash).
+9:Tadf,## Apps built around a user task
+An app should make a specific task easier: placing an order, booking a service, managing an account or checking a work request. We define these tasks and the required data before designing screens.
+
+## Choosing an implementation
+Flutter can share much of the interface and application logic across iOS and Android. Native development may suit demanding device features or platform-specific experiences. We compare the required capabilities, maintenance plan and supported devices before choosing.
+
+## What we review before release
+The scope can include authentication, API integration, notifications and payments. We test user flows, network failures, permissions and device sizes. Store submission also requires product information, privacy disclosures and the relevant developer accounts.
+
+## Planning a first version
+We separate essential launch tasks from later features, then review a working version with your team. App-store review times and third-party approvals sit outside the development estimate.
+
+[Discuss your app](/contact) and see the [FoodK delivery project](/portfolio/foodk-delivery).
+
+---
+
+## تطبيق يبدأ بمهمة المستخدم
+يساعد التطبيق على إنجاز مهمة محددة، مثل طلب منتج أو حجز خدمة أو إدارة حساب أو متابعة طلب عمل. نحدد هذه المهام والبيانات المطلوبة قبل تصميم الشاشات.
+
+## اختيار طريقة التطوير
+يمكن لـFlutter مشاركة قدر كبير من الواجهات ومنطق التطبيق بين iOS وAndroid. وقد يناسب التطوير الأصلي خصائص الأجهزة المتقدمة أو التجارب الخاصة بمنصة واحدة. نقارن الوظائف المطلوبة وخطة الصيانة والأجهزة المدعومة قبل الاختيار.
+
+## ما الذي نراجعه قبل النشر؟
+قد يشمل النطاق تسجيل الدخول وربط الأنظمة والإشعارات والدفع. نختبر إجراءات المستخدم وانقطاع الاتصال والصلاحيات وأحجام الأجهزة. ويتطلب النشر في المتاجر بيانات المنتج وإفصاحات الخصوصية وحسابات المطور المناسبة.
+
+## تخطيط الإصدار الأول
+نفصل الوظائف الضرورية للإطلاق عن الإضافات اللاحقة، ثم نراجع نسخة تعمل مع فريقك. أوقات مراجعة المتاجر وموافقات الأطراف الأخرى تقع خارج تقدير وقت التطوير.
+
+[ناقش تطبيقك معنا](/contact)، وشاهد [مشروع تطبيق فودك للتوصيل](/portfolio/foodk-delivery).
+a:Tae6,## What can n8n automate?
+n8n connects triggers and actions in a workflow. A form submission can create a CRM record, route a request and notify the responsible team. APIs, webhooks and available connectors determine which systems can participate.
+
+## Designing the workflow
+We document the trigger, required fields, decision rules and final outcome. Error handling, retries and checks against duplicate actions matter as much as the successful path. AI steps can classify or summarize information when the result can be reviewed.
+
+## Hosting and maintenance
+Cloud and self-hosted deployments have different operating responsibilities. Self-hosting requires updates, backups, access controls and monitoring; it is not unlimited automation without infrastructure cost. We review licensing and the intended deployment before choosing a setup.
+
+## A useful first automation
+Choose a repeated task with a clear owner and measurable outcome. We test it with sample records, review failures and document how your team can maintain it.
+
+[Share the task you want to automate](/contact) and read our [n8n guide](/blog/n8n-automation).
+
+---
+
+## ما الذي يمكن أتمتته باستخدام n8n؟
+يربط n8n أحداث البداية بالإجراءات داخل سير عمل. يمكن لنموذج وارد إنشاء سجل في CRM وتوجيه الطلب وإشعار الفريق المسؤول. تحدد واجهات الربط وWebhooks والموصلات المتاحة الأنظمة التي يمكن توصيلها.
+
+## تصميم الإجراء
+نوثّق حدث البداية والحقول المطلوبة وقواعد القرار والنتيجة النهائية. وتهم معالجة الأخطاء وإعادة المحاولة ومنع تكرار الإجراءات بقدر نجاح الحالة العادية. يمكن إضافة خطوات ذكاء اصطناعي للتصنيف أو التلخيص عندما يمكن مراجعة النتائج.
+
+## الاستضافة والصيانة
+تختلف مسؤوليات التشغيل بين الاستضافة السحابية والذاتية. تتطلب الاستضافة الذاتية تحديثات ونسخًا احتياطية وصلاحيات ومتابعة، ولا تعني أتمتة بلا حدود أو تكلفة تشغيل. نراجع الترخيص وطريقة الاستخدام قبل اختيار الإعداد.
+
+## اختيار أول مهمة
+ابدأ بمهمة متكررة لها مسؤول ونتيجة قابلة للقياس. نختبرها بسجلات تجريبية، ونراجع حالات الفشل، ونوثّق طريقة صيانتها لفريقك.
+
+[شاركنا المهمة التي تريد أتمتتها](/contact)، واقرأ [دليل n8n](/blog/n8n-automation).
+b:Tbd3,## A website or a web application?
+A company website explains your services and helps people contact you. A web application adds tasks such as customer accounts, bookings, purchases or internal approvals. This distinction helps define the scope and select a suitable platform.
+
+## What the service includes
+We plan content and navigation, design responsive interfaces and develop the required pages and workflows. Arabic and English layouts, keyboard access, forms and loading states are part of the interface review. Search metadata and clear page structure help people and search engines understand the content.
+
+## Integrations and delivery
+We review connections to payment providers, CRM, ERP or other applications before implementation. The plan covers environments, deployment, monitoring and any content management needs. A working preview lets your team check content and tasks before launch.
+
+## How we choose the technology
+Next.js suits many custom web interfaces, while a content management platform may suit a publishing workflow. We base the choice on who maintains the content, required integrations and expected use.
+
+[Share your website requirements](/contact) or explore the [Sectore e-commerce project](/portfolio/sectore-ecommerce).
+
+---
+
+## موقع تعريفي أم تطبيق ويب؟
+يشرح موقع الشركة خدماتها ويساعد الزائر على التواصل. ويضيف تطبيق الويب وظائف مثل حسابات العملاء والحجز والشراء والموافقات الداخلية. يساعد تحديد هذا الفرق على اختيار نطاق العمل والمنصة المناسبة.
+
+## ما الذي تشمل عليه الخدمة؟
+نرتب المحتوى والتنقل، ونصمم واجهات متجاوبة، ثم نطوّر الصفحات والإجراءات المطلوبة. نراجع الواجهات العربية والإنجليزية، والتنقل بلوحة المفاتيح، والنماذج وحالات التحميل. وتساعد بيانات البحث وبنية الصفحات الواضحة الزوار ومحركات البحث على فهم المحتوى.
+
+## التكاملات والتسليم
+نراجع الربط مع مزودي الدفع أو CRM أو ERP أو التطبيقات الأخرى قبل التنفيذ. توضح الخطة بيئات العمل والنشر والمتابعة واحتياجات إدارة المحتوى. وتتيح المعاينة لفريقك اختبار الصفحات والوظائف قبل الإطلاق.
+
+## كيف نختار التقنية؟
+يناسب Next.js كثيرًا من الواجهات المخصصة، وقد تناسب منصة إدارة محتوى إجراءات النشر. يعتمد الاختيار على من يدير المحتوى والتكاملات المطلوبة وطبيعة الاستخدام.
+
+[شاركنا متطلبات موقعك](/contact)، أو استكشف [مشروع متجر سيكتور](/portfolio/sectore-ecommerce).
+0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://www.smart.sd/en/services#webpage\",\"url\":\"https://www.smart.sd/en/services\",\"name\":\"Software development and business automation services\",\"description\":\"Explore Smart Team's ERP, website and mobile app development, payment integrations, AI agents and n8n workflow automation services.\",\"inLanguage\":\"en\",\"isPartOf\":{\"@id\":\"https://www.smart.sd/#website\"},\"breadcrumb\":{\"@id\":\"https://www.smart.sd/en/services#breadcrumb\"}},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.smart.sd/en/services#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.smart.sd/en\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Software development and business automation services\",\"item\":\"https://www.smart.sd/en/services\"}]}]}"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L2",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/services",{"children":["$","span",null,{"aria-current":"page","children":"Software development and business automation services"}]}]]}]}]],["$","$3",null,{"fallback":null,"children":["$","$L4",null,{"slugs":["ai-agents","erp-systems","fintech-payment","mobile-development","n8n-agents","web-development"]}]}],["$","$L5",null,{"services":[{"slug":"ai-agents","content":"$6","title":"AI Agents for Business Management","titleAr":"وكلاء الذكاء الاصطناعي لإدارة الأعمال","description":"AI agents that search company information and assist with CRM and business tasks, with scoped tools, access permissions and human approval where needed.","descriptionAr":"وكلاء ذكاء اصطناعي للبحث في معلومات الشركة ومساعدة فرق CRM والأعمال، مع أدوات محددة وصلاحيات وصول وموافقات بشرية للمهام الحساسة.","icon":"Bot","color":"#8B5CF6","partners":[{"name":"OpenAI / ChatGPT","url":"https://openai.com","logo":"/logos/chatgpt.png"},{"name":"Salesforce","url":"https://salesforce.com","logo":""},{"name":"Microsoft","url":"https://microsoft.com","logo":""},{"name":"HubSpot","url":"https://hubspot.com","logo":""}],"faq":[{"q":"Can an agent use private company documents?","qAr":"هل يستطيع الوكيل استخدام مستندات الشركة الخاصة؟","a":"It can use approved sources with access controls. We review where data is stored, which providers process it and which users can retrieve each source.","aAr":"يمكنه استخدام مصادر معتمدة مع ضوابط وصول. نراجع مكان تخزين البيانات ومزودي المعالجة والمستخدمين الذين يحق لهم الوصول إلى كل مصدر."},{"q":"Will the agent make decisions without review?","qAr":"هل ينفّذ الوكيل القرارات دون مراجعة؟","a":"Only actions explicitly permitted by the workflow should run automatically. Sensitive actions can require human approval, and the scope should define these boundaries.","aAr":"تُنفّذ تلقائيًا الإجراءات المسموح بها صراحة في سير العمل. ويمكن أن تتطلب المهام الحساسة موافقة بشرية، مع تحديد هذه الحدود في نطاق المشروع."}]},{"slug":"erp-systems","content":"$7","title":"Enterprise Resource Planning (ERP)","titleAr":"أنظمة تخطيط موارد المؤسسات","description":"ERP software connecting accounting, sales, inventory and HR. Smart Team maps your processes, configures modules and plans migration and integrations.","descriptionAr":"أنظمة ERP تربط المحاسبة والمبيعات والمخزون والموارد البشرية. نراجع إجراءات مؤسستك ونحدد الوحدات والتكاملات وخطة نقل البيانات والتشغيل.","icon":"Building2","color":"#8B5CF6","partners":[],"faq":[{"q":"Can ERP connect to existing applications?","qAr":"هل يمكن ربط ERP بالتطبيقات الحالية؟","a":"Yes, where the existing application exposes a supported API or export format. We review access, field mapping and reconciliation before including an integration in scope.","aAr":"يمكن ذلك إذا كان التطبيق يوفّر واجهة ربط أو صيغة تصدير مناسبة. نراجع صلاحيات الوصول ومطابقة الحقول وتسوية البيانات قبل اعتماد التكامل في نطاق العمل."},{"q":"Do we need every ERP module at launch?","qAr":"هل نحتاج إلى تشغيل جميع الوحدات من البداية؟","a":"No. A first release can cover the most important workflow, followed by additional modules after data and staff processes are tested.","aAr":"يمكن أن يغطّي الإصدار الأول الإجراءات الأهم، ثم تضاف وحدات أخرى بعد اختبار البيانات وطريقة عمل المستخدمين."},{"q":"What determines ERP implementation cost?","qAr":"ما الذي يحدد تكلفة تنفيذ ERP؟","a":"Modules, users, branches, data migration, integrations and custom workflows determine the scope. We estimate cost after reviewing these requirements.","aAr":"تحدد الوحدات والمستخدمون والفروع ونقل البيانات والتكاملات والإجراءات المخصصة نطاق المشروع. نقدّر التكلفة بعد مراجعة هذه المتطلبات."}]},{"slug":"fintech-payment","content":"$8","title":"Fintech & Payment Solutions","titleAr":"حلول التكنولوجيا المالية والدفع","description":"Payment and open banking software integrations with transaction tracking, reconciliation and access controls, scoped around your provider and market requirements.","descriptionAr":"تطوير تكاملات الدفع والمصرفية المفتوحة، مع متابعة المعاملات والتسوية وضوابط الوصول، وفق مزود الخدمة ومتطلبات السوق ونطاق المشروع.","icon":"CreditCard","color":"#10B981","partners":[{"name":"Lean Tech","url":"https://www.leantech.me/","logo":"/logos/LEAN_logo.webp"},{"name":"SingleView","url":"https://singleview.com.sa","logo":"/logos/singleView.png"},{"name":"PayPal","url":"https://www.paypal.com/","logo":"/logos/PayPal.webp"},{"name":"Bitcoin","url":"#","logo":"/logos/Bitcoin_logo.svg.png"},{"name":"USDT (Tether)","url":"#","logo":"/logos/tether-logo.webp"},{"name":"Solana","url":"#","logo":"/logos/solana.png"},{"name":"Ethereum","url":"#","logo":"/logos/logo-ethereum-cryptocurrency-blockchain-exchange-rate-png-favpng-THeRqGBTaCyULM30fJZ9XWWAf.jpg"}],"faq":[{"q":"Does the software include a financial services licence?","qAr":"هل يتضمن البرنامج ترخيصًا لتقديم خدمات مالية؟","a":"No. Software development or licensing is separate from the operator's regulatory permissions. The required authorization depends on the activity and market.","aAr":"تطوير البرنامج أو ترخيص استخدامه منفصل عن الموافقات التنظيمية للجهة المشغلة. يعتمد الترخيص المطلوب على النشاط والسوق."},{"q":"Can you integrate our selected payment provider?","qAr":"هل يمكن الربط مع مزود الدفع الذي نختاره؟","a":"We review the provider's supported APIs, account approval, environments and required operations before confirming integration scope.","aAr":"نراجع واجهات المزود واعتماد الحساب وبيئات الاختبار والعمليات المطلوبة قبل تأكيد نطاق الربط."}]},{"slug":"mobile-development","content":"$9","title":"Mobile App Development","titleAr":"تطوير تطبيقات الهاتف المحمول","description":"iOS and Android app development for commerce, delivery and business services, with API integration, device testing and a defined release plan.","descriptionAr":"تطوير تطبيقات iOS وAndroid للتجارة والتوصيل وخدمات الأعمال، مع ربط الأنظمة واختبار الأجهزة وتحديد خطة النشر والصيانة.","icon":"Smartphone","color":"#EC4899","partners":[],"faq":[{"q":"Should we choose Flutter or native development?","qAr":"هل نختار Flutter أم التطوير الأصلي؟","a":"The choice depends on device features, interface requirements, supported platforms and maintenance resources. We review these needs before recommending an approach.","aAr":"يعتمد الاختيار على خصائص الأجهزة والواجهات والمنصات المطلوبة وموارد الصيانة. نراجع هذه الاحتياجات قبل اقتراح الطريقة المناسبة."},{"q":"Can the app work with our existing system?","qAr":"هل يمكن ربط التطبيق بنظامنا الحالي؟","a":"An integration is possible where your system provides suitable APIs. We review authentication, data access and error handling as part of the scope.","aAr":"يمكن الربط عندما يوفّر النظام واجهات مناسبة. نراجع تسجيل الدخول والوصول إلى البيانات ومعالجة الأخطاء ضمن نطاق التكامل."}]},{"slug":"n8n-agents","content":"$a","title":"n8n Automation & Agents","titleAr":"أتمتة n8n والوكلاء الأذكياء","description":"n8n workflow automation connecting forms, CRM and business tools, with hosting choices, credential management, error handling and AI steps where useful.","descriptionAr":"أتمتة إجراءات العمل باستخدام n8n لربط النماذج وCRM وأدوات الشركة، مع اختيار الاستضافة وإدارة بيانات الربط والأخطاء وخطوات الذكاء الاصطناعي.","icon":"Workflow","color":"#FF6D5A","partners":[{"name":"n8n","url":"https://n8n.io","logo":"/logos/n8n-logo.png"},{"name":"PostgreSQL","url":"https://postgresql.org","logo":""},{"name":"Docker","url":"https://docker.com","logo":""}],"faq":[{"q":"Does self-hosting n8n remove all costs?","qAr":"هل تلغي الاستضافة الذاتية جميع التكاليف؟","a":"No. Infrastructure, backups, maintenance and some licensing requirements still apply. Third-party services and AI providers may also charge separately.","aAr":"تبقى تكاليف البنية التحتية والنسخ الاحتياطي والصيانة وبعض متطلبات الترخيص. وقد تفرض الخدمات الخارجية ومزودو الذكاء الاصطناعي رسومًا منفصلة."},{"q":"What happens when a workflow fails?","qAr":"ماذا يحدث إذا فشل سير العمل؟","a":"The workflow should log the failure, notify its owner and retry only where safe. We define how to avoid duplicate records or repeated financial actions.","aAr":"يجب تسجيل الفشل وإشعار المسؤول وإعادة المحاولة عندما يكون ذلك مناسبًا. نحدد طريقة منع السجلات المكررة أو تكرار الإجراءات المالية."}]},{"slug":"web-development","content":"$b","title":"Web Development","titleAr":"تطوير المواقع الإلكترونية","description":"Business websites, web applications and online stores with bilingual interfaces, accessible layouts and integrations tailored to your operations.","descriptionAr":"تطوير مواقع الشركات وتطبيقات الويب والمتاجر الإلكترونية، بواجهات عربية وإنجليزية وتصميم متجاوب وتكاملات تناسب إجراءات أعمالك.","icon":"Globe","color":"#3B82F6","partners":[],"faq":[{"q":"Can the website support Arabic and English?","qAr":"هل يدعم الموقع العربية والإنجليزية؟","a":"Yes. We plan content, navigation, RTL and LTR layouts, and separate language URLs so each version can be linked and indexed.","aAr":"نخطط المحتوى والتنقل والتصميم من اليمين واليسار، مع روابط لكل لغة حتى يمكن مشاركة النسخ وفهرستها."},{"q":"Can our team update the content?","qAr":"هل يستطيع فريقنا تحديث المحتوى؟","a":"A content management interface can be included in scope. We define the editable fields, user roles and review process with your team.","aAr":"يمكن تضمين واجهة لإدارة المحتوى ضمن نطاق العمل. نحدد الحقول القابلة للتعديل وصلاحيات المستخدمين وإجراءات المراجعة مع فريقك."}]}]}]],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_pgeQ8kNhyQMNom7h4h5x"}
+c:["$","script","script-0",{"src":"/_next/static/chunks/0s_4ca7c03nzc.js","async":true}]
+d:["$","$Le",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+10:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+11:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T710,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/en/blog/cross-platform-development#webpage","url":"https://www.smart.sd/en/blog/cross-platform-development","name":"Cross-Platform Development: Flutter vs React Native in 2024","description":"Flutter and React Native share code across mobile platforms in different ways. Compare interface needs, native integrations, team skills and maintenance.","inLanguage":"en","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/en/blog/cross-platform-development#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/en/blog/cross-platform-development#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/en/blog/cross-platform-development#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.smart.sd/en"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.smart.sd/en/blog"},{"@type":"ListItem","position":3,"name":"Cross-Platform Development: Flutter vs React Native in 2024","item":"https://www.smart.sd/en/blog/cross-platform-development"}]},{"@id":"https://www.smart.sd/en/blog/cross-platform-development#entity","inLanguage":"en","@type":"BlogPosting","headline":"Cross-Platform Development: Flutter vs React Native in 2024","description":"Flutter and React Native share code across mobile platforms in different ways. Compare interface needs, native integrations, team skills and maintenance.","datePublished":"2024-12-11","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/en/blog/cross-platform-development","image":"https://www.smart.sd/blog/cross-platform-optimized.webp"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/en/blog","prefetch":false,"children":"Blog"}]}],["$","li","/blog/cross-platform-development",{"children":["$","span",null,{"aria-current":"page","children":"Cross-Platform Development: Flutter vs React Native in 2024"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Development"}],["$","time",null,{"dateTime":"2024-12-11","children":"December 11, 2024"}]]}],["$","h1",null,{"children":"Cross-Platform Development: Flutter vs React Native in 2024"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/en/about","prefetch":false,"children":"Prepared by the Smart Team editorial team"}],[" · ","Editorial review",": ",["$","time",null,{"dateTime":"2026-11-02","children":"November 2, 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"What does this article explain?"}],["$","p",null,{"children":"Flutter and React Native share code across mobile platforms in different ways. Compare interface needs, native integrations, team skills and maintenance."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/cross-platform-optimized.webp","alt":"Cross-Platform Development: Flutter vs React Native in 2024","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],"$L5",null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_pgeQ8kNhyQMNom7h4h5x"}
+d:T982,<h2>The Case for Cross-Platform Development</h2>
+<p>Why build two separate apps when you can build one codebase that runs on both iOS and Android? Cross-platform development has matured significantly, with Flutter and React Native dominating the landscape.</p>
+<h3>Flutter vs React Native: Head to Head</h3>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Flutter</th>
+<th>React Native</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Language</td>
+<td>Dart</td>
+<td>JavaScript/TypeScript</td>
+</tr>
+<tr>
+<td>Performance</td>
+<td>Near-native</td>
+<td>Good, but slightly lower</td>
+</tr>
+<tr>
+<td>UI Components</td>
+<td>Custom Skia rendering</td>
+<td>Native components</td>
+</tr>
+<tr>
+<td>Hot Reload</td>
+<td>Excellent</td>
+<td>Excellent</td>
+</tr>
+<tr>
+<td>Learning Curve</td>
+<td>Moderate (new language)</td>
+<td>Easy (if you know JS)</td>
+</tr>
+<tr>
+<td>Community</td>
+<td>Growing fast</td>
+<td>Large, established</td>
+</tr>
+</tbody>
+</table>
+<h3>When to Choose Flutter</h3>
+<p><strong>Choose Flutter if you need:</strong></p>
+<ul>
+<li>Pixel-perfect custom UI across platforms</li>
+<li>High-performance animations</li>
+<li>Single codebase for mobile, web, and desktop</li>
+<li>Consistent look on all devices</li>
+</ul>
+<p><strong>Flutter Success Stories:</strong></p>
+<ul>
+<li>Google Pay, Alibaba, BMW, eBay</li>
+</ul>
+<h3>When to Choose React Native</h3>
+<p><strong>Choose React Native if you have:</strong></p>
+<ul>
+<li>Existing JavaScript/TypeScript expertise</li>
+<li>Need native look and feel</li>
+<li>Large ecosystem requirements</li>
+<li>Web-to-mobile migration projects</li>
+</ul>
+<p><strong>React Native Success Stories:</strong></p>
+<ul>
+<li>Facebook, Instagram, Airbnb, Discord</li>
+</ul>
+<h3>The Smart Team Approach</h3>
+<p>We evaluate each project individually to recommend the best framework:</p>
+<ul>
+<li><strong>Startup MVPs:</strong> Flutter for faster iteration</li>
+<li><strong>Enterprise Apps:</strong> React Native for team familiarity</li>
+<li><strong>Complex Animations:</strong> Flutter's Skia engine</li>
+<li><strong>Existing React Web:</strong> React Native for skill reuse</li>
+</ul>
+<p>Our cross-platform services include:</p>
+<ul>
+<li>Full app development from concept to launch</li>
+<li>Migration from native to cross-platform</li>
+<li>UI/UX design optimized for both platforms</li>
+<li>Backend integration and API development</li>
+</ul>
+<p><a href="/en/services/mobile-development">Build your cross-platform app</a></p>5:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$d"}}]]}]
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"Related reading"}],["$","ul",null,{"children":[["$","li","flutter-mvp-development-2026",{"children":["$","$L3",null,{"href":"/en/blog/flutter-mvp-development-2026","prefetch":false,"children":"Planning a mobile MVP with Flutter"}]}],["$","li","smart-ecommerce-vs-shopify-comparison",{"children":["$","$L3",null,{"href":"/en/blog/smart-ecommerce-vs-shopify-comparison","prefetch":false,"children":"Custom e-commerce and Shopify: choosing a platform"}]}],["$","li","nextjs-vs-wordpress-comparison",{"children":["$","$L3",null,{"href":"/en/blog/nextjs-vs-wordpress-comparison","prefetch":false,"children":"Next.js and WordPress: development and publishing needs"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/en/services","prefetch":false,"children":"Explore services"}]]}]
+7:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$L10",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+10:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+11:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T6bd,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/en/blog/ai-in-fintech#webpage","url":"https://www.smart.sd/en/blog/ai-in-fintech","name":"AI in Fintech: Transforming Financial Services with Intelligence","description":"AI supports financial data analysis and fraud detection, but needs quality data and monitoring. Explore use cases, validation and the role of human oversight.","inLanguage":"en","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/en/blog/ai-in-fintech#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/en/blog/ai-in-fintech#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/en/blog/ai-in-fintech#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.smart.sd/en"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.smart.sd/en/blog"},{"@type":"ListItem","position":3,"name":"AI in Fintech: Transforming Financial Services with Intelligence","item":"https://www.smart.sd/en/blog/ai-in-fintech"}]},{"@id":"https://www.smart.sd/en/blog/ai-in-fintech#entity","inLanguage":"en","@type":"BlogPosting","headline":"AI in Fintech: Transforming Financial Services with Intelligence","description":"AI supports financial data analysis and fraud detection, but needs quality data and monitoring. Explore use cases, validation and the role of human oversight.","datePublished":"2024-12-13","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/en/blog/ai-in-fintech","image":"https://www.smart.sd/blog/ai-fintech-optimized.webp"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/en/blog","prefetch":false,"children":"Blog"}]}],["$","li","/blog/ai-in-fintech",{"children":["$","span",null,{"aria-current":"page","children":"AI in Fintech: Transforming Financial Services with Intelligence"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Artificial intelligence"}],["$","time",null,{"dateTime":"2024-12-13","children":"December 13, 2024"}]]}],["$","h1",null,{"children":"AI in Fintech: Transforming Financial Services with Intelligence"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/en/about","prefetch":false,"children":"Prepared by the Smart Team editorial team"}],[" · ","Editorial review",": ",["$","time",null,{"dateTime":"2026-11-02","children":"November 2, 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"What does this article explain?"}],["$","p",null,{"children":"AI supports financial data analysis and fraud detection, but needs quality data and monitoring. Explore use cases, validation and the role of human oversight."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/ai-fintech-optimized.webp","alt":"AI in Fintech: Transforming Financial Services with Intelligence","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],["$","div",null,{"className":"reading-content","children":["$L5"]}],null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_pgeQ8kNhyQMNom7h4h5x"}
+d:T834,<h2>The AI Revolution in Finance</h2>
+<p>Artificial Intelligence has moved from experimental technology to essential business infrastructure in 2024. In the financial sector, AI adoption has jumped from 55% in 2023 to 75% of enterprises, fundamentally changing how we interact with money.</p>
+<h3>Key AI Applications in Fintech</h3>
+<p><strong>1. Fraud Detection &#x26; Prevention</strong>
+AI algorithms analyze millions of transactions in real-time to detect anomalies and prevent fraud before it happens. Machine learning models continuously improve their accuracy by learning from new patterns.</p>
+<p><strong>2. Personalized Financial Advice</strong>
+Robo-advisors powered by AI provide tailored investment recommendations based on individual goals, risk tolerance, and market conditions. These systems can manage portfolios 24/7.</p>
+<p><strong>3. Credit Scoring &#x26; Lending</strong>
+AI enables more accurate credit assessments by analyzing alternative data sources beyond traditional credit history, opening lending opportunities to underserved populations.</p>
+<p><strong>4. Customer Service Automation</strong>
+Intelligent chatbots handle 80% of routine customer inquiries, providing instant support while reducing operational costs.</p>
+<h3>2024 AI Fintech Trends</h3>
+<ul>
+<li><strong>Generative AI Integration:</strong> ChatGPT-like models creating personalized financial reports</li>
+<li><strong>Multimodal AI:</strong> Systems that analyze text, voice, and images for KYC</li>
+<li><strong>Autonomous AI Agents:</strong> Bots that execute complex financial tasks independently</li>
+<li><strong>Explainable AI:</strong> Regulatory compliance through transparent decision-making</li>
+</ul>
+<h3>Smart Team's AI Solutions</h3>
+<p>We build AI-powered fintech solutions:</p>
+<ul>
+<li>Fraud detection systems with real-time alerting</li>
+<li>Chatbots for Arabic and English customer support</li>
+<li>Predictive analytics for financial forecasting</li>
+<li>Automated KYC/AML compliance systems</li>
+</ul>
+<p><a href="/en/services?s=fintech-payment">Discover our AI development services</a></p>5:["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$d"}}]
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"Related reading"}],["$","ul",null,{"children":[["$","li","ai-agents-business-guide",{"children":["$","$L3",null,{"href":"/en/blog/ai-agents-business-guide","prefetch":false,"children":"AI Agents for Business: Beyond Basic Automation"}]}],["$","li","ai-agents-vs-chatbots-comparison",{"children":["$","$L3",null,{"href":"/en/blog/ai-agents-vs-chatbots-comparison","prefetch":false,"children":"AI agents and chatbots: tasks, tools and control"}]}],["$","li","physical-ai-robotics-2026",{"children":["$","$L3",null,{"href":"/en/blog/physical-ai-robotics-2026","prefetch":false,"children":"Physical AI: When Intelligence Meets the Real World"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/en/services","prefetch":false,"children":"Explore services"}]]}]
+7:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$L10",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

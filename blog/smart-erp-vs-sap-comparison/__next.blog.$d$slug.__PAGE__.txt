@@ -1,0 +1,68 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+d:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+f:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+10:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T785,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/smart-erp-vs-sap-comparison#webpage","url":"https://www.smart.sd/blog/smart-erp-vs-sap-comparison","name":"ERP مخصص وSAP Business One: خيارات التنفيذ","description":"قارن ERP مخصصًا وSAP Business One وفق نطاق عمل محدد. راجع المحاسبة والمخزون والتقارير والتوطين وتكاليف التنفيذ قبل الاختيار.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/smart-erp-vs-sap-comparison#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/smart-erp-vs-sap-comparison#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/smart-erp-vs-sap-comparison#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"ERP مخصص وSAP Business One: خيارات التنفيذ","item":"https://www.smart.sd/blog/smart-erp-vs-sap-comparison"}]},{"@id":"https://www.smart.sd/blog/smart-erp-vs-sap-comparison#entity","inLanguage":"ar","@type":"BlogPosting","headline":"ERP مخصص وSAP Business One: خيارات التنفيذ","description":"قارن ERP مخصصًا وSAP Business One وفق نطاق عمل محدد. راجع المحاسبة والمخزون والتقارير والتوطين وتكاليف التنفيذ قبل الاختيار.","datePublished":"2026-02-15","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/smart-erp-vs-sap-comparison","image":"https://www.smart.sd/blog/smart_erp_vs_sap_cover.png"}]}5:Tf3d,<h2>مقدمة</h2>
+<p>يعد اختيار نظام تخطيط موارد المؤسسات (ERP) المناسب قراراً حاسماً يمكن أن يحدد مستقبل عملك. في منطقة الشرق الأوسط وشمال أفريقيا، وخاصة في السودان والمملكة العربية السعودية، يجد أصحاب الأعمال أنفسهم غالباً في حيرة بين العمالقة العالميين مثل <strong>SAP Business One</strong> والحلول المحلية المتخصصة مثل <strong>سمارت ERP</strong>.</p>
+<p>بينما يقدم SAP سمعة عالمية، يوفر سمارت ERP مستوى من التوطين والمرونة التي غالباً ما تجد الأنظمة العالمية صعوبة في مضاهاتها. في هذا المقال، سنستعرض الفروقات الجوهرية لمساعدتك في اتخاذ قرار مستنير.</p>
+<h2>المقارنة: الميزات والخصائص</h2>
+<table>
+<thead>
+<tr>
+<th>الميزة</th>
+<th>سمارت ERP</th>
+<th>SAP Business One</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>التوطين</strong></td>
+<td>متوافق بنسبة 100% مع القوانين المحلية</td>
+<td>يتطلب إضافات معقدة</td>
+</tr>
+<tr>
+<td><strong>التسعير</strong></td>
+<td>مرن، دفع محلي</td>
+<td>رسوم ترخيص عالية لكل مستخدم</td>
+</tr>
+<tr>
+<td><strong>التنفيذ</strong></td>
+<td>سريع (أسابيع)</td>
+<td>طويل (أشهر)</td>
+</tr>
+<tr>
+<td><strong>التخصيص</strong></td>
+<td>تخصيص عميق وأصلي</td>
+<td>محدود ومكلف للغاية</td>
+</tr>
+<tr>
+<td><strong>دعم اللغة</strong></td>
+<td>يدعم العربية (RTL) بشكل أصلي</td>
+<td>يدعم لغات متعددة</td>
+</tr>
+</tbody>
+</table>
+<h3>1. التوطين والامتثال</h3>
+<p>أحد أكبر العوائق لنظام SAP في أسواق مثل السودان والسعودية هو الامتثال الصارم للوائح المالية المحلية (مثل متطلبات هيئة الزكاة والضريبة والجمارك ZATCA في السعودية أو التكاملات البنكية المحلية في السودان). تم بناء <strong>سمارت ERP</strong> من الأساس ليدعم هذه المتطلبات بشكل أصلي دون الحاجة لاستشارات خارجية مكلفة.</p>
+<h3>2. التكلفة وسرعة التنفيذ</h3>
+<p>غالباً ما يأتي نظام SAP بتكاليف تنفيذ "مخفية". أنت لا تدفع فقط مقابل الترخيص؛ بل تدفع لمستشارين معتمدين يمكن أن تستنزف أسعارهم بالساعة ميزانية الشركات الناشئة. يقدم <strong>سمارت تيم</strong> تنفيذاً متكاملاً بنموذج شفاف (اشتراك أو شراء لمرة واحدة) يناسب الواقع الاقتصادي المحلي.</p>
+<h2>لماذا تختار سمارت ERP؟</h2>
+<p>إذا كان عملك يتطلب نظاماً ينمو <em>معك</em> ويفهم تفاصيل السوق الإقليمي، فإن سمارت ERP هو الخيار الرابح. فهو يوفر نفس الوحدات القوية (المحاسبة، الموارد البشرية، المخازن، إدارة علاقات العملاء) مثل SAP ولكن بواجهة مستخدم محسنة للفرق التي تتحدث العربية وسير العمل المحلي.</p>
+<blockquote>
+<p><strong>هل أنت جاهز لأتمتة أعمالك؟</strong></p>
+<p>يمكن لخبراء سمارت تيم نقل بياناتك من الأنظمة القديمة إلى سمارت ERP في وقت قياسي.</p>
+<p><a href="/contact">تواصل معنا</a> | <a href="/services/erp-systems">استكشف ميزات ERP</a></p>
+</blockquote>0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/smart-erp-vs-sap-comparison",{"children":["$","span",null,{"aria-current":"page","children":"ERP مخصص وSAP Business One: خيارات التنفيذ"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"أنظمة المؤسسات"}],["$","time",null,{"dateTime":"2026-02-15","children":"15 فبراير 2026"}]]}],["$","h1",null,{"children":"ERP مخصص وSAP Business One: خيارات التنفيذ"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"قارن ERP مخصصًا وSAP Business One وفق نطاق عمل محدد. راجع المحاسبة والمخزون والتقارير والتوطين وتكاليف التنفيذ قبل الاختيار."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/smart_erp_vs_sap_cover.png","alt":"ERP مخصص وSAP Business One: خيارات التنفيذ","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$5"}}]]}],null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","smart-erp-manufacturing-vs-dynamics-comparison",{"children":["$","$L3",null,{"href":"/blog/smart-erp-manufacturing-vs-dynamics-comparison","prefetch":false,"children":"ERP التصنيع وMicrosoft Dynamics: تقييم ملاءمة النظام"}]}],["$","li","smart-erp-vs-odoo-comparison",{"children":["$","$L3",null,{"href":"/blog/smart-erp-vs-odoo-comparison","prefetch":false,"children":"ERP مخصص وOdoo: الوحدات والتعديلات والدعم"}]}],["$","li","smart-crm-vs-salesforce-comparison",{"children":["$","$L3",null,{"href":"/blog/smart-crm-vs-salesforce-comparison","prefetch":false,"children":"CRM مخصص وSalesforce: مقارنة الإجراءات والتكلفة"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+7:["$","$Ld",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$Lf",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

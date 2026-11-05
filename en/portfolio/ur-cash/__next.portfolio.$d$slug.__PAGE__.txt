@@ -1,0 +1,163 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0x930e0hj6.tc.js"],""]
+4:I[32195,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0x930e0hj6.tc.js"],"ProjectDetail"]
+a:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+2:T5ff,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/en/portfolio/ur-cash#webpage","url":"https://www.smart.sd/en/portfolio/ur-cash","name":"urCASH - Open Banking Platform","description":"urCASH is a financial software MVP for account aggregation, expense analysis and budgeting. Review integrations, security and licensing before commercial operation.","inLanguage":"en","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/en/portfolio/ur-cash#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/en/portfolio/ur-cash#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/en/portfolio/ur-cash#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.smart.sd/en"},{"@type":"ListItem","position":2,"name":"Portfolio","item":"https://www.smart.sd/en/portfolio"},{"@type":"ListItem","position":3,"name":"urCASH - Open Banking Platform","item":"https://www.smart.sd/en/portfolio/ur-cash"}]},{"@id":"https://www.smart.sd/en/portfolio/ur-cash#entity","inLanguage":"en","@type":"CreativeWork","name":"urCASH - Open Banking Platform","description":"urCASH is a financial software MVP for account aggregation, expense analysis and budgeting. Review integrations, security and licensing before commercial operation.","creator":{"@id":"https://www.smart.sd/#organization"},"dateCreated":"2024-04-25","dateModified":"2026-11-02","genre":"fintech","image":"https://www.smart.sd/portfolio/ur-cash-1-optimized.webp"}]}5:T2a6f,<h2>Project brief</h2>
+<p>urCASH is a financial software MVP offered for acquisition or licensing. The proposed product scope covers account aggregation, transaction and expense categorization, income and spending views, budgeting alerts and investment-related interfaces. The gallery documents Arabic mobile screens for an aggregated account view, recent transactions, income analysis and budget alerts.</p>
+<h2>Intended users and operating roles</h2>
+<ul>
+<li>End users review connected-account information, transactions, spending and budget alerts through the mobile interface.</li>
+<li>The product operator configures the service, integrations and customer-support process.</li>
+<li>Authorized banking or financial providers may be required for regulated data or transaction functions.</li>
+</ul>
+<p>These roles depend on the commercial deployment model. A demonstration should identify which role is implemented in the MVP, which screens use sample data and which external connections are active.</p>
+<h2>Documented product scope</h2>
+<ul>
+<li>Aggregated account and balance interface.</li>
+<li>Recent-transaction view.</li>
+<li>Transaction and expense categorization.</li>
+<li>Income and spending analysis screens.</li>
+<li>Budget alerts.</li>
+<li>Investment-related interface concepts.</li>
+</ul>
+<p>The screenshots document interface scope. They do not prove that a bank API, payment rail, investment service or production data source is connected.</p>
+<h2>User workflow</h2>
+<p>The proposed flow begins with connected financial data and presents it in an account summary. The user can then review transactions, move into income or spending analysis and see configured budget alerts. Any production version needs consent, connection status and error states around this flow so users can distinguish current data from delayed or unavailable data.</p>
+<h2>Technical and commercial due diligence</h2>
+<p>Ask for a demonstration that distinguishes live integrations from sample data. Review supported bank APIs, consent handling, connection refresh, error recovery, audit logs and deployment documentation. The buyer should also inspect the source-code repository, dependency list, build instructions and environments. Source-code rights, third-party licences, remaining work, support and acceptance criteria belong in the contract rather than being inferred from screenshots.</p>
+<h2>Verification checklist</h2>
+<ul>
+<li>Confirm every delivered screen and its data source.</li>
+<li>Record which integrations are live, mocked or not started.</li>
+<li>Rebuild the application from the supplied source and deployment instructions.</li>
+<li>Test expired consent, unavailable providers, delayed data and duplicate transactions.</li>
+<li>Review access control, secrets management, logs, backup and incident procedures.</li>
+<li>Arrange an independent security assessment for the intended deployment.</li>
+</ul>
+<h2>Software and financial authorization</h2>
+<p>Buying software does not grant permission to access bank accounts, initiate payments, hold customer money or provide investment advice. Each activity needs review under the relevant jurisdiction and may require an authorized provider, regulatory approval or a separate licence. Security controls also need independent assessment. This page does not claim certification or approval from SAMA, CBUAE, ADGM or another authority.</p>
+<p>Saudi buyers should consult <a href="https://www.openbanking.sama.gov.sa/index-en.html">SAMA's open banking framework</a>. UAE buyers should review the <a href="https://rulebook.centralbank.ae/en/rulebook/article-2-licensing-and-licensing-procedures-0">CBUAE Open Finance licensing rules</a>. Investment services can have additional requirements.</p>
+<h2>Possible next phase</h2>
+<p>Only scope a production phase after the buyer has confirmed the code, integrations, data model and regulatory route. That phase can then list the required providers, production controls, migrations and release checks without treating the MVP screens as proof that those items already exist.</p>
+<h2>Next step</h2>
+<p>Request a technical demonstration and a written list of delivered features, integration status and remaining work. Review the <a href="/offer/ksa/fintech-open-banking">Saudi digital-payments and open-banking investment opportunity</a>, see our <a href="/services/fintech-payment">payment integration service</a>, or <a href="/contact">contact the team</a> to discuss due diligence.</p>
+<hr>
+<h2>ملخص المشروع</h2>
+<p>urCASH نموذج أولي لبرمجيات مالية معروض للاستحواذ أو الترخيص. يشمل نطاق المنتج المقترح تجميع الحسابات وتصنيف المعاملات والمصروفات وعرض الدخل والإنفاق وتنبيهات الميزانية وواجهات مرتبطة بالاستثمار. توثّق الصور شاشات عربية لملخص الحسابات والمعاملات الأخيرة وتحليل الدخل وتنبيهات الميزانية.</p>
+<h2>المستخدمون وأدوار التشغيل</h2>
+<ul>
+<li>يراجع المستخدم بيانات الحسابات المرتبطة والمعاملات والإنفاق وتنبيهات الميزانية من واجهة الجوال.</li>
+<li>يضبط مشغل المنتج الخدمة والتكاملات وإجراءات دعم العملاء.</li>
+<li>قد يتطلب الوصول إلى البيانات المنظمة أو تنفيذ المعاملات مزودًا مصرفيًا أو ماليًا مصرحًا.</li>
+</ul>
+<p>تعتمد هذه الأدوار على نموذج التشغيل التجاري. يجب أن يوضح العرض التجريبي الدور المنفذ في النموذج والشاشات التي تستخدم بيانات تجريبية والاتصالات الخارجية التي تعمل فعليًا.</p>
+<h2>نطاق المنتج الموثّق</h2>
+<ul>
+<li>واجهة لتجميع الحسابات والأرصدة.</li>
+<li>عرض للمعاملات الأخيرة.</li>
+<li>تصنيف المعاملات والمصروفات.</li>
+<li>شاشات لتحليل الدخل والإنفاق.</li>
+<li>تنبيهات للميزانية.</li>
+<li>تصورات لواجهات مرتبطة بالاستثمار.</li>
+</ul>
+<p>توثّق الصور نطاق الواجهة، لكنها لا تثبت اتصال واجهة بنك أو مسار دفع أو خدمة استثمارية أو مصدر بيانات إنتاجي.</p>
+<h2>مسار الاستخدام</h2>
+<p>يبدأ المسار المقترح ببيانات مالية مرتبطة ويعرضها في ملخص للحساب. ينتقل المستخدم بعد ذلك إلى المعاملات أو تحليل الدخل والإنفاق ويراجع تنبيهات الميزانية المضبوطة. يحتاج التشغيل الفعلي إلى حالات للموافقة وحالة الاتصال والأخطاء حتى يميز المستخدم بين البيانات الحالية والمتأخرة أو غير المتاحة.</p>
+<h2>الفحص التقني والتجاري</h2>
+<p>اطلب عرضًا يميز التكاملات الفعلية عن البيانات التجريبية. راجع واجهات البنوك المدعومة وإدارة الموافقة وتحديث الاتصال ومعالجة الأخطاء وسجلات التدقيق ووثائق النشر. ينبغي للمشتري كذلك فحص مستودع الكود وقائمة الاعتماديات وتعليمات البناء والبيئات. توضع حقوق الكود وتراخيص الأطراف الأخرى والعمل المتبقي والدعم ومعايير القبول في العقد بدل استنتاجها من الصور.</p>
+<h2>قائمة التحقق</h2>
+<ul>
+<li>تأكيد كل شاشة مسلّمة ومصدر بياناتها.</li>
+<li>تسجيل التكاملات الفعلية والتجريبية والتي لم يبدأ تنفيذها.</li>
+<li>إعادة بناء التطبيق من الكود وتعليمات النشر المسلّمة.</li>
+<li>اختبار انتهاء الموافقة وتعذر المزود وتأخر البيانات وتكرار المعاملات.</li>
+<li>مراجعة الصلاحيات وإدارة الأسرار والسجلات والنسخ الاحتياطي وإجراءات الحوادث.</li>
+<li>ترتيب تقييم أمني مستقل لبيئة التشغيل المقصودة.</li>
+</ul>
+<h2>البرمجيات والتصريح المالي</h2>
+<p>شراء البرمجيات لا يمنح إذنًا للوصول إلى الحسابات البنكية أو بدء المدفوعات أو الاحتفاظ بأموال العملاء أو تقديم استشارات استثمارية. يحتاج كل نشاط إلى مراجعة وفق الدولة المعنية، وقد يتطلب مزودًا مصرحًا أو موافقة تنظيمية أو ترخيصًا مستقلًا. تحتاج الضوابط الأمنية أيضًا إلى تقييم مستقل. لا تدّعي هذه الصفحة اعتمادًا أو موافقة من ساما أو مصرف الإمارات المركزي أو سوق أبوظبي العالمي أو جهة أخرى.</p>
+<p>على المشتري في السعودية مراجعة <a href="https://www.openbanking.sama.gov.sa/index-en.html">إطار ساما للمصرفية المفتوحة</a>، وفي الإمارات مراجعة <a href="https://rulebook.centralbank.ae/en/rulebook/article-2-licensing-and-licensing-procedures-0">قواعد ترخيص التمويل المفتوح لدى مصرف الإمارات المركزي</a>. وقد تخضع الخدمات الاستثمارية لمتطلبات إضافية.</p>
+<h2>مرحلة لاحقة محتملة</h2>
+<p>لا يبدأ نطاق الإنتاج قبل أن يؤكد المشتري الكود والتكاملات ونموذج البيانات والمسار التنظيمي. بعد ذلك يمكن للمرحلة تحديد المزودين المطلوبين وضوابط الإنتاج ونقل البيانات وفحوص الإصدار دون اعتبار شاشات النموذج دليلًا على وجود هذه العناصر.</p>
+<h2>الخطوة التالية</h2>
+<p>اطلب عرضًا تقنيًا وقائمة مكتوبة بالوظائف المسلّمة وحالة التكاملات والعمل المتبقي. راجع <a href="/offer/ksa/fintech-open-banking">فرصة الاستثمار في منصة الدفع الإلكتروني والمصرفية المفتوحة في السعودية</a> و<a href="/services/fintech-payment">خدمة تكامل الدفع</a>، أو <a href="/contact">تواصل مع الفريق</a> لمناقشة الفحص قبل الشراء.</p>6:T117d,<h2>Project brief</h2>
+<p>urCASH is a financial software MVP offered for acquisition or licensing. The proposed product scope covers account aggregation, transaction and expense categorization, income and spending views, budgeting alerts and investment-related interfaces. The gallery documents Arabic mobile screens for an aggregated account view, recent transactions, income analysis and budget alerts.</p>
+<h2>Intended users and operating roles</h2>
+<ul>
+<li>End users review connected-account information, transactions, spending and budget alerts through the mobile interface.</li>
+<li>The product operator configures the service, integrations and customer-support process.</li>
+<li>Authorized banking or financial providers may be required for regulated data or transaction functions.</li>
+</ul>
+<p>These roles depend on the commercial deployment model. A demonstration should identify which role is implemented in the MVP, which screens use sample data and which external connections are active.</p>
+<h2>Documented product scope</h2>
+<ul>
+<li>Aggregated account and balance interface.</li>
+<li>Recent-transaction view.</li>
+<li>Transaction and expense categorization.</li>
+<li>Income and spending analysis screens.</li>
+<li>Budget alerts.</li>
+<li>Investment-related interface concepts.</li>
+</ul>
+<p>The screenshots document interface scope. They do not prove that a bank API, payment rail, investment service or production data source is connected.</p>
+<h2>User workflow</h2>
+<p>The proposed flow begins with connected financial data and presents it in an account summary. The user can then review transactions, move into income or spending analysis and see configured budget alerts. Any production version needs consent, connection status and error states around this flow so users can distinguish current data from delayed or unavailable data.</p>
+<h2>Technical and commercial due diligence</h2>
+<p>Ask for a demonstration that distinguishes live integrations from sample data. Review supported bank APIs, consent handling, connection refresh, error recovery, audit logs and deployment documentation. The buyer should also inspect the source-code repository, dependency list, build instructions and environments. Source-code rights, third-party licences, remaining work, support and acceptance criteria belong in the contract rather than being inferred from screenshots.</p>
+<h2>Verification checklist</h2>
+<ul>
+<li>Confirm every delivered screen and its data source.</li>
+<li>Record which integrations are live, mocked or not started.</li>
+<li>Rebuild the application from the supplied source and deployment instructions.</li>
+<li>Test expired consent, unavailable providers, delayed data and duplicate transactions.</li>
+<li>Review access control, secrets management, logs, backup and incident procedures.</li>
+<li>Arrange an independent security assessment for the intended deployment.</li>
+</ul>
+<h2>Software and financial authorization</h2>
+<p>Buying software does not grant permission to access bank accounts, initiate payments, hold customer money or provide investment advice. Each activity needs review under the relevant jurisdiction and may require an authorized provider, regulatory approval or a separate licence. Security controls also need independent assessment. This page does not claim certification or approval from SAMA, CBUAE, ADGM or another authority.</p>
+<p>Saudi buyers should consult <a href="https://www.openbanking.sama.gov.sa/index-en.html">SAMA's open banking framework</a>. UAE buyers should review the <a href="https://rulebook.centralbank.ae/en/rulebook/article-2-licensing-and-licensing-procedures-0">CBUAE Open Finance licensing rules</a>. Investment services can have additional requirements.</p>
+<h2>Possible next phase</h2>
+<p>Only scope a production phase after the buyer has confirmed the code, integrations, data model and regulatory route. That phase can then list the required providers, production controls, migrations and release checks without treating the MVP screens as proof that those items already exist.</p>
+<h2>Next step</h2>
+<p>Request a technical demonstration and a written list of delivered features, integration status and remaining work. Review the <a href="/offer/ksa/fintech-open-banking">Saudi digital-payments and open-banking investment opportunity</a>, see our <a href="/services/fintech-payment">payment integration service</a>, or <a href="/contact">contact the team</a> to discuss due diligence.</p>7:T18ec,<h2>ملخص المشروع</h2>
+<p>urCASH نموذج أولي لبرمجيات مالية معروض للاستحواذ أو الترخيص. يشمل نطاق المنتج المقترح تجميع الحسابات وتصنيف المعاملات والمصروفات وعرض الدخل والإنفاق وتنبيهات الميزانية وواجهات مرتبطة بالاستثمار. توثّق الصور شاشات عربية لملخص الحسابات والمعاملات الأخيرة وتحليل الدخل وتنبيهات الميزانية.</p>
+<h2>المستخدمون وأدوار التشغيل</h2>
+<ul>
+<li>يراجع المستخدم بيانات الحسابات المرتبطة والمعاملات والإنفاق وتنبيهات الميزانية من واجهة الجوال.</li>
+<li>يضبط مشغل المنتج الخدمة والتكاملات وإجراءات دعم العملاء.</li>
+<li>قد يتطلب الوصول إلى البيانات المنظمة أو تنفيذ المعاملات مزودًا مصرفيًا أو ماليًا مصرحًا.</li>
+</ul>
+<p>تعتمد هذه الأدوار على نموذج التشغيل التجاري. يجب أن يوضح العرض التجريبي الدور المنفذ في النموذج والشاشات التي تستخدم بيانات تجريبية والاتصالات الخارجية التي تعمل فعليًا.</p>
+<h2>نطاق المنتج الموثّق</h2>
+<ul>
+<li>واجهة لتجميع الحسابات والأرصدة.</li>
+<li>عرض للمعاملات الأخيرة.</li>
+<li>تصنيف المعاملات والمصروفات.</li>
+<li>شاشات لتحليل الدخل والإنفاق.</li>
+<li>تنبيهات للميزانية.</li>
+<li>تصورات لواجهات مرتبطة بالاستثمار.</li>
+</ul>
+<p>توثّق الصور نطاق الواجهة، لكنها لا تثبت اتصال واجهة بنك أو مسار دفع أو خدمة استثمارية أو مصدر بيانات إنتاجي.</p>
+<h2>مسار الاستخدام</h2>
+<p>يبدأ المسار المقترح ببيانات مالية مرتبطة ويعرضها في ملخص للحساب. ينتقل المستخدم بعد ذلك إلى المعاملات أو تحليل الدخل والإنفاق ويراجع تنبيهات الميزانية المضبوطة. يحتاج التشغيل الفعلي إلى حالات للموافقة وحالة الاتصال والأخطاء حتى يميز المستخدم بين البيانات الحالية والمتأخرة أو غير المتاحة.</p>
+<h2>الفحص التقني والتجاري</h2>
+<p>اطلب عرضًا يميز التكاملات الفعلية عن البيانات التجريبية. راجع واجهات البنوك المدعومة وإدارة الموافقة وتحديث الاتصال ومعالجة الأخطاء وسجلات التدقيق ووثائق النشر. ينبغي للمشتري كذلك فحص مستودع الكود وقائمة الاعتماديات وتعليمات البناء والبيئات. توضع حقوق الكود وتراخيص الأطراف الأخرى والعمل المتبقي والدعم ومعايير القبول في العقد بدل استنتاجها من الصور.</p>
+<h2>قائمة التحقق</h2>
+<ul>
+<li>تأكيد كل شاشة مسلّمة ومصدر بياناتها.</li>
+<li>تسجيل التكاملات الفعلية والتجريبية والتي لم يبدأ تنفيذها.</li>
+<li>إعادة بناء التطبيق من الكود وتعليمات النشر المسلّمة.</li>
+<li>اختبار انتهاء الموافقة وتعذر المزود وتأخر البيانات وتكرار المعاملات.</li>
+<li>مراجعة الصلاحيات وإدارة الأسرار والسجلات والنسخ الاحتياطي وإجراءات الحوادث.</li>
+<li>ترتيب تقييم أمني مستقل لبيئة التشغيل المقصودة.</li>
+</ul>
+<h2>البرمجيات والتصريح المالي</h2>
+<p>شراء البرمجيات لا يمنح إذنًا للوصول إلى الحسابات البنكية أو بدء المدفوعات أو الاحتفاظ بأموال العملاء أو تقديم استشارات استثمارية. يحتاج كل نشاط إلى مراجعة وفق الدولة المعنية، وقد يتطلب مزودًا مصرحًا أو موافقة تنظيمية أو ترخيصًا مستقلًا. تحتاج الضوابط الأمنية أيضًا إلى تقييم مستقل. لا تدّعي هذه الصفحة اعتمادًا أو موافقة من ساما أو مصرف الإمارات المركزي أو سوق أبوظبي العالمي أو جهة أخرى.</p>
+<p>على المشتري في السعودية مراجعة <a href="https://www.openbanking.sama.gov.sa/index-en.html">إطار ساما للمصرفية المفتوحة</a>، وفي الإمارات مراجعة <a href="https://rulebook.centralbank.ae/en/rulebook/article-2-licensing-and-licensing-procedures-0">قواعد ترخيص التمويل المفتوح لدى مصرف الإمارات المركزي</a>. وقد تخضع الخدمات الاستثمارية لمتطلبات إضافية.</p>
+<h2>مرحلة لاحقة محتملة</h2>
+<p>لا يبدأ نطاق الإنتاج قبل أن يؤكد المشتري الكود والتكاملات ونموذج البيانات والمسار التنظيمي. بعد ذلك يمكن للمرحلة تحديد المزودين المطلوبين وضوابط الإنتاج ونقل البيانات وفحوص الإصدار دون اعتبار شاشات النموذج دليلًا على وجود هذه العناصر.</p>
+<h2>الخطوة التالية</h2>
+<p>اطلب عرضًا تقنيًا وقائمة مكتوبة بالوظائف المسلّمة وحالة التكاملات والعمل المتبقي. راجع <a href="/offer/ksa/fintech-open-banking">فرصة الاستثمار في منصة الدفع الإلكتروني والمصرفية المفتوحة في السعودية</a> و<a href="/services/fintech-payment">خدمة تكامل الدفع</a>، أو <a href="/contact">تواصل مع الفريق</a> لمناقشة الفحص قبل الشراء.</p>0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/portfolio",{"children":["$","$L3",null,{"href":"/en/portfolio","prefetch":false,"children":"Portfolio"}]}],["$","li","/portfolio/ur-cash",{"children":["$","span",null,{"aria-current":"page","children":"urCASH - Open Banking Platform"}]}]]}]}]],["$","$L4",null,{"project":{"slug":"ur-cash","contentHtml":"$5","contentHtmlEn":"$6","contentHtmlAr":"$7","title":"urCASH - Open Banking Platform","titleAr":"urCASH - منصة الخدمات المصرفية المفتوحة","category":"fintech","categoryAr":"فينتك","client":"Available for Purchase (MVP)","clientAr":"متاح للشراء (MVP جاهز)","date":"2024-04-25","url":"https://drive.google.com/file/d/1j_GJfFh9QJX_XZG1vNxxiLs58wyhuUqH/view?usp=drive_link","image":"/portfolio/ur-cash-1-optimized.webp","images":["/portfolio/ur-cash-1-optimized.webp","/portfolio/ur-cash-2-optimized.webp","/portfolio/ur-cash-3-optimized.webp","/portfolio/ur-cash-4-optimized.webp","/portfolio/ur-cash-5-optimized.webp"],"description":"urCASH is a financial software MVP for account aggregation, expense analysis and budgeting. Review integrations, security and licensing before commercial operation.","descriptionAr":"urCASH نموذج أولي لبرمجيات مالية لتجميع الحسابات وتحليل المصروفات والميزانية. راجع التكاملات والأمن ومتطلبات الترخيص قبل التشغيل التجاري.","lastModified":"2026-11-02"}}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_pgeQ8kNhyQMNom7h4h5x"}
+8:["$","script","script-0",{"src":"/_next/static/chunks/0x930e0hj6.tc.js","async":true}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

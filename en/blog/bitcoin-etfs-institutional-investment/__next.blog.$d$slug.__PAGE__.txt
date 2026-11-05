@@ -1,0 +1,91 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+10:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+11:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T772,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/en/blog/bitcoin-etfs-institutional-investment#webpage","url":"https://www.smart.sd/en/blog/bitcoin-etfs-institutional-investment","name":"Bitcoin ETFs: Institutional Crypto Investment Goes Mainstream","description":"Bitcoin ETFs provide fund-based exposure to Bitcoin. Understand how fees, custody, market risk and product structure differ from holding the asset directly.","inLanguage":"en","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/en/blog/bitcoin-etfs-institutional-investment#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/en/blog/bitcoin-etfs-institutional-investment#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/en/blog/bitcoin-etfs-institutional-investment#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.smart.sd/en"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.smart.sd/en/blog"},{"@type":"ListItem","position":3,"name":"Bitcoin ETFs: Institutional Crypto Investment Goes Mainstream","item":"https://www.smart.sd/en/blog/bitcoin-etfs-institutional-investment"}]},{"@id":"https://www.smart.sd/en/blog/bitcoin-etfs-institutional-investment#entity","inLanguage":"en","@type":"BlogPosting","headline":"Bitcoin ETFs: Institutional Crypto Investment Goes Mainstream","description":"Bitcoin ETFs provide fund-based exposure to Bitcoin. Understand how fees, custody, market risk and product structure differ from holding the asset directly.","datePublished":"2024-12-08","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/en/blog/bitcoin-etfs-institutional-investment","image":"https://www.smart.sd/blog/bitcoin-etfs-optimized.webp"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/en/blog","prefetch":false,"children":"Blog"}]}],["$","li","/blog/bitcoin-etfs-institutional-investment",{"children":["$","span",null,{"aria-current":"page","children":"Bitcoin ETFs: Institutional Crypto Investment Goes Mainstream"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Cryptocurrency"}],["$","time",null,{"dateTime":"2024-12-08","children":"December 8, 2024"}]]}],["$","h1",null,{"children":"Bitcoin ETFs: Institutional Crypto Investment Goes Mainstream"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/en/about","prefetch":false,"children":"Prepared by the Smart Team editorial team"}],[" · ","Editorial review",": ",["$","time",null,{"dateTime":"2026-11-02","children":"November 2, 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"What does this article explain?"}],["$","p",null,{"children":"Bitcoin ETFs provide fund-based exposure to Bitcoin. Understand how fees, custody, market risk and product structure differ from holding the asset directly."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/bitcoin-etfs-optimized.webp","alt":"Bitcoin ETFs: Institutional Crypto Investment Goes Mainstream","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],"$L5",null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_pgeQ8kNhyQMNom7h4h5x"}
+d:T8ee,<h2>The Bitcoin ETF Revolution</h2>
+<p>2024 marked a historic turning point for cryptocurrency with the SEC's approval of spot Bitcoin ETFs in January. For the first time, institutional investors can gain Bitcoin exposure through traditional brokerage accounts.</p>
+<h3>What is a Bitcoin ETF?</h3>
+<p>An Exchange-Traded Fund (ETF) is a security that tracks an asset's price and can be bought/sold on stock exchanges like regular stocks. A Bitcoin ETF:</p>
+<ul>
+<li>Holds actual Bitcoin (spot ETF) or Bitcoin futures</li>
+<li>Trades on regulated exchanges (NYSE, NASDAQ)</li>
+<li>Eliminates need for crypto wallets or exchanges</li>
+<li>Provides regulatory protection for investors</li>
+</ul>
+<h3>Major Bitcoin ETFs in 2024</h3>
+<table>
+<thead>
+<tr>
+<th>ETF</th>
+<th>Issuer</th>
+<th>AUM (Billions)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>IBIT</td>
+<td>BlackRock</td>
+<td>$20+</td>
+</tr>
+<tr>
+<td>FBTC</td>
+<td>Fidelity</td>
+<td>$10+</td>
+</tr>
+<tr>
+<td>GBTC</td>
+<td>Grayscale</td>
+<td>$15+</td>
+</tr>
+<tr>
+<td>ARKB</td>
+<td>ARK Invest</td>
+<td>$2+</td>
+</tr>
+</tbody>
+</table>
+<h3>Why This Matters</h3>
+<p><strong>For Institutions:</strong></p>
+<ul>
+<li>Regulatory clarity for compliance teams</li>
+<li>Familiar investment vehicle structure</li>
+<li>Custody solved by ETF providers</li>
+<li>Portfolio diversification options</li>
+</ul>
+<p><strong>For the Market:</strong></p>
+<ul>
+<li>Billions in new capital inflows</li>
+<li>Increased market maturity and liquidity</li>
+<li>Reduced volatility over time</li>
+<li>Mainstream acceptance</li>
+</ul>
+<h3>What's Next: Ethereum ETFs</h3>
+<p>Following Bitcoin's success, Ethereum ETFs were approved in 2024, opening the door for:</p>
+<ul>
+<li>Broader altcoin ETF products</li>
+<li>Staking-enabled ETFs</li>
+<li>Crypto index funds</li>
+</ul>
+<h3>Smart Team Crypto Services</h3>
+<p>We help businesses navigate the crypto landscape:</p>
+<ul>
+<li><strong>Trading Platform Development</strong> - Buy, sell, and manage crypto</li>
+<li><strong>Custody Solutions</strong> - Secure storage for digital assets</li>
+<li><strong>Compliance Systems</strong> - KYC/AML for crypto businesses</li>
+<li><strong>Portfolio Management</strong> - Track and optimize holdings</li>
+</ul>
+<p><a href="/en/services/fintech-payment">Explore our blockchain services</a></p>5:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$d"}}]]}]
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"Related reading"}],["$","ul",null,{"children":[["$","li","stablecoins-payment-systems",{"children":["$","$L3",null,{"href":"/en/blog/stablecoins-payment-systems","prefetch":false,"children":"Stablecoins in Payment Systems: USDT, USDC & The Future of Money"}]}],["$","li","solana-blockchain-payments",{"children":["$","$L3",null,{"href":"/en/blog/solana-blockchain-payments","prefetch":false,"children":"Solana: The Speed Revolution in Blockchain Payments"}]}],["$","li","flutter-mvp-development-2026",{"children":["$","$L3",null,{"href":"/en/blog/flutter-mvp-development-2026","prefetch":false,"children":"Planning a mobile MVP with Flutter"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/en/services","prefetch":false,"children":"Explore services"}]]}]
+7:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$L10",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

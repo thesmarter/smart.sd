@@ -1,0 +1,106 @@
+# Smart Team — فهرس الذكاء الاصطناعي (llms-full.txt)
+
+> نسخة مفصلة من llms.txt: كل أقسام الموقع وروابطها. الموقع ثنائي اللغة (ar افتراضي / en تحت /en). المحدّث: 2026-11-04.
+
+- الموقع: https://www.smart.sd
+- البريد: info@smart.sd
+- الموقع العربي الافتراضي؛ لكل رابط نسخة إنجليزية باستبدال الجذر بـ https://www.smart.sd/en
+
+## الخدمات
+- [وكلاء الذكاء الاصطناعي لإدارة الأعمال](https://www.smart.sd/services/ai-agents): وكلاء ذكاء اصطناعي للبحث في معلومات الشركة ومساعدة فرق CRM والأعمال، مع أدوات محددة وصلاحيات وصول وموافقات بشرية للمهام الحساسة.
+- [أنظمة تخطيط موارد المؤسسات](https://www.smart.sd/services/erp-systems): أنظمة ERP تربط المحاسبة والمبيعات والمخزون والموارد البشرية. نراجع إجراءات مؤسستك ونحدد الوحدات والتكاملات وخطة نقل البيانات والتشغيل.
+- [حلول التكنولوجيا المالية والدفع](https://www.smart.sd/services/fintech-payment): تطوير تكاملات الدفع والمصرفية المفتوحة، مع متابعة المعاملات والتسوية وضوابط الوصول، وفق مزود الخدمة ومتطلبات السوق ونطاق المشروع.
+- [تطوير تطبيقات الهاتف المحمول](https://www.smart.sd/services/mobile-development): تطوير تطبيقات iOS وAndroid للتجارة والتوصيل وخدمات الأعمال، مع ربط الأنظمة واختبار الأجهزة وتحديد خطة النشر والصيانة.
+- [أتمتة n8n والوكلاء الأذكياء](https://www.smart.sd/services/n8n-agents): أتمتة إجراءات العمل باستخدام n8n لربط النماذج وCRM وأدوات الشركة، مع اختيار الاستضافة وإدارة بيانات الربط والأخطاء وخطوات الذكاء الاصطناعي.
+- [تطوير المواقع الإلكترونية](https://www.smart.sd/services/web-development): تطوير مواقع الشركات وتطبيقات الويب والمتاجر الإلكترونية، بواجهات عربية وإنجليزية وتصميم متجاوب وتكاملات تناسب إجراءات أعمالك.
+
+## المشاريع المنشورة
+- [فودك - تطبيق توصيل الطعام](https://www.smart.sd/portfolio/foodk-delivery)
+- [جوبز هب - بوابة الوظائف وبناء السيرة الذاتية](https://www.smart.sd/portfolio/jobshub)
+- [تطبيق الأخبار](https://www.smart.sd/portfolio/news-app)
+- [تطبيق خدمات المنزل](https://www.smart.sd/portfolio/ondemand-home-services)
+- [منصة سيكتور للتجارة الإلكترونية](https://www.smart.sd/portfolio/sectore-ecommerce)
+- [urCASH - منصة الخدمات المصرفية المفتوحة](https://www.smart.sd/portfolio/ur-cash)
+
+## المدونة (كل المقالات)
+- [2026-02-28] [تخطيط الإصدار الأول من تطبيق الجوال باستخدام Flutter](https://www.smart.sd/blog/flutter-mvp-development-2026)
+- [2026-02-26] [البرمجيات المخصصة والجاهزة: كيف تقيّم الملاءمة؟](https://www.smart.sd/blog/custom-vs-generic-software-strategy)
+- [2026-02-26] [امتثال البرمجيات المالية في السعودية والإمارات](https://www.smart.sd/blog/fintech-compliance-gcc-vs-foreign)
+- [2026-02-26] [وكلاء الذكاء الاصطناعي: القدرات والتقييم وحدود التشغيل](https://www.smart.sd/blog/future-of-ai-agents-2026)
+- [2026-02-26] [أمن تطبيقات الجوال: متطلبات اختيار فريق التطوير](https://www.smart.sd/blog/mobile-security-vs-freelancers-comparison)
+- [2026-02-26] [لوحات البيانات المخصصة وأدوات تقارير Google](https://www.smart.sd/blog/smart-dashboards-vs-data-studio-comparison)
+- [2026-02-18] [وكلاء الذكاء الاصطناعي للأعمال: ما بعد الأتمتة الأساسية](https://www.smart.sd/blog/ai-agents-business-guide)
+- [2026-02-16] [التجارة الإلكترونية المخصصة وShopify: اختيار المنصة](https://www.smart.sd/blog/smart-ecommerce-vs-shopify-comparison)
+- [2026-02-15] [Headless والمنصات الموحّدة: خيارات المعمارية وتكاليفها](https://www.smart.sd/blog/headless-vs-monolithic-comparison)
+- [2026-02-15] [ERP التصنيع وMicrosoft Dynamics: تقييم ملاءمة النظام](https://www.smart.sd/blog/smart-erp-manufacturing-vs-dynamics-comparison)
+- [2026-02-15] [ERP مخصص وSAP Business One: خيارات التنفيذ](https://www.smart.sd/blog/smart-erp-vs-sap-comparison)
+- [2026-02-15] [واجهات الدفع المخصصة والتكامل مع HyperPay](https://www.smart.sd/blog/smart-payment-vs-hyperpay-comparison)
+- [2026-02-15] [برمجيات الدفع المخصصة والتكامل مع Stripe](https://www.smart.sd/blog/smart-payment-vs-stripe-comparison)
+- [2026-02-15] [نقاط البيع المخصصة وSquare: متطلبات البيع](https://www.smart.sd/blog/smart-pos-vs-square-comparison)
+- [2026-02-14] [وكلاء الذكاء الاصطناعي والشات بوت: المهام والأدوات والتحكم](https://www.smart.sd/blog/ai-agents-vs-chatbots-comparison)
+- [2026-02-14] [Flutter والتطوير الأصلي: اختيار طريقة بناء التطبيق](https://www.smart.sd/blog/flutter-vs-native-comparison)
+- [2026-02-14] [n8n وZapier: الاستضافة والتكاملات والتكلفة](https://www.smart.sd/blog/n8n-vs-zapier-comparison)
+- [2026-02-14] [Next.js وWordPress: احتياجات التطوير والنشر](https://www.smart.sd/blog/nextjs-vs-wordpress-comparison)
+- [2026-02-14] [CRM مخصص وSalesforce: مقارنة الإجراءات والتكلفة](https://www.smart.sd/blog/smart-crm-vs-salesforce-comparison)
+- [2026-02-14] [ERP مخصص وOdoo: الوحدات والتعديلات والدعم](https://www.smart.sd/blog/smart-erp-vs-odoo-comparison)
+- [2026-02-12] [صعود المدفوعات الرقمية في السودان والإمارات: قصة سوقين](https://www.smart.sd/blog/digital-payments-sudan-uae)
+- [2026-02-05] [فهم شروط الصفقات الاستثمارية: دليل للمؤسسين السودانيين](https://www.smart.sd/blog/startup-deal-terms-guide)
+- [2026-01-30] [رأس المال الجريء في السودان 2026: المشهد، التحديات وفرص المستقبل](https://www.smart.sd/blog/venture-capital-sudan-2026)
+- [2026-01-17] [الذكاء الاصطناعي المادي: عندما يلتقي الذكاء بالعالم الحقيقي](https://www.smart.sd/blog/physical-ai-robotics-2026)
+- [2026-01-16] [التكنولوجيا الخضراء 2026: الاستدامة في العصر الرقمي](https://www.smart.sd/blog/green-tech-sustainability-2026)
+- [2026-01-15] [6G وIMT-2030: الأبحاث والمعايير وحالات الاستخدام](https://www.smart.sd/blog/6g-connectivity-revolution-2026)
+- [2026-01-15] [بناء وكلاء LangChain: الأدوات والتقييم والتشغيل](https://www.smart.sd/blog/building-ai-agents-langchain)
+- [2026-01-14] [Next.js 15 و React 19: ميزات ثورية لتطوير الويب الحديث](https://www.smart.sd/blog/nextjs-15-react-19-features)
+- [2025-12-29] [الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025](https://www.smart.sd/blog/cybersecurity-zero-trust-2025)
+- [2025-12-29] [الذكاء الاصطناعي على الحافة: مستقبل إنترنت الأشياء الذكي في 2025](https://www.smart.sd/blog/edge-ai-iot-2025)
+- [2025-12-29] [أداء WebAssembly: اختيار الأحمال وقياسها](https://www.smart.sd/blog/webassembly-performance-2025)
+- [2025-12-21] [المساعد المالي الشخصي: التخصيص الفائق في التكنولوجيا المالية 2026](https://www.smart.sd/blog/fintech-hyper-personalization)
+- [2025-12-21] [ملخص استثماري تنفيذي: منصة FinTech للاستحواذ](https://www.smart.sd/blog/fintech-investment-brief)
+- [2025-12-21] [ما وراء صندوق المحادثة: صعود واجهات الذكاء الاصطناعي المتمحورة حول الإنسان](https://www.smart.sd/blog/human-centric-ai-interfaces)
+- [2025-12-21] [التشفير المقاوم للكم: الحصر وتخطيط الانتقال](https://www.smart.sd/blog/quantum-safe-cryptography)
+- [2025-12-16] [رؤية 2026: صعود وكلاء الذكاء الاصطناعي كموظفين رقميين](https://www.smart.sd/blog/ai-agents-revolution-2026)
+- [2025-12-16] [صعود وكلاء الذكاء الاصطناعي في CRM: عصر جديد من أتمتة الأعمال](https://www.smart.sd/blog/ai-crm-agents)
+- [2025-12-16] [التحول الرقمي 2026: الدليل الشامل لتحديث أعمالك](https://www.smart.sd/blog/digital-transformation)
+- [2025-12-16] [n8n للأتمتة الذكية: منصة أتمتة احترافية بتحكم كامل في البيانات](https://www.smart.sd/blog/n8n-automation)
+- [2025-12-15] [رؤية 2026: التمويل المضمن - الخدمات المصرفية بدون بنوك](https://www.smart.sd/blog/embedded-finance-2026)
+- [2025-12-14] [رؤية 2026: المؤسسة المكونة - بناء الأعمال مثل الليجو](https://www.smart.sd/blog/composable-architecture-2026)
+- [2025-12-13] [رؤية 2026: العملات المستقرة والرقمية الحكومية - المال الجديد](https://www.smart.sd/blog/stablecoins-cbdc-2026)
+- [2025-12-12] [رؤية 2026: الأتمتة الفائقة - عندما تعمل كل عملية بنفسها](https://www.smart.sd/blog/hyperautomation-2026)
+- [2024-12-16] [ثورة المصرفية المفتوحة: تحويل صناعة التمويل في 2024](https://www.smart.sd/blog/open-banking-revolution-2024)
+- [2024-12-15] [العملات المستقرة في أنظمة الدفع: USDT و USDC ومستقبل المال](https://www.smart.sd/blog/stablecoins-payment-systems)
+- [2024-12-14] [سولانا: ثورة السرعة في مدفوعات البلوكتشين](https://www.smart.sd/blog/solana-blockchain-payments)
+- [2024-12-13] [الذكاء الاصطناعي في الفينتك: تحويل الخدمات المالية بالذكاء](https://www.smart.sd/blog/ai-in-fintech)
+- [2024-12-12] [اتجاهات تطوير تطبيقات الهاتف المحمول التي تشكل 2024](https://www.smart.sd/blog/mobile-app-trends-2024)
+- [2024-12-11] [التطوير متعدد المنصات: Flutter مقابل React Native في 2024](https://www.smart.sd/blog/cross-platform-development)
+- [2024-12-10] [أنظمة ERP: العمود الفقري لعمليات الأعمال الحديثة](https://www.smart.sd/blog/erp-systems-modern-business)
+- [2024-12-09] [المحافظ الرقمية وبوابات الدفع: مستقبل المعاملات](https://www.smart.sd/blog/digital-wallets-payment-gateways)
+- [2024-12-08] [صناديق البيتكوين المتداولة: الاستثمار المؤسسي في العملات الرقمية يصبح رئيسيًا](https://www.smart.sd/blog/bitcoin-etfs-institutional-investment)
+- [2024-12-07] [التطوير بدون كود: ديمقراطية إنشاء البرمجيات](https://www.smart.sd/blog/low-code-no-code-development)
+
+## الصفحات الثابتة
+- [الرئيسية](https://www.smart.sd/)
+- [من نحن](https://www.smart.sd/about)
+- [الخدمات](https://www.smart.sd/services)
+- [الأعمال](https://www.smart.sd/portfolio)
+- [المدونة](https://www.smart.sd/blog)
+- [تواصل](https://www.smart.sd/contact)
+- [Adaa ERP](https://www.smart.sd/adaa_help)
+- [الخصوصية](https://www.smart.sd/privacy-policy)
+- [الشروط](https://www.smart.sd/terms)
+- [ملف الشركة](https://www.smart.sd/profile)
+
+## العروض والحلول
+- [عرض السعودية — مصرفية مفتوحة](https://www.smart.sd/offer/ksa/fintech-open-banking)
+- [عرض الإمارات — مصرفية مفتوحة](https://www.smart.sd/offer/uae/fintech-open-banking)
+- [لوجستيات البريد](https://www.smart.sd/solutions/postal-logistics)
+- [حلول السعودية](https://www.smart.sd/solutions/saudi-arabia)
+- [حلول الإمارات](https://www.smart.sd/solutions/uae)
+- [حلول السودان](https://www.smart.sd/solutions/sudan)
+- [حلول قطر](https://www.smart.sd/solutions/qatar)
+- [حلول الأردن](https://www.smart.sd/solutions/jordan)
+- [حلول الكويت](https://www.smart.sd/solutions/kuwait)
+
+## قنوات وتنسيقات
+- RSS: https://www.smart.sd/feed.xml
+- Sitemap: https://www.smart.sd/sitemap.xml
+- Robots: https://www.smart.sd/robots.txt

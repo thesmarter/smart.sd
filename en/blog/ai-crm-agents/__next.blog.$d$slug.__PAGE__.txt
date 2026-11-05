@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+10:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+11:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T6b4,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/en/blog/ai-crm-agents#webpage","url":"https://www.smart.sd/en/blog/ai-crm-agents","name":"The Rise of AI Agents in CRM: A New Era of Business Automation","description":"AI can help classify CRM requests, prepare follow-ups and retrieve customer records. Learn how permissions, data quality and review affect these workflows.","inLanguage":"en","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/en/blog/ai-crm-agents#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/en/blog/ai-crm-agents#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/en/blog/ai-crm-agents#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.smart.sd/en"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.smart.sd/en/blog"},{"@type":"ListItem","position":3,"name":"The Rise of AI Agents in CRM: A New Era of Business Automation","item":"https://www.smart.sd/en/blog/ai-crm-agents"}]},{"@id":"https://www.smart.sd/en/blog/ai-crm-agents#entity","inLanguage":"en","@type":"BlogPosting","headline":"The Rise of AI Agents in CRM: A New Era of Business Automation","description":"AI can help classify CRM requests, prepare follow-ups and retrieve customer records. Learn how permissions, data quality and review affect these workflows.","datePublished":"2025-12-16","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/en/blog/ai-crm-agents","image":"https://www.smart.sd/blog/ai-crm-agents-optimized.webp"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/en/blog","prefetch":false,"children":"Blog"}]}],["$","li","/blog/ai-crm-agents",{"children":["$","span",null,{"aria-current":"page","children":"The Rise of AI Agents in CRM: A New Era of Business Automation"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Artificial intelligence"}],["$","time",null,{"dateTime":"2025-12-16","children":"December 16, 2025"}]]}],["$","h1",null,{"children":"The Rise of AI Agents in CRM: A New Era of Business Automation"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/en/about","prefetch":false,"children":"Prepared by the Smart Team editorial team"}],[" · ","Editorial review",": ",["$","time",null,{"dateTime":"2026-11-02","children":"November 2, 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"What does this article explain?"}],["$","p",null,{"children":"AI can help classify CRM requests, prepare follow-ups and retrieve customer records. Learn how permissions, data quality and review affect these workflows."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/ai-crm-agents-optimized.webp","alt":"The Rise of AI Agents in CRM: A New Era of Business Automation","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],["$","div",null,{"className":"reading-content","children":["$L5"]}],null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_pgeQ8kNhyQMNom7h4h5x"}
+d:T14ef,<h2>From Tools to Teammates (من أدوات إلى زملاء عمل)</h2>
+<p>For decades, CRM systems have been digital filing cabinets—passive repositories where sales teams stored data. Enter <strong>AI Agents</strong>: autonomous software entities that don't just store data, but act on it.</p>
+<p>Unlike traditional automation which follows rigid "if-this-then-that" rules, AI Agents use Large Language Models (LLMs) to understand context, reason through problems, and execute complex workflows.</p>
+<h3>What Can AI CRM Agents Do? (ماذا يمكن لوكلاء CRM بالذكاء الاصطناعي أن يفعلوا؟)</h3>
+<p><strong>1. Autonomous Lead Qualification</strong>
+Instead of a salesperson spending hours scouring LinkedIn, an AI Agent can:</p>
+<ul>
+<li><strong>Monitor</strong> social channels and news for buying signals (e.g., a company announcing expansion).</li>
+<li><strong>Research</strong> prospect companies using real-time web browsing.</li>
+<li><strong>Score</strong> leads based on fit and intent using advanced predictive models.</li>
+<li><strong>Draft &#x26; Send</strong> hyper-personalized outreach emails that reference specific news items about the prospect.</li>
+</ul>
+<p><strong>2. Intelligent Customer Support</strong>
+Agents go beyond standardized FAQs. They act as Tier-1 support engineers:</p>
+<ul>
+<li><strong>Troubleshoot</strong> complex technical issues by reading and synthesizing documentation.</li>
+<li><strong>Verify</strong> user identity and process refunds or upgrades within policy limits.</li>
+<li><strong>Escalate</strong> only truly novel issues to humans, complete with a summary of steps taken and a suggested solution.</li>
+</ul>
+<p><strong>3. Deal Management &#x26; Coaching</strong>
+Agents act as a 24/7 sales assistant and coach:</p>
+<ul>
+<li><strong>Remind</strong> reps to follow up when a prospect opens a proposal or hasn't replied in 3 days.</li>
+<li><strong>Update</strong> CRM records automatically after calls (voice-to-text summary + sentiment analysis).</li>
+<li><strong>Predict</strong> which deals are at risk of stalling and suggest intervention strategies based on historical data.</li>
+</ul>
+<h3>Real-World Examples (أمثلة واقعية)</h3>
+<h4>Scenario A: The "Agent Smith" Sales Rep</h4>
+<p>A potential client visits your pricing page three times in one week but doesn't sign up.</p>
+<ol>
+<li><strong>Detection:</strong> The AI Agent notices this behavioral signal via your analytics integration.</li>
+<li><strong>Enrichment:</strong> It checks the CRM, sees the email provided in a previous newsletter signup, and scrapes their LinkedIn profile to confirm they are a Decision Maker.</li>
+<li><strong>Reasoning:</strong> It determines the lead is "Hot" but hesitant.</li>
+<li><strong>Action:</strong> The Agent sends a personalized email: <em>"Hi John, noticed you're exploring our Enterprise plans. Since you're in the Fintech sector, I thought you'd be interested in how we helped [Competitor X] scale their security. Would a brief chat next Tuesday work?"</em></li>
+<li><strong>Result:</strong> John replies, and the Agent parses the natural language availability and books a meeting on the human rep's calendar.</li>
+</ol>
+<h4>Scenario B: The Support Sentinel</h4>
+<p>A customer emails: <em>"My dashboard isn't loading data from last month."</em></p>
+<ol>
+<li><strong>Diagnosis:</strong> The Agent logs into the system logs, checks the user's account ID, and sees a database timeout error occurred at the reported time.</li>
+<li><strong>Resolution:</strong> It checks the status page, confirms a known incident is resolved, and runs a quick data integrity check on the user's account.</li>
+<li><strong>Response:</strong> It replies: <em>"Hi Sarah, I've checked your account and confirmed this was due to a brief maintenance window. I've re-synced your dashboard, and the data is now visible. Please refresh your page. I'll stay on standby if you need more help."</em></li>
+<li><strong>Closure:</strong> Ticket resolved in 2 minutes without human intervention.</li>
+</ol>
+<h3>Why Integration Matters (لماذا يهم التكامل)</h3>
+<p>An AI Agent is only as good as the data it can access. At Smart Team, we build agents that connect deeply with your ecosystem:</p>
+<ul>
+<li><strong>ERP:</strong> To check inventory levels before promising delivery dates.</li>
+<li><strong>Email/Calendar:</strong> To manage communications and schedules.</li>
+<li><strong>Slack/Teams:</strong> To notify human staff instantly when high-value events occur.</li>
+</ul>
+<h3>Why Smart Team? (لماذا سمارت تيم؟)</h3>
+<p>At Smart Team, we don't just resell CRM software; we build intelligence into it. Our <strong>AI Agents Service</strong> is designed to transform your existing infrastructure into an autonomous growth engine. We use cutting-edge frameworks like <strong>LangChain</strong> and <strong>AutoGPT</strong>, customized for your specific business logic.</p>
+<p><a href="/en/services/ai-agents">Explore Our AI Agents Service</a></p>
+<blockquote>
+<p><strong>Ready to Automate Your Growth?</strong></p>
+<p>Don't let your CRM be a data graveyard. Let our AI Agents breathe life into your sales and support processes.</p>
+<p><a href="/en/contact">Get a Demo of AI Agents</a> | <a href="/en/services/ai-agents">Read More About AI Services</a></p>
+</blockquote>5:["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$d"}}]
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"Related reading"}],["$","ul",null,{"children":[["$","li","ai-agents-business-guide",{"children":["$","$L3",null,{"href":"/en/blog/ai-agents-business-guide","prefetch":false,"children":"AI Agents for Business: Beyond Basic Automation"}]}],["$","li","ai-agents-vs-chatbots-comparison",{"children":["$","$L3",null,{"href":"/en/blog/ai-agents-vs-chatbots-comparison","prefetch":false,"children":"AI agents and chatbots: tasks, tools and control"}]}],["$","li","physical-ai-robotics-2026",{"children":["$","$L3",null,{"href":"/en/blog/physical-ai-robotics-2026","prefetch":false,"children":"Physical AI: When Intelligence Meets the Real World"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/en/services","prefetch":false,"children":"Explore services"}]]}]
+7:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$L10",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

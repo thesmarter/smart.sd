@@ -1,0 +1,105 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+10:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+11:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T6f5,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/en/blog/embedded-finance-2026#webpage","url":"https://www.smart.sd/en/blog/embedded-finance-2026","name":"2026 Vision: Embedded Finance - Banking Without Banks","description":"Embedded finance adds financial services to another product through providers and integrations. Understand the operating model, permissions and reconciliation needs.","inLanguage":"en","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/en/blog/embedded-finance-2026#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/en/blog/embedded-finance-2026#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/en/blog/embedded-finance-2026#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.smart.sd/en"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.smart.sd/en/blog"},{"@type":"ListItem","position":3,"name":"2026 Vision: Embedded Finance - Banking Without Banks","item":"https://www.smart.sd/en/blog/embedded-finance-2026"}]},{"@id":"https://www.smart.sd/en/blog/embedded-finance-2026#entity","inLanguage":"en","@type":"BlogPosting","headline":"2026 Vision: Embedded Finance - Banking Without Banks","description":"Embedded finance adds financial services to another product through providers and integrations. Understand the operating model, permissions and reconciliation needs.","datePublished":"2025-12-15","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/en/blog/embedded-finance-2026","image":"https://www.smart.sd/blog/embedded-finance-2026-optimized.webp"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/en/blog","prefetch":false,"children":"Blog"}]}],["$","li","/blog/embedded-finance-2026",{"children":["$","span",null,{"aria-current":"page","children":"2026 Vision: Embedded Finance - Banking Without Banks"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Future technology"}],["$","time",null,{"dateTime":"2025-12-15","children":"December 15, 2025"}]]}],["$","h1",null,{"children":"2026 Vision: Embedded Finance - Banking Without Banks"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/en/about","prefetch":false,"children":"Prepared by the Smart Team editorial team"}],[" · ","Editorial review",": ",["$","time",null,{"dateTime":"2026-11-02","children":"November 2, 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"What does this article explain?"}],["$","p",null,{"children":"Embedded finance adds financial services to another product through providers and integrations. Understand the operating model, permissions and reconciliation needs."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/embedded-finance-2026-optimized.webp","alt":"2026 Vision: Embedded Finance - Banking Without Banks","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],"$L5",null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_pgeQ8kNhyQMNom7h4h5x"}
+d:Tf20,<h2>Finance Goes Invisible</h2>
+<p>By 2026, banking will become invisible. You won't need to open a banking app to access financial services—they'll be seamlessly woven into the apps you already use. This is <strong>Embedded Finance</strong>: the integration of financial services into non-financial platforms.</p>
+<h3>The Embedded Finance Revolution</h3>
+<p><strong>What's Changing:</strong></p>
+<ul>
+<li><strong>E-commerce:</strong> Buy now, pay later at checkout on any platform</li>
+<li><strong>Ride-sharing:</strong> Driver financing and instant payouts within the app</li>
+<li><strong>Healthcare:</strong> Patient payment plans embedded in medical portals</li>
+<li><strong>HR Software:</strong> Salary advances and benefits within payroll systems</li>
+</ul>
+<h3>Banking-as-a-Service (BaaS): The Engine Behind</h3>
+<p>BaaS platforms provide the infrastructure that enables any company to offer financial services through APIs:</p>
+<table>
+<thead>
+<tr>
+<th>Capability</th>
+<th>Traditional Approach</th>
+<th>BaaS in 2026</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Account Opening</td>
+<td>Branch visit required</td>
+<td>API call in seconds</td>
+</tr>
+<tr>
+<td>Lending</td>
+<td>Weeks of paperwork</td>
+<td>Instant decisioning</td>
+</tr>
+<tr>
+<td>Payments</td>
+<td>Bank integration</td>
+<td>Embedded in any app</td>
+</tr>
+<tr>
+<td>Compliance</td>
+<td>Internal teams</td>
+<td>Handled by BaaS provider</td>
+</tr>
+</tbody>
+</table>
+<h3>Market Projections for 2026</h3>
+<ul>
+<li><strong>Embedded Finance Market:</strong> $230+ billion globally</li>
+<li><strong>BaaS API Calls:</strong> 2 trillion+ annually</li>
+<li><strong>New Fintech Entrants:</strong> 50% using BaaS vs building own infrastructure</li>
+<li><strong>Consumer Preference:</strong> 75% prefer embedded financial services</li>
+</ul>
+<h3>Who Wins in Embedded Finance?</h3>
+<p><strong>For Businesses:</strong></p>
+<ul>
+<li>New revenue streams from financial services</li>
+<li>Higher customer engagement and retention</li>
+<li>Reduced friction in payment experiences</li>
+<li>Access to customer financial data insights</li>
+</ul>
+<p><strong>For Consumers:</strong></p>
+<ul>
+<li>Seamless payment experiences</li>
+<li>Contextual financial products (loans at point of need)</li>
+<li>Consolidated financial management</li>
+<li>Better rates through competition</li>
+</ul>
+<h3>Key Technologies Enabling This Future</h3>
+<ol>
+<li><strong>Open Banking APIs:</strong> Secure data sharing between institutions</li>
+<li><strong>Real-Time Payments:</strong> Instant money movement</li>
+<li><strong>AI Credit Scoring:</strong> Faster, more accurate lending decisions</li>
+<li><strong>Blockchain Settlement:</strong> Transparent, efficient transactions</li>
+</ol>
+<h3>Smart Team: Your Embedded Finance Partner</h3>
+<p><strong>سمارت تيم</strong> is at the forefront of embedded finance development. We build the bridges that connect businesses to modern financial infrastructure.</p>
+<p><strong>Our Embedded Finance Solutions:</strong></p>
+<p><strong>Custom Payment Integration</strong>
+We integrate payment capabilities into any platform—web, mobile, or enterprise. Accept local and international payments, crypto, and digital wallets.</p>
+<p><strong>Lending Platform Development</strong>
+Build your own lending products with our custom credit platforms. From BNPL solutions to microfinance applications.</p>
+<p><strong>Open Banking Connections</strong>
+Connect with banks and financial institutions through Lean Tech, SingleView, and other open banking providers.</p>
+<p><strong>Compliance-Ready Systems</strong>
+KYC, AML, and regulatory compliance built into every solution we deliver.</p>
+<blockquote>
+<p><strong>Transform your platform into a financial powerhouse</strong>
+<a href="/en/services?s=fintech-payment">Explore Fintech Development</a> | <a href="/en/contact">Schedule a Discovery Call</a></p>
+</blockquote>5:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$d"}}]]}]
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"Related reading"}],["$","ul",null,{"children":[["$","li","green-tech-sustainability-2026",{"children":["$","$L3",null,{"href":"/en/blog/green-tech-sustainability-2026","prefetch":false,"children":"Green Tech 2026: Sustainability in the Digital Age"}]}],["$","li","ai-agents-revolution-2026",{"children":["$","$L3",null,{"href":"/en/blog/ai-agents-revolution-2026","prefetch":false,"children":"2026 Vision: The Rise of AI Agents as Digital Employees"}]}],["$","li","composable-architecture-2026",{"children":["$","$L3",null,{"href":"/en/blog/composable-architecture-2026","prefetch":false,"children":"2026 Vision: The Composable Enterprise - Building Business Like LEGO"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/en/services","prefetch":false,"children":"Explore services"}]]}]
+7:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$L10",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

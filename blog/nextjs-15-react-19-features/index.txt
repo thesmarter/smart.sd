@@ -1,0 +1,414 @@
+1:"$Sreact.fragment"
+3:I[39756,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+6:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+e:I[53348,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0n-2i.hj9v09b.js"],"default"]
+:HL["/_next/static/chunks/0odh04soik34o.css","style"]
+:HL["/_next/static/chunks/0qenrobftlhw-.css","style"]
+:HL["/_next/static/media/9ff27b8a0a8f3dc0-s.p.170gfl_1xpie6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d41831e24743a3c1-s.p.02r-fjhi~6g_a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+0:{"P":null,"c":["","blog","nextjs-15-react-19-features",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","nextjs-15-react-19-features","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0odh04soik34o.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0qenrobftlhw-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0~82jkybqn1h8.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0a08zi_6aqxfs.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/07i~.d4axjz_q.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0odh04soik34o.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0qenrobftlhw-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"W4pMMQcotTdhPwZrO_qkO"}
+f:[]
+9:"$Wf"
+11:I[27443,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ThemeProvider"]
+12:I[17139,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"LanguageProvider"]
+13:I[80733,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+14:I[94539,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ThirdPartyScripts"]
+15:I[93983,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+16:I[8821,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0zquxebu1pj7o.js"],"default"]
+18:I[87392,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+10:T4f8,{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.smart.sd/#organization","name":"Smart Team IT","alternateName":["Smart Team","سمارت تيم"],"url":"https://www.smart.sd","logo":{"@type":"ImageObject","url":"https://www.smart.sd/logo-w.png","width":1143,"height":1206},"foundingDate":"2015","description":"سمارت تيم شركة برمجيات تعمل منذ 2015. نطوّر أنظمة ERP والمواقع وتطبيقات الجوال وحلول الدفع لأعمال في السودان والسعودية والإمارات.","email":"info@smart.sd","address":{"@type":"PostalAddress","addressLocality":"Khartoum","addressCountry":"SD"},"areaServed":["SD","SA","AE"],"contactPoint":{"@type":"ContactPoint","contactType":"sales","email":"info@smart.sd","url":"https://www.smart.sd/contact","areaServed":["SD","SA","AE"],"availableLanguage":["Arabic","English"]},"sameAs":["https://www.facebook.com/SmartTeamSd","https://x.com/smart_team_sd","https://www.linkedin.com/company/thesmart-team/"]},{"@type":"WebSite","@id":"https://www.smart.sd/#website","url":"https://www.smart.sd","name":"Smart Team","alternateName":"سمارت تيم","inLanguage":["ar","en"],"publisher":{"@id":"https://www.smart.sd/#organization"}}]}2:["$","html",null,{"lang":"ar","dir":"rtl","className":"cairo_883b24e3-module__pW5XIG__variable montserrat_b2573e6e-module__vkGO5a__variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('theme');var t=s==='light'||s==='dark'?s:matchMedia('(prefers-color-scheme:light)').matches?'light':'dark';document.documentElement.dataset.theme=t;document.documentElement.classList.toggle('dark',t==='dark');var m=document.querySelector('meta[name=\"theme-color\"]');if(m)m.content=t==='dark'?'#101b2b':'#f3f6fa';}catch(e){}})();window.dataLayer=window.dataLayer||[];window.gtag=function(){window.dataLayer.push(arguments)};window.gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$10"}}]]}],["$","body",null,{"className":"antialiased bg-background text-text-main","children":["$","$L11",null,{"children":["$","$L12",null,{"initialLang":"ar","children":[["$","$L13",null,{}],["$","$L14",null,{}],null,["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L15",null,{}],["$","main",null,{"id":"main-content","className":"flex-grow","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$16","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/0zquxebu1pj7o.js","async":true}]],"template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L17",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L18",null,{}]]}]]}]}]}]]}]
+19:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+17:["$","div",null,{"className":"studio-container status-page","children":[["$","p",null,{"className":"status-code","aria-hidden":"true","children":"404"}],["$","h1",null,{"children":"الصفحة غير موجودة"}],["$","p",null,{"children":"تحقّق من الرابط، أو انتقل إلى الخدمات للعثور على الصفحة التي تحتاجها."}],["$","div",null,{"className":"status-actions","children":[["$","$L19",null,{"href":"/","className":"button button-primary","prefetch":false,"children":"الرئيسية"}],["$","$L19",null,{"href":"/services","className":"button button-secondary","prefetch":false,"children":"استكشف الخدمات"}]]}]]}]
+1b:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+1a:T7fa,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/nextjs-15-react-19-features#webpage","url":"https://www.smart.sd/blog/nextjs-15-react-19-features","name":"Next.js 15 و React 19: ميزات ثورية لتطوير الويب الحديث","description":"راجع تغييرات Next.js 15 وReact 19، ومنها واجهات الطلب غير المتزامنة والتخزين المؤقت. ارجع إلى توثيق الإصدار المستخدم عند التخطيط للترقية.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/nextjs-15-react-19-features#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/nextjs-15-react-19-features#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/nextjs-15-react-19-features#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"Next.js 15 و React 19: ميزات ثورية لتطوير الويب الحديث","item":"https://www.smart.sd/blog/nextjs-15-react-19-features"}]},{"@id":"https://www.smart.sd/blog/nextjs-15-react-19-features#entity","inLanguage":"ar","@type":"BlogPosting","headline":"Next.js 15 و React 19: ميزات ثورية لتطوير الويب الحديث","description":"راجع تغييرات Next.js 15 وReact 19، ومنها واجهات الطلب غير المتزامنة والتخزين المؤقت. ارجع إلى توثيق الإصدار المستخدم عند التخطيط للترقية.","datePublished":"2026-01-14","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/nextjs-15-react-19-features","image":"https://www.smart.sd/blog/nextjs_react_2026_cover.png"}]}1c:T8498,<h2>مقدمة</h2>
+<p>شهد نظام تطوير الويب تحولاً كبيراً مع إصدار Next.js 15 و React 19 في عام 2026. تمثل هذه الإصدارات تتويجاً لسنوات من البحث والتطوير والتغذية الراجعة الواقعية من ملايين المطورين حول العالم. أنتج التعاون بين Vercel وفريق React مجموعة من الميزات التي تغير بشكل أساسي كيف يبني المطورون تطبيقات الويب، مما يجعلها أسرع وأكثر كفاءة وأسهل في الصيانة. يستكشف هذا الدليل الشامل أهم الميزات وتطبيقاتها العملية وكيف يمكنها تحويل سير عمل التطوير الخاص بك.</p>
+<p>رسخ Next.js نفسه كإطار React الأول لتطبيقات الإنتاج، حيث يدير بعضاً من أكبر مواقع الويب في العالم بما في ذلك TikTok و Netflix و Twitch. نهج الإطار الواضح في التوجيه والعرض والتحسين جعله الخيار المفضل للمطورين الذين يسعون لبناء تطبيقات عالية الأداء دون إدارة بنية تحتية معقدة. React 19، الذي صدر جنباً إلى جنب مع Next.js 15، يقدم مكونات الخادم كميزة مستقرة، مما يغير بشكل أساسي النموذج الذهني لتطوير React ويمكّن أنماطاً جديدة لجلب البيانات والعرض.</p>
+<h3>لماذا هذه الإصدارات مهمة</h3>
+<p>تتناول إصدارات 2026 عدة تحديات طويلة الأمد في تطوير الويب. ناضل المطورون مع تكوينات البناء المعقدة، وسلوك التخزين المؤقت غير المتوقع، والعبء الذهني لإدارة حالة العميل والخادم بشكل منفصل. يوفر Next.js 15 و React 19 حلاً أنيقاً لهذه المشكلات مع الحفاظ على التوافق مع الإصدارات السابقة حيثما أمكن. تقديم واجهات برمجة التطبيقات للطلبات غير المتزامنة يبسط جلب البيانات، بينما توفر التحسينات على App Router سلوك عرض أكثر قابلية للتنبؤ. هذه التغييرات تقلل الكود المعياري، وتحسن تجربة المطور، وتؤدي في النهاية إلى تطبيقات أفضل للمستخدمين النهائيين.</p>
+<h2>React 19: حقبة جديدة</h2>
+<p>يمثل React 19 التحديث الأكثر أهمية منذ إدخال Hooks في عام 2018. يثبت الإصدار عدة ميزات تجريبية ويقدم قدرات جديدة لم تكن ممكنة سابقاً إلا مع مكتبات الطرف الثالث. فهم هذه التغييرات ضروري للمطورين الذين يتطلعون لتحديث تطبيقاتهم والاستفادة الكاملة من أحدث قدرات نظام React.</p>
+<h3>مكونات الخادم أصبحت مستقرة</h3>
+<p>مكونات الخادم، التي قدمت لأول كميزة تجريبية، أصبحت جاهزة للإنتاج في React 19. يسمح هذا التحول في النموذج للمطورين بكتابة مكونات تنفذ فقط على الخادم، مما يقلل حجم حزمة JavaScript المرسلة للعملاء ويمكّن الوصول المباشر لقاعدة البيانات داخل المكونات. تزيل مكونات الخادم الخط الفاصل بين تطوير الواجهة الأمامية والخلفية، مما يسمح للمطورين باستخدام نفس نموذج المكون لكل من منطق العميل والخادم:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-comment">// مكون خادم - يعمل فقط على الخادم</span>
+<span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">ProductDetails</span>(<span class="hljs-params">{ productId }</span>) {
+  <span class="hljs-comment">// وصول مباشر لقاعدة البيانات - لا حاجة لـ API</span>
+  <span class="hljs-keyword">const</span> product = <span class="hljs-keyword">await</span> db.<span class="hljs-property">products</span>.<span class="hljs-title function_">findUnique</span>({
+    <span class="hljs-attr">where</span>: { <span class="hljs-attr">id</span>: productId }
+  });
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>{product.name}<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">p</span>></span>السعر: ${product.price}<span class="hljs-tag">&#x3C;/<span class="hljs-name">p</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">p</span>></span>المخزون: {product.stock} وحدة<span class="hljs-tag">&#x3C;/<span class="hljs-name">p</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>
+  );
+}
+
+<span class="hljs-comment">// مكون عميل - ميزات تفاعلية</span>
+<span class="hljs-string">'use client'</span>;
+
+<span class="hljs-keyword">import</span> { useState } <span class="hljs-keyword">from</span> <span class="hljs-string">'react'</span>;
+
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">AddToCartButton</span>(<span class="hljs-params">{ productId }</span>) {
+  <span class="hljs-keyword">const</span> [quantity, setQuantity] = <span class="hljs-title function_">useState</span>(<span class="hljs-number">1</span>);
+  
+  <span class="hljs-keyword">const</span> <span class="hljs-title function_">handleAddToCart</span> = <span class="hljs-keyword">async</span> (<span class="hljs-params"></span>) => {
+    <span class="hljs-keyword">await</span> <span class="hljs-title function_">fetch</span>(<span class="hljs-string">'/api/cart'</span>, {
+      <span class="hljs-attr">method</span>: <span class="hljs-string">'POST'</span>,
+      <span class="hljs-attr">body</span>: <span class="hljs-title class_">JSON</span>.<span class="hljs-title function_">stringify</span>({ productId, quantity })
+    });
+  };
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">button</span> <span class="hljs-attr">onClick</span>=<span class="hljs-string">{handleAddToCart}</span>></span>
+      أضف {quantity} للسلة
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">button</span>></span></span>
+  );
+}
+</code></pre>
+<h3>خطاف جديد: use()</h3>
+<p>يقدم React 19 خطافاً جديداً يسمى <code>use()</code> يبسط قراءة الموارد في المكونات. يمكن لهذا الخطاف قراءة الوعود والسياق، مما يجعل من الأسهل التعامل مع البيانات غير المتزامنة بطريقة تصريحية. يمثل الخطاف <code>use()</code> تحسناً كبيراً على الأنماط التقليدية للتعامل مع البيانات غير المتزامنة:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-keyword">function</span> <span class="hljs-title function_">UserProfile</span>(<span class="hljs-params">{ userId }</span>) {
+  <span class="hljs-comment">// use() يمكن أن تنتظر حتى يُحل الوعد</span>
+  <span class="hljs-keyword">const</span> user = <span class="hljs-title function_">use</span>(<span class="hljs-title function_">fetchUser</span>(userId));
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>{user.name}<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">p</span>></span>{user.email}<span class="hljs-tag">&#x3C;/<span class="hljs-name">p</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>
+  );
+}
+
+<span class="hljs-comment">// يعمل مع السياق أيضاً</span>
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">ThemeToggle</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">const</span> theme = <span class="hljs-title function_">use</span>(<span class="hljs-title class_">ThemeContext</span>);
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">button</span> <span class="hljs-attr">onClick</span>=<span class="hljs-string">{theme.toggle}</span>></span>
+      الحالي: {theme.mode}
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">button</span>></span></span>
+  );
+}
+</code></pre>
+<h3>الإجراءات ومعالجة النماذج</h3>
+<p>يقدم React 19 الإجراءات (Actions)، نمط جديد للتعامل مع إرسال النماذج والعمليات غير المتزامنة. تبسط الإجراءات النمط الشائع لإرسال النماذج والتعامل مع حالات التحميل والأخطاء ورسائل النجاح. تزيل هذه الميزة الكثير من الكود المعياري المرتبط تقليدياً بمعالجة النماذج:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-comment">// إجراء خادم - يعمل على الخادم</span>
+<span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">submitContactForm</span>(<span class="hljs-params">formData</span>) {
+  <span class="hljs-string">'use server'</span>;
+  
+  <span class="hljs-keyword">const</span> name = formData.<span class="hljs-title function_">get</span>(<span class="hljs-string">'name'</span>);
+  <span class="hljs-keyword">const</span> email = formData.<span class="hljs-title function_">get</span>(<span class="hljs-string">'email'</span>);
+  <span class="hljs-keyword">const</span> message = formData.<span class="hljs-title function_">get</span>(<span class="hljs-string">'message'</span>);
+  
+  <span class="hljs-comment">// الحفظ في قاعدة البيانات</span>
+  <span class="hljs-keyword">await</span> db.<span class="hljs-property">contacts</span>.<span class="hljs-title function_">create</span>({
+    <span class="hljs-attr">data</span>: { name, email, message }
+  });
+  
+  <span class="hljs-comment">// إرسال بريد إلكتروني للإشعار</span>
+  <span class="hljs-keyword">await</span> <span class="hljs-title function_">sendEmail</span>({ <span class="hljs-attr">to</span>: email, <span class="hljs-attr">template</span>: <span class="hljs-string">'contact-received'</span> });
+}
+
+<span class="hljs-comment">// مكون النموذج مع الإجراء</span>
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">ContactForm</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">const</span> [state, formAction, isPending] = <span class="hljs-title function_">useActionState</span>(
+    submitContactForm,
+    { <span class="hljs-attr">success</span>: <span class="hljs-literal">false</span> }
+  );
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">form</span> <span class="hljs-attr">action</span>=<span class="hljs-string">{formAction}</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">input</span> <span class="hljs-attr">name</span>=<span class="hljs-string">"name"</span> <span class="hljs-attr">required</span> /></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">input</span> <span class="hljs-attr">name</span>=<span class="hljs-string">"email"</span> <span class="hljs-attr">type</span>=<span class="hljs-string">"email"</span> <span class="hljs-attr">required</span> /></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">textarea</span> <span class="hljs-attr">name</span>=<span class="hljs-string">"message"</span> <span class="hljs-attr">required</span> /></span>
+      
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">button</span> <span class="hljs-attr">type</span>=<span class="hljs-string">"submit"</span> <span class="hljs-attr">disabled</span>=<span class="hljs-string">{isPending}</span>></span>
+        {isPending ? 'جارٍ الإرسال...' : 'إرسال الرسالة'}
+      <span class="hljs-tag">&#x3C;/<span class="hljs-name">button</span>></span>
+      
+      {state.success &#x26;&#x26; (
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">p</span> <span class="hljs-attr">className</span>=<span class="hljs-string">"success"</span>></span>تم إرسال الرسالة بنجاح!<span class="hljs-tag">&#x3C;/<span class="hljs-name">p</span>></span>
+      )}
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">form</span>></span></span>
+  );
+}
+</code></pre>
+<h2>الميزات الرئيسية لـ Next.js 15</h2>
+<p>يبني Next.js 15 على أساس React 19 بميزات خاصة بالإطار تعزز تجربة المطور وأداء التطبيق. يركز الإصدار على ثلاث مجالات رئيسية: تحسينات التحكم في التخزين المؤقت، وواجهات برمجة التطبيقات غير المتزامنة، وأداء البناء من خلال استقرار Turbopack.</p>
+<h3>Turbopack يصل للاستقرار</h3>
+<p>Turbopack، الخليفة المستند إلى Rust لـ Webpack، أصبح مستقراً وجاهزاً للاستخدام في الإنتاج في Next.js 15. مكتوب بلغة Rust، يوفر Turbopack أوقات بناء أسرع بكثير مقارنة بـ Webpack، مع بدء تشغيل بارد أسرع بـ 700 مرة واستبدال الوحدة السريع أسرع بـ 10 مرات. معلمة الاستقرار تعني أن المطورين يمكنهم استخدام Turbopack بثقة في بيئات الإنتاج:</p>
+<pre><code class="hljs language-javascript"><span class="hljs-comment">// next.config.js</span>
+<span class="hljs-variable language_">module</span>.<span class="hljs-property">exports</span> = {
+  <span class="hljs-comment">// تفعيل Turbopack (مستقر الآن في Next.js 15)</span>
+  <span class="hljs-attr">experimental</span>: {
+    <span class="hljs-attr">turbo</span>: {
+      <span class="hljs-attr">rules</span>: {
+        <span class="hljs-string">'*.svg'</span>: {
+          <span class="hljs-attr">loaders</span>: [<span class="hljs-string">'@svgr/webpack'</span>],
+          <span class="hljs-attr">as</span>: <span class="hljs-string">'*.js'</span>,
+        },
+      },
+    },
+  },
+};
+</code></pre>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># تشغيل التطوير مع Turbopack</span>
+next dev --turbo
+
+<span class="hljs-comment"># Turbopack يُستخدم أيضاً في البناء</span>
+next build --turbo
+</code></pre>
+<h3>واجهات برمجة التطبيقات للطلبات غير المتزامنة</h3>
+<p>يقدم Next.js 15 نسخاً غير متزامنة من واجهات برمجة التطبيقات الخاصة بالطلبات، مما يوفر طريقة أكثر بديهية للوصول إلى بيانات الطلب. أصبحت واجهات <code>cookies()</code> و <code>headers()</code> و <code>params</code> غير متزامنة الآن، مما يتماشى مع أنماط مكونات الخادم في React 19:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-comment">// قبل (Next.js 14)</span>
+<span class="hljs-keyword">import</span> { cookies } <span class="hljs-keyword">from</span> <span class="hljs-string">'next/headers'</span>;
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">Page</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">const</span> cookieStore = <span class="hljs-title function_">cookies</span>();
+  <span class="hljs-keyword">const</span> token = cookieStore.<span class="hljs-title function_">get</span>(<span class="hljs-string">'token'</span>);
+  <span class="hljs-comment">// ...</span>
+}
+
+<span class="hljs-comment">// بعد (Next.js 15)</span>
+<span class="hljs-keyword">import</span> { cookies } <span class="hljs-keyword">from</span> <span class="hljs-string">'next/headers'</span>;
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">Page</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">const</span> cookieStore = <span class="hljs-keyword">await</span> <span class="hljs-title function_">cookies</span>();
+  <span class="hljs-keyword">const</span> token = cookieStore.<span class="hljs-title function_">get</span>(<span class="hljs-string">'token'</span>);
+  
+  <span class="hljs-comment">// الآن يمكنك استخدام واجهات برمجة التطبيقات الديناميكية مع async/await</span>
+  <span class="hljs-keyword">const</span> session = <span class="hljs-keyword">await</span> <span class="hljs-title function_">getSession</span>(token);
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>مرحباً، {session.user.name}<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>
+  );
+}
+</code></pre>
+<h3>تحسينات التحكم في التخزين المؤقت</h3>
+<p>صقل Next.js 15 سلوك التخزين المؤقت ليكون أكثر قابلية للتنبؤ والتحكم. أصبحت واجهة برمجة التطبيقات <code>unstable_cache</code> مستقرة، وتم تعديل سلوكيات التخزين المؤقت الافتراضية لتقليل حالات فقدان التخزين المؤقت المفاجئة:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-keyword">import</span> { unstable_cache } <span class="hljs-keyword">from</span> <span class="hljs-string">'next/cache'</span>;
+
+<span class="hljs-comment">// تخزين مؤقت لدالة جلب البيانات</span>
+<span class="hljs-keyword">const</span> getCachedProducts = <span class="hljs-title function_">unstable_cache</span>(
+  <span class="hljs-title function_">async</span> () => {
+    <span class="hljs-keyword">const</span> products = <span class="hljs-keyword">await</span> db.<span class="hljs-property">products</span>.<span class="hljs-title function_">findMany</span>();
+    <span class="hljs-keyword">return</span> products;
+  },
+  [<span class="hljs-string">'products'</span>], <span class="hljs-comment">// مفتاح التخزين المؤقت</span>
+  {
+    <span class="hljs-attr">revalidate</span>: <span class="hljs-number">3600</span>, <span class="hljs-comment">// إعادة التحقق كل ساعة</span>
+    <span class="hljs-attr">tags</span>: [<span class="hljs-string">'products'</span>], <span class="hljs-comment">// وسم لإعادة التحقق عند الطلب</span>
+  }
+);
+
+<span class="hljs-comment">// الاستخدام في مكون خادم</span>
+<span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">ProductList</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">const</span> products = <span class="hljs-keyword">await</span> <span class="hljs-title function_">getCachedProducts</span>();
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">ul</span>></span>
+      {products.map(product => (
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">li</span> <span class="hljs-attr">key</span>=<span class="hljs-string">{product.id}</span>></span>{product.name}<span class="hljs-tag">&#x3C;/<span class="hljs-name">li</span>></span>
+      ))}
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">ul</span>></span></span>
+  );
+}
+
+<span class="hljs-comment">// إعادة التحقق عند الطلب</span>
+<span class="hljs-keyword">import</span> { revalidateTag } <span class="hljs-keyword">from</span> <span class="hljs-string">'next/cache'</span>;
+
+<span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">updateProduct</span>(<span class="hljs-params">id, data</span>) {
+  <span class="hljs-keyword">await</span> db.<span class="hljs-property">products</span>.<span class="hljs-title function_">update</span>({ <span class="hljs-attr">where</span>: { id }, data });
+  
+  <span class="hljs-comment">// إبطال ذاكرة المنتجات المؤقتة</span>
+  <span class="hljs-title function_">revalidateTag</span>(<span class="hljs-string">'products'</span>);
+}
+</code></pre>
+<h2>استراتيجيات العرض في 2026</h2>
+<p>يوفر Next.js 15 و React 19 للمطورين مجموعة أدوات شاملة من استراتيجيات العرض. فهم متى تستخدم كل استراتيجية أمر حاسم لبناء تطبيقات عالية الأداء تلبي متطلبات تجربة المستخدم وتحسين محركات البحث.</p>
+<h3>التوليد الثابت للمواقع (SSG)</h3>
+<p>يظل SSG الخيار الأمثل للمحتوى الذي لا يتغير كثيراً. تُولد الصفحات وقت البناء، مما يوفر أسرع أوقات تحميل ممكنة:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-comment">// app/blog/[slug]/page.js</span>
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">generateStaticParams</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">const</span> posts = <span class="hljs-keyword">await</span> <span class="hljs-title function_">getAllBlogPosts</span>();
+  
+  <span class="hljs-keyword">return</span> posts.<span class="hljs-title function_">map</span>(<span class="hljs-function"><span class="hljs-params">post</span> =></span> ({
+    <span class="hljs-attr">slug</span>: post.<span class="hljs-property">slug</span>,
+  }));
+}
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">BlogPost</span>(<span class="hljs-params">{ params }</span>) {
+  <span class="hljs-keyword">const</span> { slug } = <span class="hljs-keyword">await</span> params;
+  <span class="hljs-keyword">const</span> post = <span class="hljs-keyword">await</span> <span class="hljs-title function_">getPost</span>(slug);
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">article</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>{post.title}<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">div</span> <span class="hljs-attr">dangerouslySetInnerHTML</span>=<span class="hljs-string">{{</span> <span class="hljs-attr">__html:</span> <span class="hljs-attr">post.content</span> }} /></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">article</span>></span></span>
+  );
+}
+</code></pre>
+<h3>العرض من جانب الخادم (SSR)</h3>
+<p>SSR مثالي للمحتوى المخصص أو الصفحات التي تحتاج بيانات جديدة في كل طلب:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-comment">// app/dashboard/page.js</span>
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">const</span> dynamic = <span class="hljs-string">'force-dynamic'</span>;
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">Dashboard</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">const</span> session = <span class="hljs-keyword">await</span> <span class="hljs-title function_">getSession</span>();
+  <span class="hljs-keyword">const</span> data = <span class="hljs-keyword">await</span> <span class="hljs-title function_">fetchDashboardData</span>(session.<span class="hljs-property">user</span>.<span class="hljs-property">id</span>);
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>مرحباً، {session.user.name}<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">DashboardMetrics</span> <span class="hljs-attr">data</span>=<span class="hljs-string">{data}</span> /></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>
+  );
+}
+</code></pre>
+<h3>إعادة التوليد الثابت التزايدي (ISR)</h3>
+<p>يوفر ISR أفضل العالمين: أداء ثابت مع تحديثات ديناميكية:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-comment">// app/products/[id]/page.js</span>
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">const</span> revalidate = <span class="hljs-number">3600</span>; <span class="hljs-comment">// إعادة التحقق كل ساعة</span>
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">ProductPage</span>(<span class="hljs-params">{ params }</span>) {
+  <span class="hljs-keyword">const</span> { id } = <span class="hljs-keyword">await</span> params;
+  <span class="hljs-keyword">const</span> product = <span class="hljs-keyword">await</span> <span class="hljs-title function_">getProduct</span>(id);
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>{product.name}<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">p</span>></span>السعر: ${product.price}<span class="hljs-tag">&#x3C;/<span class="hljs-name">p</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>
+  );
+}
+</code></pre>
+<h3>جدول المقارنة</h3>
+<table>
+<thead>
+<tr>
+<th>الاستراتيجية</th>
+<th>وقت البناء</th>
+<th>وقت الطلب</th>
+<th>حالة الاستخدام</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SSG</td>
+<td>ثابت</td>
+<td>-</td>
+<td>المدونات، الوثائق، التسويق</td>
+</tr>
+<tr>
+<td>SSR</td>
+<td>-</td>
+<td>ديناميكي</td>
+<td>لوحات التحكم، الملفات الشخصية</td>
+</tr>
+<tr>
+<td>ISR</td>
+<td>ثابت + تحديثات</td>
+<td>-</td>
+<td>التجارة الإلكترونية، الأخبار</td>
+</tr>
+<tr>
+<td>CSR</td>
+<td>-</td>
+<td>جانب العميل</td>
+<td>التطبيقات التفاعلية</td>
+</tr>
+</tbody>
+</table>
+<h2>دليل الترقية</h2>
+<p>يتطلب الانتقال إلى Next.js 15 و React 19 الانتباه لعدة تغييرات جوهرية وأنماط جديدة. يحدد الدليل التالي خطوات الترقية والاعتبارات الرئيسية.</p>
+<h3>التغييرات الجوهرية الرئيسية</h3>
+<ol>
+<li>
+<p><strong>واجهات برمجة التطبيقات للطلبات غير المتزامنة</strong>: دوال <code>cookies()</code> و <code>headers()</code> و <code>params</code> تعيد الآن وعوداً ويجب انتظارها.</p>
+</li>
+<li>
+<p><strong>تغييرات التخزين المؤقت الافتراضية</strong>: طلبات fetch GET لم تعد مخزنة مؤقتاً افتراضياً. يجب الانضمام صراحة للتخزين المؤقت.</p>
+</li>
+<li>
+<p><strong>الحد الأدنى لإصدار Node.js</strong>: يتطلب Next.js 15 Node.js 18.18 أو أحدث.</p>
+</li>
+</ol>
+<h3>خطوات الترقية</h3>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># تحديث package.json</span>
+npm install next@15 react@19 react-dom@19
+
+<span class="hljs-comment"># أو مع yarn</span>
+yarn add next@15 react@19 react-dom@19
+</code></pre>
+<pre><code class="hljs language-javascript"><span class="hljs-comment">// تحديث استخدام واجهات برمجة التطبيقات غير المتزامنة</span>
+<span class="hljs-comment">// قبل</span>
+<span class="hljs-keyword">import</span> { cookies } <span class="hljs-keyword">from</span> <span class="hljs-string">'next/headers'</span>;
+<span class="hljs-keyword">const</span> token = <span class="hljs-title function_">cookies</span>().<span class="hljs-title function_">get</span>(<span class="hljs-string">'token'</span>);
+
+<span class="hljs-comment">// بعد</span>
+<span class="hljs-keyword">import</span> { cookies } <span class="hljs-keyword">from</span> <span class="hljs-string">'next/headers'</span>;
+<span class="hljs-keyword">const</span> token = (<span class="hljs-keyword">await</span> <span class="hljs-title function_">cookies</span>()).<span class="hljs-title function_">get</span>(<span class="hljs-string">'token'</span>);
+</code></pre>
+<h2>أفضل ممارسات الأداء</h2>
+<p>تحقيق أقصى استفادة من فوائد أداء Next.js 15 و React 19 يتطلب اتباع أفضل الممارسات الراسخة لجلب البيانات والتخزين المؤقت وتصميم المكونات.</p>
+<h3>تحسين الصور</h3>
+<pre><code class="hljs language-jsx"><span class="hljs-keyword">import</span> <span class="hljs-title class_">Image</span> <span class="hljs-keyword">from</span> <span class="hljs-string">'next/image'</span>;
+
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">ProductImage</span>(<span class="hljs-params">{ src, alt }</span>) {
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">Image</span>
+      <span class="hljs-attr">src</span>=<span class="hljs-string">{src}</span>
+      <span class="hljs-attr">alt</span>=<span class="hljs-string">{alt}</span>
+      <span class="hljs-attr">width</span>=<span class="hljs-string">{500}</span>
+      <span class="hljs-attr">height</span>=<span class="hljs-string">{500}</span>
+      <span class="hljs-attr">priority</span> // <span class="hljs-attr">تحميل</span> <span class="hljs-attr">فوري</span> <span class="hljs-attr">للمحتوى</span> <span class="hljs-attr">فوق</span> <span class="hljs-attr">الطي</span>
+      <span class="hljs-attr">placeholder</span>=<span class="hljs-string">"blur"</span>
+      <span class="hljs-attr">blurDataURL</span>=<span class="hljs-string">"data:image/jpeg;base64,/9j/4AAQ..."</span>
+    /></span></span>
+  );
+}
+</code></pre>
+<h3>تحسين الخطوط</h3>
+<pre><code class="hljs language-jsx"><span class="hljs-keyword">import</span> { <span class="hljs-title class_">Inter</span> } <span class="hljs-keyword">from</span> <span class="hljs-string">'next/font/google'</span>;
+
+<span class="hljs-keyword">const</span> inter = <span class="hljs-title class_">Inter</span>({
+  <span class="hljs-attr">subsets</span>: [<span class="hljs-string">'latin'</span>],
+  <span class="hljs-attr">display</span>: <span class="hljs-string">'swap'</span>,
+  <span class="hljs-attr">variable</span>: <span class="hljs-string">'--font-inter'</span>,
+});
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">RootLayout</span>(<span class="hljs-params">{ children }</span>) {
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">html</span> <span class="hljs-attr">lang</span>=<span class="hljs-string">"ar"</span> <span class="hljs-attr">className</span>=<span class="hljs-string">{inter.variable}</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">body</span> <span class="hljs-attr">className</span>=<span class="hljs-string">{inter.className}</span>></span>{children}<span class="hljs-tag">&#x3C;/<span class="hljs-name">body</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">html</span>></span></span>
+  );
+}
+</code></pre>
+<blockquote>
+<p><strong>هل أنت مستعد لترقية تطبيقك؟</strong></p>
+<p>فريقنا متخصص في ترحيل التطبيقات لأحدث إصدارات Next.js و React. نضمن انتقالات سلسة مع الحد الأدنى من التوقف عن العمل وأقصى مكاسب في الأداء.</p>
+<p><a href="/contact">تواصل معنا</a> | <a href="/services/web-development">خدمات التطوير</a></p>
+</blockquote>5:[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1a"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L19",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L19",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/nextjs-15-react-19-features",{"children":["$","span",null,{"aria-current":"page","children":"Next.js 15 و React 19: ميزات ثورية لتطوير الويب الحديث"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"التطوير"}],["$","time",null,{"dateTime":"2026-01-14","children":"14 يناير 2026"}]]}],["$","h1",null,{"children":"Next.js 15 و React 19: ميزات ثورية لتطوير الويب الحديث"}],["$","p",null,{"className":"article-author","children":[["$","$L19",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"راجع تغييرات Next.js 15 وReact 19، ومنها واجهات الطلب غير المتزامنة والتخزين المؤقت. ارجع إلى توثيق الإصدار المستخدم عند التخطيط للترقية."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L1b",null,{"src":"/blog/nextjs_react_2026_cover.png","alt":"Next.js 15 و React 19: ميزات ثورية لتطوير الويب الحديث","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$1c"}}]]}],"$L1d","$L1e","$L1f","$L20","$L21"]}]}]]
+22:I[73855,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+23:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+24:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+25:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+1d:["$","$L22",null,{}]
+1e:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","flutter-mvp-development-2026",{"children":["$","$L19",null,{"href":"/blog/flutter-mvp-development-2026","prefetch":false,"children":"تخطيط الإصدار الأول من تطبيق الجوال باستخدام Flutter"}]}],["$","li","smart-ecommerce-vs-shopify-comparison",{"children":["$","$L19",null,{"href":"/blog/smart-ecommerce-vs-shopify-comparison","prefetch":false,"children":"التجارة الإلكترونية المخصصة وShopify: اختيار المنصة"}]}],["$","li","nextjs-vs-wordpress-comparison",{"children":["$","$L19",null,{"href":"/blog/nextjs-vs-wordpress-comparison","prefetch":false,"children":"Next.js وWordPress: احتياجات التطوير والنشر"}]}]]}],["$","$L19",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+1f:["$","$L23",null,{"publisherId":"ca-pub-2312883254868411"}]
+20:["$","$L24",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+21:["$","$L25",null,{}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#101b2b"}]]
+26:I[27201,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Next.js 15 و React 19: ميزات ثورية لتطوير الويب الحديث | سمارت تيم"}],["$","meta","1",{"name":"description","content":"راجع تغييرات Next.js 15 وReact 19، ومنها واجهات الطلب غير المتزامنة والتخزين المؤقت. ارجع إلى توثيق الإصدار المستخدم عند التخطيط للترقية."}],["$","link","2",{"rel":"author","href":"https://www.smart.sd/about"}],["$","meta","3",{"name":"author","content":"Smart Team"}],["$","link","4",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","5",{"name":"creator","content":"Smart Team IT"}],["$","meta","6",{"name":"publisher","content":"Smart Team IT"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","9",{"name":"google-adsense-account","content":"ca-pub-2312883254868411"}],["$","link","10",{"rel":"canonical","href":"https://www.smart.sd/blog/nextjs-15-react-19-features/"}],["$","link","11",{"rel":"alternate","hrefLang":"ar","href":"https://www.smart.sd/blog/nextjs-15-react-19-features/"}],["$","link","12",{"rel":"alternate","hrefLang":"en","href":"https://www.smart.sd/en/blog/nextjs-15-react-19-features/"}],["$","link","13",{"rel":"alternate","hrefLang":"x-default","href":"https://www.smart.sd/blog/nextjs-15-react-19-features/"}],["$","link","14",{"rel":"alternate","type":"application/rss+xml","href":"https://www.smart.sd/feed.xml"}],["$","meta","15",{"property":"og:title","content":"Next.js 15 و React 19: ميزات ثورية لتطوير الويب الحديث | سمارت تيم"}],["$","meta","16",{"property":"og:description","content":"راجع تغييرات Next.js 15 وReact 19، ومنها واجهات الطلب غير المتزامنة والتخزين المؤقت. ارجع إلى توثيق الإصدار المستخدم عند التخطيط للترقية."}],["$","meta","17",{"property":"og:url","content":"https://www.smart.sd/blog/nextjs-15-react-19-features/"}],["$","meta","18",{"property":"og:site_name","content":"Smart Team"}],["$","meta","19",{"property":"og:locale","content":"ar_SD"}],["$","meta","20",{"property":"og:image","content":"https://www.smart.sd/blog/nextjs_react_2026_cover.png"}],["$","meta","21",{"property":"og:image:alt","content":"Next.js 15 و React 19: ميزات ثورية لتطوير الويب الحديث"}],["$","meta","22",{"property":"og:locale:alternate","content":"en_US"}],["$","meta","23",{"property":"og:type","content":"article"}],["$","meta","24",{"property":"article:published_time","content":"2026-01-14"}],["$","meta","25",{"property":"article:modified_time","content":"2026-11-02"}],["$","meta","26",{"property":"article:author","content":"Smart Team"}],["$","meta","27",{"property":"article:tag","content":"Development"}],["$","meta","28",{"property":"article:tag","content":"React"}],["$","meta","29",{"property":"article:tag","content":"Next.js"}],["$","meta","30",{"property":"article:tag","content":"JavaScript"}],["$","meta","31",{"property":"article:tag","content":"Web"}],["$","meta","32",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","33",{"name":"twitter:title","content":"Next.js 15 و React 19: ميزات ثورية لتطوير الويب الحديث | سمارت تيم"}],["$","meta","34",{"name":"twitter:description","content":"راجع تغييرات Next.js 15 وReact 19، ومنها واجهات الطلب غير المتزامنة والتخزين المؤقت. ارجع إلى توثيق الإصدار المستخدم عند التخطيط للترقية."}],["$","meta","35",{"name":"twitter:image","content":"https://www.smart.sd/blog/nextjs_react_2026_cover.png"}],["$","link","36",{"rel":"icon","href":"/favicon-16x16.png","sizes":"16x16","type":"image/png"}],["$","link","37",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","38",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L26","39",{}]]

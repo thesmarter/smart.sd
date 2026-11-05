@@ -1,0 +1,123 @@
+1:"$Sreact.fragment"
+3:I[39756,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+6:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+e:I[53348,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0n-2i.hj9v09b.js"],"default"]
+:HL["/_next/static/chunks/0odh04soik34o.css","style"]
+:HL["/_next/static/chunks/0qenrobftlhw-.css","style"]
+:HL["/_next/static/media/9ff27b8a0a8f3dc0-s.p.170gfl_1xpie6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d41831e24743a3c1-s.p.02r-fjhi~6g_a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+0:{"P":null,"c":["","blog","cybersecurity-zero-trust-2025",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","cybersecurity-zero-trust-2025","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0odh04soik34o.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0qenrobftlhw-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0~82jkybqn1h8.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0a08zi_6aqxfs.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/07i~.d4axjz_q.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0odh04soik34o.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0qenrobftlhw-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"W4pMMQcotTdhPwZrO_qkO"}
+f:[]
+9:"$Wf"
+11:I[27443,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ThemeProvider"]
+12:I[17139,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"LanguageProvider"]
+13:I[80733,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+14:I[94539,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ThirdPartyScripts"]
+15:I[93983,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+16:I[8821,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0zquxebu1pj7o.js"],"default"]
+18:I[87392,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+10:T4f8,{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.smart.sd/#organization","name":"Smart Team IT","alternateName":["Smart Team","سمارت تيم"],"url":"https://www.smart.sd","logo":{"@type":"ImageObject","url":"https://www.smart.sd/logo-w.png","width":1143,"height":1206},"foundingDate":"2015","description":"سمارت تيم شركة برمجيات تعمل منذ 2015. نطوّر أنظمة ERP والمواقع وتطبيقات الجوال وحلول الدفع لأعمال في السودان والسعودية والإمارات.","email":"info@smart.sd","address":{"@type":"PostalAddress","addressLocality":"Khartoum","addressCountry":"SD"},"areaServed":["SD","SA","AE"],"contactPoint":{"@type":"ContactPoint","contactType":"sales","email":"info@smart.sd","url":"https://www.smart.sd/contact","areaServed":["SD","SA","AE"],"availableLanguage":["Arabic","English"]},"sameAs":["https://www.facebook.com/SmartTeamSd","https://x.com/smart_team_sd","https://www.linkedin.com/company/thesmart-team/"]},{"@type":"WebSite","@id":"https://www.smart.sd/#website","url":"https://www.smart.sd","name":"Smart Team","alternateName":"سمارت تيم","inLanguage":["ar","en"],"publisher":{"@id":"https://www.smart.sd/#organization"}}]}2:["$","html",null,{"lang":"ar","dir":"rtl","className":"cairo_883b24e3-module__pW5XIG__variable montserrat_b2573e6e-module__vkGO5a__variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('theme');var t=s==='light'||s==='dark'?s:matchMedia('(prefers-color-scheme:light)').matches?'light':'dark';document.documentElement.dataset.theme=t;document.documentElement.classList.toggle('dark',t==='dark');var m=document.querySelector('meta[name=\"theme-color\"]');if(m)m.content=t==='dark'?'#101b2b':'#f3f6fa';}catch(e){}})();window.dataLayer=window.dataLayer||[];window.gtag=function(){window.dataLayer.push(arguments)};window.gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$10"}}]]}],["$","body",null,{"className":"antialiased bg-background text-text-main","children":["$","$L11",null,{"children":["$","$L12",null,{"initialLang":"ar","children":[["$","$L13",null,{}],["$","$L14",null,{}],null,["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L15",null,{}],["$","main",null,{"id":"main-content","className":"flex-grow","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$16","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/0zquxebu1pj7o.js","async":true}]],"template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L17",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L18",null,{}]]}]]}]}]}]]}]
+19:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+17:["$","div",null,{"className":"studio-container status-page","children":[["$","p",null,{"className":"status-code","aria-hidden":"true","children":"404"}],["$","h1",null,{"children":"الصفحة غير موجودة"}],["$","p",null,{"children":"تحقّق من الرابط، أو انتقل إلى الخدمات للعثور على الصفحة التي تحتاجها."}],["$","div",null,{"className":"status-actions","children":[["$","$L19",null,{"href":"/","className":"button button-primary","prefetch":false,"children":"الرئيسية"}],["$","$L19",null,{"href":"/services","className":"button button-secondary","prefetch":false,"children":"استكشف الخدمات"}]]}]]}]
+1b:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+1a:T8d6,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025#webpage","url":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025","name":"الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025","description":"تقيّم الثقة الصفرية طلبات الوصول بدل افتراض أمان الشبكة. تعرّف على دور الهوية وفحص الأجهزة والصلاحيات المحدودة في خطة أمن المؤسسة.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025","item":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025"}]},{"@id":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025#entity","inLanguage":"ar","@type":"BlogPosting","headline":"الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025","description":"تقيّم الثقة الصفرية طلبات الوصول بدل افتراض أمان الشبكة. تعرّف على دور الهوية وفحص الأجهزة والصلاحيات المحدودة في خطة أمن المؤسسة.","datePublished":"2025-12-29","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025","image":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025-optimized.webp"}]}5:[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1a"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L19",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L19",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/cybersecurity-zero-trust-2025",{"children":["$","span",null,{"aria-current":"page","children":"الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"تقنية"}],["$","time",null,{"dateTime":"2025-12-29","children":"29 ديسمبر 2025"}]]}],["$","h1",null,{"children":"الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025"}],["$","p",null,{"className":"article-author","children":[["$","$L19",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"تقيّم الثقة الصفرية طلبات الوصول بدل افتراض أمان الشبكة. تعرّف على دور الهوية وفحص الأجهزة والصلاحيات المحدودة في خطة أمن المؤسسة."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L1b",null,{"src":"/blog/cybersecurity-zero-trust-2025-optimized.webp","alt":"الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],"$L1c",null,"$L1d","$L1e","$L1f","$L20"]}]}]]
+22:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+23:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+24:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+21:T14c3,<h2>مشهد الأمان الجديد</h2>
+<p>في عام 2025، يواجه الأمن السيبراني تحدياً غير مسبوق: <strong>المهاجمون الآن يمتلكون نفس أدوات الذكاء الاصطناعي التي يمتلكها المدافعون</strong>. ارتفعت الهجمات المدفوعة بالذكاء الاصطناعي بنسبة <strong>427% مقارنة بالعام السابق</strong>.</p>
+<p>أصبح الأمان التقليدي القائم على المحيط—فكرة أن كل شيء داخل الشبكة موثوق—عفا عليه الزمن. الاستجابة؟ تحول جوهري إلى <strong>هندسة الثقة الصفرية</strong> المدعومة بـ<strong>الذكاء الاصطناعي</strong>.</p>
+<h3>فهم الثقة الصفرية</h3>
+<p>تعمل الثقة الصفرية على مبدأ بسيط لكنه قوي: <strong>"لا تثق أبداً، تحقق دائماً."</strong></p>
+<ul>
+<li><strong>تفترض الاختراق:</strong> تعامل كل طلب وصول على أنه ضار محتملاً</li>
+<li><strong>تتحقق صراحة:</strong> تصادق على كل مستخدم وجهاز واتصال</li>
+<li><strong>تفرض الحد الأدنى من الامتيازات:</strong> تمنح الحد الأدنى من الوصول المطلوب</li>
+<li><strong>تفتش باستمرار:</strong> تراقب جميع الأنشطة في الوقت الفعلي</li>
+</ul>
+<p>بحلول عام 2025، نفذت <strong>أكثر من 60% من المؤسسات</strong> شكلاً من أشكال إطار الثقة الصفرية.</p>
+<h3>الهجمات المدعومة بالذكاء الاصطناعي: الواقع الجديد</h3>
+<p><strong>ما الذي يجعل هجمات الذكاء الاصطناعي خطيرة جداً؟</strong></p>
+<ol>
+<li>
+<p><strong>التعقيد القابل للتوسع</strong></p>
+<ul>
+<li>رسائل بريد التصيد بقواعد نحوية مثالية</li>
+</ul>
+</li>
+<li>
+<p><strong>البرمجيات الخبيثة التكيفية</strong></p>
+<ul>
+<li>برمجيات خبيثة تتهرب من الكشف بتعلم أنماط الدفاع</li>
+</ul>
+</li>
+<li>
+<p><strong>انتحال الهوية بالتزييف العميق</strong></p>
+<ul>
+<li>استنساخ الصوت لتفويض المعاملات الاحتيالية</li>
+</ul>
+</li>
+<li>
+<p><strong>اكتشاف الثغرات الآلي</strong></p>
+<ul>
+<li>الذكاء الاصطناعي يفحص ثغرات اليوم الصفر</li>
+</ul>
+</li>
+</ol>
+<h3>كيف يُمكّن الذكاء الاصطناعي الدفاع</h3>
+<p><strong>الكشف عن التهديدات في الوقت الفعلي</strong></p>
+<ul>
+<li>تحليل مليارات الأحداث في الثانية</li>
+<li>تحديد الشذوذ في حركة مرور الشبكة</li>
+</ul>
+<p><strong>الاستجابة الآلية للحوادث</strong></p>
+<ul>
+<li>الاستجابة للتهديدات في ميلي ثانية</li>
+</ul>
+<p><strong>الأمان التنبؤي</strong></p>
+<ul>
+<li>توقع الهجمات قبل حدوثها</li>
+</ul>
+<p><strong>المصادقة المستمرة</strong></p>
+<ul>
+<li>تحليل أنماط السلوك في الوقت الفعلي</li>
+</ul>
+<h3>استراتيجيات الحماية الأساسية لعام 2025</h3>
+<ol>
+<li><strong>تنفيذ هندسة الثقة الصفرية</strong></li>
+<li><strong>نشر أدوات الأمان المدعومة بالذكاء الاصطناعي</strong></li>
+<li><strong>تعزيز أمان الهوية</strong></li>
+<li><strong>التدريب على الوعي الأمني</strong></li>
+<li><strong>إدارة وضع أمان السحابة</strong></li>
+<li><strong>تخطيط الاستجابة للحوادث</strong></li>
+</ol>
+<h3>سمارت تيم: شريكك الأمني</h3>
+<p>في <strong>سمارت تيم</strong>، نبني حلول أمنية شاملة تحمي المؤسسات الحديثة ضد التهديدات المتطورة.</p>
+<p><strong>خدماتنا الأمنية:</strong></p>
+<p><strong>تنفيذ الثقة الصفرية</strong>
+نصمم وننشر معماريات الثقة الصفرية المصممة خصيصاً لمنظمتك.</p>
+<p><strong>الكشف عن التهديدات المدعوم بالذكاء الاصطناعي</strong>
+نشر أنظمة أمان متقدمة تتعلم بيئتك وتكتشف الشذوذ في الوقت الفعلي.</p>
+<p><strong>تقييم الأمان والتدقيق</strong>
+تقييم شامل لوضعك الأمني، بما في ذلك اختبار الاختراق وتقييم الثغرات.</p>
+<p><strong>تخطيط الاستجابة للحوادث</strong>
+تطوير واختبار إجراءات الاستجابة للحوادث الخاصة بالتهديدات الحديثة.</p>
+<p><strong>برامج التوعية الأمنية</strong>
+برامج تدريب مخصصة تُعد فريقك للتهديدات الحديثة.</p>
+<blockquote>
+<p><strong>هل أنت مستعد لتحديث أمانك؟</strong>
+<a href="/services?s=fintech-payment">اكتشف خدماتنا الأمنية</a> | <a href="/contact">اطلب تقييماً أمنياً</a></p>
+</blockquote>1c:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$21"}}]]}]
+1d:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","mobile-security-vs-freelancers-comparison",{"children":["$","$L19",null,{"href":"/blog/mobile-security-vs-freelancers-comparison","prefetch":false,"children":"أمن تطبيقات الجوال: متطلبات اختيار فريق التطوير"}]}],["$","li","quantum-safe-cryptography",{"children":["$","$L19",null,{"href":"/blog/quantum-safe-cryptography","prefetch":false,"children":"التشفير المقاوم للكم: الحصر وتخطيط الانتقال"}]}],["$","li","flutter-mvp-development-2026",{"children":["$","$L19",null,{"href":"/blog/flutter-mvp-development-2026","prefetch":false,"children":"تخطيط الإصدار الأول من تطبيق الجوال باستخدام Flutter"}]}]]}],["$","$L19",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+1e:["$","$L22",null,{"publisherId":"ca-pub-2312883254868411"}]
+1f:["$","$L23",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+20:["$","$L24",null,{}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#101b2b"}]]
+25:I[27201,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025 | سمارت تيم"}],["$","meta","1",{"name":"description","content":"تقيّم الثقة الصفرية طلبات الوصول بدل افتراض أمان الشبكة. تعرّف على دور الهوية وفحص الأجهزة والصلاحيات المحدودة في خطة أمن المؤسسة."}],["$","link","2",{"rel":"author","href":"https://www.smart.sd/about"}],["$","meta","3",{"name":"author","content":"Smart Team"}],["$","link","4",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","5",{"name":"creator","content":"Smart Team IT"}],["$","meta","6",{"name":"publisher","content":"Smart Team IT"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","9",{"name":"google-adsense-account","content":"ca-pub-2312883254868411"}],["$","link","10",{"rel":"canonical","href":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025/"}],["$","link","11",{"rel":"alternate","hrefLang":"ar","href":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025/"}],["$","link","12",{"rel":"alternate","hrefLang":"en","href":"https://www.smart.sd/en/blog/cybersecurity-zero-trust-2025/"}],["$","link","13",{"rel":"alternate","hrefLang":"x-default","href":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025/"}],["$","link","14",{"rel":"alternate","type":"application/rss+xml","href":"https://www.smart.sd/feed.xml"}],["$","meta","15",{"property":"og:title","content":"الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025 | سمارت تيم"}],["$","meta","16",{"property":"og:description","content":"تقيّم الثقة الصفرية طلبات الوصول بدل افتراض أمان الشبكة. تعرّف على دور الهوية وفحص الأجهزة والصلاحيات المحدودة في خطة أمن المؤسسة."}],["$","meta","17",{"property":"og:url","content":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025/"}],["$","meta","18",{"property":"og:site_name","content":"Smart Team"}],["$","meta","19",{"property":"og:locale","content":"ar_SD"}],["$","meta","20",{"property":"og:image","content":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025-optimized.webp"}],["$","meta","21",{"property":"og:image:alt","content":"الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025"}],["$","meta","22",{"property":"og:locale:alternate","content":"en_US"}],["$","meta","23",{"property":"og:type","content":"article"}],["$","meta","24",{"property":"article:published_time","content":"2025-12-29"}],["$","meta","25",{"property":"article:modified_time","content":"2026-11-02"}],["$","meta","26",{"property":"article:author","content":"Smart Team"}],["$","meta","27",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","28",{"name":"twitter:title","content":"الأمن السيبراني المدعوم بالذكاء الاصطناعي والثقة الصفرية: دفاع المؤسسات في 2025 | سمارت تيم"}],["$","meta","29",{"name":"twitter:description","content":"تقيّم الثقة الصفرية طلبات الوصول بدل افتراض أمان الشبكة. تعرّف على دور الهوية وفحص الأجهزة والصلاحيات المحدودة في خطة أمن المؤسسة."}],["$","meta","30",{"name":"twitter:image","content":"https://www.smart.sd/blog/cybersecurity-zero-trust-2025-optimized.webp"}],["$","link","31",{"rel":"icon","href":"/favicon-16x16.png","sizes":"16x16","type":"image/png"}],["$","link","32",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","33",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L25","34",{}]]

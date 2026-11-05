@@ -1,0 +1,106 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+10:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+11:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T73a,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/en/blog/low-code-no-code-development#webpage","url":"https://www.smart.sd/en/blog/low-code-no-code-development","name":"Low-Code/No-Code Development: Democratizing Software Creation","description":"Low-code and no-code tools reduce some implementation work. Compare platform limits, data access, licensing and migration needs before committing a business workflow.","inLanguage":"en","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/en/blog/low-code-no-code-development#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/en/blog/low-code-no-code-development#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/en/blog/low-code-no-code-development#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.smart.sd/en"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.smart.sd/en/blog"},{"@type":"ListItem","position":3,"name":"Low-Code/No-Code Development: Democratizing Software Creation","item":"https://www.smart.sd/en/blog/low-code-no-code-development"}]},{"@id":"https://www.smart.sd/en/blog/low-code-no-code-development#entity","inLanguage":"en","@type":"BlogPosting","headline":"Low-Code/No-Code Development: Democratizing Software Creation","description":"Low-code and no-code tools reduce some implementation work. Compare platform limits, data access, licensing and migration needs before committing a business workflow.","datePublished":"2024-12-07","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/en/blog/low-code-no-code-development","image":"https://www.smart.sd/blog/low-code-optimized.webp"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/en/blog","prefetch":false,"children":"Blog"}]}],["$","li","/blog/low-code-no-code-development",{"children":["$","span",null,{"aria-current":"page","children":"Low-Code/No-Code Development: Democratizing Software Creation"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Development"}],["$","time",null,{"dateTime":"2024-12-07","children":"December 7, 2024"}]]}],["$","h1",null,{"children":"Low-Code/No-Code Development: Democratizing Software Creation"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/en/about","prefetch":false,"children":"Prepared by the Smart Team editorial team"}],[" · ","Editorial review",": ",["$","time",null,{"dateTime":"2026-11-02","children":"November 2, 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"What does this article explain?"}],["$","p",null,{"children":"Low-code and no-code tools reduce some implementation work. Compare platform limits, data access, licensing and migration needs before committing a business workflow."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/low-code-optimized.webp","alt":"Low-Code/No-Code Development: Democratizing Software Creation","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],"$L5",null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_pgeQ8kNhyQMNom7h4h5x"}
+d:T9bf,<h2>The Rise of Citizen Developers</h2>
+<p>Low-code and no-code platforms are transforming how organizations build software. By 2025, Gartner predicts that 70% of new applications will use low-code or no-code technologies.</p>
+<h3>What's the Difference?</h3>
+<p><strong>No-Code Platforms:</strong></p>
+<ul>
+<li>Zero programming required</li>
+<li>Drag-and-drop interface</li>
+<li>Pre-built templates and components</li>
+<li>Best for simple workflows and apps</li>
+</ul>
+<p><strong>Low-Code Platforms:</strong></p>
+<ul>
+<li>Minimal coding needed</li>
+<li>Visual development with code extension</li>
+<li>More customization options</li>
+<li>Suitable for complex applications</li>
+</ul>
+<h3>Benefits for Businesses</h3>
+<table>
+<thead>
+<tr>
+<th>Benefit</th>
+<th>Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Speed</td>
+<td>10x faster development</td>
+</tr>
+<tr>
+<td>Cost</td>
+<td>70% lower development costs</td>
+</tr>
+<tr>
+<td>Agility</td>
+<td>Rapid iteration and changes</td>
+</tr>
+<tr>
+<td>Accessibility</td>
+<td>Non-developers can build apps</td>
+</tr>
+<tr>
+<td>Maintenance</td>
+<td>Easier updates and fixes</td>
+</tr>
+</tbody>
+</table>
+<h3>Popular Use Cases</h3>
+<p><strong>1. Internal Tools</strong></p>
+<ul>
+<li>Employee onboarding portals</li>
+<li>Expense approval systems</li>
+<li>HR request forms</li>
+<li>IT ticketing systems</li>
+</ul>
+<p><strong>2. Customer-Facing Apps</strong></p>
+<ul>
+<li>Service request portals</li>
+<li>Appointment booking</li>
+<li>Feedback collection</li>
+<li>Simple e-commerce stores</li>
+</ul>
+<p><strong>3. Workflow Automation</strong></p>
+<ul>
+<li>Document approvals</li>
+<li>Data entry automation</li>
+<li>Notification systems</li>
+<li>Integration between tools</li>
+</ul>
+<h3>When to Choose Traditional Development?</h3>
+<p>Low-code isn't always the answer:</p>
+<ul>
+<li>Complex business logic</li>
+<li>High-performance requirements</li>
+<li>Unique user experiences</li>
+<li>Deep third-party integrations</li>
+<li>Enterprise-scale systems</li>
+</ul>
+<h3>Smart Team's Approach</h3>
+<p>We combine low-code efficiency with custom development power:</p>
+<ul>
+<li><strong>Rapid Prototyping</strong> - Validate ideas quickly with low-code MVPs</li>
+<li><strong>Hybrid Solutions</strong> - Low-code base with custom extensions</li>
+<li><strong>Platform Selection</strong> - Choose the right tool for your needs</li>
+<li><strong>Custom Development</strong> - Full-code when complexity demands it</li>
+</ul>
+<p><a href="/en/contact">Discuss your project with us</a></p>5:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$d"}}]]}]
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"Related reading"}],["$","ul",null,{"children":[["$","li","flutter-mvp-development-2026",{"children":["$","$L3",null,{"href":"/en/blog/flutter-mvp-development-2026","prefetch":false,"children":"Planning a mobile MVP with Flutter"}]}],["$","li","smart-ecommerce-vs-shopify-comparison",{"children":["$","$L3",null,{"href":"/en/blog/smart-ecommerce-vs-shopify-comparison","prefetch":false,"children":"Custom e-commerce and Shopify: choosing a platform"}]}],["$","li","nextjs-vs-wordpress-comparison",{"children":["$","$L3",null,{"href":"/en/blog/nextjs-vs-wordpress-comparison","prefetch":false,"children":"Next.js and WordPress: development and publishing needs"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/en/services","prefetch":false,"children":"Explore services"}]]}]
+7:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$L10",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

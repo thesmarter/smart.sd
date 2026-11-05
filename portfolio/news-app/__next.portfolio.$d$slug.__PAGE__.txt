@@ -1,0 +1,119 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0x930e0hj6.tc.js"],""]
+4:I[32195,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0x930e0hj6.tc.js"],"ProjectDetail"]
+a:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+2:T672,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/portfolio/news-app#webpage","url":"https://www.smart.sd/portfolio/news-app","name":"تطبيق الأخبار","description":"تطبيق أخبار باستخدام Flutter لأندرويد وiOS، يضم تصنيفات المقالات والإشعارات والقراءة دون اتصال والوضع المظلم ولوحة لإدارة المحتوى.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/portfolio/news-app#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/portfolio/news-app#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/portfolio/news-app#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"أعمالنا","item":"https://www.smart.sd/portfolio"},{"@type":"ListItem","position":3,"name":"تطبيق الأخبار","item":"https://www.smart.sd/portfolio/news-app"}]},{"@id":"https://www.smart.sd/portfolio/news-app#entity","inLanguage":"ar","@type":"CreativeWork","name":"تطبيق الأخبار","description":"تطبيق أخبار باستخدام Flutter لأندرويد وiOS، يضم تصنيفات المقالات والإشعارات والقراءة دون اتصال والوضع المظلم ولوحة لإدارة المحتوى.","creator":{"@id":"https://www.smart.sd/#organization"},"dateCreated":"2022-06-07","dateModified":"2026-11-02","genre":"mobile","image":"https://www.smart.sd/portfolio/news-1-optimized.webp"}]}5:T1b98,<h2>Project brief</h2>
+<p>This project is a Flutter news reader for Android and iOS. It gives readers a category-based article interface and gives the publishing team an administration panel for content. The gallery documents article lists, article detail screens, saved-content controls and light and dark themes.</p>
+<h2>Users and responsibilities</h2>
+<ul>
+<li>Readers browse categories, open articles, save content and manage notification permissions on their devices.</li>
+<li>Editors prepare and publish the stories that appear in the app.</li>
+<li>Administrators manage content through the project panel.</li>
+</ul>
+<p>Separating publishing from reading keeps editorial controls out of the mobile audience interface and gives the content team one place to manage what the apps display.</p>
+<h2>Delivered scope</h2>
+<ul>
+<li>Flutter mobile app for Android and iOS.</li>
+<li>Category navigation and article-reading screens.</li>
+<li>Push notifications for published updates.</li>
+<li>Saved articles for offline reading.</li>
+<li>Light and dark themes.</li>
+<li>Advertising integration.</li>
+<li>Administration panel for content.</li>
+</ul>
+<h2>Publishing and reading workflow</h2>
+<p>The publishing team enters and organizes an article in the administration panel. The mobile app presents the published story in its category and article view. A notification can direct readers to an update, while the save control keeps selected content available for later reading. The same content model must render correctly in both themes and on both mobile platforms.</p>
+<h2>Implementation decisions</h2>
+<p>The content model should define headline, summary, body, category, image and publication state before editors begin entering material. Image dimensions and article formatting need limits that work on small screens. Offline reading also needs a rule for what the device stores and when saved content refreshes. Notifications require explicit permission handling, and advertising needs consent and placement rules that match the selected provider and app-store policies.</p>
+<h2>Verification and handoff</h2>
+<p>Test article lists and article bodies with short and long content, different image sizes and both themes. Confirm category assignment, save and remove actions, offline access and notification behaviour on representative Android and iOS devices. Advertising and notifications should also be checked against the release build, not only a development environment. Flutter shares application code, but each store still has its own release preparation and device checks.</p>
+<h2>Possible next phase</h2>
+<p>A later phase can add more categories, notification segments or editorial fields after the existing publishing flow is stable. Each change should include a content-migration plan and checks for previously published articles.</p>
+<p>Read about our <a href="/services/mobile-development">mobile development process</a> and <a href="/blog/flutter-vs-native-comparison">Flutter versus native development</a>.</p>
+<hr>
+<h2>ملخص المشروع</h2>
+<p>المشروع قارئ أخبار مبني باستخدام Flutter لأندرويد وiOS. يقدم للقارئ واجهة للمقالات مرتبة حسب التصنيف، ويمنح فريق النشر لوحة لإدارة المحتوى. توثّق الصور قوائم المقالات وصفحات القراءة وأدوات حفظ المحتوى والنمطين الفاتح والمظلم.</p>
+<h2>المستخدمون والمسؤوليات</h2>
+<ul>
+<li>يتصفح القارئ التصنيفات ويفتح المقالات ويحفظ المحتوى ويتعامل مع إذن الإشعارات على جهازه.</li>
+<li>يجهز المحرر الأخبار التي تظهر في التطبيق وينشرها.</li>
+<li>يدير المسؤول المحتوى من خلال لوحة المشروع.</li>
+</ul>
+<p>يفصل هذا التقسيم أدوات التحرير عن واجهة القارئ، ويمنح فريق المحتوى مكانًا واحدًا لإدارة المادة التي تعرضها تطبيقات الجوال.</p>
+<h2>النطاق المنفذ</h2>
+<ul>
+<li>تطبيق Flutter لأندرويد وiOS.</li>
+<li>تصنيفات للمقالات وشاشات للقراءة.</li>
+<li>إشعارات للتحديثات المنشورة.</li>
+<li>حفظ المقالات للقراءة دون اتصال.</li>
+<li>نمطان فاتح ومظلم.</li>
+<li>تكامل للإعلانات.</li>
+<li>لوحة لإدارة المحتوى.</li>
+</ul>
+<h2>مسار النشر والقراءة</h2>
+<p>يدخل فريق النشر المقال وينظمه في لوحة الإدارة. يعرض التطبيق المادة المنشورة ضمن تصنيفها وفي صفحة القراءة. يمكن للإشعار توجيه القارئ إلى تحديث جديد، وتتيح أداة الحفظ الاحتفاظ بالمحتوى المختار للعودة إليه. يجب أن يعرض نموذج المحتوى نفسه بصورة صحيحة في النمطين وعلى نظامي التشغيل.</p>
+<h2>قرارات التنفيذ</h2>
+<p>ينبغي تحديد العنوان والملخص والنص والتصنيف والصورة وحالة النشر في نموذج المحتوى قبل بدء الإدخال. تحتاج أبعاد الصور وتنسيق المقال إلى حدود تناسب الشاشات الصغيرة. كما تحتاج القراءة دون اتصال إلى قاعدة تحدد ما يخزنه الجهاز ووقت تحديث المادة المحفوظة. تتطلب الإشعارات معالجة واضحة للإذن، وتحتاج الإعلانات إلى قواعد للموافقة والمواضع تتوافق مع المزود وسياسات المتاجر.</p>
+<h2>التحقق والتسليم</h2>
+<p>يُختبر عرض القوائم والمقالات مع نصوص قصيرة وطويلة وأحجام صور مختلفة وفي النمطين. يشمل التحقق التصنيف والحفظ والحذف والقراءة دون اتصال وسلوك الإشعارات على أجهزة أندرويد وiOS تمثل الجمهور المستهدف. يجب كذلك فحص الإعلانات والإشعارات في نسخة الإصدار، لا في بيئة التطوير فقط. يشارك Flutter كود التطبيق، لكن لكل متجر تجهيزات إصدار وفحوص أجهزة خاصة به.</p>
+<h2>مرحلة لاحقة محتملة</h2>
+<p>يمكن لمرحلة لاحقة إضافة تصنيفات أو شرائح للإشعارات أو حقول تحريرية بعد استقرار مسار النشر الحالي. يجب أن تتضمن كل إضافة خطة لنقل المحتوى وفحص المقالات المنشورة سابقًا.</p>
+<p>اقرأ عن <a href="/services/mobile-development">تطوير تطبيقات الجوال</a> و<a href="/blog/flutter-vs-native-comparison">المقارنة بين Flutter والتطوير الأصلي</a>.</p>6:Tbce,<h2>Project brief</h2>
+<p>This project is a Flutter news reader for Android and iOS. It gives readers a category-based article interface and gives the publishing team an administration panel for content. The gallery documents article lists, article detail screens, saved-content controls and light and dark themes.</p>
+<h2>Users and responsibilities</h2>
+<ul>
+<li>Readers browse categories, open articles, save content and manage notification permissions on their devices.</li>
+<li>Editors prepare and publish the stories that appear in the app.</li>
+<li>Administrators manage content through the project panel.</li>
+</ul>
+<p>Separating publishing from reading keeps editorial controls out of the mobile audience interface and gives the content team one place to manage what the apps display.</p>
+<h2>Delivered scope</h2>
+<ul>
+<li>Flutter mobile app for Android and iOS.</li>
+<li>Category navigation and article-reading screens.</li>
+<li>Push notifications for published updates.</li>
+<li>Saved articles for offline reading.</li>
+<li>Light and dark themes.</li>
+<li>Advertising integration.</li>
+<li>Administration panel for content.</li>
+</ul>
+<h2>Publishing and reading workflow</h2>
+<p>The publishing team enters and organizes an article in the administration panel. The mobile app presents the published story in its category and article view. A notification can direct readers to an update, while the save control keeps selected content available for later reading. The same content model must render correctly in both themes and on both mobile platforms.</p>
+<h2>Implementation decisions</h2>
+<p>The content model should define headline, summary, body, category, image and publication state before editors begin entering material. Image dimensions and article formatting need limits that work on small screens. Offline reading also needs a rule for what the device stores and when saved content refreshes. Notifications require explicit permission handling, and advertising needs consent and placement rules that match the selected provider and app-store policies.</p>
+<h2>Verification and handoff</h2>
+<p>Test article lists and article bodies with short and long content, different image sizes and both themes. Confirm category assignment, save and remove actions, offline access and notification behaviour on representative Android and iOS devices. Advertising and notifications should also be checked against the release build, not only a development environment. Flutter shares application code, but each store still has its own release preparation and device checks.</p>
+<h2>Possible next phase</h2>
+<p>A later phase can add more categories, notification segments or editorial fields after the existing publishing flow is stable. Each change should include a content-migration plan and checks for previously published articles.</p>
+<p>Read about our <a href="/services/mobile-development">mobile development process</a> and <a href="/blog/flutter-vs-native-comparison">Flutter versus native development</a>.</p>7:Tfc4,<h2>ملخص المشروع</h2>
+<p>المشروع قارئ أخبار مبني باستخدام Flutter لأندرويد وiOS. يقدم للقارئ واجهة للمقالات مرتبة حسب التصنيف، ويمنح فريق النشر لوحة لإدارة المحتوى. توثّق الصور قوائم المقالات وصفحات القراءة وأدوات حفظ المحتوى والنمطين الفاتح والمظلم.</p>
+<h2>المستخدمون والمسؤوليات</h2>
+<ul>
+<li>يتصفح القارئ التصنيفات ويفتح المقالات ويحفظ المحتوى ويتعامل مع إذن الإشعارات على جهازه.</li>
+<li>يجهز المحرر الأخبار التي تظهر في التطبيق وينشرها.</li>
+<li>يدير المسؤول المحتوى من خلال لوحة المشروع.</li>
+</ul>
+<p>يفصل هذا التقسيم أدوات التحرير عن واجهة القارئ، ويمنح فريق المحتوى مكانًا واحدًا لإدارة المادة التي تعرضها تطبيقات الجوال.</p>
+<h2>النطاق المنفذ</h2>
+<ul>
+<li>تطبيق Flutter لأندرويد وiOS.</li>
+<li>تصنيفات للمقالات وشاشات للقراءة.</li>
+<li>إشعارات للتحديثات المنشورة.</li>
+<li>حفظ المقالات للقراءة دون اتصال.</li>
+<li>نمطان فاتح ومظلم.</li>
+<li>تكامل للإعلانات.</li>
+<li>لوحة لإدارة المحتوى.</li>
+</ul>
+<h2>مسار النشر والقراءة</h2>
+<p>يدخل فريق النشر المقال وينظمه في لوحة الإدارة. يعرض التطبيق المادة المنشورة ضمن تصنيفها وفي صفحة القراءة. يمكن للإشعار توجيه القارئ إلى تحديث جديد، وتتيح أداة الحفظ الاحتفاظ بالمحتوى المختار للعودة إليه. يجب أن يعرض نموذج المحتوى نفسه بصورة صحيحة في النمطين وعلى نظامي التشغيل.</p>
+<h2>قرارات التنفيذ</h2>
+<p>ينبغي تحديد العنوان والملخص والنص والتصنيف والصورة وحالة النشر في نموذج المحتوى قبل بدء الإدخال. تحتاج أبعاد الصور وتنسيق المقال إلى حدود تناسب الشاشات الصغيرة. كما تحتاج القراءة دون اتصال إلى قاعدة تحدد ما يخزنه الجهاز ووقت تحديث المادة المحفوظة. تتطلب الإشعارات معالجة واضحة للإذن، وتحتاج الإعلانات إلى قواعد للموافقة والمواضع تتوافق مع المزود وسياسات المتاجر.</p>
+<h2>التحقق والتسليم</h2>
+<p>يُختبر عرض القوائم والمقالات مع نصوص قصيرة وطويلة وأحجام صور مختلفة وفي النمطين. يشمل التحقق التصنيف والحفظ والحذف والقراءة دون اتصال وسلوك الإشعارات على أجهزة أندرويد وiOS تمثل الجمهور المستهدف. يجب كذلك فحص الإعلانات والإشعارات في نسخة الإصدار، لا في بيئة التطوير فقط. يشارك Flutter كود التطبيق، لكن لكل متجر تجهيزات إصدار وفحوص أجهزة خاصة به.</p>
+<h2>مرحلة لاحقة محتملة</h2>
+<p>يمكن لمرحلة لاحقة إضافة تصنيفات أو شرائح للإشعارات أو حقول تحريرية بعد استقرار مسار النشر الحالي. يجب أن تتضمن كل إضافة خطة لنقل المحتوى وفحص المقالات المنشورة سابقًا.</p>
+<p>اقرأ عن <a href="/services/mobile-development">تطوير تطبيقات الجوال</a> و<a href="/blog/flutter-vs-native-comparison">المقارنة بين Flutter والتطوير الأصلي</a>.</p>0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/portfolio",{"children":["$","$L3",null,{"href":"/portfolio","prefetch":false,"children":"أعمالنا"}]}],["$","li","/portfolio/news-app",{"children":["$","span",null,{"aria-current":"page","children":"تطبيق الأخبار"}]}]]}]}]],["$","$L4",null,{"project":{"slug":"news-app","contentHtml":"$5","contentHtmlEn":"$6","contentHtmlAr":"$7","title":"News Mobile App","titleAr":"تطبيق الأخبار","category":"mobile","categoryAr":"تطبيقات جوال","client":"Smart Sales","date":"2022-06-07","url":"https://www.smart.sd","image":"/portfolio/news-1-optimized.webp","images":["/portfolio/news-1-optimized.webp","/portfolio/news-2-optimized.webp","/portfolio/news-3-optimized.webp","/portfolio/news-4-optimized.webp"],"description":"A Flutter news app for Android and iOS with article categories, notifications, offline reading, dark mode and an administration panel.","descriptionAr":"تطبيق أخبار باستخدام Flutter لأندرويد وiOS، يضم تصنيفات المقالات والإشعارات والقراءة دون اتصال والوضع المظلم ولوحة لإدارة المحتوى.","lastModified":"2026-11-02"}}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+8:["$","script","script-0",{"src":"/_next/static/chunks/0x930e0hj6.tc.js","async":true}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

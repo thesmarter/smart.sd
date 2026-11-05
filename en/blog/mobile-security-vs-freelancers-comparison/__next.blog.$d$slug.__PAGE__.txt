@@ -1,0 +1,69 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+d:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+10:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+11:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+12:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T7b3,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/en/blog/mobile-security-vs-freelancers-comparison#webpage","url":"https://www.smart.sd/en/blog/mobile-security-vs-freelancers-comparison","name":"Mobile app security: requirements for choosing a developer","description":"App security depends on architecture, permissions, testing and maintenance, not a developer's employment model. Use a clear security checklist when selecting a team.","inLanguage":"en","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/en/blog/mobile-security-vs-freelancers-comparison#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/en/blog/mobile-security-vs-freelancers-comparison#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/en/blog/mobile-security-vs-freelancers-comparison#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.smart.sd/en"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.smart.sd/en/blog"},{"@type":"ListItem","position":3,"name":"Mobile app security: requirements for choosing a developer","item":"https://www.smart.sd/en/blog/mobile-security-vs-freelancers-comparison"}]},{"@id":"https://www.smart.sd/en/blog/mobile-security-vs-freelancers-comparison#entity","inLanguage":"en","@type":"BlogPosting","headline":"Mobile app security: requirements for choosing a developer","description":"App security depends on architecture, permissions, testing and maintenance, not a developer's employment model. Use a clear security checklist when selecting a team.","datePublished":"2026-02-26","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/en/blog/mobile-security-vs-freelancers-comparison","image":"https://www.smart.sd/blog/mobile_security_vs_freelancers_cover-optimized.webp"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/en/blog","prefetch":false,"children":"Blog"}]}],["$","li","/blog/mobile-security-vs-freelancers-comparison",{"children":["$","span",null,{"aria-current":"page","children":"Mobile app security: requirements for choosing a developer"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Technology"}],["$","time",null,{"dateTime":"2026-02-26","children":"February 26, 2026"}]]}],["$","h1",null,{"children":"Mobile app security: requirements for choosing a developer"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/en/about","prefetch":false,"children":"Prepared by the Smart Team editorial team"}],[" · ","Editorial review",": ",["$","time",null,{"dateTime":"2026-11-02","children":"November 2, 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"What does this article explain?"}],["$","p",null,{"children":"App security depends on architecture, permissions, testing and maintenance, not a developer's employment model. Use a clear security checklist when selecting a team."}]]}],["$","div",null,{"className":"article-featured-image","children":"$L4"}],"$L5",null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_pgeQ8kNhyQMNom7h4h5x"}
+4:["$","$Ld",null,{"src":"/blog/mobile_security_vs_freelancers_cover-optimized.webp","alt":"Mobile app security: requirements for choosing a developer","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]
+e:Tc4f,<h2>The "I Have a Guy" Syndrome</h2>
+<p>Many business owners, especially when launching their first mobile app, fall into a common trap. They want to test the market quickly, so they go to platforms like Upwork or Freelancer and hire a solo developer who promises to build an "Uber clone" for $2,000.</p>
+<p>The app gets delivered. It looks fine. But under the hood, it's a ticking time bomb.</p>
+<p>Building an enterprise mobile application isn't just about making buttons look pretty. It's about protecting user data, securing API endpoints, and encrypting local storage. At <strong>Smart Team</strong>, we frequently rescue businesses after their "freelancer apps" get hacked. Here is the difference between enterprise-grade security and a quick gig.</p>
+<h2>Enterprise Security vs. Cheap Code</h2>
+<table>
+<thead>
+<tr>
+<th>Vulnerability Area</th>
+<th>Smart Team (Enterprise Grade)</th>
+<th>Solo Freelancer App</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>API Keys</strong></td>
+<td>Secured in backend vaults</td>
+<td>Hardcoded in the mobile app</td>
+</tr>
+<tr>
+<td><strong>Data Storage</strong></td>
+<td>Encrypted SQLite (SQLCipher)</td>
+<td>Plain text local storage</td>
+</tr>
+<tr>
+<td><strong>Authentication</strong></td>
+<td>Biometrics + Token Expiration</td>
+<td>Basic passwords, no session limits</td>
+</tr>
+<tr>
+<td><strong>Code Obfuscation</strong></td>
+<td>Advanced ProGuard / DexGuard</td>
+<td>None (Easily reverse-engineered)</td>
+</tr>
+<tr>
+<td><strong>Testing</strong></td>
+<td>Automated Penetration Testing</td>
+<td>Manual "It looks like it works"</td>
+</tr>
+</tbody>
+</table>
+<h3>1. The Hardcoded API Key Disaster</h3>
+<p>The most common mistake we see in cheap apps is placing secret API keys (like payment gateway keys or database credentials) directly inside the app's code. Anyone with a basic decompiler can download the app, extract those keys in 5 minutes, and drain your funds or steal your users' data. We never store secrets on the client side; we use secure middleware architectures.</p>
+<h3>2. Reverse Engineering</h3>
+<p>Did you know that an Android APK or iOS IPA can be easily reversed back into readable code? If your app contains proprietary algorithms or sensitive logic, a competitor can simply steal it. <strong>Smart Team</strong> employs comprehensive code obfuscation and anti-tampering techniques, making the app essentially unreadable to malicious actors.</p>
+<h3>3. The Lack of Continuity</h3>
+<p>What happens when a zero-day vulnerability is discovered in the framework your app was built on? Will that freelancer from six months ago proactively patch your app? Unlikely. Security is a continuous process, not a one-time deliverable. We provide vigilant, ongoing monitoring and instantaneous security patches.</p>
+<h2>Reputation is Expensive</h2>
+<p>If a user's credit card or personal information is leaked from your app, the fines are heavy, but the loss of trust is fatal. You can't put a price on peace of mind.</p>
+<p>Don't gamble your brand's reputation with unverified, solo developers. Build it right, build it secure, and build it with a team that treats your app's security like a bank vault.</p>5:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$e"}}]]}]
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"Related reading"}],["$","ul",null,{"children":[["$","li","cybersecurity-zero-trust-2025",{"children":["$","$L3",null,{"href":"/en/blog/cybersecurity-zero-trust-2025","prefetch":false,"children":"AI-Powered Cybersecurity & Zero Trust: Enterprise Defense in 2025"}]}],["$","li","quantum-safe-cryptography",{"children":["$","$L3",null,{"href":"/en/blog/quantum-safe-cryptography","prefetch":false,"children":"Post-quantum cryptography: inventory and migration planning"}]}],["$","li","flutter-mvp-development-2026",{"children":["$","$L3",null,{"href":"/en/blog/flutter-mvp-development-2026","prefetch":false,"children":"Planning a mobile MVP with Flutter"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/en/services","prefetch":false,"children":"Explore services"}]]}]
+7:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$L10",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$L11",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+14:null

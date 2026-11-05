@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+d:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+f:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+10:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T800,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/low-code-no-code-development#webpage","url":"https://www.smart.sd/blog/low-code-no-code-development","name":"التطوير بدون كود: ديمقراطية إنشاء البرمجيات","description":"تقلل أدوات Low-code وNo-code بعض أعمال التنفيذ. قارن حدود المنصة والوصول إلى البيانات والترخيص واحتياجات الانتقال قبل اعتمادها لإجراء عمل.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/low-code-no-code-development#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/low-code-no-code-development#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/low-code-no-code-development#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"التطوير بدون كود: ديمقراطية إنشاء البرمجيات","item":"https://www.smart.sd/blog/low-code-no-code-development"}]},{"@id":"https://www.smart.sd/blog/low-code-no-code-development#entity","inLanguage":"ar","@type":"BlogPosting","headline":"التطوير بدون كود: ديمقراطية إنشاء البرمجيات","description":"تقلل أدوات Low-code وNo-code بعض أعمال التنفيذ. قارن حدود المنصة والوصول إلى البيانات والترخيص واحتياجات الانتقال قبل اعتمادها لإجراء عمل.","datePublished":"2024-12-07","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/low-code-no-code-development","image":"https://www.smart.sd/blog/low-code-optimized.webp"}]}5:Tc36,<h2>صعود المطورين المواطنين</h2>
+<p>تعمل منصات التطوير بكود منخفض وبدون كود على تحويل كيفية بناء المنظمات للبرمجيات. بحلول عام 2025، تتوقع Gartner أن 70% من التطبيقات الجديدة ستستخدم تقنيات بكود منخفض أو بدون كود.</p>
+<h3>ما الفرق؟</h3>
+<p><strong>منصات بدون كود:</strong></p>
+<ul>
+<li>لا برمجة مطلوبة</li>
+<li>واجهة السحب والإفلات</li>
+<li>قوالب ومكونات جاهزة</li>
+<li>الأفضل لسير العمل والتطبيقات البسيطة</li>
+</ul>
+<p><strong>منصات بكود منخفض:</strong></p>
+<ul>
+<li>الحد الأدنى من البرمجة مطلوب</li>
+<li>تطوير مرئي مع امتداد الكود</li>
+<li>المزيد من خيارات التخصيص</li>
+<li>مناسبة للتطبيقات المعقدة</li>
+</ul>
+<h3>الفوائد للشركات</h3>
+<table>
+<thead>
+<tr>
+<th>الفائدة</th>
+<th>التأثير</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>السرعة</td>
+<td>تطوير أسرع 10 مرات</td>
+</tr>
+<tr>
+<td>التكلفة</td>
+<td>تكاليف تطوير أقل بـ 70%</td>
+</tr>
+<tr>
+<td>المرونة</td>
+<td>تكرار وتغييرات سريعة</td>
+</tr>
+<tr>
+<td>إمكانية الوصول</td>
+<td>غير المطورين يمكنهم بناء التطبيقات</td>
+</tr>
+<tr>
+<td>الصيانة</td>
+<td>تحديثات وإصلاحات أسهل</td>
+</tr>
+</tbody>
+</table>
+<h3>حالات الاستخدام الشائعة</h3>
+<p><strong>1. الأدوات الداخلية</strong></p>
+<ul>
+<li>بوابات تأهيل الموظفين</li>
+<li>أنظمة الموافقة على النفقات</li>
+<li>نماذج طلبات الموارد البشرية</li>
+<li>أنظمة تذاكر تكنولوجيا المعلومات</li>
+</ul>
+<p><strong>2. تطبيقات العملاء</strong></p>
+<ul>
+<li>بوابات طلب الخدمة</li>
+<li>حجز المواعيد</li>
+<li>جمع الملاحظات</li>
+<li>متاجر تجارة إلكترونية بسيطة</li>
+</ul>
+<p><strong>3. أتمتة سير العمل</strong></p>
+<ul>
+<li>الموافقات على المستندات</li>
+<li>أتمتة إدخال البيانات</li>
+<li>أنظمة الإشعارات</li>
+<li>التكامل بين الأدوات</li>
+</ul>
+<h3>نهج سمارت تيم</h3>
+<p>نجمع بين كفاءة الكود المنخفض وقوة التطوير المخصص:</p>
+<ul>
+<li><strong>النماذج الأولية السريعة</strong> - التحقق من الأفكار بسرعة مع MVPs بكود منخفض</li>
+<li><strong>الحلول الهجينة</strong> - قاعدة بكود منخفض مع امتدادات مخصصة</li>
+<li><strong>اختيار المنصة</strong> - اختيار الأداة المناسبة لاحتياجاتك</li>
+<li><strong>التطوير المخصص</strong> - كود كامل عندما يتطلب التعقيد ذلك</li>
+</ul>
+<p><a href="/contact">ناقش مشروعك معنا</a></p>0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/low-code-no-code-development",{"children":["$","span",null,{"aria-current":"page","children":"التطوير بدون كود: ديمقراطية إنشاء البرمجيات"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"التطوير"}],["$","time",null,{"dateTime":"2024-12-07","children":"7 ديسمبر 2024"}]]}],["$","h1",null,{"children":"التطوير بدون كود: ديمقراطية إنشاء البرمجيات"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"تقلل أدوات Low-code وNo-code بعض أعمال التنفيذ. قارن حدود المنصة والوصول إلى البيانات والترخيص واحتياجات الانتقال قبل اعتمادها لإجراء عمل."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/low-code-optimized.webp","alt":"التطوير بدون كود: ديمقراطية إنشاء البرمجيات","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$5"}}]]}],null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","flutter-mvp-development-2026",{"children":["$","$L3",null,{"href":"/blog/flutter-mvp-development-2026","prefetch":false,"children":"تخطيط الإصدار الأول من تطبيق الجوال باستخدام Flutter"}]}],["$","li","smart-ecommerce-vs-shopify-comparison",{"children":["$","$L3",null,{"href":"/blog/smart-ecommerce-vs-shopify-comparison","prefetch":false,"children":"التجارة الإلكترونية المخصصة وShopify: اختيار المنصة"}]}],["$","li","nextjs-vs-wordpress-comparison",{"children":["$","$L3",null,{"href":"/blog/nextjs-vs-wordpress-comparison","prefetch":false,"children":"Next.js وWordPress: احتياجات التطوير والنشر"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+7:["$","$Ld",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$Lf",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

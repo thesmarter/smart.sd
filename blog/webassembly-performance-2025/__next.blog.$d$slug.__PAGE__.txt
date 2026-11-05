@@ -1,0 +1,85 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+d:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+f:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+10:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T7d8,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/webassembly-performance-2025#webpage","url":"https://www.smart.sd/blog/webassembly-performance-2025","name":"أداء WebAssembly: اختيار الأحمال وقياسها","description":"يمكن لـWebAssembly دعم أعمال حسابية مكثفة في المتصفح. قِس التحميل ونقل البيانات والتنفيذ على الأجهزة المستهدفة قبل اختياره بدل JavaScript.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/webassembly-performance-2025#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/webassembly-performance-2025#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/webassembly-performance-2025#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"أداء WebAssembly: اختيار الأحمال وقياسها","item":"https://www.smart.sd/blog/webassembly-performance-2025"}]},{"@id":"https://www.smart.sd/blog/webassembly-performance-2025#entity","inLanguage":"ar","@type":"BlogPosting","headline":"أداء WebAssembly: اختيار الأحمال وقياسها","description":"يمكن لـWebAssembly دعم أعمال حسابية مكثفة في المتصفح. قِس التحميل ونقل البيانات والتنفيذ على الأجهزة المستهدفة قبل اختياره بدل JavaScript.","datePublished":"2025-12-29","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/webassembly-performance-2025","image":"https://www.smart.sd/blog/webassembly-performance-2025-optimized.webp"}]}5:T119f,<h2>ثورة الأداء</h2>
+<p>في عام 2025، برز <strong>WebAssembly (Wasm)</strong> كتقنية مغيرة لقواعد اللعبة في تطوير الويب، مما يمكّن تطبيقات الويب من تحقيق مستويات أداء كانت محجوزة سابقاً لبرامج سطح المكتب.</p>
+<h3>ما هو WebAssembly؟</h3>
+<p>WebAssembly هو تنسيق تعليمات ثنائي مصمم لـ:</p>
+<ul>
+<li><strong>سرعة شبه أصلية:</strong> تنفيذ الكود بسرعة أكبر من JavaScript بنسبة تصل إلى <strong>20 مرة</strong></li>
+<li><strong>مرونة اللغات:</strong> الترجمة من C، C++، Rust، Go، وأكثر من 40 لغة أخرى</li>
+<li><strong>دعم عالمي:</strong> يعمل في جميع المتصفحات الرئيسية</li>
+<li><strong>تنفيذ آمن:</strong> يعمل في بيئة محمية مع أمان المتصفح</li>
+</ul>
+<h3>لماذا يهم WebAssembly في 2025</h3>
+<p><strong>نهاية "تطبيقات الويب بطيئة"</strong></p>
+<p>لسنوات، كانت تطبيقات الويب مقبولة كأدنى من البرامج الأصلية للمهام المكثفة. يغلق WebAssembly هذه الفجوة:</p>
+<ul>
+<li>أدوات النمذجة ثلاثية الأبعاد تعمل بسلاسة في المتصفحات</li>
+<li>تصورات البيانات المعقدة تُعرض في الوقت الفعلي</li>
+<li>المحاكاة العلمية تُنفذ بأداء من فئة سطح المكتب</li>
+</ul>
+<h3>التطبيقات الواقعية</h3>
+<p><strong>الألعاب والتجارب التفاعلية</strong></p>
+<ul>
+<li>Unity WebGL للألعاب مباشرة في المتصفحات</li>
+<li>Unreal Engine للتجارب عالية الدقة</li>
+</ul>
+<p><strong>معالجة الفيديو والصوت</strong></p>
+<ul>
+<li>تحرير الفيديو في الوقت الفعلي</li>
+<li>معالجة الصوت بأقل استخدام لوحدة المعالجة</li>
+</ul>
+<p><strong>الذكاء الاصطناعي والتعلم الآلي</strong></p>
+<ul>
+<li>TensorFlow Lite مترجم إلى Wasm</li>
+<li>التعلم الآلي الحافظ للخصوصية</li>
+</ul>
+<p><strong>الحوسبة العلمية</strong></p>
+<ul>
+<li>محاكاة الفيزياء للتعليم والبحث</li>
+<li>تصور الجزيئات في الرعاية الصحية</li>
+</ul>
+<h3>النظام البيئي لـ WebAssembly في 2025</h3>
+<p><strong>WASI: ما وراء المتصفح</strong></p>
+<p>يمتد WASI بـ Wasm إلى ما وراء المتصفحات:</p>
+<ul>
+<li>التنفيذ من جانب الخادم</li>
+<li>الحوسبة الطرفية والوظائف بدون خادم</li>
+<li>أنظمة الإضافات للتطبيقات</li>
+</ul>
+<p><strong>شراكة JavaScript + WebAssembly</strong></p>
+<p>لا يستبدل WebAssembly JavaScript—بل <strong>يكمله</strong>:</p>
+<ul>
+<li>استخدم JavaScript للتلاعب بـ DOM والواجهة</li>
+<li>استخدم WebAssembly للعمليات الحسابية المكثفة</li>
+</ul>
+<h3>سمارت تيم: خبراء WebAssembly</h3>
+<p>في <strong>سمارت تيم</strong>، نبني تطبيقات ويب عالية الأداء تدفع حدود ما هو ممكن في المتصفح.</p>
+<p><strong>خدماتنا في WebAssembly:</strong></p>
+<p><strong>تحسين الأداء</strong>
+نحلل تطبيقات الويب الحالية ونحدد فرص تكامل WebAssembly. توقع تحسينات أداء تصل إلى 20 ضعفاً.</p>
+<p><strong>تطوير وحدات Wasm مخصصة</strong>
+من معالجة الصور إلى التداول الخوارزمي، نطور وحدات WebAssembly مخصصة بـ Rust أو C++ أو Go.</p>
+<p><strong>ترحيل الكود القديم</strong>
+أحضر قواعد كود C/C++ الحالية إلى الويب. ننقل تطبيقات سطح المكتب إلى حلول قائمة على المتصفح.</p>
+<p><strong>تطبيقات Wasm الكاملة</strong>
+بناء تطبيقات ويب حديثة تستفيد من WebAssembly للحساب الأمامي ووظائف الخلفية.</p>
+<blockquote>
+<p><strong>هل أنت مستعد لتعزيز تطبيق الويب الخاص بك؟</strong>
+<a href="/services?s=web-development">اكتشف خدمات تطوير الويب</a> | <a href="/contact">اطلب استشارة</a></p>
+</blockquote>0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/webassembly-performance-2025",{"children":["$","span",null,{"aria-current":"page","children":"أداء WebAssembly: اختيار الأحمال وقياسها"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"التطوير"}],["$","time",null,{"dateTime":"2025-12-29","children":"29 ديسمبر 2025"}]]}],["$","h1",null,{"children":"أداء WebAssembly: اختيار الأحمال وقياسها"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"يمكن لـWebAssembly دعم أعمال حسابية مكثفة في المتصفح. قِس التحميل ونقل البيانات والتنفيذ على الأجهزة المستهدفة قبل اختياره بدل JavaScript."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/webassembly-performance-2025-optimized.webp","alt":"أداء WebAssembly: اختيار الأحمال وقياسها","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$5"}}]]}],null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","flutter-mvp-development-2026",{"children":["$","$L3",null,{"href":"/blog/flutter-mvp-development-2026","prefetch":false,"children":"تخطيط الإصدار الأول من تطبيق الجوال باستخدام Flutter"}]}],["$","li","smart-ecommerce-vs-shopify-comparison",{"children":["$","$L3",null,{"href":"/blog/smart-ecommerce-vs-shopify-comparison","prefetch":false,"children":"التجارة الإلكترونية المخصصة وShopify: اختيار المنصة"}]}],["$","li","nextjs-vs-wordpress-comparison",{"children":["$","$L3",null,{"href":"/blog/nextjs-vs-wordpress-comparison","prefetch":false,"children":"Next.js وWordPress: احتياجات التطوير والنشر"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+7:["$","$Ld",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$Lf",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

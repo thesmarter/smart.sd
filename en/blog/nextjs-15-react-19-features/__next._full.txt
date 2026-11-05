@@ -1,0 +1,501 @@
+1:"$Sreact.fragment"
+3:I[39756,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+6:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+e:I[53348,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0n-2i.hj9v09b.js"],"default"]
+:HL["/_next/static/chunks/0odh04soik34o.css","style"]
+:HL["/_next/static/chunks/0qenrobftlhw-.css","style"]
+:HL["/_next/static/media/9ff27b8a0a8f3dc0-s.p.170gfl_1xpie6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d41831e24743a3c1-s.p.02r-fjhi~6g_a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+0:{"P":null,"c":["","blog","nextjs-15-react-19-features",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","nextjs-15-react-19-features","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0odh04soik34o.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0qenrobftlhw-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0~82jkybqn1h8.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0a08zi_6aqxfs.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/07i~.d4axjz_q.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0odh04soik34o.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0qenrobftlhw-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"_pgeQ8kNhyQMNom7h4h5x"}
+f:[]
+9:"$Wf"
+11:I[27443,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ThemeProvider"]
+12:I[17139,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"LanguageProvider"]
+13:I[80733,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+14:I[94539,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ThirdPartyScripts"]
+15:I[93983,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+16:I[8821,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0zquxebu1pj7o.js"],"default"]
+18:I[87392,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+10:T4a5,{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.smart.sd/#organization","name":"Smart Team IT","alternateName":["Smart Team","سمارت تيم"],"url":"https://www.smart.sd","logo":{"@type":"ImageObject","url":"https://www.smart.sd/logo-w.png","width":1143,"height":1206},"foundingDate":"2015","description":"Smart Team develops ERP systems, websites, mobile apps and payment solutions for businesses in Sudan, Saudi Arabia and the UAE. Working since 2015.","email":"info@smart.sd","address":{"@type":"PostalAddress","addressLocality":"Khartoum","addressCountry":"SD"},"areaServed":["SD","SA","AE"],"contactPoint":{"@type":"ContactPoint","contactType":"sales","email":"info@smart.sd","url":"https://www.smart.sd/contact","areaServed":["SD","SA","AE"],"availableLanguage":["Arabic","English"]},"sameAs":["https://www.facebook.com/SmartTeamSd","https://x.com/smart_team_sd","https://www.linkedin.com/company/thesmart-team/"]},{"@type":"WebSite","@id":"https://www.smart.sd/#website","url":"https://www.smart.sd","name":"Smart Team","alternateName":"سمارت تيم","inLanguage":["ar","en"],"publisher":{"@id":"https://www.smart.sd/#organization"}}]}2:["$","html",null,{"lang":"en","dir":"ltr","className":"cairo_883b24e3-module__pW5XIG__variable montserrat_b2573e6e-module__vkGO5a__variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var s=localStorage.getItem('theme');var t=s==='light'||s==='dark'?s:matchMedia('(prefers-color-scheme:light)').matches?'light':'dark';document.documentElement.dataset.theme=t;document.documentElement.classList.toggle('dark',t==='dark');var m=document.querySelector('meta[name=\"theme-color\"]');if(m)m.content=t==='dark'?'#101b2b':'#f3f6fa';}catch(e){}})();window.dataLayer=window.dataLayer||[];window.gtag=function(){window.dataLayer.push(arguments)};window.gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$10"}}]]}],["$","body",null,{"className":"antialiased bg-background text-text-main","children":["$","$L11",null,{"children":["$","$L12",null,{"initialLang":"en","children":[["$","$L13",null,{}],["$","$L14",null,{}],null,["$","div",null,{"className":"flex flex-col min-h-screen","children":[["$","$L15",null,{}],["$","main",null,{"id":"main-content","className":"flex-grow","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$16","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/0zquxebu1pj7o.js","async":true}]],"template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L17",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L18",null,{}]]}]]}]}]}]]}]
+19:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+17:["$","div",null,{"className":"studio-container status-page","children":[["$","p",null,{"className":"status-code","aria-hidden":"true","children":"404"}],["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":"Check the address, or explore our services to find the page you need."}],["$","div",null,{"className":"status-actions","children":[["$","$L19",null,{"href":"/en","className":"button button-primary","prefetch":false,"children":"Home"}],["$","$L19",null,{"href":"/en/services","className":"button button-secondary","prefetch":false,"children":"Explore services"}]]}]]}]
+1b:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+1a:T759,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/en/blog/nextjs-15-react-19-features#webpage","url":"https://www.smart.sd/en/blog/nextjs-15-react-19-features","name":"Next.js 15 and React 19: Revolutionary Features for Modern Web Development","description":"Review the Next.js 15 and React 19 changes, including asynchronous request APIs and caching behavior. Check version-specific documentation when planning an upgrade.","inLanguage":"en","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/en/blog/nextjs-15-react-19-features#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/en/blog/nextjs-15-react-19-features#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/en/blog/nextjs-15-react-19-features#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.smart.sd/en"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.smart.sd/en/blog"},{"@type":"ListItem","position":3,"name":"Next.js 15 and React 19: Revolutionary Features for Modern Web Development","item":"https://www.smart.sd/en/blog/nextjs-15-react-19-features"}]},{"@id":"https://www.smart.sd/en/blog/nextjs-15-react-19-features#entity","inLanguage":"en","@type":"BlogPosting","headline":"Next.js 15 and React 19: Revolutionary Features for Modern Web Development","description":"Review the Next.js 15 and React 19 changes, including asynchronous request APIs and caching behavior. Check version-specific documentation when planning an upgrade.","datePublished":"2026-01-14","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/en/blog/nextjs-15-react-19-features","image":"https://www.smart.sd/blog/nextjs_react_2026_cover.png"}]}5:[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1a"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L19",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/blog",{"children":["$","$L19",null,{"href":"/en/blog","prefetch":false,"children":"Blog"}]}],["$","li","/blog/nextjs-15-react-19-features",{"children":["$","span",null,{"aria-current":"page","children":"Next.js 15 and React 19: Revolutionary Features for Modern Web Development"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Development"}],["$","time",null,{"dateTime":"2026-01-14","children":"January 14, 2026"}]]}],["$","h1",null,{"children":"Next.js 15 and React 19: Revolutionary Features for Modern Web Development"}],["$","p",null,{"className":"article-author","children":[["$","$L19",null,{"href":"/en/about","prefetch":false,"children":"Prepared by the Smart Team editorial team"}],[" · ","Editorial review",": ",["$","time",null,{"dateTime":"2026-11-02","children":"November 2, 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"What does this article explain?"}],["$","p",null,{"children":"Review the Next.js 15 and React 19 changes, including asynchronous request APIs and caching behavior. Check version-specific documentation when planning an upgrade."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L1b",null,{"src":"/blog/nextjs_react_2026_cover.png","alt":"Next.js 15 and React 19: Revolutionary Features for Modern Web Development","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],"$L1c","$L1d","$L1e","$L1f","$L20","$L21"]}]}]]
+23:I[73855,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+24:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+25:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+26:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+22:T95b9,<h2>Introduction</h2>
+<p>The web development ecosystem witnessed a major transformation with the release of Next.js 15 and React 19 in 2026. These releases represent the culmination of years of research, development, and real-world feedback from millions of developers worldwide. The collaboration between Vercel and the React team has produced a set of features that fundamentally change how developers build web applications, making them faster, more efficient, and easier to maintain. This comprehensive guide explores the most significant features, their practical applications, and how they can transform your development workflow.</p>
+<p>Next.js has established itself as the premier React framework for production applications, powering some of the world's largest websites including TikTok, Netflix, and Twitch. The framework's opinionated approach to routing, rendering, and optimization has made it the go-to choice for developers seeking to build performant applications without managing complex infrastructure. React 19, released alongside Next.js 15, introduces server components as a stable feature, fundamentally changing the mental model for React development and enabling new patterns for data fetching and rendering.</p>
+<h3>Why These Releases Matter</h3>
+<p>The 2026 releases address several long-standing challenges in web development. Developers have struggled with complex build configurations, unpredictable caching behavior, and the mental overhead of managing client and server state separately. Next.js 15 and React 19 provide elegant solutions to these problems while maintaining backward compatibility where possible. The introduction of asynchronous request APIs simplifies data fetching, while improvements to the App Router provide more predictable rendering behavior. These changes reduce boilerplate code, improve developer experience, and ultimately lead to better applications for end users.</p>
+<h2>React 19: A New Era</h2>
+<p>React 19 represents the most significant update to React since the introduction of Hooks in 2018. The release stabilizes several experimental features and introduces new capabilities that were previously only possible with third-party libraries. Understanding these changes is essential for developers looking to modernize their applications and take full advantage of the React ecosystem's latest capabilities.</p>
+<h3>Server Components Are Now Stable</h3>
+<p>Server Components, first introduced as an experimental feature, are now production-ready in React 19. This paradigm shift allows developers to write components that execute only on the server, reducing the JavaScript bundle size sent to clients and enabling direct database access within components. Server Components blur the line between frontend and backend development, allowing developers to use the same component model for both client and server logic:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-comment">// Server Component - runs only on server</span>
+<span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">ProductDetails</span>(<span class="hljs-params">{ productId }</span>) {
+  <span class="hljs-comment">// Direct database access - no API needed</span>
+  <span class="hljs-keyword">const</span> product = <span class="hljs-keyword">await</span> db.<span class="hljs-property">products</span>.<span class="hljs-title function_">findUnique</span>({
+    <span class="hljs-attr">where</span>: { <span class="hljs-attr">id</span>: productId }
+  });
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>{product.name}<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">p</span>></span>Price: ${product.price}<span class="hljs-tag">&#x3C;/<span class="hljs-name">p</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">p</span>></span>Inventory: {product.stock} units<span class="hljs-tag">&#x3C;/<span class="hljs-name">p</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>
+  );
+}
+
+<span class="hljs-comment">// Client Component - interactive features</span>
+<span class="hljs-string">'use client'</span>;
+
+<span class="hljs-keyword">import</span> { useState } <span class="hljs-keyword">from</span> <span class="hljs-string">'react'</span>;
+
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">AddToCartButton</span>(<span class="hljs-params">{ productId }</span>) {
+  <span class="hljs-keyword">const</span> [quantity, setQuantity] = <span class="hljs-title function_">useState</span>(<span class="hljs-number">1</span>);
+  
+  <span class="hljs-keyword">const</span> <span class="hljs-title function_">handleAddToCart</span> = <span class="hljs-keyword">async</span> (<span class="hljs-params"></span>) => {
+    <span class="hljs-keyword">await</span> <span class="hljs-title function_">fetch</span>(<span class="hljs-string">'/api/cart'</span>, {
+      <span class="hljs-attr">method</span>: <span class="hljs-string">'POST'</span>,
+      <span class="hljs-attr">body</span>: <span class="hljs-title class_">JSON</span>.<span class="hljs-title function_">stringify</span>({ productId, quantity })
+    });
+  };
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">button</span> <span class="hljs-attr">onClick</span>=<span class="hljs-string">{handleAddToCart}</span>></span>
+      Add {quantity} to Cart
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">button</span>></span></span>
+  );
+}
+</code></pre>
+<h3>New Hook: use()</h3>
+<p>React 19 introduces a new hook called <code>use()</code> that simplifies reading resources in components. This hook can read promises and context, making it easier to handle async data in a declarative way. The <code>use()</code> hook represents a significant improvement over traditional patterns for handling asynchronous data:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-keyword">function</span> <span class="hljs-title function_">UserProfile</span>(<span class="hljs-params">{ userId }</span>) {
+  <span class="hljs-comment">// use() can suspend while the promise resolves</span>
+  <span class="hljs-keyword">const</span> user = <span class="hljs-title function_">use</span>(<span class="hljs-title function_">fetchUser</span>(userId));
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>{user.name}<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">p</span>></span>{user.email}<span class="hljs-tag">&#x3C;/<span class="hljs-name">p</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>
+  );
+}
+
+<span class="hljs-comment">// Works with Context too</span>
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">ThemeToggle</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">const</span> theme = <span class="hljs-title function_">use</span>(<span class="hljs-title class_">ThemeContext</span>);
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">button</span> <span class="hljs-attr">onClick</span>=<span class="hljs-string">{theme.toggle}</span>></span>
+      Current: {theme.mode}
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">button</span>></span></span>
+  );
+}
+</code></pre>
+<h3>Actions and Form Handling</h3>
+<p>React 19 introduces Actions, a new pattern for handling form submissions and async operations. Actions simplify the common pattern of submitting forms and handling loading states, errors, and success messages. This feature eliminates much of the boilerplate code traditionally associated with form handling:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-comment">// Server Action - runs on server</span>
+<span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">submitContactForm</span>(<span class="hljs-params">formData</span>) {
+  <span class="hljs-string">'use server'</span>;
+  
+  <span class="hljs-keyword">const</span> name = formData.<span class="hljs-title function_">get</span>(<span class="hljs-string">'name'</span>);
+  <span class="hljs-keyword">const</span> email = formData.<span class="hljs-title function_">get</span>(<span class="hljs-string">'email'</span>);
+  <span class="hljs-keyword">const</span> message = formData.<span class="hljs-title function_">get</span>(<span class="hljs-string">'message'</span>);
+  
+  <span class="hljs-comment">// Save to database</span>
+  <span class="hljs-keyword">await</span> db.<span class="hljs-property">contacts</span>.<span class="hljs-title function_">create</span>({
+    <span class="hljs-attr">data</span>: { name, email, message }
+  });
+  
+  <span class="hljs-comment">// Send notification email</span>
+  <span class="hljs-keyword">await</span> <span class="hljs-title function_">sendEmail</span>({ <span class="hljs-attr">to</span>: email, <span class="hljs-attr">template</span>: <span class="hljs-string">'contact-received'</span> });
+}
+
+<span class="hljs-comment">// Form Component with Action</span>
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">ContactForm</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">const</span> [state, formAction, isPending] = <span class="hljs-title function_">useActionState</span>(
+    submitContactForm,
+    { <span class="hljs-attr">success</span>: <span class="hljs-literal">false</span> }
+  );
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">form</span> <span class="hljs-attr">action</span>=<span class="hljs-string">{formAction}</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">input</span> <span class="hljs-attr">name</span>=<span class="hljs-string">"name"</span> <span class="hljs-attr">required</span> /></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">input</span> <span class="hljs-attr">name</span>=<span class="hljs-string">"email"</span> <span class="hljs-attr">type</span>=<span class="hljs-string">"email"</span> <span class="hljs-attr">required</span> /></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">textarea</span> <span class="hljs-attr">name</span>=<span class="hljs-string">"message"</span> <span class="hljs-attr">required</span> /></span>
+      
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">button</span> <span class="hljs-attr">type</span>=<span class="hljs-string">"submit"</span> <span class="hljs-attr">disabled</span>=<span class="hljs-string">{isPending}</span>></span>
+        {isPending ? 'Sending...' : 'Send Message'}
+      <span class="hljs-tag">&#x3C;/<span class="hljs-name">button</span>></span>
+      
+      {state.success &#x26;&#x26; (
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">p</span> <span class="hljs-attr">className</span>=<span class="hljs-string">"success"</span>></span>Message sent successfully!<span class="hljs-tag">&#x3C;/<span class="hljs-name">p</span>></span>
+      )}
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">form</span>></span></span>
+  );
+}
+</code></pre>
+<h3>Improved Error Boundaries</h3>
+<p>Error boundaries in React 19 have been enhanced to catch errors from both client and server components. The new <code>useErrorBoundary</code> hook provides programmatic access to error boundary functionality:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-keyword">import</span> { useErrorBoundary } <span class="hljs-keyword">from</span> <span class="hljs-string">'react-error-boundary'</span>;
+
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">RiskyComponent</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">const</span> { showBoundary } = <span class="hljs-title function_">useErrorBoundary</span>();
+  
+  <span class="hljs-keyword">const</span> <span class="hljs-title function_">handleClick</span> = <span class="hljs-keyword">async</span> (<span class="hljs-params"></span>) => {
+    <span class="hljs-keyword">try</span> {
+      <span class="hljs-keyword">await</span> <span class="hljs-title function_">riskyOperation</span>();
+    } <span class="hljs-keyword">catch</span> (error) {
+      <span class="hljs-title function_">showBoundary</span>(error);
+    }
+  };
+  
+  <span class="hljs-keyword">return</span> <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">button</span> <span class="hljs-attr">onClick</span>=<span class="hljs-string">{handleClick}</span>></span>Do Something<span class="hljs-tag">&#x3C;/<span class="hljs-name">button</span>></span></span>;
+}
+
+<span class="hljs-comment">// Error Boundary Wrapper</span>
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">App</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">ErrorBoundary</span>
+      <span class="hljs-attr">fallbackRender</span>=<span class="hljs-string">{({</span> <span class="hljs-attr">error</span>, <span class="hljs-attr">resetErrorBoundary</span> }) =></span> (
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>
+          <span class="hljs-tag">&#x3C;<span class="hljs-name">p</span>></span>Something went wrong: {error.message}<span class="hljs-tag">&#x3C;/<span class="hljs-name">p</span>></span>
+          <span class="hljs-tag">&#x3C;<span class="hljs-name">button</span> <span class="hljs-attr">onClick</span>=<span class="hljs-string">{resetErrorBoundary}</span>></span>Try Again<span class="hljs-tag">&#x3C;/<span class="hljs-name">button</span>></span>
+        <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span>
+      )}
+    >
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">RiskyComponent</span> /></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">ErrorBoundary</span>></span></span>
+  );
+}
+</code></pre>
+<h2>Next.js 15 Key Features</h2>
+<p>Next.js 15 builds upon React 19's foundation with framework-specific features that enhance developer experience and application performance. The release focuses on three key areas: improved caching controls, asynchronous APIs, and build performance through Turbopack stability.</p>
+<h3>Turbopack Reaches Stability</h3>
+<p>Turbopack, the Rust-based successor to Webpack, is now stable and ready for production use in Next.js 15. Written in Rust, Turbopack offers significantly faster build times compared to Webpack, with cold starts up to 700x faster and hot module replacement up to 10x faster. The stability milestone means developers can confidently use Turbopack in production environments:</p>
+<pre><code class="hljs language-javascript"><span class="hljs-comment">// next.config.js</span>
+<span class="hljs-variable language_">module</span>.<span class="hljs-property">exports</span> = {
+  <span class="hljs-comment">// Enable Turbopack (now stable in Next.js 15)</span>
+  <span class="hljs-attr">experimental</span>: {
+    <span class="hljs-attr">turbo</span>: {
+      <span class="hljs-attr">rules</span>: {
+        <span class="hljs-string">'*.svg'</span>: {
+          <span class="hljs-attr">loaders</span>: [<span class="hljs-string">'@svgr/webpack'</span>],
+          <span class="hljs-attr">as</span>: <span class="hljs-string">'*.js'</span>,
+        },
+      },
+    },
+  },
+};
+</code></pre>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># Run development with Turbopack</span>
+next dev --turbo
+
+<span class="hljs-comment"># Turbopack is also used in build</span>
+next build --turbo
+</code></pre>
+<h3>Asynchronous Request APIs</h3>
+<p>Next.js 15 introduces asynchronous versions of request-specific APIs, providing a more intuitive way to access request data. The <code>cookies()</code>, <code>headers()</code>, and <code>params</code> APIs are now async, aligning with React 19's server component patterns:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-comment">// Before (Next.js 14)</span>
+<span class="hljs-keyword">import</span> { cookies } <span class="hljs-keyword">from</span> <span class="hljs-string">'next/headers'</span>;
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">Page</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">const</span> cookieStore = <span class="hljs-title function_">cookies</span>();
+  <span class="hljs-keyword">const</span> token = cookieStore.<span class="hljs-title function_">get</span>(<span class="hljs-string">'token'</span>);
+  <span class="hljs-comment">// ...</span>
+}
+
+<span class="hljs-comment">// After (Next.js 15)</span>
+<span class="hljs-keyword">import</span> { cookies } <span class="hljs-keyword">from</span> <span class="hljs-string">'next/headers'</span>;
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">Page</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">const</span> cookieStore = <span class="hljs-keyword">await</span> <span class="hljs-title function_">cookies</span>();
+  <span class="hljs-keyword">const</span> token = cookieStore.<span class="hljs-title function_">get</span>(<span class="hljs-string">'token'</span>);
+  
+  <span class="hljs-comment">// Now you can also use dynamic APIs with async/await</span>
+  <span class="hljs-keyword">const</span> session = <span class="hljs-keyword">await</span> <span class="hljs-title function_">getSession</span>(token);
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>Welcome, {session.user.name}<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>
+  );
+}
+</code></pre>
+<h3>Improved Caching Controls</h3>
+<p>Next.js 15 refines the caching behavior to be more predictable and controllable. The new <code>unstable_cache</code> API has been stabilized, and default caching behaviors have been adjusted to reduce surprising cache misses:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-keyword">import</span> { unstable_cache } <span class="hljs-keyword">from</span> <span class="hljs-string">'next/cache'</span>;
+
+<span class="hljs-comment">// Cache a data fetching function</span>
+<span class="hljs-keyword">const</span> getCachedProducts = <span class="hljs-title function_">unstable_cache</span>(
+  <span class="hljs-title function_">async</span> () => {
+    <span class="hljs-keyword">const</span> products = <span class="hljs-keyword">await</span> db.<span class="hljs-property">products</span>.<span class="hljs-title function_">findMany</span>();
+    <span class="hljs-keyword">return</span> products;
+  },
+  [<span class="hljs-string">'products'</span>], <span class="hljs-comment">// Cache key</span>
+  {
+    <span class="hljs-attr">revalidate</span>: <span class="hljs-number">3600</span>, <span class="hljs-comment">// Revalidate every hour</span>
+    <span class="hljs-attr">tags</span>: [<span class="hljs-string">'products'</span>], <span class="hljs-comment">// Tag for on-demand revalidation</span>
+  }
+);
+
+<span class="hljs-comment">// Use in a Server Component</span>
+<span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">ProductList</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">const</span> products = <span class="hljs-keyword">await</span> <span class="hljs-title function_">getCachedProducts</span>();
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">ul</span>></span>
+      {products.map(product => (
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">li</span> <span class="hljs-attr">key</span>=<span class="hljs-string">{product.id}</span>></span>{product.name}<span class="hljs-tag">&#x3C;/<span class="hljs-name">li</span>></span>
+      ))}
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">ul</span>></span></span>
+  );
+}
+
+<span class="hljs-comment">// On-demand revalidation</span>
+<span class="hljs-keyword">import</span> { revalidateTag } <span class="hljs-keyword">from</span> <span class="hljs-string">'next/cache'</span>;
+
+<span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">updateProduct</span>(<span class="hljs-params">id, data</span>) {
+  <span class="hljs-keyword">await</span> db.<span class="hljs-property">products</span>.<span class="hljs-title function_">update</span>({ <span class="hljs-attr">where</span>: { id }, data });
+  
+  <span class="hljs-comment">// Invalidate the products cache</span>
+  <span class="hljs-title function_">revalidateTag</span>(<span class="hljs-string">'products'</span>);
+}
+</code></pre>
+<h3>Enhanced App Router</h3>
+<p>The App Router continues to evolve with improvements to parallel routes, nested layouts, and loading UI patterns. These enhancements make it easier to build complex application structures while maintaining optimal user experiences:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-comment">// app/layout.js</span>
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">RootLayout</span>(<span class="hljs-params">{ children }</span>) {
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">html</span> <span class="hljs-attr">lang</span>=<span class="hljs-string">"en"</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">body</span>></span>
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">nav</span>></span>Navigation<span class="hljs-tag">&#x3C;/<span class="hljs-name">nav</span>></span>
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">main</span>></span>{children}<span class="hljs-tag">&#x3C;/<span class="hljs-name">main</span>></span>
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">footer</span>></span>Footer<span class="hljs-tag">&#x3C;/<span class="hljs-name">footer</span>></span>
+      <span class="hljs-tag">&#x3C;/<span class="hljs-name">body</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">html</span>></span></span>
+  );
+}
+
+<span class="hljs-comment">// app/dashboard/layout.js</span>
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">DashboardLayout</span>(<span class="hljs-params">{ children, analytics, settings }</span>) {
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span> <span class="hljs-attr">className</span>=<span class="hljs-string">"dashboard"</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">aside</span>></span>Dashboard Sidebar<span class="hljs-tag">&#x3C;/<span class="hljs-name">aside</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">section</span>></span>{children}<span class="hljs-tag">&#x3C;/<span class="hljs-name">section</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">section</span>></span>{analytics}<span class="hljs-tag">&#x3C;/<span class="hljs-name">section</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">section</span>></span>{settings}<span class="hljs-tag">&#x3C;/<span class="hljs-name">section</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>
+  );
+}
+
+<span class="hljs-comment">// app/dashboard/@analytics/page.js</span>
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">AnalyticsPanel</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">return</span> <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>Analytics Dashboard<span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>;
+}
+
+<span class="hljs-comment">// app/dashboard/@settings/page.js</span>
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">SettingsPanel</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">return</span> <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>Settings Panel<span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>;
+}
+</code></pre>
+<h2>Rendering Strategies in 2026</h2>
+<p>Next.js 15 and React 19 provide developers with a comprehensive toolkit of rendering strategies. Understanding when to use each strategy is crucial for building performant applications that meet both user experience and SEO requirements.</p>
+<h3>Static Site Generation (SSG)</h3>
+<p>SSG remains the optimal choice for content that doesn't change frequently. Pages are generated at build time, providing the fastest possible load times:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-comment">// app/blog/[slug]/page.js</span>
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">generateStaticParams</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">const</span> posts = <span class="hljs-keyword">await</span> <span class="hljs-title function_">getAllBlogPosts</span>();
+  
+  <span class="hljs-keyword">return</span> posts.<span class="hljs-title function_">map</span>(<span class="hljs-function"><span class="hljs-params">post</span> =></span> ({
+    <span class="hljs-attr">slug</span>: post.<span class="hljs-property">slug</span>,
+  }));
+}
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">BlogPost</span>(<span class="hljs-params">{ params }</span>) {
+  <span class="hljs-keyword">const</span> { slug } = <span class="hljs-keyword">await</span> params;
+  <span class="hljs-keyword">const</span> post = <span class="hljs-keyword">await</span> <span class="hljs-title function_">getPost</span>(slug);
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">article</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>{post.title}<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">div</span> <span class="hljs-attr">dangerouslySetInnerHTML</span>=<span class="hljs-string">{{</span> <span class="hljs-attr">__html:</span> <span class="hljs-attr">post.content</span> }} /></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">article</span>></span></span>
+  );
+}
+</code></pre>
+<h3>Server-Side Rendering (SSR)</h3>
+<p>SSR is ideal for personalized content or pages that need fresh data on every request:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-comment">// app/dashboard/page.js</span>
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">const</span> dynamic = <span class="hljs-string">'force-dynamic'</span>;
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">Dashboard</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">const</span> session = <span class="hljs-keyword">await</span> <span class="hljs-title function_">getSession</span>();
+  <span class="hljs-keyword">const</span> data = <span class="hljs-keyword">await</span> <span class="hljs-title function_">fetchDashboardData</span>(session.<span class="hljs-property">user</span>.<span class="hljs-property">id</span>);
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>Welcome, {session.user.name}<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">DashboardMetrics</span> <span class="hljs-attr">data</span>=<span class="hljs-string">{data}</span> /></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>
+  );
+}
+</code></pre>
+<h3>Incremental Static Regeneration (ISR)</h3>
+<p>ISR provides the best of both worlds: static performance with dynamic updates:</p>
+<pre><code class="hljs language-jsx"><span class="hljs-comment">// app/products/[id]/page.js</span>
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">const</span> revalidate = <span class="hljs-number">3600</span>; <span class="hljs-comment">// Revalidate every hour</span>
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">ProductPage</span>(<span class="hljs-params">{ params }</span>) {
+  <span class="hljs-keyword">const</span> { id } = <span class="hljs-keyword">await</span> params;
+  <span class="hljs-keyword">const</span> product = <span class="hljs-keyword">await</span> <span class="hljs-title function_">getProduct</span>(id);
+  
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>{product.name}<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">p</span>></span>Price: ${product.price}<span class="hljs-tag">&#x3C;/<span class="hljs-name">p</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>
+  );
+}
+</code></pre>
+<h3>Comparison Table</h3>
+<table>
+<thead>
+<tr>
+<th>Strategy</th>
+<th>Build Time</th>
+<th>Request Time</th>
+<th>Use Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SSG</td>
+<td>Static</td>
+<td>-</td>
+<td>Blogs, docs, marketing</td>
+</tr>
+<tr>
+<td>SSR</td>
+<td>-</td>
+<td>Dynamic</td>
+<td>Dashboards, profiles</td>
+</tr>
+<tr>
+<td>ISR</td>
+<td>Static + Updates</td>
+<td>-</td>
+<td>E-commerce, news</td>
+</tr>
+<tr>
+<td>CSR</td>
+<td>-</td>
+<td>Client-side</td>
+<td>Interactive apps</td>
+</tr>
+</tbody>
+</table>
+<h2>Migration Guide</h2>
+<p>Migrating to Next.js 15 and React 19 requires attention to several breaking changes and new patterns. The following guide outlines the key migration steps and considerations.</p>
+<h3>Key Breaking Changes</h3>
+<ol>
+<li>
+<p><strong>Async Request APIs</strong>: The <code>cookies()</code>, <code>headers()</code>, and <code>params</code> functions now return promises and must be awaited.</p>
+</li>
+<li>
+<p><strong>Default Caching Changes</strong>: GET fetch requests are no longer cached by default. You must explicitly opt-in to caching.</p>
+</li>
+<li>
+<p><strong>Minimum Node.js Version</strong>: Next.js 15 requires Node.js 18.18 or later.</p>
+</li>
+</ol>
+<h3>Migration Steps</h3>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># Update package.json</span>
+npm install next@15 react@19 react-dom@19
+
+<span class="hljs-comment"># Or with yarn</span>
+yarn add next@15 react@19 react-dom@19
+</code></pre>
+<pre><code class="hljs language-javascript"><span class="hljs-comment">// Update async API usage</span>
+<span class="hljs-comment">// Before</span>
+<span class="hljs-keyword">import</span> { cookies } <span class="hljs-keyword">from</span> <span class="hljs-string">'next/headers'</span>;
+<span class="hljs-keyword">const</span> token = <span class="hljs-title function_">cookies</span>().<span class="hljs-title function_">get</span>(<span class="hljs-string">'token'</span>);
+
+<span class="hljs-comment">// After</span>
+<span class="hljs-keyword">import</span> { cookies } <span class="hljs-keyword">from</span> <span class="hljs-string">'next/headers'</span>;
+<span class="hljs-keyword">const</span> token = (<span class="hljs-keyword">await</span> <span class="hljs-title function_">cookies</span>()).<span class="hljs-title function_">get</span>(<span class="hljs-string">'token'</span>);
+</code></pre>
+<h2>Performance Best Practices</h2>
+<p>Maximizing the performance benefits of Next.js 15 and React 19 requires following established best practices for data fetching, caching, and component design.</p>
+<h3>Optimizing Images</h3>
+<pre><code class="hljs language-jsx"><span class="hljs-keyword">import</span> <span class="hljs-title class_">Image</span> <span class="hljs-keyword">from</span> <span class="hljs-string">'next/image'</span>;
+
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">ProductImage</span>(<span class="hljs-params">{ src, alt }</span>) {
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">Image</span>
+      <span class="hljs-attr">src</span>=<span class="hljs-string">{src}</span>
+      <span class="hljs-attr">alt</span>=<span class="hljs-string">{alt}</span>
+      <span class="hljs-attr">width</span>=<span class="hljs-string">{500}</span>
+      <span class="hljs-attr">height</span>=<span class="hljs-string">{500}</span>
+      <span class="hljs-attr">priority</span> // <span class="hljs-attr">Load</span> <span class="hljs-attr">immediately</span> <span class="hljs-attr">for</span> <span class="hljs-attr">above-fold</span> <span class="hljs-attr">content</span>
+      <span class="hljs-attr">placeholder</span>=<span class="hljs-string">"blur"</span>
+      <span class="hljs-attr">blurDataURL</span>=<span class="hljs-string">"data:image/jpeg;base64,/9j/4AAQ..."</span>
+    /></span></span>
+  );
+}
+</code></pre>
+<h3>Optimizing Fonts</h3>
+<pre><code class="hljs language-jsx"><span class="hljs-keyword">import</span> { <span class="hljs-title class_">Inter</span> } <span class="hljs-keyword">from</span> <span class="hljs-string">'next/font/google'</span>;
+
+<span class="hljs-keyword">const</span> inter = <span class="hljs-title class_">Inter</span>({
+  <span class="hljs-attr">subsets</span>: [<span class="hljs-string">'latin'</span>],
+  <span class="hljs-attr">display</span>: <span class="hljs-string">'swap'</span>,
+  <span class="hljs-attr">variable</span>: <span class="hljs-string">'--font-inter'</span>,
+});
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">RootLayout</span>(<span class="hljs-params">{ children }</span>) {
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">html</span> <span class="hljs-attr">lang</span>=<span class="hljs-string">"en"</span> <span class="hljs-attr">className</span>=<span class="hljs-string">{inter.variable}</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">body</span> <span class="hljs-attr">className</span>=<span class="hljs-string">{inter.className}</span>></span>{children}<span class="hljs-tag">&#x3C;/<span class="hljs-name">body</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">html</span>></span></span>
+  );
+}
+</code></pre>
+<h3>Optimizing Third-Party Scripts</h3>
+<pre><code class="hljs language-jsx"><span class="hljs-keyword">import</span> <span class="hljs-title class_">Script</span> <span class="hljs-keyword">from</span> <span class="hljs-string">'next/script'</span>;
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">AnalyticsPage</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">Script</span>
+        <span class="hljs-attr">src</span>=<span class="hljs-string">"https://analytics.example.com/script.js"</span>
+        <span class="hljs-attr">strategy</span>=<span class="hljs-string">"lazyOnload"</span> // <span class="hljs-attr">Load</span> <span class="hljs-attr">after</span> <span class="hljs-attr">page</span> <span class="hljs-attr">becomes</span> <span class="hljs-attr">interactive</span>
+      /></span><span class="xml">
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>Page Content<span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span>
+    <span class="hljs-tag">&#x3C;/></span></span></span>
+  );
+}
+</code></pre>
+<blockquote>
+<p><strong>Ready to Upgrade Your Application?</strong></p>
+<p>Our team specializes in migrating applications to the latest versions of Next.js and React. We ensure smooth transitions with minimal downtime and maximum performance gains.</p>
+<p><a href="/en/contact">Contact Us</a> | <a href="/en/services/web-development">Development Services</a></p>
+</blockquote>1c:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$22"}}]]}]
+1d:["$","$L23",null,{}]
+1e:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"Related reading"}],["$","ul",null,{"children":[["$","li","flutter-mvp-development-2026",{"children":["$","$L19",null,{"href":"/en/blog/flutter-mvp-development-2026","prefetch":false,"children":"Planning a mobile MVP with Flutter"}]}],["$","li","smart-ecommerce-vs-shopify-comparison",{"children":["$","$L19",null,{"href":"/en/blog/smart-ecommerce-vs-shopify-comparison","prefetch":false,"children":"Custom e-commerce and Shopify: choosing a platform"}]}],["$","li","nextjs-vs-wordpress-comparison",{"children":["$","$L19",null,{"href":"/en/blog/nextjs-vs-wordpress-comparison","prefetch":false,"children":"Next.js and WordPress: development and publishing needs"}]}]]}],["$","$L19",null,{"className":"text-link","href":"/en/services","prefetch":false,"children":"Explore services"}]]}]
+1f:["$","$L24",null,{"publisherId":"ca-pub-2312883254868411"}]
+20:["$","$L25",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+21:["$","$L26",null,{}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#101b2b"}]]
+27:I[27201,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Next.js 15 and React 19: Revolutionary Features for Modern Web Development | Smart Team"}],["$","meta","1",{"name":"description","content":"Review the Next.js 15 and React 19 changes, including asynchronous request APIs and caching behavior. Check version-specific documentation when planning an upgrade."}],["$","link","2",{"rel":"author","href":"https://www.smart.sd/about"}],["$","meta","3",{"name":"author","content":"Smart Team"}],["$","link","4",{"rel":"manifest","href":"/site.webmanifest","crossOrigin":"$undefined"}],["$","meta","5",{"name":"creator","content":"Smart Team IT"}],["$","meta","6",{"name":"publisher","content":"Smart Team IT"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","9",{"name":"google-adsense-account","content":"ca-pub-2312883254868411"}],["$","link","10",{"rel":"canonical","href":"https://www.smart.sd/en/blog/nextjs-15-react-19-features/"}],["$","link","11",{"rel":"alternate","hrefLang":"ar","href":"https://www.smart.sd/blog/nextjs-15-react-19-features/"}],["$","link","12",{"rel":"alternate","hrefLang":"en","href":"https://www.smart.sd/en/blog/nextjs-15-react-19-features/"}],["$","link","13",{"rel":"alternate","hrefLang":"x-default","href":"https://www.smart.sd/blog/nextjs-15-react-19-features/"}],["$","link","14",{"rel":"alternate","type":"application/rss+xml","href":"https://www.smart.sd/feed.xml"}],["$","meta","15",{"property":"og:title","content":"Next.js 15 and React 19: Revolutionary Features for Modern Web Development | Smart Team"}],["$","meta","16",{"property":"og:description","content":"Review the Next.js 15 and React 19 changes, including asynchronous request APIs and caching behavior. Check version-specific documentation when planning an upgrade."}],["$","meta","17",{"property":"og:url","content":"https://www.smart.sd/en/blog/nextjs-15-react-19-features/"}],["$","meta","18",{"property":"og:site_name","content":"Smart Team"}],["$","meta","19",{"property":"og:locale","content":"en_US"}],["$","meta","20",{"property":"og:image","content":"https://www.smart.sd/blog/nextjs_react_2026_cover.png"}],["$","meta","21",{"property":"og:image:alt","content":"Next.js 15 and React 19: Revolutionary Features for Modern Web Development"}],["$","meta","22",{"property":"og:locale:alternate","content":"ar_SD"}],["$","meta","23",{"property":"og:type","content":"article"}],["$","meta","24",{"property":"article:published_time","content":"2026-01-14"}],["$","meta","25",{"property":"article:modified_time","content":"2026-11-02"}],["$","meta","26",{"property":"article:author","content":"Smart Team"}],["$","meta","27",{"property":"article:tag","content":"Development"}],["$","meta","28",{"property":"article:tag","content":"React"}],["$","meta","29",{"property":"article:tag","content":"Next.js"}],["$","meta","30",{"property":"article:tag","content":"JavaScript"}],["$","meta","31",{"property":"article:tag","content":"Web"}],["$","meta","32",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","33",{"name":"twitter:title","content":"Next.js 15 and React 19: Revolutionary Features for Modern Web Development | Smart Team"}],["$","meta","34",{"name":"twitter:description","content":"Review the Next.js 15 and React 19 changes, including asynchronous request APIs and caching behavior. Check version-specific documentation when planning an upgrade."}],["$","meta","35",{"name":"twitter:image","content":"https://www.smart.sd/blog/nextjs_react_2026_cover.png"}],["$","link","36",{"rel":"icon","href":"/favicon-16x16.png","sizes":"16x16","type":"image/png"}],["$","link","37",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","38",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L27","39",{}]]

@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+d:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+f:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+10:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T7e9,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/smart-pos-vs-square-comparison#webpage","url":"https://www.smart.sd/blog/smart-pos-vs-square-comparison","name":"نقاط البيع المخصصة وSquare: متطلبات البيع","description":"قارن نقاط بيع مخصصة وSquare وفق توافر الخدمة والأجهزة وطرق الدفع والعمل عند انقطاع الاتصال. اختبر البيع والتسوية قبل اعتماد النظام.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/smart-pos-vs-square-comparison#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/smart-pos-vs-square-comparison#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/smart-pos-vs-square-comparison#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"نقاط البيع المخصصة وSquare: متطلبات البيع","item":"https://www.smart.sd/blog/smart-pos-vs-square-comparison"}]},{"@id":"https://www.smart.sd/blog/smart-pos-vs-square-comparison#entity","inLanguage":"ar","@type":"BlogPosting","headline":"نقاط البيع المخصصة وSquare: متطلبات البيع","description":"قارن نقاط بيع مخصصة وSquare وفق توافر الخدمة والأجهزة وطرق الدفع والعمل عند انقطاع الاتصال. اختبر البيع والتسوية قبل اعتماد النظام.","datePublished":"2026-02-15","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/smart-pos-vs-square-comparison","image":"https://www.smart.sd/blog/erp-systems-optimized.webp"}]}5:T12ef,<h2>فخ الجماليات والبساطة</h2>
+<p>إذا سبق لك رؤية نظام Square، فأنت تعرف أنه جميل؛ تصميمه أبيض وبسيط، ويبدو مثالياً على طاولة مقهى في نيويورك. من الطبيعي أن يرغب رواد الأعمال الجدد في منطقتنا في الحصول على نفس المظهر لمتاجرهم أو مقاهيهم. لكن الحقيقة المرة هي: بمجرد أن تبدأ في تشغيل عملك فعلياً عليه هنا، غالباً ما يتحول حلم Square إلى صراع تقني.</p>
+<p>في <strong>سمارت تيم</strong>، قمنا ببناء <strong>Smart POS</strong> خصيصاً للتحديات الفريدة في سوق الشرق الأوسط وشمال أفريقيا. إليكم لماذا يتفوق "البطل المحلي" على "العملاق العالمي" في ملعبنا.</p>
+<h2>معركة التجزئة على أرض الواقع</h2>
+<table>
+<thead>
+<tr>
+<th>الميزة</th>
+<th>سمارت POS</th>
+<th>Square</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>المدفوعات المحلية</strong></td>
+<td>مدى، سداد، تطبيقات البنوك</td>
+<td>محدودة / تتطلب طرقاً بديلة</td>
+</tr>
+<tr>
+<td><strong>العمل بلا إنترنت</strong></td>
+<td>تشغيل كامل ومستقر</td>
+<td>وظائف محدودة جداً</td>
+</tr>
+<tr>
+<td><strong>الالتزام الضريبي</strong></td>
+<td>مدمج (فاتورة، هيئة الزكاة)</td>
+<td>يتطلب إعدادات يدوية معقدة</td>
+</tr>
+<tr>
+<td><strong>الدعم الفني</strong></td>
+<td>هاتف محلي وزيارة ميدانية</td>
+<td>شات أونلاين / توقيت أمريكا</td>
+</tr>
+<tr>
+<td><strong>الأجهزة</strong></td>
+<td>أجهزة لوحية صناعية متينة</td>
+<td>أجهزة خاصة يصعب شحنها</td>
+</tr>
+</tbody>
+</table>
+<h3>1. صداع ربط المدفوعات</h3>
+<p>أكبر قوة لـ Square هي نظام الدفع المدمج الخاص بها، وهي أيضاً أكبر نقطة ضعف لها عالمياً. في العديد من دول منطقتنا، لا يمكنك استخدام نظام دفع Square الداخلي. هذا يعني أنك ستنتهي بكابوس "الإدخال المزدوج": تكتب المبلغ في نظام الـ POS، ثم تكتبه مرة أخرى في جهاز الصراف التابع للبنك. <strong>Smart POS</strong> يتصل مباشرة بأجهزة البنك المحلية؛ عملية واحدة، سجل واحد، وبدون أخطاء بشرية.</p>
+<h3>2. عندما ينقطع الإنترنت</h3>
+<p>نحن نعرف طبيعة المنطقة؛ قد ينقطع كابل الألياف الضوئية أو تضعف إشارة الـ 5G. إذا كان نظام الـ POS الخاص بك يعتمد كلياً على السحابة مثل Square، فإن عملك يتوقف. يتميز <strong>Smart POS</strong> بخاصية "المزامنة بلا إنترنت" القوية؛ واصل مبيعاتك، خدم عملاءك، وعند عودة الإنترنت، ستتم مزامنة كل شيء بهدوء في الخلفية.</p>
+<h3>3. الامتثال الضريبي ليس خياراً</h3>
+<p>لوائح مثل "فاتورة" من هيئة الزكاة والدخل في السعودية صارمة جداً. محاولة إجبار أداة عالمية مثل Square على الامتثال للقوانين المحلية غالباً ما تتطلب إضافات (Plugins) مكلفة قد تتعطل مع أي تحديث. أما <strong>Smart POS</strong> فقد صُمم وهذه القوانين في صلبه؛ نحن نحدث النظام فور تغير القوانين، لنوفر عليك عناء القلق من الغرامات.</p>
+<h2>الخلاصة</h2>
+<p>إذا كنت تدير متجراً مؤقتاً في لندن، استخدم Square.</p>
+<p>أما إذا كنت تبني <strong>علامة تجارية مستدامة في البيع بالتجزئة أو مطعماً في الشرق الأوسط</strong>، فأنت بحاجة إلى أداة تعمل مع بنكك، وتتبع قوانين بلدك، ولديك فريق دعم يمكنك الاتصال به في أي وقت. <strong>Smart POS</strong> يمنحك الشكل الذي تطمح إليه مع الاعتمادية التي يحتاجها عملك.</p>
+<blockquote>
+<p><strong>هل تريد تحويل متجرك إلى ماكينة مبيعات ذكية؟</strong></p>
+<p>دعنا نريك كيف يمكن للتقنية المحلية أن تغير قواعد اللعبة.</p>
+<p><a href="/contact">اطلب عرضاً توضيحياً</a> | <a href="/services">حلول التجزئة الذكية</a></p>
+</blockquote>0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/smart-pos-vs-square-comparison",{"children":["$","span",null,{"aria-current":"page","children":"نقاط البيع المخصصة وSquare: متطلبات البيع"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"تقنية"}],["$","time",null,{"dateTime":"2026-02-15","children":"15 فبراير 2026"}]]}],["$","h1",null,{"children":"نقاط البيع المخصصة وSquare: متطلبات البيع"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"قارن نقاط بيع مخصصة وSquare وفق توافر الخدمة والأجهزة وطرق الدفع والعمل عند انقطاع الاتصال. اختبر البيع والتسوية قبل اعتماد النظام."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/erp-systems-optimized.webp","alt":"نقاط البيع المخصصة وSquare: متطلبات البيع","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$5"}}]]}],null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","flutter-mvp-development-2026",{"children":["$","$L3",null,{"href":"/blog/flutter-mvp-development-2026","prefetch":false,"children":"تخطيط الإصدار الأول من تطبيق الجوال باستخدام Flutter"}]}],["$","li","smart-dashboards-vs-data-studio-comparison",{"children":["$","$L3",null,{"href":"/blog/smart-dashboards-vs-data-studio-comparison","prefetch":false,"children":"لوحات البيانات المخصصة وأدوات تقارير Google"}]}],["$","li","mobile-security-vs-freelancers-comparison",{"children":["$","$L3",null,{"href":"/blog/mobile-security-vs-freelancers-comparison","prefetch":false,"children":"أمن تطبيقات الجوال: متطلبات اختيار فريق التطوير"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+7:["$","$Ld",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$Lf",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

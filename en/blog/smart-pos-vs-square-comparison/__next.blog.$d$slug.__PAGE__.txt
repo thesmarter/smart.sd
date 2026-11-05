@@ -1,0 +1,67 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+e:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+10:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+11:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T710,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/en/blog/smart-pos-vs-square-comparison#webpage","url":"https://www.smart.sd/en/blog/smart-pos-vs-square-comparison","name":"Custom POS and Square: checkout requirements","description":"Compare custom POS software and Square through local availability, hardware, payment methods and offline behavior. Test the checkout and reconciliation workflow.","inLanguage":"en","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/en/blog/smart-pos-vs-square-comparison#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/en/blog/smart-pos-vs-square-comparison#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/en/blog/smart-pos-vs-square-comparison#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.smart.sd/en"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.smart.sd/en/blog"},{"@type":"ListItem","position":3,"name":"Custom POS and Square: checkout requirements","item":"https://www.smart.sd/en/blog/smart-pos-vs-square-comparison"}]},{"@id":"https://www.smart.sd/en/blog/smart-pos-vs-square-comparison#entity","inLanguage":"en","@type":"BlogPosting","headline":"Custom POS and Square: checkout requirements","description":"Compare custom POS software and Square through local availability, hardware, payment methods and offline behavior. Test the checkout and reconciliation workflow.","datePublished":"2026-02-15","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/en/blog/smart-pos-vs-square-comparison","image":"https://www.smart.sd/blog/erp-systems-optimized.webp"}]}0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/en/blog","prefetch":false,"children":"Blog"}]}],["$","li","/blog/smart-pos-vs-square-comparison",{"children":["$","span",null,{"aria-current":"page","children":"Custom POS and Square: checkout requirements"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"Technology"}],["$","time",null,{"dateTime":"2026-02-15","children":"February 15, 2026"}]]}],["$","h1",null,{"children":"Custom POS and Square: checkout requirements"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/en/about","prefetch":false,"children":"Prepared by the Smart Team editorial team"}],[" · ","Editorial review",": ",["$","time",null,{"dateTime":"2026-11-02","children":"November 2, 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"What does this article explain?"}],["$","p",null,{"children":"Compare custom POS software and Square through local availability, hardware, payment methods and offline behavior. Test the checkout and reconciliation workflow."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/erp-systems-optimized.webp","alt":"Custom POS and Square: checkout requirements","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],"$L5",null,"$L6","$L7","$L8","$L9"]}]}]],["$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_pgeQ8kNhyQMNom7h4h5x"}
+d:Tbdc,<h2>The Aesthetic Trap</h2>
+<p>If you’ve seen Square, you know it’s beautiful. It’s sleek, it’s white, and it looks perfect on a counter in a New York City coffee shop. Naturally, many new entrepreneurs in our region want that same look for their boutique or café. But here’s the reality: once you try to actually <em>run</em> a business on it here, the "Square dream" often turns into a technical struggle.</p>
+<p>At <strong>Smart Team</strong>, we built <strong>Smart POS</strong> specifically for the unique environment of the MENA market. Here is why the "Local Hero" beats the "Global Giant" on our home turf.</p>
+<h2>Real-World Retail Battle</h2>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Smart POS</th>
+<th>Square</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Local Payments</strong></td>
+<td>Mada, Sadad, Bank Apps</td>
+<td>Limited / Workarounds Needed</td>
+</tr>
+<tr>
+<td><strong>Offline Mode</strong></td>
+<td>Fully Operational</td>
+<td>Limited Functionality</td>
+</tr>
+<tr>
+<td><strong>Tax Compliance</strong></td>
+<td>Built-in ZATCA &#x26; Regional Tax</td>
+<td>Manual Configuration</td>
+</tr>
+<tr>
+<td><strong>Customer Support</strong></td>
+<td>Local Phone &#x26; On-site</td>
+<td>Online Chat / US Timezones</td>
+</tr>
+<tr>
+<td><strong>Hardware</strong></td>
+<td>Industrial-Grade Tablets</td>
+<td>Proprietary / Hard to Ship</td>
+</tr>
+</tbody>
+</table>
+<h3>1. The Payment integration Headache</h3>
+<p>Square’s biggest strength—its integrated payment processing—is also its biggest weakness globally. In many parts of our region, you can’t use Square’s internal payments. This means you end up with a "Double Entry" nightmare: you type the amount in your POS, then type it again in your local bank terminal. <strong>Smart POS</strong> connects directly to your local bank terminals. One transaction, one record. No errors.</p>
+<h3>2. When the Internet Drops</h3>
+<p>We know how it is. Sometimes the fiber optic line gets cut, or the 5G signal dips. If your POS is entirely cloud-dependent like Square, your business stops. <strong>Smart POS</strong> features a robust "Offline Sync." You keep selling, your customers keep moving, and when the internet returns, all your data syncs silently.</p>
+<h3>3. Compliance isn't Optional</h3>
+<p>Regulations like ZATCA e-invoicing in Saudi Arabia are strict. Trying to force a global tool like Square to comply with local tax laws often requires expensive plugins that break during updates. <strong>Smart POS</strong> is built with these laws as its foundation. We update the software whenever the law changes, so you don't have to worry about fines.</p>
+<h2>The Verdict</h2>
+<p>If you are running a pop-up shop in London, use Square.</p>
+<p>But if you are building a <strong>sustainable retail brand or restaurant in the Middle East</strong>, you need a tool that works with your banks, follows your laws, and has a support team you can call on a Tuesday afternoon. <strong>Smart POS</strong> provides the look you want with the reliability you <em>need</em>.</p>5:["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$d"}}]]}]
+6:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"Related reading"}],["$","ul",null,{"children":[["$","li","flutter-mvp-development-2026",{"children":["$","$L3",null,{"href":"/en/blog/flutter-mvp-development-2026","prefetch":false,"children":"Planning a mobile MVP with Flutter"}]}],["$","li","smart-dashboards-vs-data-studio-comparison",{"children":["$","$L3",null,{"href":"/en/blog/smart-dashboards-vs-data-studio-comparison","prefetch":false,"children":"Custom dashboards and Google reporting tools"}]}],["$","li","mobile-security-vs-freelancers-comparison",{"children":["$","$L3",null,{"href":"/en/blog/mobile-security-vs-freelancers-comparison","prefetch":false,"children":"Mobile app security: requirements for choosing a developer"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/en/services","prefetch":false,"children":"Explore services"}]]}]
+7:["$","$Le",null,{"publisherId":"ca-pub-2312883254868411"}]
+8:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+9:["$","$L10",null,{}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

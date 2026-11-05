@@ -1,0 +1,119 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0x930e0hj6.tc.js"],""]
+4:I[32195,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0x930e0hj6.tc.js"],"ProjectDetail"]
+a:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+2:T5e6,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/en/portfolio/foodk-delivery#webpage","url":"https://www.smart.sd/en/portfolio/foodk-delivery","name":"FoodK - Food Delivery App","description":"FoodK connects restaurant branches, customers and delivery staff through ordering apps, delivery tracking and Laravel management panels.","inLanguage":"en","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/en/portfolio/foodk-delivery#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/en/portfolio/foodk-delivery#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/en/portfolio/foodk-delivery#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.smart.sd/en"},{"@type":"ListItem","position":2,"name":"Portfolio","item":"https://www.smart.sd/en/portfolio"},{"@type":"ListItem","position":3,"name":"FoodK - Food Delivery App","item":"https://www.smart.sd/en/portfolio/foodk-delivery"}]},{"@id":"https://www.smart.sd/en/portfolio/foodk-delivery#entity","inLanguage":"en","@type":"CreativeWork","name":"FoodK - Food Delivery App","description":"FoodK connects restaurant branches, customers and delivery staff through ordering apps, delivery tracking and Laravel management panels.","creator":{"@id":"https://www.smart.sd/#organization"},"dateCreated":"2022-06-07","dateModified":"2026-11-02","genre":"mobile","image":"https://www.smart.sd/portfolio/foodk-1-optimized.webp"}]}5:T1e89,<h2>Project brief</h2>
+<p>FoodK combines customer ordering, restaurant operations and delivery work in one product. The project covers the customer-facing website and app, a separate delivery app, restaurant tools and a Laravel administration panel. Its gallery documents menu browsing, item selection, checkout and delivery-related screens in light and dark interface variants.</p>
+<h2>Users and responsibilities</h2>
+<ul>
+<li>Customers browse restaurants and menus, choose item options, place orders and follow delivery progress.</li>
+<li>Restaurant staff maintain branch menus and process incoming orders.</li>
+<li>Delivery staff receive assigned orders, use navigation information and review delivery earnings.</li>
+<li>Platform administrators manage the system through the Laravel panel.</li>
+</ul>
+<p>Keeping these roles separate matters because each one needs different data and actions. A customer should not see restaurant controls, and a driver should only receive the information needed for an assigned delivery.</p>
+<h2>Delivered scope</h2>
+<ul>
+<li>Customer mobile app and ordering website.</li>
+<li>Menu, category, product-option, cart and checkout interfaces.</li>
+<li>Delivery app for assignments, navigation and earnings.</li>
+<li>Restaurant panel for menus, orders and multiple branches.</li>
+<li>Laravel administration panel for system management.</li>
+<li>Order notifications, ratings and payment integrations.</li>
+</ul>
+<h2>Core order workflow</h2>
+<p>The customer selects a restaurant, browses its menu and adds configured items to the cart. Checkout collects the order and payment details. The restaurant then handles the order through its operational view, while the delivery app gives the assigned driver the delivery information. Customer notifications and tracking screens cover the order after checkout, and rating screens collect feedback at the end of the flow.</p>
+<h2>Implementation decisions</h2>
+<p>A production setup needs written rules for delivery areas, branch availability, item options, fees and order states. Multi-branch operation also needs a clear source for each branch's menu and availability. Payment methods depend on the selected provider, supported country and merchant account, so the integration must be confirmed before it appears as an available checkout option.</p>
+<h2>Verification and handoff</h2>
+<p>Testing should cover the same order across all roles. Verify the price and selected options in the cart, the branch that receives the order, every status change, driver assignment, customer notifications and the final order record. Payment failures, cancelled orders and unavailable items also need agreed behaviour. The screenshots document the interface, but each new deployment needs its own provider credentials, branch data and device testing.</p>
+<h2>Possible next phase</h2>
+<p>A later phase can add new branches, delivery areas, payment providers or operational reports after the current order flow is verified. Each addition should name the team that owns its data and the acceptance checks required before release.</p>
+<p>Explore our <a href="/services/mobile-development">mobile app development</a> and <a href="/services/fintech-payment">payment integration</a> services.</p>
+<hr>
+<h2>ملخص المشروع</h2>
+<p>يجمع فودك طلبات العملاء وتشغيل المطاعم وعمل التوصيل في منتج واحد. يشمل المشروع موقعًا وتطبيقًا للعملاء وتطبيقًا منفصلًا للتوصيل وأدوات للمطعم ولوحة إدارة مبنية باستخدام Laravel. توثّق الصور تصفح القوائم واختيار الإضافات والسلة والدفع وشاشات مرتبطة بالتوصيل، مع نمطين فاتح ومظلم للواجهة.</p>
+<h2>المستخدمون والمسؤوليات</h2>
+<ul>
+<li>يتصفح العميل المطاعم والقوائم ويحدد خيارات الصنف ويطلب ويتابع التوصيل.</li>
+<li>يدير موظف المطعم قوائم الفروع ويتعامل مع الطلبات الواردة.</li>
+<li>يستقبل موظف التوصيل المهام المسندة ويستخدم معلومات الملاحة ويراجع أرباح التوصيل.</li>
+<li>يدير مسؤول المنصة النظام من خلال لوحة Laravel.</li>
+</ul>
+<p>يفصل النظام بين هذه الأدوار لأن كل مستخدم يحتاج إلى بيانات وصلاحيات مختلفة. لا يحتاج العميل إلى أدوات المطعم، ولا ينبغي للسائق الاطلاع إلا على المعلومات اللازمة للتوصيل المسند إليه.</p>
+<h2>النطاق المنفذ</h2>
+<ul>
+<li>تطبيق للعملاء وموقع للطلب.</li>
+<li>واجهات للقوائم والتصنيفات وخيارات الأصناف والسلة وإتمام الطلب.</li>
+<li>تطبيق للتوصيل يعرض المهام والملاحة والأرباح.</li>
+<li>لوحة للمطعم لإدارة القوائم والطلبات والفروع المتعددة.</li>
+<li>لوحة إدارة للنظام مبنية باستخدام Laravel.</li>
+<li>إشعارات للطلبات وتقييمات وتكاملات للدفع.</li>
+</ul>
+<h2>مسار الطلب</h2>
+<p>يختار العميل المطعم ويتصفح قائمته ويضيف الأصناف بخياراتها إلى السلة. تجمع شاشة إتمام الطلب بيانات الطلب والدفع. يتعامل المطعم بعد ذلك مع الطلب من واجهته التشغيلية، ويعرض تطبيق التوصيل معلومات المهمة للسائق المسند إليه الطلب. تغطي الإشعارات وشاشات التتبع مرحلة ما بعد الطلب، وتجمع شاشات التقييم الملاحظات في نهاية المسار.</p>
+<h2>قرارات التنفيذ</h2>
+<p>يحتاج التشغيل الفعلي إلى قواعد مكتوبة لمناطق التوصيل وتوفر كل فرع وخيارات الأصناف والرسوم وحالات الطلب. كما يتطلب العمل بفروع متعددة تحديد المصدر المسؤول عن قائمة كل فرع وتوفر الأصناف لديه. تعتمد وسائل الدفع على المزود والدولة وحساب التاجر، لذلك يجب اعتماد التكامل قبل إظهاره كخيار متاح للعميل.</p>
+<h2>التحقق والتسليم</h2>
+<p>يجب اختبار الطلب نفسه عبر جميع الأدوار. يشمل ذلك السعر والخيارات في السلة والفرع الذي يستقبل الطلب وكل تغيير في الحالة وإسناد السائق وإشعارات العميل والسجل النهائي للطلب. تحتاج حالات فشل الدفع والإلغاء وعدم توفر الصنف إلى سلوك متفق عليه. توثّق الصور الواجهة، لكن كل تشغيل جديد يحتاج إلى بيانات الفروع وبيانات اعتماد المزود واختبارات على الأجهزة المستهدفة.</p>
+<h2>مرحلة لاحقة محتملة</h2>
+<p>يمكن أن تضيف مرحلة لاحقة فروعًا أو مناطق توصيل أو مزودي دفع أو تقارير تشغيلية بعد التحقق من مسار الطلب الحالي. يجب أن يحدد نطاق كل إضافة الفريق المسؤول عن بياناتها واختبارات القبول المطلوبة قبل الإطلاق.</p>
+<p>تعرّف على خدمات <a href="/services/mobile-development">تطوير تطبيقات الجوال</a> و<a href="/services/fintech-payment">تكامل الدفع</a>.</p>6:Tcae,<h2>Project brief</h2>
+<p>FoodK combines customer ordering, restaurant operations and delivery work in one product. The project covers the customer-facing website and app, a separate delivery app, restaurant tools and a Laravel administration panel. Its gallery documents menu browsing, item selection, checkout and delivery-related screens in light and dark interface variants.</p>
+<h2>Users and responsibilities</h2>
+<ul>
+<li>Customers browse restaurants and menus, choose item options, place orders and follow delivery progress.</li>
+<li>Restaurant staff maintain branch menus and process incoming orders.</li>
+<li>Delivery staff receive assigned orders, use navigation information and review delivery earnings.</li>
+<li>Platform administrators manage the system through the Laravel panel.</li>
+</ul>
+<p>Keeping these roles separate matters because each one needs different data and actions. A customer should not see restaurant controls, and a driver should only receive the information needed for an assigned delivery.</p>
+<h2>Delivered scope</h2>
+<ul>
+<li>Customer mobile app and ordering website.</li>
+<li>Menu, category, product-option, cart and checkout interfaces.</li>
+<li>Delivery app for assignments, navigation and earnings.</li>
+<li>Restaurant panel for menus, orders and multiple branches.</li>
+<li>Laravel administration panel for system management.</li>
+<li>Order notifications, ratings and payment integrations.</li>
+</ul>
+<h2>Core order workflow</h2>
+<p>The customer selects a restaurant, browses its menu and adds configured items to the cart. Checkout collects the order and payment details. The restaurant then handles the order through its operational view, while the delivery app gives the assigned driver the delivery information. Customer notifications and tracking screens cover the order after checkout, and rating screens collect feedback at the end of the flow.</p>
+<h2>Implementation decisions</h2>
+<p>A production setup needs written rules for delivery areas, branch availability, item options, fees and order states. Multi-branch operation also needs a clear source for each branch's menu and availability. Payment methods depend on the selected provider, supported country and merchant account, so the integration must be confirmed before it appears as an available checkout option.</p>
+<h2>Verification and handoff</h2>
+<p>Testing should cover the same order across all roles. Verify the price and selected options in the cart, the branch that receives the order, every status change, driver assignment, customer notifications and the final order record. Payment failures, cancelled orders and unavailable items also need agreed behaviour. The screenshots document the interface, but each new deployment needs its own provider credentials, branch data and device testing.</p>
+<h2>Possible next phase</h2>
+<p>A later phase can add new branches, delivery areas, payment providers or operational reports after the current order flow is verified. Each addition should name the team that owns its data and the acceptance checks required before release.</p>
+<p>Explore our <a href="/services/mobile-development">mobile app development</a> and <a href="/services/fintech-payment">payment integration</a> services.</p>7:T11d5,<h2>ملخص المشروع</h2>
+<p>يجمع فودك طلبات العملاء وتشغيل المطاعم وعمل التوصيل في منتج واحد. يشمل المشروع موقعًا وتطبيقًا للعملاء وتطبيقًا منفصلًا للتوصيل وأدوات للمطعم ولوحة إدارة مبنية باستخدام Laravel. توثّق الصور تصفح القوائم واختيار الإضافات والسلة والدفع وشاشات مرتبطة بالتوصيل، مع نمطين فاتح ومظلم للواجهة.</p>
+<h2>المستخدمون والمسؤوليات</h2>
+<ul>
+<li>يتصفح العميل المطاعم والقوائم ويحدد خيارات الصنف ويطلب ويتابع التوصيل.</li>
+<li>يدير موظف المطعم قوائم الفروع ويتعامل مع الطلبات الواردة.</li>
+<li>يستقبل موظف التوصيل المهام المسندة ويستخدم معلومات الملاحة ويراجع أرباح التوصيل.</li>
+<li>يدير مسؤول المنصة النظام من خلال لوحة Laravel.</li>
+</ul>
+<p>يفصل النظام بين هذه الأدوار لأن كل مستخدم يحتاج إلى بيانات وصلاحيات مختلفة. لا يحتاج العميل إلى أدوات المطعم، ولا ينبغي للسائق الاطلاع إلا على المعلومات اللازمة للتوصيل المسند إليه.</p>
+<h2>النطاق المنفذ</h2>
+<ul>
+<li>تطبيق للعملاء وموقع للطلب.</li>
+<li>واجهات للقوائم والتصنيفات وخيارات الأصناف والسلة وإتمام الطلب.</li>
+<li>تطبيق للتوصيل يعرض المهام والملاحة والأرباح.</li>
+<li>لوحة للمطعم لإدارة القوائم والطلبات والفروع المتعددة.</li>
+<li>لوحة إدارة للنظام مبنية باستخدام Laravel.</li>
+<li>إشعارات للطلبات وتقييمات وتكاملات للدفع.</li>
+</ul>
+<h2>مسار الطلب</h2>
+<p>يختار العميل المطعم ويتصفح قائمته ويضيف الأصناف بخياراتها إلى السلة. تجمع شاشة إتمام الطلب بيانات الطلب والدفع. يتعامل المطعم بعد ذلك مع الطلب من واجهته التشغيلية، ويعرض تطبيق التوصيل معلومات المهمة للسائق المسند إليه الطلب. تغطي الإشعارات وشاشات التتبع مرحلة ما بعد الطلب، وتجمع شاشات التقييم الملاحظات في نهاية المسار.</p>
+<h2>قرارات التنفيذ</h2>
+<p>يحتاج التشغيل الفعلي إلى قواعد مكتوبة لمناطق التوصيل وتوفر كل فرع وخيارات الأصناف والرسوم وحالات الطلب. كما يتطلب العمل بفروع متعددة تحديد المصدر المسؤول عن قائمة كل فرع وتوفر الأصناف لديه. تعتمد وسائل الدفع على المزود والدولة وحساب التاجر، لذلك يجب اعتماد التكامل قبل إظهاره كخيار متاح للعميل.</p>
+<h2>التحقق والتسليم</h2>
+<p>يجب اختبار الطلب نفسه عبر جميع الأدوار. يشمل ذلك السعر والخيارات في السلة والفرع الذي يستقبل الطلب وكل تغيير في الحالة وإسناد السائق وإشعارات العميل والسجل النهائي للطلب. تحتاج حالات فشل الدفع والإلغاء وعدم توفر الصنف إلى سلوك متفق عليه. توثّق الصور الواجهة، لكن كل تشغيل جديد يحتاج إلى بيانات الفروع وبيانات اعتماد المزود واختبارات على الأجهزة المستهدفة.</p>
+<h2>مرحلة لاحقة محتملة</h2>
+<p>يمكن أن تضيف مرحلة لاحقة فروعًا أو مناطق توصيل أو مزودي دفع أو تقارير تشغيلية بعد التحقق من مسار الطلب الحالي. يجب أن يحدد نطاق كل إضافة الفريق المسؤول عن بياناتها واختبارات القبول المطلوبة قبل الإطلاق.</p>
+<p>تعرّف على خدمات <a href="/services/mobile-development">تطوير تطبيقات الجوال</a> و<a href="/services/fintech-payment">تكامل الدفع</a>.</p>0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"Breadcrumb","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/en","prefetch":false,"children":"Home"}]}],["$","li","/portfolio",{"children":["$","$L3",null,{"href":"/en/portfolio","prefetch":false,"children":"Portfolio"}]}],["$","li","/portfolio/foodk-delivery",{"children":["$","span",null,{"aria-current":"page","children":"FoodK - Food Delivery App"}]}]]}]}]],["$","$L4",null,{"project":{"slug":"foodk-delivery","contentHtml":"$5","contentHtmlEn":"$6","contentHtmlAr":"$7","title":"FoodK - Food Delivery App","titleAr":"فودك - تطبيق توصيل الطعام","category":"mobile","categoryAr":"تطبيقات جوال","client":"Smart Sales","date":"2022-06-07","url":"https://www.smart.sd","image":"/portfolio/foodk-1-optimized.webp","images":["/portfolio/foodk-1-optimized.webp","/portfolio/foodk-2-optimized.webp","/portfolio/foodk-3.png","/portfolio/foodk-4-optimized.webp","/portfolio/foodk-5-optimized.webp","/portfolio/foodk-6-optimized.webp"],"description":"FoodK connects restaurant branches, customers and delivery staff through ordering apps, delivery tracking and Laravel management panels.","descriptionAr":"يربط فودك فروع المطاعم والعملاء وموظفي التوصيل عبر تطبيقات الطلب وتتبع التوصيل ولوحات إدارة مبنية باستخدام Laravel.","lastModified":"2026-11-02"}}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_pgeQ8kNhyQMNom7h4h5x"}
+8:["$","script","script-0",{"src":"/_next/static/chunks/0x930e0hj6.tc.js","async":true}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

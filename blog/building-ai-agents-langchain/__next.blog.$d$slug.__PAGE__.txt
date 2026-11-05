@@ -1,0 +1,262 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],""]
+4:I[5500,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"Image"]
+e:I[73855,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+f:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"GoogleAdSense"]
+10:I[72632,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"AdUnit"]
+11:I[22475,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0iecrgrfwb1vj.js"],"default"]
+12:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+:HL["/_next/static/chunks/0f.j-ezqifxhv.css","style"]
+2:T7fb,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/blog/building-ai-agents-langchain#webpage","url":"https://www.smart.sd/blog/building-ai-agents-langchain","name":"بناء وكلاء LangChain: الأدوات والتقييم والتشغيل","description":"يجمع LangChain النماذج والأدوات والبرمجيات الوسيطة لبناء الوكلاء. تعرّف على تحديد المهمة وضبط الوصول واختبار النتائج وتجهيز التشغيل.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/blog/building-ai-agents-langchain#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/blog/building-ai-agents-langchain#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/blog/building-ai-agents-langchain#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"المدونة","item":"https://www.smart.sd/blog"},{"@type":"ListItem","position":3,"name":"بناء وكلاء LangChain: الأدوات والتقييم والتشغيل","item":"https://www.smart.sd/blog/building-ai-agents-langchain"}]},{"@id":"https://www.smart.sd/blog/building-ai-agents-langchain#entity","inLanguage":"ar","@type":"BlogPosting","headline":"بناء وكلاء LangChain: الأدوات والتقييم والتشغيل","description":"يجمع LangChain النماذج والأدوات والبرمجيات الوسيطة لبناء الوكلاء. تعرّف على تحديد المهمة وضبط الوصول واختبار النتائج وتجهيز التشغيل.","datePublished":"2026-01-15","dateModified":"2026-11-02","author":{"@id":"https://www.smart.sd/#organization"},"publisher":{"@id":"https://www.smart.sd/#organization"},"mainEntityOfPage":"https://www.smart.sd/blog/building-ai-agents-langchain","image":"https://www.smart.sd/blog/ai_agents_langchain_cover.png"}]}5:T4759,<h2>مقدمة في وكلاء الذكاء الاصطناعي</h2>
+<p>يمثل وكلاء الذكاء الاصطناعي أحد أهم الاختراقات في تقنية الذكاء الاصطناعي، حيث يحولون طريقة أتمتة الشركات للعمليات المعقدة وتقديم الحلول الذكية. على عكس البرامج التقليدية التي تتبع قواعد محددة مسبقاً، فإن وكلاء الذكاء الاصطناعي هم أنظمة مستقلة قادرة على إدراك بيئتها، واتخاذ القرارات، واتخاذ الإجراءات لتحقيق أهداف محددة بأقل تدخل بشري. يستفيد هؤلاء الوكلاء الأذكياء من النماذج اللغوية الكبيرة (LLMs) كمحرك استدلالي، مما يمكنهم من فهم اللغة الطبيعية، وتخطيط المهام متعددة الخطوات، والتكيف مع الظروف المتغيرة في الوقت الفعلي.</p>
+<p>أدى صعود وكلاء الذكاء الاصطناعي إلى التقدم السريع في النماذج اللغوية الكبيرة مثل GPT-4 و Claude و Llama، التي توفر الأساس المعرفي لهذه الأنظمة. برز LangChain، وهو إطار عمل مفتوح المصدر، كمعيار فعلي لبناء وكلاء الذكاء الاصطناعي، حيث يوفر للمطورين مجموعة أدوات شاملة لإنشاء ونشر وإدارة التطبيقات القائمة على الوكلاء. يوفر الإطار مكونات جاهزة، وتكاملات مع مزودي LLM الرئيسيين، وبنية معيارية تبسط عملية التطوير مع الحفاظ على المرونة للتخصيص.</p>
+<h3>لماذا يعتبر وكلاء الذكاء الاصطناعي مهمين في 2026</h3>
+<p>يتطلب المشهد التجاري في عام 2026 حلول أتمتة تتجاوز الأنظمة البسيطة القائمة على القواعد. تواجه المؤسسات تحديات متزايدة التعقيد تتطلب أتمتة ذكية قادرة على التعامل مع الغموض، والتعلم من التفاعلات، والتعاون مع العمال البشريين. يعالج وكلاء الذكاء الاصطناعي هذه الاحتياجات من خلال الجمع بين قدرات الاستدلال للنماذج اللغوية الكبيرة مع الأدوات والتكاملات العملية التي تمكن من العمل في العالم الحقيقي. وفقاً لتقارير صناعية حديثة، من المتوقع أن ينمو سوق وكلاء الذكاء الاصطناعي بمعدل نمو سنوي مركب يتجاوز 40٪ حتى عام 2030، مدفوعاً بالتبني في خدمة العملاء، وتطوير البرمجيات، والبحث، وإدارة العمليات.</p>
+<h2>فهم بنية LangChain</h2>
+<p>يوفر LangChain إطاراً شاملاً مصمماً خصيصاً لبناء التطبيقات المدعومة بالنماذج اللغوية. تتبع البنية فلسفة تصميم معيارية، مما يسمح للمطورين بتجميع المكونات مثل لبنات البناء لإنشاء أنظمة ذكاء اصطناعي متطورة. في جوهره، يُجرد LangChain تعقيد العمل المباشر مع واجهات برمجة تطبيقات LLM مع توفير المرونة اللازمة لحالات الاستخدام المتقدمة. فهم المكونات الرئيسية لـ LangChain ضروري لبناء وكلاء ذكاء اصطناعي فعالين.</p>
+<h3>المكونات الأساسية</h3>
+<p>يتكون الإطار من عدة مكونات مترابطة تعمل معاً لإنشاء أنظمة وكلاء ذكية. يخدم كل مكون غرضاً محدداً ويمكن تخصيصه أو توسيعه بناءً على متطلبات التطبيق:</p>
+<table>
+<thead>
+<tr>
+<th>المكون</th>
+<th>الوصف</th>
+<th>حالة الاستخدام</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>النماذج</strong></td>
+<td>واجهات LLM ونماذج التضمين</td>
+<td>تكامل GPT-4، Claude، Llama</td>
+</tr>
+<tr>
+<td><strong>المطالبات</strong></td>
+<td>إدارة القوالب والتحسين</td>
+<td>مطالبات النظام، أمثلة few-shot</td>
+</tr>
+<tr>
+<td><strong>الذاكرة</strong></td>
+<td>استمرارية المحادثة والسياق</td>
+<td>سجل المحادثة، تفضيلات المستخدم</td>
+</tr>
+<tr>
+<td><strong>الفهارس</strong></td>
+<td>استرجاع المستندات ومخازن المتجهات</td>
+<td>RAG، البحث في قاعدة المعرفة</td>
+</tr>
+<tr>
+<td><strong>السلاسل</strong></td>
+<td>تسلسل العمليات</td>
+<td>سير العمل متعدد الخطوات</td>
+</tr>
+<tr>
+<td><strong>الوكلاء</strong></td>
+<td>اتخاذ القرار الديناميكي</td>
+<td>اختيار الأدوات، تخطيط المهام</td>
+</tr>
+</tbody>
+</table>
+<h3>حلقة الوكيل</h3>
+<p>يعمل وكلاء الذكاء الاصطناعي في LangChain من خلال حلقة مستمرة من الإدراك، والاستدلال، والعمل. تُعرف هذه الحلقة، غالباً باسم نمط "الاستدلال والعمل" (ReAct)، بتمكين الوكلاء من تقسيم المهام المعقدة إلى خطوات قابلة للإدارة، وتنفيذ الإجراءات باستخدام الأدوات المتاحة، ودمج التغذية الراجعة لتحسين نهجهم. تبدأ حلقة الوكيل باستلام الوكيل استفساراً أو مهمة من المستخدم، يليه تحليل الوكيل للطلب وتحديد الأدوات أو الإجراءات المطلوبة. ثم ينفذ الوكيل الإجراءات المحددة، ويراقب النتائج، ويكرر العملية حتى تكتمل المهمة أو يحدد الوكيل أنه يحتاج إلى معلومات إضافية.</p>
+<h2>الخطوة 1: إعداد بيئة التطوير</h2>
+<p>قبل بناء وكلاء الذكاء الاصطناعي، تحتاج إلى إعداد بيئة تطوير مناسبة مع جميع التبعيات اللازمة. يرشدك هذا القسم خلال عملية التثبيت وخطوات التكوين المطلوبة للبدء في البناء مع LangChain.</p>
+<h3>متطلبات التثبيت</h3>
+<p>أولاً، تأكد من تثبيت Python 3.10 أو أحدث على نظامك. يدعم LangChain كلاً من Python و JavaScript، لكن Python تظل اللغة الأساسية لتطوير الوكلاء نظراً لنظامها البيئي الواسع وأدوات ML. أنشئ بيئة افتراضية لعزل تبعيات مشروعك:</p>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># إنشاء بيئة افتراضية</span>
+python -m venv langchain-env
+
+<span class="hljs-comment"># التفعيل على macOS/Linux</span>
+<span class="hljs-built_in">source</span> langchain-env/bin/activate
+
+<span class="hljs-comment"># التفعيل على Windows</span>
+langchain-env\Scripts\activate
+
+<span class="hljs-comment"># تثبيت LangChain والتبعيات</span>
+pip install langchain langchain-openai langchain-community
+pip install python-dotenv tiktoken chromadb
+</code></pre>
+<h3>تكوين البيئة</h3>
+<p>خزن مفاتيح API والتكوين بشكل آمن باستخدام متغيرات البيئة. أنشئ ملف <code>.env</code> في جذر مشروعك:</p>
+<pre><code class="hljs language-bash"><span class="hljs-comment"># ملف .env</span>
+OPENAI_API_KEY=مفتاح_openai_الخاص_بك
+ANTHROPIC_API_KEY=مفتاح_anthropic_الخاص_بك
+LANGCHAIN_TRACING_V2=<span class="hljs-literal">true</span>
+LANGCHAIN_API_KEY=مفتاح_langsmith_الخاص_بك
+</code></pre>
+<h2>الخطوة 2: بناء وكيلك الأول</h2>
+<p>الآن بعد تكوين بيئتك، لنبن وكيل ذكاء اصطناعي بسيط يمكنه الإجابة على الأسئلة وأداء المهام الأساسية. سنبدأ بوكيل محادثي يستخدم نموذج GPT-4 من OpenAI كأساس له.</p>
+<h3>تنفيذ الوكيل الأساسي</h3>
+<pre><code class="hljs language-python"><span class="hljs-keyword">from</span> langchain_openai <span class="hljs-keyword">import</span> ChatOpenAI
+<span class="hljs-keyword">from</span> langchain.agents <span class="hljs-keyword">import</span> AgentExecutor, create_tool_calling_agent
+<span class="hljs-keyword">from</span> langchain_core.prompts <span class="hljs-keyword">import</span> ChatPromptTemplate
+<span class="hljs-keyword">from</span> langchain_core.tools <span class="hljs-keyword">import</span> tool
+
+<span class="hljs-comment"># تهيئة النموذج اللغوي</span>
+llm = ChatOpenAI(
+    model=<span class="hljs-string">"gpt-4-turbo-preview"</span>,
+    temperature=<span class="hljs-number">0.7</span>
+)
+
+<span class="hljs-comment"># تحديد أدوات مخصصة</span>
+<span class="hljs-meta">@tool</span>
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">get_current_weather</span>(<span class="hljs-params">location: <span class="hljs-built_in">str</span></span>) -> <span class="hljs-built_in">str</span>:
+    <span class="hljs-string">"""الحصول على الطقس الحالي لموقع معين."""</span>
+    <span class="hljs-comment"># في الإنتاج، التكامل مع API طقس حقيقي</span>
+    <span class="hljs-keyword">return</span> <span class="hljs-string">f"الطقس في <span class="hljs-subst">{location}</span> مشمس ودرجة الحرارة 22°C"</span>
+
+<span class="hljs-meta">@tool</span>
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">calculate</span>(<span class="hljs-params">expression: <span class="hljs-built_in">str</span></span>) -> <span class="hljs-built_in">str</span>:
+    <span class="hljs-string">"""تقييم تعبير رياضي."""</span>
+    <span class="hljs-keyword">try</span>:
+        result = <span class="hljs-built_in">eval</span>(expression)
+        <span class="hljs-keyword">return</span> <span class="hljs-string">f"النتيجة: <span class="hljs-subst">{result}</span>"</span>
+    <span class="hljs-keyword">except</span> Exception <span class="hljs-keyword">as</span> e:
+        <span class="hljs-keyword">return</span> <span class="hljs-string">f"خطأ: <span class="hljs-subst">{<span class="hljs-built_in">str</span>(e)}</span>"</span>
+
+<span class="hljs-comment"># إنشاء قائمة الأدوات</span>
+tools = [get_current_weather, calculate]
+
+<span class="hljs-comment"># إنشاء قالب المطالبة</span>
+prompt = ChatPromptTemplate.from_messages([
+    (<span class="hljs-string">"system"</span>, <span class="hljs-string">"أنت مساعد ذكاء اصطناعي مفيد لديه إمكانية الوصول إلى الأدوات."</span>),
+    (<span class="hljs-string">"human"</span>, <span class="hljs-string">"{input}"</span>),
+    (<span class="hljs-string">"placeholder"</span>, <span class="hljs-string">"{agent_scratchpad}"</span>)
+])
+
+<span class="hljs-comment"># إنشاء الوكيل</span>
+agent = create_tool_calling_agent(llm, tools, prompt)
+
+<span class="hljs-comment"># إنشاء منفذ الوكيل</span>
+agent_executor = AgentExecutor(
+    agent=agent,
+    tools=tools,
+    verbose=<span class="hljs-literal">True</span>,
+    max_iterations=<span class="hljs-number">10</span>
+)
+
+<span class="hljs-comment"># تشغيل الوكيل</span>
+result = agent_executor.invoke({
+    <span class="hljs-string">"input"</span>: <span class="hljs-string">"ما الطقس في دبي وما ناتج 15 * 7؟"</span>
+})
+
+<span class="hljs-built_in">print</span>(result[<span class="hljs-string">"output"</span>])
+</code></pre>
+<h2>الخطوة 3: إضافة الذاكرة والسياق</h2>
+<p>يحتاج وكلاء الذكاء الاصطناعي في العالم الحقيقي إلى الحفاظ على السياق عبر تفاعلات متعددة. يوفر LangChain عدة مكونات ذاكرة تمكن الوكلاء من تذكر المحادثات السابقة، وتفضيلات المستخدم، وسجل المهام. تضيف إضافة الذاكرة تحول الوكيل من نظام بدون حالة إلى شريك محادثة قادر على تفاعلات متماسكة وواعية بالسياق.</p>
+<h3>ذاكرة المحادثة</h3>
+<pre><code class="hljs language-python"><span class="hljs-keyword">from</span> langchain.memory <span class="hljs-keyword">import</span> ConversationBufferMemory
+<span class="hljs-keyword">from</span> langchain.agents <span class="hljs-keyword">import</span> AgentExecutor, create_tool_calling_agent
+
+<span class="hljs-comment"># إنشاء مكون الذاكرة</span>
+memory = ConversationBufferMemory(
+    memory_key=<span class="hljs-string">"chat_history"</span>,
+    return_messages=<span class="hljs-literal">True</span>
+)
+
+<span class="hljs-comment"># تحديث المطالبة لتشمل الذاكرة</span>
+prompt = ChatPromptTemplate.from_messages([
+    (<span class="hljs-string">"system"</span>, <span class="hljs-string">"أنت مساعد ذكاء اصطناعي مفيد."</span>),
+    (<span class="hljs-string">"placeholder"</span>, <span class="hljs-string">"{chat_history}"</span>),
+    (<span class="hljs-string">"human"</span>, <span class="hljs-string">"{input}"</span>),
+    (<span class="hljs-string">"placeholder"</span>, <span class="hljs-string">"{agent_scratchpad}"</span>)
+])
+
+<span class="hljs-comment"># إنشاء وكيل مع ذاكرة</span>
+agent = create_tool_calling_agent(llm, tools, prompt)
+
+agent_executor = AgentExecutor(
+    agent=agent,
+    tools=tools,
+    memory=memory,
+    verbose=<span class="hljs-literal">True</span>
+)
+</code></pre>
+<h2>الخطوة 4: بناء وكيل مدعوم بـ RAG</h2>
+<p>الاسترجاع المعزز بالتوليد (RAG) هو تقنية قوية تجمع بين قدرات الاستدلال لـ LLMs مع قدرات استرجاع المعرفة لقواعد البيانات المتجهة. يمكن للوكلاء المدعومين بـ RAG الوصول والاستدلال على مجموعات مستندات كبيرة، مما يجعلها مثالية للتطبيقات المكثفة المعرفية مثل دعم العملاء، ومساعدة البحث، والبحث في الوثائق.</p>
+<h3>تنفيذ وكيل RAG</h3>
+<pre><code class="hljs language-python"><span class="hljs-keyword">from</span> langchain.tools.retriever <span class="hljs-keyword">import</span> create_retriever_tool
+
+<span class="hljs-comment"># إنشاء أداة الاسترجاع</span>
+retriever_tool = create_retriever_tool(
+    retriever,
+    <span class="hljs-string">"knowledge_base"</span>,
+    <span class="hljs-string">"البحث في قاعدة معرفة الشركة للحصول على معلومات ذات صلة"</span>
+)
+
+<span class="hljs-comment"># إضافة إلى قائمة الأدوات</span>
+tools = [retriever_tool, get_current_weather, calculate]
+
+<span class="hljs-comment"># إنشاء وكيل مع قدرات RAG</span>
+agent = create_tool_calling_agent(llm, tools, prompt)
+
+agent_executor = AgentExecutor(
+    agent=agent,
+    tools=tools,
+    verbose=<span class="hljs-literal">True</span>,
+    handle_parsing_errors=<span class="hljs-literal">True</span>
+)
+
+<span class="hljs-comment"># الاستعلام عن قاعدة المعرفة</span>
+result = agent_executor.invoke({
+    <span class="hljs-string">"input"</span>: <span class="hljs-string">"ماذا تقول وثائقنا عن حدود معدل API؟"</span>
+})
+</code></pre>
+<h2>ملخص أفضل الممارسات</h2>
+<p>بناء وكلاء ذكاء اصطناعي جاهزين للإنتاج يتطلب الاهتمام بعدة مجالات رئيسية تتجاوز التنفيذ الأساسي. الممارسات التالية ستساعد على ضمان أن وكلاءك موثوقون وقابلون للصيانة وفعالون:</p>
+<table>
+<thead>
+<tr>
+<th>الممارسة</th>
+<th>الوصف</th>
+<th>الفائدة</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>هندسة المطالبات</strong></td>
+<td>صياغة مطالبات واضحة ومحددة مع أمثلة</td>
+<td>تحسين دقة الوكيل</td>
+</tr>
+<tr>
+<td><strong>تصميم الأدوات</strong></td>
+<td>إنشاء أدوات مركزة ذات غرض واحد</td>
+<td>تقليل الأخطاء، تحسين التصحيح</td>
+</tr>
+<tr>
+<td><strong>إدارة الذاكرة</strong></td>
+<td>تحديد نافذة السياق، استخدام التلخيص</td>
+<td>التحكم في التكاليف، تحسين الأداء</td>
+</tr>
+<tr>
+<td><strong>معالجة الأخطاء</strong></td>
+<td>تنفيذ إعادة المحاولة، البدائل، والتسجيل</td>
+<td>ضمان الموثوقية</td>
+</tr>
+<tr>
+<td><strong>الاختبار</strong></td>
+<td>إنشاء مجموعات اختبار شاملة</td>
+<td>اكتشاف المشكلات قبل الإنتاج</td>
+</tr>
+<tr>
+<td><strong>الأمان</strong></td>
+<td>التحقق من المدخلات، تحديد أذونات الأدوات</td>
+<td>منع سوء الاستخدام</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>هل أنت مستعد لبناء وكيل الذكاء الاصطناعي الخاص بك؟</strong></p>
+<p>فريقنا متخصص في تطوير وكلاء ذكاء اصطناعي مخصصين مصممين لاحتياجات عملك. من روبوتات الدردشة البسيطة إلى أنظمة الوكلاء المتعددة المعقدة، نقدم حلولاً تدفع الكفاءة والابتكار.</p>
+<p><a href="/contact">تواصل معنا</a> | <a href="/services?s=ai-agents">خدمات الذكاء الاصطناعي</a></p>
+</blockquote>0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/blog",{"children":["$","$L3",null,{"href":"/blog","prefetch":false,"children":"المدونة"}]}],["$","li","/blog/building-ai-agents-langchain",{"children":["$","span",null,{"aria-current":"page","children":"بناء وكلاء LangChain: الأدوات والتقييم والتشغيل"}]}]]}]}]],["$","article",null,{"className":"page-shell blog-post","children":["$","div",null,{"className":"studio-container blog-reading-container","children":[["$","header",null,{"className":"page-heading","children":[["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":"الذكاء الاصطناعي"}],["$","time",null,{"dateTime":"2026-01-15","children":"15 يناير 2026"}]]}],["$","h1",null,{"children":"بناء وكلاء LangChain: الأدوات والتقييم والتشغيل"}],["$","p",null,{"className":"article-author","children":[["$","$L3",null,{"href":"/about","prefetch":false,"children":"إعداد فريق سمارت تيم"}],[" · ","مراجعة تحريرية",": ",["$","time",null,{"dateTime":"2026-11-02","children":"2 نوفمبر 2026"}]]]}]]}],["$","section",null,{"className":"article-summary","children":[["$","h2",null,{"children":"ما الذي يوضّحه هذا المقال؟"}],["$","p",null,{"children":"يجمع LangChain النماذج والأدوات والبرمجيات الوسيطة لبناء الوكلاء. تعرّف على تحديد المهمة وضبط الوصول واختبار النتائج وتجهيز التشغيل."}]]}],["$","div",null,{"className":"article-featured-image","children":["$","$L4",null,{"src":"/blog/ai_agents_langchain_cover.png","alt":"بناء وكلاء LangChain: الأدوات والتقييم والتشغيل","fill":true,"sizes":"(max-width: 900px) calc(100vw - 40px), 860px","className":"article-cover","loading":"eager","fetchPriority":"high"}]}],["$","div",null,{"className":"reading-content","children":[["$","div","0",{"dangerouslySetInnerHTML":{"__html":"$5"}}]]}],"$L6","$L7","$L8","$L9","$La"]}]}]],["$Lb","$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+6:["$","$Le",null,{}]
+7:["$","section",null,{"className":"article-related","children":[["$","h2",null,{"children":"اقرأ أيضًا"}],["$","ul",null,{"children":[["$","li","ai-agents-business-guide",{"children":["$","$L3",null,{"href":"/blog/ai-agents-business-guide","prefetch":false,"children":"وكلاء الذكاء الاصطناعي للأعمال: ما بعد الأتمتة الأساسية"}]}],["$","li","ai-agents-vs-chatbots-comparison",{"children":["$","$L3",null,{"href":"/blog/ai-agents-vs-chatbots-comparison","prefetch":false,"children":"وكلاء الذكاء الاصطناعي والشات بوت: المهام والأدوات والتحكم"}]}],["$","li","physical-ai-robotics-2026",{"children":["$","$L3",null,{"href":"/blog/physical-ai-robotics-2026","prefetch":false,"children":"الذكاء الاصطناعي المادي: عندما يلتقي الذكاء بالعالم الحقيقي"}]}]]}],["$","$L3",null,{"className":"text-link","href":"/services","prefetch":false,"children":"استكشف الخدمات"}]]}]
+8:["$","$Lf",null,{"publisherId":"ca-pub-2312883254868411"}]
+9:["$","$L10",null,{"publisherId":"ca-pub-2312883254868411","slotId":"8738421671"}]
+a:["$","$L11",null,{}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0f.j-ezqifxhv.css","precedence":"next"}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/0iecrgrfwb1vj.js","async":true}]
+d:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+14:null

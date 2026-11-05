@@ -1,0 +1,107 @@
+1:"$Sreact.fragment"
+3:I[22016,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0x930e0hj6.tc.js"],""]
+4:I[32195,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0x930e0hj6.tc.js"],"ProjectDetail"]
+a:I[97367,["/_next/static/chunks/0~82jkybqn1h8.js","/_next/static/chunks/0a08zi_6aqxfs.js","/_next/static/chunks/07i~.d4axjz_q.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+2:T6c1,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smart.sd/portfolio/sectore-ecommerce#webpage","url":"https://www.smart.sd/portfolio/sectore-ecommerce","name":"منصة سيكتور للتجارة الإلكترونية","description":"تجمع سيكتور موقعًا للتسوق وتطبيق جوال مع تصفح المنتجات وإتمام الطلب ومزامنة المخزون للبيع عبر الإنترنت.","inLanguage":"ar","isPartOf":{"@id":"https://www.smart.sd/#website"},"breadcrumb":{"@id":"https://www.smart.sd/portfolio/sectore-ecommerce#breadcrumb"},"mainEntity":{"@id":"https://www.smart.sd/portfolio/sectore-ecommerce#entity"}},{"@type":"BreadcrumbList","@id":"https://www.smart.sd/portfolio/sectore-ecommerce#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.smart.sd/"},{"@type":"ListItem","position":2,"name":"أعمالنا","item":"https://www.smart.sd/portfolio"},{"@type":"ListItem","position":3,"name":"منصة سيكتور للتجارة الإلكترونية","item":"https://www.smart.sd/portfolio/sectore-ecommerce"}]},{"@id":"https://www.smart.sd/portfolio/sectore-ecommerce#entity","inLanguage":"ar","@type":"CreativeWork","name":"منصة سيكتور للتجارة الإلكترونية","description":"تجمع سيكتور موقعًا للتسوق وتطبيق جوال مع تصفح المنتجات وإتمام الطلب ومزامنة المخزون للبيع عبر الإنترنت.","creator":{"@id":"https://www.smart.sd/#organization"},"dateCreated":"2022-06-07","dateModified":"2026-11-02","genre":"web","image":"https://www.smart.sd/portfolio/sectore-ecommerce.webp"}]}5:T1acb,<h2>Project brief</h2>
+<p>Sectore is an e-commerce project with a shopping website and mobile app. Both customer interfaces connect product browsing and checkout to the store's inventory records. The documented scope focuses on a customizable storefront, the purchase flow and synchronized inventory rather than a fixed hosted-store template.</p>
+<h2>Users and responsibilities</h2>
+<ul>
+<li>Shoppers browse the catalogue, review products and complete an order through the web or mobile interface.</li>
+<li>Store operators maintain product and inventory information used by both channels.</li>
+</ul>
+<p>Using one inventory source matters when the same products appear in more than one customer channel. The operating team needs ownership of catalogue changes and stock corrections so the website and app do not present conflicting information.</p>
+<h2>Delivered scope</h2>
+<ul>
+<li>Customer shopping website.</li>
+<li>Customer mobile app.</li>
+<li>Product-browsing and checkout flow.</li>
+<li>Inventory synchronization between the retail interfaces and store records.</li>
+<li>Customizable storefront presentation.</li>
+</ul>
+<h2>Shopping workflow</h2>
+<p>The customer browses the published catalogue, selects a product and moves through checkout. The resulting order must use the same product and stock identifiers maintained by the store. Inventory updates then need to remain consistent across the website and mobile app so a later customer sees the current availability.</p>
+<h2>Implementation decisions</h2>
+<p>The product model should define variants, prices, stock units and product status before catalogue import. Shipping zones, returns, taxes and fulfilment ownership also need written rules because they affect checkout and order handling. Payment processing requires an eligible merchant account with the chosen provider. Search visibility depends on the published product content, crawlable web pages and technical implementation, not on the platform name alone.</p>
+<h2>Verification and handoff</h2>
+<p>Test an order from product selection through checkout, inventory update and fulfilment handoff. Repeat the check from both customer channels and verify that they use the same price and availability. Also cover unavailable products, failed payments, cancelled orders and returned stock according to the agreed business rules. The handoff should identify who maintains products, inventory, delivery settings and each external integration.</p>
+<h2>Possible next phase</h2>
+<p>A later phase can add integrations or storefront changes after catalogue and inventory ownership are stable. The scope should name each integration, its data source, its failure behaviour and the team responsible for ongoing maintenance.</p>
+<p>See <a href="/services/web-development">web development</a> and our <a href="/blog/smart-ecommerce-vs-shopify-comparison">custom commerce versus Shopify comparison</a>.</p>
+<hr>
+<h2>ملخص المشروع</h2>
+<p>سيكتور مشروع للتجارة الإلكترونية يضم موقعًا للتسوق وتطبيق جوال. تربط واجهتا العميل تصفح المنتجات وإتمام الطلب بسجلات مخزون المتجر. يركز النطاق الموثّق على واجهة قابلة للتخصيص ومسار الشراء ومزامنة المخزون بدل الاعتماد على قالب ثابت لمنصة مستضافة.</p>
+<h2>المستخدمون والمسؤوليات</h2>
+<ul>
+<li>يتصفح المتسوق القائمة ويراجع المنتجات ويتم الطلب عبر الموقع أو التطبيق.</li>
+<li>يدير فريق المتجر بيانات المنتجات والمخزون التي تستخدمها القناتان.</li>
+</ul>
+<p>يمنع مصدر المخزون الواحد تضارب التوفر عندما تظهر المنتجات نفسها في أكثر من قناة. يحتاج فريق التشغيل إلى مسؤول واضح عن تعديلات القائمة وتصحيح المخزون حتى لا يعرض الموقع والتطبيق معلومات مختلفة.</p>
+<h2>النطاق المنفذ</h2>
+<ul>
+<li>موقع للتسوق.</li>
+<li>تطبيق جوال للعملاء.</li>
+<li>مسار لتصفح المنتجات وإتمام الطلب.</li>
+<li>مزامنة للمخزون بين واجهات البيع وسجلات المتجر.</li>
+<li>واجهة متجر قابلة للتخصيص.</li>
+</ul>
+<h2>مسار التسوق</h2>
+<p>يتصفح العميل القائمة المنشورة ويختار المنتج ثم ينتقل إلى إتمام الطلب. يجب أن يستخدم الطلب معرّفات المنتجات والمخزون نفسها التي يديرها المتجر. بعد ذلك تبقى تحديثات المخزون متسقة بين الموقع والتطبيق حتى يرى العميل التالي حالة التوفر الحالية.</p>
+<h2>قرارات التنفيذ</h2>
+<p>ينبغي أن يحدد نموذج المنتج الخيارات والأسعار ووحدات المخزون وحالة النشر قبل استيراد القائمة. تحتاج مناطق الشحن والإرجاع والضرائب ومسؤولية تنفيذ الطلب إلى قواعد مكتوبة لأنها تؤثر في الدفع ومعالجة الطلب. تتطلب المدفوعات حساب تاجر مؤهلًا لدى المزود المختار. يعتمد الظهور في البحث على محتوى المنتجات المنشور وإمكانية زحف صفحات الويب والتنفيذ التقني، ولا يضمنه اسم المنصة وحده.</p>
+<h2>التحقق والتسليم</h2>
+<p>يُختبر الطلب من اختيار المنتج حتى إتمام الدفع وتحديث المخزون وتسليمه إلى فريق التنفيذ. يتكرر الفحص من القناتين مع التأكد من تطابق السعر والتوفر. يجب كذلك تغطية المنتج غير المتاح وفشل الدفع وإلغاء الطلب وإرجاع المخزون وفق قواعد النشاط المتفق عليها. يحدد التسليم المسؤول عن المنتجات والمخزون وإعدادات الشحن وكل تكامل خارجي.</p>
+<h2>مرحلة لاحقة محتملة</h2>
+<p>يمكن لمرحلة لاحقة إضافة تكاملات أو تعديلات في واجهة المتجر بعد استقرار مسؤولية القائمة والمخزون. يجب أن يحدد النطاق مصدر بيانات كل تكامل وسلوكه عند الفشل والفريق المسؤول عن صيانته.</p>
+<p>راجع <a href="/services/web-development">تطوير المواقع</a> و<a href="/blog/smart-ecommerce-vs-shopify-comparison">مقارنة المتجر المخصص مع Shopify</a>.</p>6:Tb5b,<h2>Project brief</h2>
+<p>Sectore is an e-commerce project with a shopping website and mobile app. Both customer interfaces connect product browsing and checkout to the store's inventory records. The documented scope focuses on a customizable storefront, the purchase flow and synchronized inventory rather than a fixed hosted-store template.</p>
+<h2>Users and responsibilities</h2>
+<ul>
+<li>Shoppers browse the catalogue, review products and complete an order through the web or mobile interface.</li>
+<li>Store operators maintain product and inventory information used by both channels.</li>
+</ul>
+<p>Using one inventory source matters when the same products appear in more than one customer channel. The operating team needs ownership of catalogue changes and stock corrections so the website and app do not present conflicting information.</p>
+<h2>Delivered scope</h2>
+<ul>
+<li>Customer shopping website.</li>
+<li>Customer mobile app.</li>
+<li>Product-browsing and checkout flow.</li>
+<li>Inventory synchronization between the retail interfaces and store records.</li>
+<li>Customizable storefront presentation.</li>
+</ul>
+<h2>Shopping workflow</h2>
+<p>The customer browses the published catalogue, selects a product and moves through checkout. The resulting order must use the same product and stock identifiers maintained by the store. Inventory updates then need to remain consistent across the website and mobile app so a later customer sees the current availability.</p>
+<h2>Implementation decisions</h2>
+<p>The product model should define variants, prices, stock units and product status before catalogue import. Shipping zones, returns, taxes and fulfilment ownership also need written rules because they affect checkout and order handling. Payment processing requires an eligible merchant account with the chosen provider. Search visibility depends on the published product content, crawlable web pages and technical implementation, not on the platform name alone.</p>
+<h2>Verification and handoff</h2>
+<p>Test an order from product selection through checkout, inventory update and fulfilment handoff. Repeat the check from both customer channels and verify that they use the same price and availability. Also cover unavailable products, failed payments, cancelled orders and returned stock according to the agreed business rules. The handoff should identify who maintains products, inventory, delivery settings and each external integration.</p>
+<h2>Possible next phase</h2>
+<p>A later phase can add integrations or storefront changes after catalogue and inventory ownership are stable. The scope should name each integration, its data source, its failure behaviour and the team responsible for ongoing maintenance.</p>
+<p>See <a href="/services/web-development">web development</a> and our <a href="/blog/smart-ecommerce-vs-shopify-comparison">custom commerce versus Shopify comparison</a>.</p>7:Tf6a,<h2>ملخص المشروع</h2>
+<p>سيكتور مشروع للتجارة الإلكترونية يضم موقعًا للتسوق وتطبيق جوال. تربط واجهتا العميل تصفح المنتجات وإتمام الطلب بسجلات مخزون المتجر. يركز النطاق الموثّق على واجهة قابلة للتخصيص ومسار الشراء ومزامنة المخزون بدل الاعتماد على قالب ثابت لمنصة مستضافة.</p>
+<h2>المستخدمون والمسؤوليات</h2>
+<ul>
+<li>يتصفح المتسوق القائمة ويراجع المنتجات ويتم الطلب عبر الموقع أو التطبيق.</li>
+<li>يدير فريق المتجر بيانات المنتجات والمخزون التي تستخدمها القناتان.</li>
+</ul>
+<p>يمنع مصدر المخزون الواحد تضارب التوفر عندما تظهر المنتجات نفسها في أكثر من قناة. يحتاج فريق التشغيل إلى مسؤول واضح عن تعديلات القائمة وتصحيح المخزون حتى لا يعرض الموقع والتطبيق معلومات مختلفة.</p>
+<h2>النطاق المنفذ</h2>
+<ul>
+<li>موقع للتسوق.</li>
+<li>تطبيق جوال للعملاء.</li>
+<li>مسار لتصفح المنتجات وإتمام الطلب.</li>
+<li>مزامنة للمخزون بين واجهات البيع وسجلات المتجر.</li>
+<li>واجهة متجر قابلة للتخصيص.</li>
+</ul>
+<h2>مسار التسوق</h2>
+<p>يتصفح العميل القائمة المنشورة ويختار المنتج ثم ينتقل إلى إتمام الطلب. يجب أن يستخدم الطلب معرّفات المنتجات والمخزون نفسها التي يديرها المتجر. بعد ذلك تبقى تحديثات المخزون متسقة بين الموقع والتطبيق حتى يرى العميل التالي حالة التوفر الحالية.</p>
+<h2>قرارات التنفيذ</h2>
+<p>ينبغي أن يحدد نموذج المنتج الخيارات والأسعار ووحدات المخزون وحالة النشر قبل استيراد القائمة. تحتاج مناطق الشحن والإرجاع والضرائب ومسؤولية تنفيذ الطلب إلى قواعد مكتوبة لأنها تؤثر في الدفع ومعالجة الطلب. تتطلب المدفوعات حساب تاجر مؤهلًا لدى المزود المختار. يعتمد الظهور في البحث على محتوى المنتجات المنشور وإمكانية زحف صفحات الويب والتنفيذ التقني، ولا يضمنه اسم المنصة وحده.</p>
+<h2>التحقق والتسليم</h2>
+<p>يُختبر الطلب من اختيار المنتج حتى إتمام الدفع وتحديث المخزون وتسليمه إلى فريق التنفيذ. يتكرر الفحص من القناتين مع التأكد من تطابق السعر والتوفر. يجب كذلك تغطية المنتج غير المتاح وفشل الدفع وإلغاء الطلب وإرجاع المخزون وفق قواعد النشاط المتفق عليها. يحدد التسليم المسؤول عن المنتجات والمخزون وإعدادات الشحن وكل تكامل خارجي.</p>
+<h2>مرحلة لاحقة محتملة</h2>
+<p>يمكن لمرحلة لاحقة إضافة تكاملات أو تعديلات في واجهة المتجر بعد استقرار مسؤولية القائمة والمخزون. يجب أن يحدد النطاق مصدر بيانات كل تكامل وسلوكه عند الفشل والفريق المسؤول عن صيانته.</p>
+<p>راجع <a href="/services/web-development">تطوير المواقع</a> و<a href="/blog/smart-ecommerce-vs-shopify-comparison">مقارنة المتجر المخصص مع Shopify</a>.</p>0:{"rsc":["$","$1","c",{"children":[[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","nav",null,{"className":"studio-container page-breadcrumbs","aria-label":"مسار الصفحة","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L3",null,{"href":"/","prefetch":false,"children":"الرئيسية"}]}],["$","li","/portfolio",{"children":["$","$L3",null,{"href":"/portfolio","prefetch":false,"children":"أعمالنا"}]}],["$","li","/portfolio/sectore-ecommerce",{"children":["$","span",null,{"aria-current":"page","children":"منصة سيكتور للتجارة الإلكترونية"}]}]]}]}]],["$","$L4",null,{"project":{"slug":"sectore-ecommerce","contentHtml":"$5","contentHtmlEn":"$6","contentHtmlAr":"$7","title":"Sectore E-commerce Platform","titleAr":"منصة سيكتور للتجارة الإلكترونية","category":"web","categoryAr":"مواقع ويب","client":"Smart Sales","date":"2022-06-07","url":"https://www.smart.sd","image":"/portfolio/sectore-ecommerce.webp","images":["/portfolio/sectore-ecommerce.webp"],"description":"Sectore combines a shopping website and mobile app with product browsing, checkout and synchronized inventory for online retail.","descriptionAr":"تجمع سيكتور موقعًا للتسوق وتطبيق جوال مع تصفح المنتجات وإتمام الطلب ومزامنة المخزون للبيع عبر الإنترنت.","lastModified":"2026-11-02"}}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W4pMMQcotTdhPwZrO_qkO"}
+8:["$","script","script-0",{"src":"/_next/static/chunks/0x930e0hj6.tc.js","async":true}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null
